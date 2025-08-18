@@ -1,0 +1,4 @@
+# Replace this with entries from your AdSense account once approved.
+# Example:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+

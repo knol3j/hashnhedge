@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" role="img" aria-label="Hash & Hedge outline">
+  <rect width="320" height="80" rx="12" fill="#ffffff" stroke="#111827"/>
+  <text x="24" y="52" font-family="'Inter', system-ui" font-size="36" font-weight="600" fill="#111827">Hash &amp; Hedge</text>
+  <circle cx="280" cy="40" r="8" fill="#10b981"/>
+  <rect x="256" y="36" width="18" height="8" rx="4" fill="#111827"/>
+</svg>
+

@@ -1,0 +1,36 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} — {{ site.Title }}{{ end }}</title>
+<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.tagline }}{{ end }}" />
+<link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}index.xml" title="RSS" />
+{{ with .Permalink }}<link rel="canonical" href="{{ . }}" />{{ end }}
+
+{{/* JSON-LD: Organization and WebSite */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Hash & Hedge",
+  "url": "https://hashnhedge.com/",
+  "logo": "https://hashnhedge.com/logo.svg"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Hash & Hedge",
+  "url": "https://hashnhedge.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://hashnhedge.com/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+{{/* AdSense is loaded conditionally by consent.js when consent is given. If consent_mode is disabled, we load immediately here. */}}
+{{ if and (site.Params.adsense_enabled) (site.Params.adsense_publisher_id) (not site.Params.consent_mode) }}
+script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.Params.adsense_publisher_id }}" crossorigin="anonymous"ec/scripte
+{{ end }}
+

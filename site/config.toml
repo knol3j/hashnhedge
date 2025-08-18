@@ -1,0 +1,40 @@
+baseURL = "https://hashnhedge.com/"
+title = "Hash & Hedge"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+[pagination]
+  pagerSize = 12
+enableRobotsTXT = true
+
+[params]
+  tagline = "life in the grey makes you appreciate color in everything."
+  author = "Hash & Hedge Newsroom"
+  adsense_enabled = true
+  # set your AdSense publisher ID when approved, example: ca-pub-1234567890
+  adsense_publisher_id = "ca-pub-4626165154390205"
+  consent_mode = true
+  show_dark_mode_toggle = true
+
+[permalinks]
+  posts = "/posts/:year/:month/:slug/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+
+[services]
+  [services.googleAnalytics]
+    id = "" # optional
+

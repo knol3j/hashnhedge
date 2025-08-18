@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node/Hugo caches
+site/resources/
+public/
+.cache/
+
+# Python
+.env
+.venv/
+__pycache__/
+.pipeline_cache/
+
+# Models and data
+pipeline/models/
+pipeline/.cache/
+
+# Editor
+.vscode/
+.idea/
+

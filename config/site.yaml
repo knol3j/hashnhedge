@@ -1,0 +1,48 @@
+site:
+  name: Hash n Hedge
+  tagline: Daily AI, fintech, and markets briefs
+  url: https://example.com
+  language: en
+  timezone: UTC
+  author:
+    name: Hash n Hedge Editorial
+    email: editorial@example.com
+seo:
+  default_title_suffix: " - Hash n Hedge"
+  meta_description: Daily, concise news briefs on AI, fintech, and markets with original insights and curated sources.
+  twitter_handle: "@hashnhedge"
+  open_graph:
+    type: website
+    image: /assets/og-default.jpg
+    locale: en_US
+  schema:
+    organization:
+      name: Hash n Hedge
+      url: https://example.com
+      logo: /assets/logo.png
+categories:
+  - Policy
+  - Earnings
+  - M&A
+  - Product Launches
+  - Research
+  - Markets
+publishing:
+  cadence:
+    briefs_per_day: 2
+    evergreen_per_week: 1
+  ads:
+    enabled: true
+    provider: adsense
+    placements:
+      - header
+      - in-article
+      - footer
+integrations:
+  analytics:
+    ga4_measurement_id: "G-XXXXXXXXXX"
+  search_console:
+    property: https://example.com
+  sitemap: true
+  robots: true
+

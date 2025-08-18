@@ -1,0 +1,20 @@
+crypto:
+  - https://www.coindesk.com/arc/outboundfeeds/rss/
+  - https://cointelegraph.com/rss
+  - https://www.sec.gov/news/pressreleases.rss
+  - https://www.sec.gov/news/speeches.rss
+  - https://www.cftc.gov/rss.xml
+finance:
+  - https://www.reuters.com/finance/rss
+  - https://feeds.bloomberg.com/markets/news.rss
+  - https://www.federalreserve.gov/feeds/press_all.xml
+security:
+  - https://krebsonsecurity.com/feed/
+  - https://feeds.feedburner.com/TheHackersNews
+  - https://www.bleepingcomputer.com/feed/
+  - https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml
+culture:
+  - https://www.wired.com/feed/rss
+
+# You can comment out any sources you don’t want.
+
