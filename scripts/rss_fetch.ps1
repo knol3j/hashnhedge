@@ -7,9 +7,10 @@ param(
 # Simple RSS/Atom fetcher using PowerShell's Invoke-WebRequest and XML parsing
 $all = @()
 $feeds = Get-Content -Path $FeedsFile | Where-Object { $_ -and -not $_.StartsWith('#') }
+$headers = @{ 'User-Agent' = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36' }
 foreach ($url in $feeds) {
   try {
-    $resp = Invoke-WebRequest -UseBasicParsing -Uri $url -TimeoutSec 20
+    $resp = Invoke-WebRequest -UseBasicParsing -Headers $headers -Uri $url -TimeoutSec 25
     [xml]$xml = $resp.Content
     $items = @()
     if ($xml.rss) { # RSS 2.0

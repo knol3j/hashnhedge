@@ -1,7 +1,9 @@
 # Initial curated RSS/Atom sources for daily briefs
 https://news.ycombinator.com/rss
 https://www.theverge.com/rss/index.xml
-https://www.reuters.com/technology/rss
+# Reuters tech feed is flaky; leaving commented for now
+# https://www.reuters.com/technology/rss
+https://feeds.feedburner.com/TechCrunch/
 https://feeds.a.dj.com/rss/RSSMarketsMain.xml
 https://feeds.arstechnica.com/arstechnica/technology-lab
 https://cointelegraph.com/rss
@@ -9,7 +11,7 @@ https://cryptoslate.com/feed/
 https://www.ft.com/technology?format=rss
 https://www.cnbc.com/id/10000664/device/rss/rss.html
 https://about.fb.com/news/feed/
-https://ec.europa.eu/newsroom/spp/rss?type=news
+https://ec.europa.eu/commission/presscorner/sitemap.xml
 https://openai.com/blog/rss.xml
 https://meta.com/newsroom/feed/
 https://aws.amazon.com/blogs/aws/feed/
@@ -18,4 +20,4 @@ https://cloudblog.withgoogle.com/rss/
 https://www.federalreserve.gov/feeds/press_all.xml
 https://www.sec.gov/news/pressreleases.rss
 https://www.ftc.gov/feed/pressreleases/202301
-https://www.whitehouse.gov/feed/press/
+https://www.whitehouse.gov/briefing-room/feed/

@@ -1,0 +1,21 @@
+{{- /* Minimal JSON index for home to satisfy Hugo's JSON output */ -}}
+{
+  "title": {{ printf "%q" .Site.Title }},
+  "description": {{ printf "%q" .Site.Params.tagline }},
+  "baseURL": {{ printf "%q" .Site.BaseURL }},
+  "updated": {{ printf "%q" (now.Format "2006-01-02T15:04:05Z07:00") }},
+  "posts": [
+    {{- $pages := first 20 (where .Site.RegularPages "Section" "posts") -}}
+    {{- range $i, $p := $pages -}}
+    {{- if gt $i 0 }},{{ end -}}
+    {
+      "title": {{ printf "%q" $p.Title }},
+      "permalink": {{ printf "%q" $p.Permalink }},
+      "date": {{ printf "%q" ($p.Date.Format "2006-01-02T15:04:05Z07:00") }},
+      "summary": {{ printf "%q" (cond (isset $p.Params "summary") $p.Params.summary $p.Summary) }},
+      "sources": {{- if isset $p.Params "source_urls" -}}{{- $p.Params.source_urls | jsonify -}}{{- else -}}[]{{- end -}}
+    }
+    {{- end }}
+  ]
+}
+

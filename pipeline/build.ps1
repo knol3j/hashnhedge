@@ -1,5 +1,6 @@
 param(
-  [switch]$SkipSummarize
+  [switch]$SkipSummarize,
+  [switch]$Drafts
 )
 
 $ErrorActionPreference = 'Stop'
@@ -43,7 +44,9 @@ Get-ChildItem -Path (Join-Path $briefsDir $today.ToString('yyyy-MM-dd')) -Filter
 
 # Build the site
 Write-Host "[4/4] Building site with Hugo..."
-& $hugoExe --gc --minify -s $site -d (Join-Path $root 'public')
+$hugoArgs = @('--gc','--minify','-s', $site, '-d', (Join-Path $root 'public'))
+if ($Drafts) { $hugoArgs = @('-D') + $hugoArgs }
+ $hugoExe @hugoArgs
 if ($LASTEXITCODE -ne 0) { throw "Hugo build failed with code $LASTEXITCODE" }
 
 Write-Host "Done. Output at: " (Join-Path $root 'public')
