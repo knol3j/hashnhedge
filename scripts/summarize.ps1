@@ -6,6 +6,7 @@ param(
 # Requires a running local model via Ollama (e.g., llama3.1:8b or qwen2.5:7b)
 # Install: https://ollama.com/ (then `ollama pull llama3.1:8b`)
 
+if ([string]::IsNullOrWhiteSpace($Input)) { $Input = "C:\\Users\\gnul\\hashnhedge\\data\\latest.json" }
 if (-not (Test-Path $OutDir)) { New-Item -ItemType Directory -Path $OutDir | Out-Null }
 
 if (-not (Test-Path $Input)) { Write-Warning "Input JSON not found at $Input. Skipping summarization."; return }
@@ -65,7 +66,7 @@ SOURCE SNIPPET: $($item.description)
   if (-not $ready) { Write-Warning "Ollama server not ready. Skipping '$title'"; continue }
 
   try {
-    $resp =  $oll run llama3.1:8b $prompt 2$null
+    $resp = & $oll run llama3.1:8b $prompt 2>$null
   } catch {
     Write-Warning "Ollama run failed or model missing. Skipping '$title'"
     continue
