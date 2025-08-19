@@ -24,8 +24,11 @@ jobs:
           extended: true
 
       - name: Build
+        env:
+          GITHUB_WORKSPACE: ${{ github.workspace }}
         run: |
-          hugo --gc --minify -s site -d public
+          hugo --gc --minify -s site -d "$GITHUB_WORKSPACE/public"
+          test -d "$GITHUB_WORKSPACE/public" && echo "Public dir exists" || (echo "Public dir missing" && ls -la && exit 1)
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
