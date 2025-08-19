@@ -9,7 +9,7 @@ enableRobotsTXT = true
 
 [params]
   tagline = "life in the grey makes you appreciate color in everything."
-  author = "Hash 6 Hedge Newsroom"
+author = "Hash & Hedge Newsroom"
   adsense_enabled = true
   # set your AdSense publisher ID when approved, example: ca-pub-1234567890
   adsense_publisher_id = "ca-pub-4626165154390205"
