@@ -39,3 +39,7 @@ author = "Hash & Hedge Newsroom"
   [services.googleAnalytics]
     id = "G-4BD4Z2JKW3"
 
+# Also expose GA4 ID to templates via params for compatibility
+[params.ga4]
+  id = "G-4BD4Z2JKW3"
+

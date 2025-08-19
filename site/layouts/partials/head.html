@@ -40,12 +40,13 @@
 </script>
 
 {{/* Google Tag (GA4) */}}
-{{ with site.Services.GoogleAnalytics.ID }}
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
-  <script>
+{{ $ga4 := .Site.Params.ga4.id }}
+{{ with $ga4 }}
+  cscript async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"ec/scripte
+  cscripte
     gtag('js', new Date());
     gtag('config', '{{ . }}', { 'anonymize_ip': true });
-  </script>
+  c/scripte
 {{ end }}
 
 {{/* Consent banner logic to gate AdSense loading lives in /js/consent.js */}}
