@@ -1,0 +1,15 @@
+{{ $client := site.Params.adsense_publisher_id }}
+{{ $slot := .Get "slot" | default (site.Params.adsense_inarticle_slot_id) }}
+{{ if and $client $slot }}
+<div class="hh-inarticle-ad" style="margin:1.5rem 0;">
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="{{ $client }}"
+       data-ad-slot="{{ $slot }}"></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+{{ end }}

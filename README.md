@@ -4,7 +4,7 @@
 
 Niche: Crypto, finance, and security (hacking/pentesting) through the lens of culture and craft. Concise, thoughtful stories.
 
-- Tech stack: Hugo (static), Cloudflare Pages + Cloudflare DNS, Cloudflare Web Analytics
+- Tech stack: Hugo (static), GitHub Pages + Porkbun DNS, Google Analytics 4
 - Content: Daily AI-assisted news briefs + periodic explainers
 - Monetization: Google AdSense (auto + in-article); ads.txt included
 - Automation: Local AI (Windows) + scheduled job to generate Markdown posts and push to GitHub
@@ -23,7 +23,7 @@ Niche: Crypto, finance, and security (hacking/pentesting) through the lens of cu
 2) Preview: `hugo server -s site` (or via VS Code task).
 3) Build: `hugo --gc --minify -s site -d public`.
 
-Deployment is via Cloudflare Pages connected to this repo’s `site` directory.
+Deployment is via GitHub Pages using the workflow in `.github/workflows/site.yml`.
 
 ## Branding
 - Title: Hash & Hedge

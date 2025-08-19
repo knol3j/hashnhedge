@@ -1,36 +1,57 @@
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} — {{ site.Title }}{{ end }}</title>
-<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.tagline }}{{ end }}" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/css/hnh.css">
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}index.xml" title="RSS" />
 {{ with .Permalink }}<link rel="canonical" href="{{ . }}" />{{ end }}
 
-{{/* JSON-LD: Organization and WebSite */}}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Hash & Hedge",
-  "url": "https://hashnhedge.com/",
-  "logo": "https://hashnhedge.com/logo.svg"
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "Hash & Hedge",
-  "url": "https://hashnhedge.com/",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://hashnhedge.com/?q={search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
-}
-</script>
-
-{{/* AdSense is loaded conditionally by consent.js when consent is given. If consent_mode is disabled, we load immediately here. */}}
-{{ if and (site.Params.adsense_enabled) (site.Params.adsense_publisher_id) (not site.Params.consent_mode) }}
-script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.Params.adsense_publisher_id }}" crossorigin="anonymous"ec/scripte
+{{/* AdSense site verification (optional but recommended) */}}
+{{ with .Site.Params.adsense_publisher_id }}
+  <meta name="google-adsense-account" content="{{ . }}">
 {{ end }}
 
+{{/* Google Consent Mode v2 defaults: deny in EEA/UK/CH, grant elsewhere */}}
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'functionality_storage': 'denied',
+    'personalization_storage': 'denied',
+    'security_storage': 'granted',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied'
+  });
+  gtag('set', 'url_passthrough', true);
+</script>
+<script>
+  // Region-specific default for EEA/UK/CH
+  gtag('consent', 'default', {
+    'region': ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','IS','LI','NO','GB','CH'],
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'functionality_storage': 'denied',
+    'personalization_storage': 'denied',
+    'security_storage': 'granted',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied'
+  });
+</script>
+
+{{/* Google Tag (GA4) */}}
+{{ with site.Services.GoogleAnalytics.ID }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+  <script>
+    gtag('js', new Date());
+    gtag('config', '{{ . }}', { 'anonymize_ip': true });
+  </script>
+{{ end }}
+
+{{/* Consent banner logic to gate AdSense loading lives in /js/consent.js */}}
+<script src="/js/consent.js" defer></script>
+
+{{/* Optional: Google Funding Choices (CMP) snippet can be added via params.funding_choices_snippet */}}
+{{ with .Site.Params.funding_choices_snippet }}
+  {{ . | safeHTML }}
+{{ end }}

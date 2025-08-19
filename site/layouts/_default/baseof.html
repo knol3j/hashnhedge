@@ -1,16 +1,22 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  {{ partial "head.html" . }}
+  <head>
+    {{ partial "head.html" . }}
 </head>
-<body class="min-h-screen bg-white text-gray-900">
-  {{ partial "header.html" . }}
-  {{ partial "consent.html" . }}
-  cmain id="content" class="container mx-auto px-4 py-8"e
-    {{ block "main" . }}{{ end }}
-  c/maine
-  {{ partial "footer.html" . }}
-  cscript src="/js/consent.js"ec/scripte
-c/bodye
-c/htmle
+  <body>
+    {{ partial "consent.html" . }}
+    <header class="site">
+      <div class="container">
+        <h1><a href="/">{{ .Site.Title }}</a></h1>
+        {{ with .Site.Params.tagline }}<div class="post-meta">{{ . }}</div>{{ end }}
+      </div>
+    </header>
+    <main class="container">
+      {{ block "main" . }}{{ .Content }}{{ end }}
+    </main>
+    <footer class="site">
+      <div class="container">© {{ now.Year }} {{ .Site.Title }}</div>
+    </footer>
+  </body>
+</html>
 
