@@ -1,0 +1,14 @@
+/* Custom site tweaks over theme */
+:root {
+  --hh-accent: #22c55e;
+}
+
+img { max-width: 100%; height: auto; }
+
+.card img { border-radius: 8px; }
+
+.hh-inarticle-ad { margin: 1.5rem 0; }
+
+/* Improve typography spacing */
+main.container, .prose { line-height: 1.7; }
+

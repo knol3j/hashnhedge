@@ -5,6 +5,51 @@
 <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}index.xml" title="RSS" />
 {{ with .Permalink }}<link rel="canonical" href="{{ . }}" />{{ end }}
 
+{{/* SEO: description, Open Graph, Twitter */}}
+{{ $desc := .Params.description }}
+{{ if not $desc }}{{ $desc = cond .IsHome .Site.Params.tagline (.Summary | plainify | truncate 160) }}{{ end }}
+<meta name="description" content="{{ $desc }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+{{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta name="twitter:description" content="{{ $desc }}">
+{{ with .Params.image }}<meta name="twitter:image" content="{{ . | absURL }}">{{ end }}
+<meta name="theme-color" content="#111111">
+
+{{/* Resource hints for GA/Ads to reduce connection latency (safe with consent gating) */}}
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+<link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+
+{{/* JSON-LD: Organization and WebSite */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ "/logo.svg" | absURL }}"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
 {{/* AdSense site verification (optional but recommended) */}}
 {{ with .Site.Params.adsense_publisher_id }}
   <meta name="google-adsense-account" content="{{ . }}">
@@ -51,6 +96,9 @@
 
 {{/* Consent banner logic to gate AdSense loading lives in /js/consent.js */}}
 <script src="/js/consent.js" defer></script>
+
+{{/* Custom site CSS overrides (safe to keep with any theme) */}}
+<link rel="stylesheet" href="/css/custom.css">
 
 {{/* Optional: Google Funding Choices (CMP) snippet can be added via params.funding_choices_snippet */}}
 {{ with .Site.Params.funding_choices_snippet }}

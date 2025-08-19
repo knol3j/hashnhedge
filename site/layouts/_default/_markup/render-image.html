@@ -1,0 +1,2 @@
+{{- /* Ensure content images are lazy-loaded and async decoded */ -}}
+<img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
