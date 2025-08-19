@@ -2,6 +2,7 @@ baseURL = "https://hashnhedge.com/"
 title = "Hash & Hedge"
 languageCode = "en-us"
 defaultContentLanguage = "en"
+theme = "hugo-narrow"
 
 [pagination]
   pagerSize = 12
@@ -16,6 +17,11 @@ author = "Hash & Hedge Newsroom"
   adsense_inarticle_slot_id = "5837847046"
   consent_mode = true
   show_dark_mode_toggle = true
+
+  [params.category_defaults]
+    security = "/logo.svg"
+    finance = "/logo.svg"
+    crypto = "/logo.svg"
 
 [permalinks]
   posts = "/posts/:year/:month/:slug/"

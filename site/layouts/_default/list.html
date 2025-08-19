@@ -1,17 +1,36 @@
 {{ define "main" }}
-<h1 class="text-3xl font-semibold mb-6">{{ .Title }}</h1>
-{{ if .Content }}<div class="prose mb-8">{{ .Content }}</div>{{ end }}
-<ul class="space-y-6">
-  {{ range .Paginator.Pages }}
-  <li>
-    <a href="{{ .RelPermalink }}" class="block">
-      <h2 class="text-2xl font-semibold">{{ .Title }}</h2>
-      <p class="text-gray-600">{{ with .Params.description }}{{ . }}{{ else }}{{ with .Params.summary }}{{ . }}{{ else }}{{ .Summary }}{{ end }}{{ end }}</p>
-      <p class="text-sm text-gray-500">{{ .Date.Format "Jan 2, 2006" }} • {{ .ReadingTime }} min read</p>
-    </a>
-  </li>
-  {{ end }}
-</ul>
-{{ template "_internal/pagination.html" . }}
+  <h1 class="text-3xl font-semibold mb-6">{{ .Title }}</h1>
+  {{ if .Content }}<div class="prose mb-8">{{ .Content }}</div>{{ end }}
+
+  <div class="grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:24px;">
+    {{ range .Paginator.Pages }}
+    <article class="card" style="border:1px solid #e5e7eb;border-radius:12px;overflow:hidden;background:#fff;">
+      {{ $img := .Params.image }}
+      {{ if not $img }}
+        {{ $cat := index .Params "category" | default (index .Params "categories") }}
+        {{ if $cat }}
+          {{ $lookup := site.Params.category_defaults }}
+          {{ if $lookup }}
+            {{ $key := (cond (reflect.IsSlice $cat) (lower (delimit $cat "-")) (lower $cat)) }}
+            {{ $def := index $lookup $key }}
+            {{ if $def }}{{ $img = $def }}{{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      {{ with $img }}
+        <a href="{{ $.RelPermalink }}" aria-label="{{ $.Title }}">
+          <img src="{{ . | absURL }}" alt="" loading="lazy" decoding="async" style="width:100%;height:180px;object-fit:cover;" />
+        </a>
+      {{ end }}
+      <div style="padding:16px;">
+        <h2 style="font-size:1.125rem;line-height:1.4;margin:0 0 6px 0;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <div style="color:#6b7280;font-size:0.875rem;margin-bottom:8px;">{{ .Date.Format "Jan 2, 2006" }}{{ with .Params.category }} • {{ . }}{{ end }}</div>
+        {{ with .Summary }}<p style="margin:0;color:#374151;">{{ . }}</p>{{ end }}
+      </div>
+    </article>
+    {{ end }}
+  </div>
+
+  {{ template "_internal/pagination.html" . }}
 {{ end }}
 
