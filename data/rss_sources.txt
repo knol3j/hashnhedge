@@ -11,13 +11,106 @@ https://cryptoslate.com/feed/
 https://www.ft.com/technology?format=rss
 https://www.cnbc.com/id/10000664/device/rss/rss.html
 https://about.fb.com/news/feed/
-https://www.europarl.europa.eu/news/en/rss.xml
+# noisy/blocked: 404
+# https://www.europarl.europa.eu/news/en/rss.xml
 https://openai.com/blog/rss.xml
-https://meta.com/newsroom/feed/
+# noisy/blocked: intermittent connection closure
+# https://meta.com/newsroom/feed/
 https://aws.amazon.com/blogs/aws/feed/
 https://azure.microsoft.com/en-us/blog/feed/
 https://cloudblog.withgoogle.com/rss/
 https://www.federalreserve.gov/feeds/press_all.xml
 https://www.sec.gov/news/pressreleases.rss
-https://www.ftc.gov/feed/pressreleases/202301
-https://www.gov.uk/government/announcements.atom
+# noisy/blocked: 404 path
+# https://www.ftc.gov/feed/pressreleases/202301
+# noisy/blocked: 404
+# https://www.gov.uk/government/announcements.atom
+
+# Expanded set
+# noisy/blocked: 308 permanent redirect
+# https://www.coindesk.com/arc/outboundfeeds/rss/
+https://decrypt.co/feed
+https://messari.substack.com/feed
+https://blog.chainalysis.com/rss/
+# noisy/blocked: Cloudflare JS challenge
+# https://blog.coinbase.com/feed
+https://blog.kraken.com/feed/
+# noisy/blocked: not an RSS endpoint
+# https://www.gemini.com/blog/rss
+https://blog.binance.com/en/feed
+https://blog.bitmex.com/feed/
+https://insights.glassnode.com/rss/
+https://blog.ethereum.org/en/rss
+https://vitalik.ca/feed.xml
+https://a16z.com/future/feed/
+https://www.reuters.com/finance/us/feed
+https://feeds.reuters.com/reuters/businessNews
+https://feeds.reuters.com/reuters/marketsNews
+https://feeds.reuters.com/reuters/technologyNews
+https://apnews.com/hub/apf-business?utm_source=rss&utm_medium=rss&utm_campaign=apf-business
+https://feeds.marketwatch.com/marketwatch/topstories/
+https://www.cnbc.com/id/100003114/device/rss/rss.html
+https://www.businessinsider.com/rss
+https://home.treasury.gov/news/press-releases/feed
+https://www.sec.gov/news/speeches.rss
+https://www.cftc.gov/PressRoom/PressReleases/rss.xml
+https://www.ecb.europa.eu/press/press.xml
+https://www.bis.org/list/press_releases.rss
+https://www.imf.org/-/media/Feed/NewsRss.ashx
+https://www.bankofcanada.ca/feeds/press/
+https://krebsonsecurity.com/feed/
+https://www.schneier.com/blog/atom.xml
+https://feeds.arstechnica.com/arstechnica/security
+https://www.bleepingcomputer.com/feed/
+https://thehackernews.com/feeds/posts/default?alt=rss
+https://www.darkreading.com/rss.xml
+https://blog.cloudflare.com/rss/
+https://security.googleblog.com/feeds/posts/default
+https://msrc.microsoft.com/update-guide/rss
+https://www.cisa.gov/news.xml
+https://www.cisa.gov/cybersecurity-advisories/all.xml
+https://aws.amazon.com/blogs/architecture/feed/
+https://azurecomcdn.azureedge.net/en-us/updates/feed
+https://cloud.google.com/blog/rss
+https://vercel.com/atom
+https://www.netlify.com/blog/feed.xml
+https://fly.io/blog/index.xml
+https://www.digitalocean.com/blog/rss.xml
+https://github.blog/feed/
+https://about.gitlab.com/atom.xml
+https://www.linuxfoundation.org/blog/feed/
+https://kubernetes.io/feed.xml
+https://www.cncf.io/blog/feed/
+https://www.docker.com/blog/feed/
+https://www.hashicorp.com/blog/feed.xml
+https://openai.com/blog.rss
+https://ai.googleblog.com/atom.xml
+https://ai.facebook.com/blog/rss/
+https://huggingface.co/blog/feed.xml
+https://developer.nvidia.com/blog/feed/
+https://machinelearning.apple.com/feed.xml
+https://www.microsoft.com/en-us/research/feed/
+https://feeds.arstechnica.com/arstechnica/index
+https://www.theregister.com/headlines.atom
+https://hnrss.org/frontpage
+https://www.techmeme.com/feed.xml
+https://a16z.com/feed/
+https://www.circle.com/blog/rss.xml
+https://unchainedcrypto.com/feed/
+https://blog.coinmetrics.io/feed/
+https://www.oklink.com/academy/en/feed
+https://www.bitstamp.net/blog/rss/
+https://www.galaxy.com/insights/rss.xml
+https://www.chainsecurity.com/feed/
+https://www.ledger.com/blog/feed
+https://www.trustnodes.com/feed
+https://bitcoinmagazine.com/.rss/full/
+https://www.nasdaq.com/feed/rssoutbound
+https://www.ft.com/rss/home/us?edition=us
+https://fortune.com/feed
+https://blogs.microsoft.com/feed/
+https://blog.google/technology/feed/
+https://engineering.fb.com/feed/
+https://cloud.google.com/architecture/rss
+https://aws.amazon.com/blogs/opensource/feed/
+https://opensource.googleblog.com/atom.xml

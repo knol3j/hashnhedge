@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Hash & Hedge logo">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="url(#g)"/>
+  <g fill="#fff">
+    <path d="M18 22h28v4H18zM18 38h28v4H18z"/>
+    <circle cx="24" cy="32" r="3"/>
+    <circle cx="40" cy="28" r="3"/>
+  </g>
+</svg>
+

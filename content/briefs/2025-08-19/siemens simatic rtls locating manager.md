@@ -1,0 +1,14 @@
+﻿---
+title: "Siemens SIMATIC RTLS Locating Manager"
+date: "2025-08-19T18:32:01"
+category: "Markets"
+summary: ""
+slug: "siemens simatic rtls locating manager"
+source_urls:
+  - "https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-01"
+seo:
+  title: "Siemens SIMATIC RTLS Locating Manager | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+**Headline**: Siemens SIMATIC RTLS Locating Manager Vulnerabilities Exposed  **Summary Meta Description**: A security advisory from CISA warns users about vulnerabilities in the Siemens SIMATIC RTLS Locating Manager, which could allow an attacker to cause a denial of service condition or escalate access rights.  **Key Points:**  * **Vulnerabilities:** Reachable Assertion (CVE-2025-30034) and Insufficiently Protected Credentials (CVE-2025-40751) * **Affected Product:** Siemens SIMATIC RTLS Locating Manager, all versions prior to 3.3 * **Risk Evaluation:** Successful exploitation could lead to a denial of service condition or escalation to higher access rights  **Short Takeaways:**  1. Users are advised to update the SIMATIC RTLS Locating Manager to version 3.3 or later to mitigate the vulnerabilities. 2. CISA recommends that organizations take defensive measures, such as minimizing network exposure and using firewalls, to minimize the risk of exploitation.  **Sources:**  https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-01  The Siemens SIMATIC RTLS Locating Manager vulnerabilities highlight the importance of regular software updates and proper network security measures. 

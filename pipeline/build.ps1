@@ -11,7 +11,14 @@ $dataDir = Join-Path $root 'data'
 $scripts = Join-Path $root 'scripts'
 $outJson = Join-Path $dataDir 'latest.json'
 $briefsDir = Join-Path $root 'content\briefs'
-$hugoExe = "C:\Users\gnul\AppData\Local\Microsoft\WinGet\Packages\Hugo.Hugo_Microsoft.Winget.Source_8wekyb3d8bbwe\hugo.exe"
+
+# Resolve Hugo dynamically from PATH for portability
+try {
+  $hugoExe = (Get-Command hugo.exe -ErrorAction Stop).Source
+} catch {
+  Write-Error "Hugo is not installed or not in PATH. Install 'Hugo (extended)' and ensure 'hugo.exe' is available."
+  exit 1
+}
 
 Write-Host "[1/4] Fetching RSS feeds..."
 & powershell -NoProfile -File (Join-Path $scripts 'rss_fetch.ps1') -OutFile $outJson -PerFeed 8

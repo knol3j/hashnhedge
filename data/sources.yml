@@ -1,20 +1,157 @@
-crypto:
-  - https://www.coindesk.com/arc/outboundfeeds/rss/
-  - https://cointelegraph.com/rss
-  - https://www.sec.gov/news/pressreleases.rss
-  - https://www.sec.gov/news/speeches.rss
-  - https://www.cftc.gov/rss.xml
-finance:
-  - https://www.reuters.com/finance/rss
-  - https://feeds.bloomberg.com/markets/news.rss
-  - https://www.federalreserve.gov/feeds/press_all.xml
-security:
-  - https://krebsonsecurity.com/feed/
-  - https://feeds.feedburner.com/TheHackersNews
-  - https://www.bleepingcomputer.com/feed/
-  - https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml
-culture:
-  - https://www.wired.com/feed/rss
-
+# Categorized RSS/Atom sources for pipeline consumption
 # You can comment out any sources you don’t want.
+
+crypto:
+  - name: CoinDesk
+    url: https://www.coindesk.com/arc/outboundfeeds/rss/
+  - name: CoinTelegraph
+    url: https://cointelegraph.com/rss
+  - name: Decrypt
+    url: https://decrypt.co/feed
+  - name: Glassnode Insights
+    url: https://insights.glassnode.com/rss/
+  - name: Ethereum Foundation
+    url: https://blog.ethereum.org/en/rss
+  - name: Vitalik
+    url: https://vitalik.ca/feed.xml
+  - name: Coinbase Blog
+    url: https://blog.coinbase.com/feed
+  - name: Kraken Blog
+    url: https://blog.kraken.com/feed/
+  - name: Gemini Blog
+    url: https://www.gemini.com/blog/rss
+  - name: Binance Blog
+    url: https://blog.binance.com/en/feed
+  - name: Bitcoin Magazine
+    url: https://bitcoinmagazine.com/.rss/full/
+  - name: Coin Metrics Blog
+    url: https://blog.coinmetrics.io/feed/
+  - name: Unchained Crypto
+    url: https://unchainedcrypto.com/feed/
+
+finance:
+  - name: Reuters Business
+    url: https://feeds.reuters.com/reuters/businessNews
+  - name: Reuters Markets
+    url: https://feeds.reuters.com/reuters/marketsNews
+  - name: MarketWatch Top
+    url: https://feeds.marketwatch.com/marketwatch/topstories/
+  - name: CNBC Top
+    url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+  - name: Business Insider
+    url: https://www.businessinsider.com/rss
+  - name: Nasdaq News
+    url: https://www.nasdaq.com/feed/rssoutbound
+  - name: Fortune
+    url: https://fortune.com/feed
+  - name: FT US Home
+    url: https://www.ft.com/rss/home/us?edition=us
+
+regulators:
+  - name: Federal Reserve Press
+    url: https://www.federalreserve.gov/feeds/press_all.xml
+  - name: US Treasury Press
+    url: https://home.treasury.gov/news/press-releases/feed
+  - name: SEC Press
+    url: https://www.sec.gov/news/pressreleases.rss
+  - name: SEC Speeches
+    url: https://www.sec.gov/news/speeches.rss
+  - name: CFTC Press
+    url: https://www.cftc.gov/PressRoom/PressReleases/rss.xml
+  - name: ECB Press
+    url: https://www.ecb.europa.eu/press/press.xml
+  - name: BIS Press
+    url: https://www.bis.org/list/press_releases.rss
+  - name: IMF News
+    url: https://www.imf.org/-/media/Feed/NewsRss.ashx
+  - name: Bank of Canada Press
+    url: https://www.bankofcanada.ca/feeds/press/
+
+security:
+  - name: Krebs
+    url: https://krebsonsecurity.com/feed/
+  - name: Schneier
+    url: https://www.schneier.com/blog/atom.xml
+  - name: Ars Security
+    url: https://feeds.arstechnica.com/arstechnica/security
+  - name: BleepingComputer
+    url: https://www.bleepingcomputer.com/feed/
+  - name: The Hacker News
+    url: https://thehackernews.com/feeds/posts/default?alt=rss
+  - name: DarkReading
+    url: https://www.darkreading.com/rss.xml
+  - name: CISA News
+    url: https://www.cisa.gov/news.xml
+  - name: CISA Advisories
+    url: https://www.cisa.gov/cybersecurity-advisories/all.xml
+  - name: MSRC
+    url: https://msrc.microsoft.com/update-guide/rss
+  - name: Cloudflare Security
+    url: https://blog.cloudflare.com/rss/
+
+cloud:
+  - name: AWS News Blog
+    url: https://aws.amazon.com/blogs/aws/feed/
+  - name: AWS Architecture
+    url: https://aws.amazon.com/blogs/architecture/feed/
+  - name: Azure Updates
+    url: https://azurecomcdn.azureedge.net/en-us/updates/feed
+  - name: Google Cloud
+    url: https://cloud.google.com/blog/rss
+  - name: Cloudflare Blog
+    url: https://blog.cloudflare.com/rss/
+  - name: Vercel
+    url: https://vercel.com/atom
+  - name: Netlify
+    url: https://www.netlify.com/blog/feed.xml
+  - name: Fly.io
+    url: https://fly.io/blog/index.xml
+  - name: DigitalOcean
+    url: https://www.digitalocean.com/blog/rss.xml
+
+ai-ml:
+  - name: OpenAI Blog
+    url: https://openai.com/blog.rss
+  - name: Google AI Blog
+    url: https://ai.googleblog.com/atom.xml
+  - name: Meta AI
+    url: https://ai.facebook.com/blog/rss/
+  - name: Hugging Face
+    url: https://huggingface.co/blog/feed.xml
+  - name: NVIDIA Developer
+    url: https://developer.nvidia.com/blog/feed/
+  - name: Apple ML
+    url: https://machinelearning.apple.com/feed.xml
+  - name: Microsoft Research
+    url: https://www.microsoft.com/en-us/research/feed/
+
+tech-news:
+  - name: The Verge
+    url: https://www.theverge.com/rss/index.xml
+  - name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+  - name: The Register
+    url: https://www.theregister.com/headlines.atom
+  - name: Techmeme
+    url: https://www.techmeme.com/feed.xml
+  - name: Hacker News
+    url: https://hnrss.org/frontpage
+
+dev-open-source:
+  - name: GitHub Blog
+    url: https://github.blog/feed/
+  - name: GitLab Blog
+    url: https://about.gitlab.com/atom.xml
+  - name: Linux Foundation
+    url: https://www.linuxfoundation.org/blog/feed/
+  - name: Kubernetes
+    url: https://kubernetes.io/feed.xml
+  - name: CNCF Blog
+    url: https://www.cncf.io/blog/feed/
+  - name: Docker Blog
+    url: https://www.docker.com/blog/feed/
+  - name: HashiCorp Blog
+    url: https://www.hashicorp.com/blog/feed.xml
+  - name: Google Open Source
+    url: https://opensource.googleblog.com/atom.xml
 

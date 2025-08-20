@@ -1,0 +1,14 @@
+﻿---
+title: "Microsoft Fix Targets Attacks on SharePoint Zero-Day"
+date: "2025-08-19T18:28:10"
+category: "Markets"
+summary: ""
+slug: "microsoft fix targets attacks on sharepoint zeroday"
+source_urls:
+  - "https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/"
+seo:
+  title: "Microsoft Fix Targets Attacks on SharePoint Zero-Day | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+Here is the requested news brief:  **Headline** Microsoft Rolls Out Patch for SharePoint Vulnerability  **Summary Meta Description** Microsoft has released a fix to address a zero-day vulnerability in SharePoint, a widely-used collaboration platform. The patch comes after reports of attacks exploiting the flaw, which allows hackers to execute arbitrary code. The update is available for on-premises and cloud-based versions of SharePoint.  **Key Points**  ΓÇó Microsoft confirmed a zero-day vulnerability in SharePoint that was being actively exploited by attackers. ΓÇó The patch addresses a remote code execution (RCE) vulnerability in the platform's "Microsoft SharePoint Foundation" component. ΓÇó On-premises and cloud-based versions of SharePoint are affected, including SharePoint Server 2019 and SharePoint Online.  **Takeaways**  1. Microsoft's prompt response to address the vulnerability highlights the growing importance of collaboration platforms like SharePoint as potential attack vectors. The company's ability to quickly release a patch demonstrates its commitment to securing its products. 2. The discovery of this zero-day vulnerability underscores the ongoing cat-and-mouse game between cybersecurity vendors and threat actors, with attackers continually seeking new vulnerabilities to exploit.  **Sources** Krebs on Security: Microsoft Fix Targets Attacks on SharePoint Zero-Day (https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/) 

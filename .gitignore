@@ -7,6 +7,9 @@ site/resources/
 public/
 .cache/
 
+# Logs
+logs/
+
 # Python
 .env
 .venv/

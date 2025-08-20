@@ -1,27 +1,13 @@
 baseURL = "https://hashnhedge.com/"
-title = "Hash & Hedge"
+title = "Hash  Hedge"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "hugo-narrow"
 
-[pagination]
-  pagerSize = 12
 enableRobotsTXT = true
 
-[params]
-  tagline = "life in the grey makes you appreciate color in everything."
-author = "Hash & Hedge Newsroom"
-  adsense_enabled = true
-  # set your AdSense publisher ID when approved, example: ca-pub-1234567890
-  adsense_publisher_id = "ca-pub-4626165154390205"
-  adsense_inarticle_slot_id = "5837847046"
-  consent_mode = true
-  show_dark_mode_toggle = true
-
-  [params.category_defaults]
-    security = "/logo.svg"
-    finance = "/logo.svg"
-    crypto = "/logo.svg"
+[pagination]
+  pagerSize = 12
 
 [permalinks]
   posts = "/posts/:year/:month/:slug/"
@@ -45,7 +31,23 @@ author = "Hash & Hedge Newsroom"
   [services.googleAnalytics]
     id = "G-4BD4Z2JKW3"
 
-# Also expose GA4 ID to templates via params for compatibility
+[params]
+  # Mainroad theme params (see theme docs for full list)
+  tagline = "life in the grey makes you appreciate color in everything."
+  author = "Hash  Hedge Newsroom"
+  description = "Daily AI, fintech, markets briefs"
+  copyright = "© Hash  Hedge"
+  # Site logo for header (place your logo at site/static/logo.svg or adjust the path below)
+  logo = "/logo.svg"
+  # Ads/consent custom flags retained (custom use)
+  adsense_enabled = true
+  adsense_publisher_id = "ca-pub-4626165154390205"
+  adsense_inarticle_slot_id = "5837847046"
+  consent_mode = true
+
+  # Social / images fallbacks
+  images = ["/logo.svg"]
+
 [params.ga4]
   id = "G-4BD4Z2JKW3"
 
