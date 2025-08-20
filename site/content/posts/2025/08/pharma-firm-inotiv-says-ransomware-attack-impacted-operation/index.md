@@ -1,11 +1,16 @@
 ---
-title: 'Pharma firm Inotiv says ransomware attack impacted operations'
-date: "2025-08-19T18:28:48"
-category: "Markets"
+category: Markets
+date: '2025-08-19T18:28:48'
+image: /images/posts/pharma-firm-inotiv-says-ransomware-attack-impacted-operation.jpg
+seo:
+  keywords:
+  - news
+  - markets
+  - brief
 slug: pharma-firm-inotiv-says-ransomware-attack-impacted-operation
 source_urls:
-  - "https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-says-ransomware-attack-impacted-operations/"
-seo:
-  keywords: ["news", "markets", "brief"]
+- https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-says-ransomware-attack-impacted-operations/
+title: Pharma firm Inotiv says ransomware attack impacted operations
 ---
-**Headline** Inotiv Hit by Ransomware Attack, Operations Disrupted  **Summary Meta Description** Pharmaceutical company Inotiv has been impacted by a ransomware attack, disrupting its operations. The company's facilities and data were compromised in the attack, with some systems still offline. The incident highlights the growing risk of cyber threats to critical infrastructure.  **Key Points**  * Inotiv's systems and facilities were affected by a ransomware attack * Operations were disrupted as a result of the incident * Company is working to restore services and investigate the breach  **Short Takeaways with Analysis**  1. **Cybersecurity Threats are Widespread**: The Inotiv incident underscores the increasing risk of cyber attacks on critical infrastructure, including pharmaceutical companies. 2. **Restoring Operations is a Priority**: As the company works to recover from the attack, Inotiv's focus on restoring operations highlights the importance of business continuity planning in the face of disruptions.  **Sources**  * https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-says-ransomware-attack-impacted-operations/ 
+
+**Headline** Inotiv Hit by Ransomware Attack, Operations Disrupted  **Summary Meta Description** Pharmaceutical company Inotiv has been impacted by a ransomware attack, disrupting its operations. The company's facilities and data were compromised in the attack, with some systems still offline. The incident highlights the growing risk of cyber threats to critical infrastructure.  **Key Points**  * Inotiv's systems and facilities were affected by a ransomware attack * Operations were disrupted as a result of the incident * Company is working to restore services and investigate the breach  **Short Takeaways with Analysis**  1. **Cybersecurity Threats are Widespread**: The Inotiv incident underscores the increasing risk of cyber attacks on critical infrastructure, including pharmaceutical companies. 2. **Restoring Operations is a Priority**: As the company works to recover from the attack, Inotiv's focus on restoring operations highlights the importance of business continuity planning in the face of disruptions.  **Sources**  * https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-says-ransomware-attack-impacted-operations/

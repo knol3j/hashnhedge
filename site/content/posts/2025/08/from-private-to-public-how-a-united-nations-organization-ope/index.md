@@ -1,11 +1,16 @@
 ---
-title: 'From private to public how a united nations organization ope'
-date: "2025-08-19T18:33:45"
-category: "Markets"
+category: Markets
+date: '2025-08-19T18:33:45'
+image: /images/posts/from-private-to-public-how-a-united-nations-organization-ope.png
+seo:
+  keywords:
+  - news
+  - markets
+  - brief
 slug: from-private-to-public-how-a-united-nations-organization-ope
 source_urls:
-  - "https://github.blog/open-source/social-impact/from-private-to-public-how-a-united-nations-organization-open-sourced-its-tech-in-four-steps/"
-seo:
-  keywords: ["news", "markets", "brief"]
+- https://github.blog/open-source/social-impact/from-private-to-public-how-a-united-nations-organization-open-sourced-its-tech-in-four-steps/
+title: From private to public how a united nations organization ope
 ---
-**Headline:** UN Organization Shifts Tech to Open Source  **Meta Description:** A United Nations organization has made a significant shift by open sourcing its technology, making it available for public use and collaboration. Learn about the four-step process that led to this decision.  **Bullet Key Points:**  * The organization began by assessing its existing tech infrastructure * It then identified areas where open sourcing could be beneficial * A team was established to oversee the transition and ensure smooth execution * The organization has now made significant progress in open sourcing its technology  **Short Takeaways with Analysis:**  1. This shift towards open source demonstrates a growing recognition within international organizations of the value of collaboration and transparency. 2. By making its tech available for public use, the organization can benefit from community contributions and improvements, potentially leading to more effective solutions.  **Sources:**  https://github.blog/open-source/social-impact/from-private-to-public-how-a-united-nations-organization-open-sourced-its-tech-in-four-steps/ 
+
+**Headline:** UN Organization Shifts Tech to Open Source  **Meta Description:** A United Nations organization has made a significant shift by open sourcing its technology, making it available for public use and collaboration. Learn about the four-step process that led to this decision.  **Bullet Key Points:**  * The organization began by assessing its existing tech infrastructure * It then identified areas where open sourcing could be beneficial * A team was established to oversee the transition and ensure smooth execution * The organization has now made significant progress in open sourcing its technology  **Short Takeaways with Analysis:**  1. This shift towards open source demonstrates a growing recognition within international organizations of the value of collaboration and transparency. 2. By making its tech available for public use, the organization can benefit from community contributions and improvements, potentially leading to more effective solutions.  **Sources:**  https://github.blog/open-source/social-impact/from-private-to-public-how-a-united-nations-organization-open-sourced-its-tech-in-four-steps/

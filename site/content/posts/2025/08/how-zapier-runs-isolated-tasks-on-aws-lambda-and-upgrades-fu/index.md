@@ -1,11 +1,16 @@
 ---
-title: 'How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale'
-date: "2025-08-19T18:32:53"
-category: "Markets"
+category: Markets
+date: '2025-08-19T18:32:53'
+image: /images/posts/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-fu.png
+seo:
+  keywords:
+  - news
+  - markets
+  - brief
 slug: how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-fu
 source_urls:
-  - "https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/"
-seo:
-  keywords: ["news", "markets", "brief"]
+- https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/
+title: How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale
 ---
-**Headline**: Zapier Leverages AWS Lambda for Scalable Task Management  **Summary Meta Description**: Learn how Zapier built a serverless architecture using AWS Lambda functions to handle isolated tasks, manage over 100,000 functions, and enhance security posture through automated upgrades and cleanup workflows.  **Key Points**  * Zapier uses AWS Lambda functions to build isolated "Zaps" for efficient task management. * The company operates over 100,000 Lambda functions through its control plane infrastructure. * Automated function upgrades and cleanup workflows reduce maintenance efforts and enhance security posture. * This approach allows Zapier to scale its architecture while minimizing maintenance tasks.  **Short Takeaways**  1. **Serverless Architecture Benefits**: By leveraging AWS Lambda, Zapier can efficiently handle isolated tasks without worrying about provisioning or managing underlying infrastructure. 2. **Automation Key to Scalability**: Automated function upgrades and cleanup workflows are crucial for maintaining a scalable and secure serverless architecture, allowing Zapier to focus on innovation rather than manual maintenance.  **Sources**  * https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/ 
+
+**Headline**: Zapier Leverages AWS Lambda for Scalable Task Management  **Summary Meta Description**: Learn how Zapier built a serverless architecture using AWS Lambda functions to handle isolated tasks, manage over 100,000 functions, and enhance security posture through automated upgrades and cleanup workflows.  **Key Points**  * Zapier uses AWS Lambda functions to build isolated "Zaps" for efficient task management. * The company operates over 100,000 Lambda functions through its control plane infrastructure. * Automated function upgrades and cleanup workflows reduce maintenance efforts and enhance security posture. * This approach allows Zapier to scale its architecture while minimizing maintenance tasks.  **Short Takeaways**  1. **Serverless Architecture Benefits**: By leveraging AWS Lambda, Zapier can efficiently handle isolated tasks without worrying about provisioning or managing underlying infrastructure. 2. **Automation Key to Scalability**: Automated function upgrades and cleanup workflows are crucial for maintaining a scalable and secure serverless architecture, allowing Zapier to focus on innovation rather than manual maintenance.  **Sources**  * https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/
