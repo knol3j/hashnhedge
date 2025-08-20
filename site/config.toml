@@ -8,6 +8,10 @@ hasCJKLanguage = false
 rssLimit = 20
 canonifyURLs = true
 
+# Ensure proper UTF-8 encoding
+[markup]
+  defaultMarkdownHandler = "goldmark"
+
 [pagination]
   pagerSize = 12
 
