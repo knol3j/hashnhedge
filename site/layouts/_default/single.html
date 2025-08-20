@@ -1,44 +1,6 @@
 {{ define "main" }}
-  <article class="card">
+  <article>
     <h1>{{ .Title }}</h1>
-    <div class="post-meta">{{ .Date.Format "Jan 2, 2006" }}{{ with .Params.category }} • {{ . }}{{ end }}</div>
-
-    {{ partial "featured-image.html" . }}
-
-    {{/* Inject an in-article ad after the 2nd paragraph for posts only */}}
-    {{ if and (eq .Section "posts") (or (site.Param "adsense_inarticle_slot_id") (site.Param "adsense_publisher_id")) }}
-      {{ $content := .Content }}
-      {{ $parts := split $content "</p>" }}
-      {{ $out := "" }}
-      {{ $inserted := false }}
-      {{ range $i, $p := $parts }}
-        {{ if gt (len $p) 0 }}
-          {{ $out = printf "%s%s</p>" $out $p }}
-          {{ if and (eq $i 1) (not $inserted) }}
-            {{ $out = printf "%s%s" $out (partial "adsense-inarticle.html" (dict "slot" (site.Param "adsense_inarticle_slot_id") "page" .)) }}
-            {{ $inserted = true }}
-          {{ end }}
-        {{ end }}
-      {{ end }}
-      <div>{{ $out | safeHTML }}</div>
-    {{ else }}
-      <div>{{ .Content }}</div>
-    {{ end }}
-
-    {{ $sources := .Params.sources }}
-    {{ if not $sources }}
-      {{ $sources = .Params.source_urls }}
-    {{ end }}
-    {{ if $sources }}
-    <section style="margin-top:1.5rem">
-      <h3>Sources</h3>
-      <ul>
-        {{ range $sources }}
-        <li><a href="{{ . }}" rel="nofollow noreferrer" target="_blank">{{ . }}</a></li>
-        {{ end }}
-      </ul>
-    </section>
-    {{ end }}
+    <div>{{ .Content }}</div>
   </article>
 {{ end }}
-

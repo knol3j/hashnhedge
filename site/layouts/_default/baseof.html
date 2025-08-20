@@ -1,22 +1,15 @@
 <!doctype html>
 <html lang="en">
   <head>
-    {{ partial "head.html" . }}
-</head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="/css/custom.css">
+  </head>
   <body>
-    {{ partial "consent.html" . }}
-    <header class="site">
-      <div class="container">
-        <h1><a href="/">{{ .Site.Title }}</a></h1>
-        {{ with .Site.Params.tagline }}<div class="post-meta">{{ . }}</div>{{ end }}
-      </div>
-    </header>
-    <main class="container">
+    <main>
       {{ block "main" . }}{{ .Content }}{{ end }}
     </main>
-    <footer class="site">
-      <div class="container">© {{ now.Year }} {{ .Site.Title }}</div>
-    </footer>
   </body>
 </html>
 
