@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How EU Over Regulation Is Stifling Business Growth and Innovation"
 date: "2025-08-18T14:45:18"
 category: "Markets"

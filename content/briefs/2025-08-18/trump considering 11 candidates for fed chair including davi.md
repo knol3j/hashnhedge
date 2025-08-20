@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trump considering 11 candidates for Fed chair, including David Zervos and Rick Rieder, sources say"
 date: "2025-08-18T14:44:44"
 category: "Markets"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Celebrating 10 years of Amazon Aurora innovation"
 date: "2025-08-18T14:45:50"
 category: "Markets"

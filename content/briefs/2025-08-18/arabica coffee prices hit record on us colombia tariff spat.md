@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat"
 date: "2025-08-18T14:41:48"
 category: "Markets"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Meet our newest AWS Heroes — August 2025"
 date: "2025-08-18T14:45:55"
 category: "Markets"

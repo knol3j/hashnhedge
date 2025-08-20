@@ -1,4 +1,4 @@
-﻿---
+---
 title: "  SEC Permits In-Kind Creations and Redemptions for Crypto ETPs
 "
 date: "2025-08-18T14:48:56"

@@ -15,6 +15,17 @@
           {{ if $def }}{{ $img = $def }}{{ end }}
         {{ end }}
         {{ if not $img }}
+          {{/* Try local image by slug under static/images/posts */}}
+          {{ $name := or .Slug .File.TranslationBaseName }}
+          {{ $exts := slice "jpg" "jpeg" "png" "webp" "gif" }}
+          {{ range $exts }}
+            {{ $staticPath := printf "static/images/posts/%s.%s" $name . }}
+            {{ if and (not $img) (fileExists $staticPath) }}
+              {{ $img = (printf "/images/posts/%s.%s" $name .) }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+        {{ if not $img }}
           {{ $re := findRE "<img[^>]+src=\"([^\"]+)\"" .Content 1 }}
           {{ if gt (len $re) 0 }}
             {{ $match := index $re 0 }}

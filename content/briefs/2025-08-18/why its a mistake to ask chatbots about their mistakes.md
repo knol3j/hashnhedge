@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Why it’s a mistake to ask chatbots about their mistakes"
 date: "2025-08-18T14:42:25"
 category: "Markets"

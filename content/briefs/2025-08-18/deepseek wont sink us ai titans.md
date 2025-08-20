@@ -1,4 +1,4 @@
-﻿---
+---
 title: "DeepSeek Won't Sink U.S. AI Titans"
 date: "2025-08-18T14:41:36"
 category: "Markets"

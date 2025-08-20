@@ -1,4 +1,4 @@
-﻿---
+---
 title: "OpenAI’s open‑source model: gpt‑oss on Azure AI Foundry and Windows AI Foundry "
 date: "2025-08-18T14:46:50"
 category: "Markets"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Introducing Amazon Elastic VMware Service for running VMware Cloud Foundation on AWS"
 date: "2025-08-18T14:46:18"
 category: "Markets"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Financial Services Roundup: Market Talk"
 date: "2025-08-18T14:41:42"
 category: "Markets"

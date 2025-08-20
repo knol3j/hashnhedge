@@ -1,4 +1,4 @@
-﻿---
+---
 title: "  SEC Announces George Botic to Serve as Acting Chair of the Public Company Accounting Oversight Board
 "
 date: "2025-08-18T14:49:02"

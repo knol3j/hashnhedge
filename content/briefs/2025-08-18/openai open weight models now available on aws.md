@@ -1,4 +1,4 @@
-﻿---
+---
 title: "OpenAI open weight models now available on AWS"
 date: "2025-08-18T14:46:13"
 category: "Markets"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "'Job hugging' has replaced job-hopping, consultants say, as workers cling to current roles"
 date: "2025-08-18T14:44:02"
 category: "Markets"

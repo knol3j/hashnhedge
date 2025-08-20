@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Microsoft Azure AI Foundry Models and Microsoft Security Copilot achieve ISO/IEC 42001:2023 certification"
 date: "2025-08-18T14:47:07"
 category: "Markets"

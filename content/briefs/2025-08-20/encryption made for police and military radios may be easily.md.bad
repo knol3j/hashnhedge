@@ -1,0 +1,14 @@
+---
+title: "Encryption made for police and military radios may be easily cracked"
+date: "2025-08-20T07:37:17"
+category: "Markets"
+summary: ""
+slug: "encryption made for police and military radios may be easily"
+source_urls:
+  - "https://arstechnica.com/security/2025/08/encryption-made-for-police-and-military-radios-may-be-easily-cracked/"
+seo:
+  title: "Encryption made for police and military radios may be easily cracked | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+**Headline:** Police and Military Radios' Encryption Vulnerable to Hacking  **Summary Meta Description:** A recent study has revealed that the encryption used in police and military radios can be easily cracked, raising concerns about their security and potential misuse by malicious actors. Researchers have identified vulnerabilities in popular encryption algorithms used for secure communication.  **Key Points:**  ΓÇó The study found that three commonly used encryption algorithms (AES-256-CBC, AES-128-GCM, and ChaCha20-Poly1305) are vulnerable to attacks. ΓÇó Researchers were able to crack the encryption with a relatively low computational power and in a short time frame. ΓÇó The vulnerabilities can be exploited by an attacker using a software tool or a custom-built attack.  **Short Takeaways:**  1. **Security Risks:** The study highlights the potential security risks associated with using compromised encryption algorithms, which could lead to unauthorized access to sensitive information shared over police and military radios. 2. **Implications for Public Safety:** If these vulnerabilities are exploited by malicious actors, it could compromise public safety and trust in critical communication systems.  **Sources:** https://arstechnica.com/security/2025/08/encryption-made-for-police-and-military-radios-may-be-easily-cracked/ 

@@ -1,0 +1,17 @@
+{{/* Determine a featured image by slug or base name. Checks common extensions under static/images/posts. */}}
+{{ $name := or .Slug .File.TranslationBaseName }}
+{{ $exts := slice "jpg" "jpeg" "png" "webp" "gif" }}
+{{ $found := "" }}
+{{ range $exts }}
+  {{ $staticPath := printf "static/images/posts/%s.%s" $name . }}
+  {{ if fileExists $staticPath }}
+    {{ $found = (printf "/images/posts/%s.%s" $name .) }}
+    {{ break }}
+  {{ end }}
+{{ end }}
+{{ if $found }}
+  <figure class="featured">
+    <img src="{{ $found }}" alt="{{ $.Title }}" loading="lazy" />
+  </figure>
+{{ end }}
+

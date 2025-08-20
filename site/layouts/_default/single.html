@@ -3,6 +3,8 @@
     <h1>{{ .Title }}</h1>
     <div class="post-meta">{{ .Date.Format "Jan 2, 2006" }}{{ with .Params.category }} • {{ . }}{{ end }}</div>
 
+    {{ partial "featured-image.html" . }}
+
     {{/* Inject an in-article ad after the 2nd paragraph for posts only */}}
     {{ if and (eq .Section "posts") (or (site.Param "adsense_inarticle_slot_id") (site.Param "adsense_publisher_id")) }}
       {{ $content := .Content }}

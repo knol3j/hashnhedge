@@ -1,4 +1,4 @@
-﻿---
+---
 title: "  On the Road: SEC Crypto Task Force to Host a Series of Roundtables Across the U.S.
 "
 date: "2025-08-18T14:48:49"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Comex Gold, Silver Settle Lower"
 date: "2025-08-18T14:41:30"
 category: "Markets"

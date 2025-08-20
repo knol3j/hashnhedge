@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Top 10 AI Tools in 2023 That Will Make Your Life Easier"
 date: "2025-08-18T14:40:31"
 category: "Markets"

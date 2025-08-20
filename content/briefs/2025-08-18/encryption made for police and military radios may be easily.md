@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Encryption made for police and military radios may be easily cracked"
 date: "2025-08-18T14:42:44"
 category: "Markets"

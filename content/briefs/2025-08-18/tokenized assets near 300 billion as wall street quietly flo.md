@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tokenized assets near $300 billion as Wall Street quietly floods on chain"
 date: "2025-08-18T14:43:44"
 category: "Markets"
