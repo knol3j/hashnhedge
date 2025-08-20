@@ -1,4 +1,4 @@
-﻿---
+---
 title: "GPT-5 in Azure AI Foundry: The future of AI apps and agents starts here"
 date: "2025-08-18T14:46:37"
 category: "Markets"

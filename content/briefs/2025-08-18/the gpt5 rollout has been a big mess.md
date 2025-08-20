@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The GPT-5 rollout has been a big mess"
 date: "2025-08-18T14:42:38"
 category: "Markets"

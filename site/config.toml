@@ -2,12 +2,6 @@ baseURL = "https://hashnhedge.com/"
 title = "Hash & Hedge"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-theme = "hugo-narrow"
-
-[module]
-  [[module.imports]]
-    path = "github.com/cowboysmall-tools/hugo-narrow"
-    version = "v1.1.3"
 enableRobotsTXT = true
 
 [pagination]

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "AWS Weekly Roundup: Single GPU P5 instances, Advanced Go Driver, Amazon SageMaker HyperPod and more (August 18, 2025)"
 date: "2025-08-18T14:45:37"
 category: "Markets"

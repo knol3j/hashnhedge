@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Introducing Azure Storage Discovery: Transform data management with storage insights"
 date: "2025-08-18T14:46:44"
 category: "Markets"

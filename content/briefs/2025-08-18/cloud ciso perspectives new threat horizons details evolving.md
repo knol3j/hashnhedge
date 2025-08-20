@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cloud CISO Perspectives: New Threat Horizons details evolving risks — and defenses"
 date: "2025-08-18T14:48:08"
 category: "Markets"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Agent Factory: The new era of agentic AI—common use cases and design patterns"
 date: "2025-08-18T14:46:24"
 category: "Markets"

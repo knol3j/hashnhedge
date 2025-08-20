@@ -1,4 +1,4 @@
-﻿---
+---
 title: "When 'invest like the 1%' fails: How Yieldstreet's real estate bets left customers with massive losses"
 date: "2025-08-18T14:44:10"
 category: "Markets"

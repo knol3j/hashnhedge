@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ending Political, Electoral and Social Issue Advertising in the EU in Response to Incoming European Regulation"
 date: "2025-08-18T14:45:31"
 category: "Markets"

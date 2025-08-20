@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The AI-powered shift to “living games:” Meet the customers and partners leveling up the ways we play"
 date: "2025-08-18T14:47:35"
 category: "Markets"

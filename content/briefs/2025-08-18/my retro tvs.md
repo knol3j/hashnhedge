@@ -1,4 +1,4 @@
-﻿---
+---
 title: "My Retro TVs"
 date: "2025-08-18T14:39:26"
 category: "Markets"

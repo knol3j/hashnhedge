@@ -1,4 +1,4 @@
-﻿---
+---
 title: "New Study Shows Meta Transforming Financial Product Purchases in India"
 date: "2025-08-18T14:45:03"
 category: "Markets"

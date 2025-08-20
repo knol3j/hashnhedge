@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Minimize AI hallucinations and deliver up to 99% verification accuracy with Automated Reasoning checks: Now available"
 date: "2025-08-18T14:46:07"
 category: "Markets"

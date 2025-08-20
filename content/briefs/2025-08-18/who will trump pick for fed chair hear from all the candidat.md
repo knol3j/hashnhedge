@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Who will Trump pick for Fed chair? Hear from all the candidates in their own words"
 date: "2025-08-18T14:44:23"
 category: "Markets"

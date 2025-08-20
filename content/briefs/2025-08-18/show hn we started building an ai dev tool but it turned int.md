@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Show HN: We started building an AI dev tool but it turned into a Sims-style game"
 date: "2025-08-18T14:39:21"
 category: "Markets"

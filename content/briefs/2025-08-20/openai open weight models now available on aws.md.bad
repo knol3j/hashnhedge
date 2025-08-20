@@ -1,0 +1,14 @@
+---
+title: "OpenAI open weight models now available on AWS"
+date: "2025-08-20T07:40:48"
+category: "Markets"
+summary: ""
+slug: "openai open weight models now available on aws"
+source_urls:
+  - "https://aws.amazon.com/blogs/aws/openai-open-weight-models-now-available-on-aws/"
+seo:
+  title: "OpenAI open weight models now available on AWS | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+**Headline:** (40 chars) OpenAI Models Now Available on AWS  **Summary Meta Description:** Amazon Web Services has expanded its foundation models with the integration of OpenAI's open weight models, providing developers with more flexibility and choice in their use cases while maintaining control over infrastructure and data.  **Key Points:**  ΓÇó OpenAI's open weight models gpt-oss-120b and gpt-oss-20b are now available on AWS. ΓÇó Models accessible via Amazon Bedrock and Amazon SageMaker JumpStart. ΓÇó Developers can choose the right model for their specific use cases, maintaining control over infrastructure and data.  **Short Takeaways:**  1. **Increased Flexibility:** The integration of OpenAI's models on AWS gives developers more freedom to experiment with different AI applications without being locked into a specific service or vendor. 2. **Data Sovereignty:** By hosting these models on AWS, users can maintain control over their infrastructure and data, addressing concerns around data sovereignty and security.  **Sources:** https://aws.amazon.com/blogs/aws/openai-open-weight-models-now-available-on-aws/ 

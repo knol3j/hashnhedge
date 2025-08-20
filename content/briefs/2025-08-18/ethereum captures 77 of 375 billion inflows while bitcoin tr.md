@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ethereum captures 77% of $3.75 billion inflows while Bitcoin trails behind"
 date: "2025-08-18T14:43:38"
 category: "Markets"

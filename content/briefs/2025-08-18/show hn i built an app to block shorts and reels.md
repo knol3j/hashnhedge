@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Show HN: I built an app to block Shorts and Reels"
 date: "2025-08-18T14:39:40"
 category: "Markets"

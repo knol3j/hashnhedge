@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Anna's Archive: An Update from the Team"
 date: "2025-08-18T14:39:15"
 category: "Markets"

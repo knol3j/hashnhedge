@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Scalable AI starts with storage: Guide to model artifact strategies"
 date: "2025-08-18T14:47:54"
 category: "Markets"
