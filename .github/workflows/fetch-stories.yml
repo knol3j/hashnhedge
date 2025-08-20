@@ -1,0 +1,40 @@
+name: Fetch Stories (scheduled)
+
+on:
+  schedule:
+    - cron: "0 */2 * * *" # every 2 hours
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Git user
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.148.2'
+          extended: true
+
+      - name: Set up Python (if needed for fetch)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run publish pipeline (auto-commit)
+        shell: pwsh
+        run: |
+          ./pipeline/publish.ps1 -Branch "${{ github.ref_name || 'main' }}"
+
