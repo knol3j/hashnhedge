@@ -1,4 +1,5 @@
 ---
+title: 'Bitcoin consolidation below 123000 reflects caution rather t'
 image: /images/posts/bitcoin-consolidation-below-123000-reflects-caution-rather-t.jpg
 ---
 

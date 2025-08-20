@@ -1,4 +1,5 @@
 ---
+title: 'Bhutan trims 92 million in government bitcoin amid market di'
 image: /images/posts/bhutan-trims-92-million-in-government-bitcoin-amid-market-di.jpg
 ---
 

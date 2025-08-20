@@ -1,9 +1,8 @@
 ---
-title: "Welcome to Hash & Hedge"
-description: "What to expect: concise, thoughtful stories across crypto, finance, security, and culture."
+title: 'Welcome to hash and hedge'
 date: 2025-08-18T18:01:30Z
 lastmod: 2025-08-18T18:01:30Z
-slug: "welcome-to-hash-and-hedge"
+slug: welcome-to-hash-and-hedge
 draft: false
 author: "Hash & Hedge Newsroom"
 categories: ["News"]

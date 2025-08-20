@@ -1,14 +1,11 @@
-﻿---
-title: "Agents panel: Launch Copilot coding agent tasks anywhere on GitHub"
+---
+title: 'Agents panel launch copilot coding agent tasks anywhere on g'
 date: "2025-08-19T18:33:17"
 category: "Markets"
-summary: ""
-slug: "agents panel launch copilot coding agent tasks anywhere on g"
+slug: agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-g
 source_urls:
   - "https://github.blog/news-insights/product-news/agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github/"
 seo:
-  title: "Agents panel: Launch Copilot coding agent tasks anywhere on GitHub | Hash n Hedge"
-  description: ""
   keywords: ["news", "markets", "brief"]
 ---
 **Headline** GitHub Expands Copilot Capabilities with Agents Panel  **Summary Meta Description** GitHub has introduced the Agents panel, allowing users to assign tasks to their Codex AI models, Copilot, on GitHub. This new feature enhances collaboration and streamlines code review processes.  **Key Points**  * The Agents panel enables users to create, manage, and execute tasks for Copilot * Users can now assign coding tasks directly from GitHub's repository interface * Tasks can be set up with custom parameters, such as deadline and priority  **Short Takeaways**  1. **Simplified Collaboration**: With the Agents panel, developers can easily delegate tasks to their AI models, making it easier for teams to collaborate on code reviews. 2. **Increased Efficiency**: By automating repetitive coding tasks, Copilot helps reduce developer workload, allowing them to focus on higher-level creative work.  **Sources** * [https://github.blog/news-insights/product-news/agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github/](https://github.blog/news-insights/product-news/agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github/) 

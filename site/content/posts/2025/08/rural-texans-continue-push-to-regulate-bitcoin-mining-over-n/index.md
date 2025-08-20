@@ -1,4 +1,5 @@
 ---
+title: 'Rural texans continue push to regulate bitcoin mining over n'
 image: /images/posts/rural-texans-continue-push-to-regulate-bitcoin-mining-over-n.jpg
 ---
 

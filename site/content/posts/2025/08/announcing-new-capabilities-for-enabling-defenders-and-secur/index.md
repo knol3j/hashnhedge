@@ -1,14 +1,11 @@
-﻿---
-title: "Announcing new capabilities for enabling defenders and securing AI innovation"
+---
+title: 'Announcing new capabilities for enabling defenders and securing AI innovation'
 date: "2025-08-19T18:19:54"
 category: "Markets"
-summary: ""
-slug: "announcing new capabilities for enabling defenders and secur"
+slug: announcing-new-capabilities-for-enabling-defenders-and-secur
 source_urls:
   - "https://cloud.google.com/blog/products/identity-security/security-summit-2025-enabling-defenders-and-securing-ai-innovation/"
 seo:
-  title: "Announcing new capabilities for enabling defenders and securing AI innovation | Hash n Hedge"
-  description: ""
   keywords: ["news", "markets", "brief"]
 ---
 This text appears to be a summary of various updates and innovations in the field of cloud security, as presented at the Google Cloud Security Summit 2025. Here are some key points that can be extracted from the text:  1. **AI-powered security**: Google Cloud is leveraging AI and machine learning (ML) to enhance its security capabilities, including automated compliance, simplified access management, and expanded data protection for AI workloads. 2. **Cloud Security Command Center (SCC)**: SCC is a comprehensive security solution that provides visibility, detection, and response capabilities across Google Cloud services. 3. **Security updates**: The text mentions several new features and enhancements in various areas of cloud security, including: 	* **Sensitive Data Protection**: expanded to monitor Vertex AI, AI-related assets in BigQuery and CloudSQL, inspect images for sensitive data like barcodes and license plate numbers, and detect AI and ML context models. 	* **Cloud Key Management System Autokey**: now generally available, helps customers onboard more quickly with out-of-the-box alignment with recommended key management practices. 	* **Cloud NGFW tags**: expanded to org-scope tags with hierarchical support, and Cloud NGFW for RDMA networks is now in preview. 4. **Identity and Access Management (IAM)**: Agentic IAM is coming later this year, which will enable agent identities across cloud environments. IAM role picker is also available in preview, allowing customers to grant least-privilege access using Gemini. 5. **Data Security**: Cloud Armor Enterprise support for hierarchical security policies and organization-scoped address groups is now generally available, helping with centralized control and automatic protection of new projects in Google Cloud. 6. **Network Security**: Cloud NGFW's tags have been expanded to org-scope tags with hierarchical support, and Cloud NGFW for RDMA networks is now in preview.  The text also mentions the importance of responsible AI development and deployment, highlighting the need for security to be an enabler of business ambitions rather than a barrier. 

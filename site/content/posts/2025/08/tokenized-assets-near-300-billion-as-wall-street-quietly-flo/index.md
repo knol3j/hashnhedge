@@ -1,4 +1,5 @@
 ---
+title: 'Tokenized assets near 300 billion as wall street quietly flo'
 image: /images/posts/tokenized-assets-near-300-billion-as-wall-street-quietly-flo.jpg
 ---
 

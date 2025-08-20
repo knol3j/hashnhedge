@@ -1,4 +1,5 @@
 ---
+title: 'Microsoft azure ai foundry models and microsoft security cop'
 image: /images/posts/microsoft-azure-ai-foundry-models-and-microsoft-security-cop.png
 ---
 

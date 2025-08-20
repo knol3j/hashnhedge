@@ -1,4 +1,5 @@
 ---
+title: 'The cutaway illustrations of fred freeman'
 image: /images/posts/the-cutaway-illustrations-of-fred-freeman.jpg
 ---
 

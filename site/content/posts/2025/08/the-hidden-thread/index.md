@@ -1,12 +1,9 @@
 ---
-title: "The Hidden Thread: How Culture, Computation, and Crypto Interlock"
+title: 'The hidden thread'
 date: "2025-08-18T19:52:40Z"
 category: "Markets"
-summary: "A field guide to how culture shapes demand, computation supplies scale, and crypto aligns incentives—plus a small newsroom operating model to navigate the loop."
-slug: "the-hidden-thread"
+slug: the-hidden-thread
 seo:
-  title: "The Hidden Thread | Hash n Hedge"
-  description: "How arts/culture, AI/tech, and crypto/finance interlock—demand, supply, incentives, feedback loops, risks, and a pragmatic newsroom model."
   keywords: ["culture", "AI", "LLM", "crypto", "tokenization", "creator economy"]
 ---
 

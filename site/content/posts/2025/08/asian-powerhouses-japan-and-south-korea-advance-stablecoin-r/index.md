@@ -1,4 +1,5 @@
 ---
+title: 'Asian powerhouses japan and south korea advance stablecoin r'
 image: /images/posts/asian-powerhouses-japan-and-south-korea-advance-stablecoin-r.jpg
 ---
 

@@ -30,20 +30,19 @@ enableRobotsTXT = true
     id = "G-4BD4Z2JKW3"
 
 [params]
-  # Mainroad theme params (see theme docs for full list)
   tagline = "life in the grey makes you appreciate color in everything."
-  author = "Hash & Hedge Newsroom"
-  description = "Daily AI, fintech, markets briefs"
+  # Theme expects author as table with name, avatar, etc.
+  [params.author]
+    name = "Hash & Hedge Newsroom"
+    avatar = "/images/avatar.svg"
+    title = "Hash & Hedge"
+    description = "Daily AI, fintech, markets briefs"
   copyright = "© Hash & Hedge"
-  # Site logo for header (place your logo at site/static/logo.svg or adjust the path below)
   logo = "/logo.svg"
-  # Ads/consent custom flags retained (custom use)
   adsense_enabled = true
   adsense_publisher_id = "ca-pub-4626165154390205"
   adsense_inarticle_slot_id = "5837847046"
   consent_mode = true
-
-  # Social / images fallbacks
   images = ["/logo.svg"]
 
 [params.ga4]

@@ -1,4 +1,5 @@
 ---
+title: 'Dogecoins 23m daily mining profits lure qubic after monero n'
 image: /images/posts/dogecoins-23m-daily-mining-profits-lure-qubic-after-monero-n.jpg
 ---
 

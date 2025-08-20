@@ -1,4 +1,5 @@
 ---
+title: 'Bullish market momentum fails to sway global fund managers t'
 image: /images/posts/bullish-market-momentum-fails-to-sway-global-fund-managers-t.jpg
 ---
 

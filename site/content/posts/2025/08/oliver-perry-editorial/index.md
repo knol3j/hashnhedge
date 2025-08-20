@@ -1,9 +1,8 @@
 ---
-title: "The Beautiful Apocalypse: Hash & Hedge Chronicles"
+title: 'Oliver perry editorial'
 author: "Oliver Perry"
-description: "An editorial take on the stories that stood out—SEC’s crypto dance, Bitcoin’s stasis, and the weight of a cell."
 date: 2025-08-20T01:24:44Z
-slug: "oliver-perry-editorial"
+slug: oliver-perry-editorial
 categories: ["editorial"]
 tags: ["editorial", "commentary", "crypto", "markets", "science"]
 draft: false

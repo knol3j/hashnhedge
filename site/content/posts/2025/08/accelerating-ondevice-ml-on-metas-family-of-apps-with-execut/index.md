@@ -1,14 +1,14 @@
-﻿---
-title: "Accelerating on-device ML on Meta’s family of apps with ExecuTorch"
+---
+title: 'Accelerating On-Device ML on Meta''s Family of Apps with ExecuTorch'
 date: "2025-08-19T18:45:26"
 category: "Markets"
-summary: ""
-slug: "accelerating ondevice ml on metas family of apps with execut"
+summary: ''
+slug: accelerating-ondevice-ml-on-metas-family-of-apps-with-execut
 source_urls:
   - "https://engineering.fb.com/2025/07/28/android/executorch-on-device-ml-meta-family-of-apps/"
 seo:
-  title: "Accelerating on-device ML on Meta’s family of apps with ExecuTorch | Hash n Hedge"
-  description: ""
+  title: 'Accelerating On-Device ML on Meta''s Family of Apps with ExecuTorch | Hash n Hedge'
+  description: ''
   keywords: ["news", "markets", "brief"]
 ---
 **Headline:** Meta Speeds Up On-Device AI Processing on Mobile Apps  **Summary Meta Description:**  Meta engineers have developed ExecuTorch, an on-device machine learning (ML) acceleration framework that boosts processing speed and efficiency for Meta's family of mobile apps. By leveraging this new technology, users can enjoy faster app performance, lower latency, and improved overall experience.  **Key Points:**  *   ExecuTorch is a custom-built, open-source ML framework optimized for on-device execution. *   The technology leverages a combination of software and hardware advancements to accelerate ML workloads. *   Meta aims to integrate ExecuTorch across its mobile app portfolio, including Instagram, WhatsApp, and Facebook.  **Takeaways:**  *   By accelerating on-device ML processing, Meta is prioritizing user experience and performance, particularly for tasks that require real-time analysis and decision-making, such as image recognition or natural language processing. *   This move could also have implications for the broader tech industry, potentially influencing the adoption of similar acceleration frameworks across various platforms.  **Sources:**  https://engineering.fb.com/2025/07/28/android/executorch-on-device-ml-meta-family-of-apps/ 

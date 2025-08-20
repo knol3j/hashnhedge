@@ -1,14 +1,11 @@
-﻿---
-title: "How Karrot built a feature platform on AWS, Part 1: Motivation and feature serving"
+---
+title: 'How karrot built a feature platform on aws part 1 motivation'
 date: "2025-08-19T18:32:28"
 category: "Markets"
-summary: ""
-slug: "how karrot built a feature platform on aws part 1 motivation"
+slug: how-karrot-built-a-feature-platform-on-aws-part-1-motivation
 source_urls:
   - "https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-1-motivation-and-feature-serving/"
 seo:
-  title: "How Karrot built a feature platform on AWS, Part 1: Motivation and feature serving | Hash n Hedge"
-  description: ""
   keywords: ["news", "markets", "brief"]
 ---
 **Headline** Karrot Develops Feature Platform on AWS  **Summary Meta Description** Learn how Karrot built a feature platform on Amazon Web Services (AWS), consisting of three main components: feature serving, stream ingestion pipeline, and batch ingestion pipeline. This two-part series starts by explaining the motivation behind the project.  **Bullet Key Points**  * Karrot developed a new feature platform to improve scalability and efficiency. * The platform consists of three main components: feature serving, stream ingestion pipeline, and batch ingestion pipeline. * Feature serving is the first component to be explained in this two-part series. * The solution architecture is designed to meet specific requirements.  **Short Takeaways**  1. Karrot's feature platform on AWS allows for more efficient management of features and data streams, improving overall system performance. 2. By breaking down the platform into three main components, Karrot can maintain a scalable and modular architecture.  **Original Context** Karrot's move to build a feature platform on AWS highlights the growing trend of companies adopting cloud-based infrastructure to improve scalability and efficiency in managing complex systems.  **Sources**  * https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-1-motivation-and-feature-serving/ 
