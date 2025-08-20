@@ -9,6 +9,7 @@ public/
 
 # Logs
 logs/
+data/latest.json
 
 # Python
 .env
