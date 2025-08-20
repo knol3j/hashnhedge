@@ -1,0 +1,91 @@
+name: Site Health Check
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 minutes
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check homepage status and content
+        id: probe
+        shell: bash
+        run: |
+          set -e
+          URL="https://hashnhedge.com"
+          # Fetch headers and body with timeouts
+          STATUS=$(curl -A "health-check-bot" -sS -o /tmp/body.html -w "%{http_code}" --max-time 20 --connect-timeout 10 "$URL" || echo "000")
+          echo "status=$STATUS" >> $GITHUB_OUTPUT
+          if [ "$STATUS" != "200" ]; then
+            echo "Homepage returned status $STATUS" >&2
+            exit 2
+          fi
+          # Validate expected content marker exists
+          if ! grep -qi "Hash \& Hedge" /tmp/body.html; then
+            echo "Expected marker not found in page content" >&2
+            exit 3
+          fi
+          # Basic size sanity check (avoid empty page)
+          SIZE=$(wc -c </tmp/body.html)
+          echo "bytes=$SIZE" >> $GITHUB_OUTPUT
+          if [ "$SIZE" -lt 1024 ]; then
+            echo "Page too small: $SIZE bytes" >&2
+            exit 4
+          fi
+          echo "Site healthy: $STATUS, $SIZE bytes"
+
+      - name: Create or update incident issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const runUrl = `${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}`;
+            const title = `INCIDENT: hashnhedge.com health check failed`;
+            const body = `Automated health check failed.
+
+- Workflow run: ${runUrl}
+- Status: ${{ steps.probe.outputs.status || 'unknown' }}
+- Notes: Homepage did not meet health criteria (status/content/size).
+
+This issue was opened automatically. It will be closed by the next successful health check.`;
+            // Search for existing open incident
+            const { data: issues } = await github.rest.issues.listForRepo({ owner: context.repo.owner, repo: context.repo.repo, state: 'open', labels: undefined, per_page: 50 });
+            const existing = issues.find(i => i.title === title);
+            if (existing) {
+              await github.rest.issues.createComment({ owner: context.repo.owner, repo: context.repo.repo, issue_number: existing.number, body });
+            } else {
+              await github.rest.issues.create({ owner: context.repo.owner, repo: context.repo.repo, title, body });
+            }
+
+      - name: Attempt self-heal by triggering Build and Deploy workflow
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.request('POST /repos/{owner}/{repo}/actions/workflows/{workflow_id}/dispatches', {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'site.yml',
+              ref: 'main',
+              inputs: {}
+            });
+
+      - name: Close incident issue on success
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = `INCIDENT: hashnhedge.com health check failed`;
+            const { data: issues } = await github.rest.issues.listForRepo({ owner: context.repo.owner, repo: context.repo.repo, state: 'open', per_page: 50 });
+            const existing = issues.find(i => i.title === title);
+            if (existing) {
+              await github.rest.issues.createComment({ owner: context.repo.owner, repo: context.repo.repo, issue_number: existing.number, body: 'Health check recovered. Closing incident.' });
+              await github.rest.issues.update({ owner: context.repo.owner, repo: context.repo.repo, issue_number: existing.number, state: 'closed' });
+            }
+
