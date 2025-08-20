@@ -31,19 +31,20 @@ enableRobotsTXT = true
 
 [params]
   tagline = "life in the grey makes you appreciate color in everything."
-  # Theme expects author as table with name, avatar, etc.
-  [params.author]
-    name = "Hash & Hedge Newsroom"
-    avatar = "/images/avatar.svg"
-    title = "Hash & Hedge"
-    description = "Daily AI, fintech, markets briefs"
-  copyright = "© Hash & Hedge"
+  # Remove author table to hide the large author block on the homepage
+  # (post pages will gracefully default without author metadata)
+  copyright = "© Hash \u0026 Hedge"
   logo = "/logo.svg"
   adsense_enabled = true
   adsense_publisher_id = "ca-pub-4626165154390205"
   adsense_inarticle_slot_id = "5837847046"
-  consent_mode = true
+  # Disable intrusive consent banner
+  consent_mode = false
   images = ["/logo.svg"]
+  
+  # Home settings
+  [params.home]
+    recentPostsCount = 20
 
 [params.ga4]
   id = "G-4BD4Z2JKW3"
