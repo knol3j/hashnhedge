@@ -1,13 +1,13 @@
-﻿---
-title: "Bullish Takes $1.15 Billion in IPO Proceeds via StablecoinsâMostly on Solana"
+---
+title: "Bullish Takes $1.15 Billion in IPO Proceeds via Stablecoins — Mostly on Solana"
 date: "2025-08-19T18:22:25"
 category: "Markets"
 summary: ""
-slug: "bullish takes 115 billion in ipo proceeds via stablecoinsâmo"
+slug: "bullish-takes-115-billion-in-ipo-proceeds-via-stablecoins-mostly-on-solana"
 source_urls:
   - "https://decrypt.co/335864/bullish-takes-1-15-billion-in-ipo-proceeds-via-stablecoins-mostly-on-solana"
 seo:
-  title: "Bullish Takes $1.15 Billion in IPO Proceeds via StablecoinsâMostly on Solana | Hash n Hedge"
+  title: "Bullish Takes $1.15 Billion in IPO Proceeds via Stablecoins — Mostly on Solana | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

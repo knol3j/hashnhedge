@@ -1,5 +1,5 @@
-﻿---
-title: "Microsoft shares workaround for Teams "couldn't connect" error"
+---
+title: 'Microsoft shares workaround for Teams "couldn''t connect" error'
 date: "2025-08-19T18:28:28"
 category: "Markets"
 summary: ""
@@ -7,7 +7,7 @@ slug: "microsoft shares workaround for teams couldnt connect error"
 source_urls:
   - "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-teams-couldnt-connect-error/"
 seo:
-  title: "Microsoft shares workaround for Teams "couldn't connect" error | Hash n Hedge"
+  title: 'Microsoft shares workaround for Teams "couldn''t connect" error | Hash n Hedge'
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

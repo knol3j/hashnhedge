@@ -1,11 +1,9 @@
 baseURL = "https://hashnhedge.com/"
-title = "Hash  Hedge"
+title = "Hash & Hedge"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "hugo-narrow"
-
 enableRobotsTXT = true
-
 [pagination]
   pagerSize = 12
 
@@ -34,9 +32,9 @@ enableRobotsTXT = true
 [params]
   # Mainroad theme params (see theme docs for full list)
   tagline = "life in the grey makes you appreciate color in everything."
-  author = "Hash  Hedge Newsroom"
+  author = "Hash & Hedge Newsroom"
   description = "Daily AI, fintech, markets briefs"
-  copyright = "© Hash  Hedge"
+  copyright = "© Hash & Hedge"
   # Site logo for header (place your logo at site/static/logo.svg or adjust the path below)
   logo = "/logo.svg"
   # Ads/consent custom flags retained (custom use)
@@ -50,4 +48,3 @@ enableRobotsTXT = true
 
 [params.ga4]
   id = "G-4BD4Z2JKW3"
-
