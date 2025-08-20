@@ -1,5 +1,6 @@
 ---
-title: "Privacy Policy"
+title: "Privacy Policy'"
+
 ---
 
 We use privacy-friendly analytics (Cloudflare Web Analytics). We do not sell personal data.

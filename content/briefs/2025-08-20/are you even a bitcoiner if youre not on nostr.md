@@ -1,0 +1,14 @@
+﻿---
+title: "Are You Even a Bitcoiner If You’re Not on Nostr?"
+date: "2025-08-20T15:30:50"
+category: "Markets"
+summary: ""
+slug: "are you even a bitcoiner if youre not on nostr"
+source_urls:
+  - "https://bitcoinmagazine.com/conference/a-bitcoiner-must-be-on-nostr"
+seo:
+  title: "Are You Even a Bitcoiner If You’re Not on Nostr? | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+Here's the news brief based on the source:  **Headline:** "Nostr Rising"  **Summary Meta Description:** "The Nostr protocol is gaining traction in the Bitcoin community, with many considering it a necessary tool for true decentralization and censorship-resistance. We explore what it means to be a 'Bitcoiner' in today's digital landscape."  **Key Points:**  * The Nostr protocol allows users to send and receive real-time updates on the blockchain. * Many prominent figures in the Bitcoin community are embracing Nostr, including well-known developers and influencers. * The rise of Nostr has sparked debate about what it means to be a "Bitcoiner" in today's digital landscape.  **Short Takeaways:**  * Nostr's popularity is driven by its potential to further decentralize the Bitcoin network and promote censorship-resistance.  * As the protocol continues to gain traction, we may see more mainstream adoption of decentralized technologies.  **Sources:** [https://bitcoinmagazine.com/conference/a-bitcoiner-must-be-on-nostr](https://bitcoinmagazine.com/conference/a-bitcoiner-must-be-on-nostr) 

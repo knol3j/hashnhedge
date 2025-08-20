@@ -1,0 +1,16 @@
+---
+
+title: "Ã¢â‚¬ËœThis isnÃ¢â‚¬â„¢t about free speech. IÃ¢â‚¬â„¢m sure theyÃ¢â‚¬â„¢re gonna holler thatÃ¢â‚¬â„¢: Minnesota sues TikTok, accusing it of preying on the young'"
+date: "2025-08-20T15:31:27""
+category: "Markets"
+summary: ""
+slug: "this isnt about free speech im sure theyre gonna holler that"
+source_urls:
+  - "https://fortune.com/2025/08/20/tiktok-minnesota-free-speech-addiction-social-media/"
+seo:
+  title: "Ã¢â‚¬ËœThis isnÃ¢â‚¬â„¢t about free speech. IÃ¢â‚¬â„¢m sure theyÃ¢â‚¬â„¢re gonna holler thatÃ¢â‚¬â„¢: Minnesota sues TikTok, accusing it of preying on the young | Hash n Hedge'"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+
+---
+**Headline**: "Minnesota Sues TikTok Over Alleged Prey on Young Users"  **Summary Meta Description**: Minnesota Attorney General Keith Ellison's office has filed a lawsuit against social media platform TikTok, alleging it has exploited its users, particularly young people, through manipulative design and addictive features. The suit accuses the app of prioritizing engagement over safety and well-being.  **Key Points:**  GÃƒâ€¡ÃƒÂ³ Minnesota is suing TikTok for allegedly exploiting its users, particularly young people. GÃƒâ€¡ÃƒÂ³ The lawsuit claims the app's design and features are intended to maximize engagement at the expense of user safety and well-being. GÃƒâ€¡ÃƒÂ³ The suit specifically targets TikTok's use of algorithm-driven "For You" page, which prioritizes content that encourages prolonged use.  **Takeaways:**  1. This lawsuit marks a significant escalation in government efforts to regulate social media platforms, highlighting concerns over their impact on young users. 2. The case may set a precedent for future lawsuits against other social media companies accused of exploiting user data or engaging in manipulative practices.  **Sources**:  * "This isn't about free speech. I'm sure they're gonna holler that': Minnesota sues TikTok, accusing it of preying on the young" (Fortune.com) https://fortune.com/2025/08/20/tiktok-minnesota-free-speech-addiction-social-media/ 

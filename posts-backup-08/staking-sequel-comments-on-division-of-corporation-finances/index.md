@@ -1,0 +1,12 @@
+---
+title: "Staking Sequel ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ Comments on Division of Corporation FinanceÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Statement on Certain Liquid Staking Activities'"
+date: "2025-08-19T18:26:42"
+category: "Markets"
+slug: "staking-sequel-comments-on-division-of-corporation-finances"
+source_urls:
+  - "https://www.sec.gov/newsroom/speeches-statements/peirce-staking-sequel-080525"
+seo:
+  keywords: ["news", "markets", "brief"]
+
+---
+**SEC Commissioner Weighs in on Crypto Liquid Staking**  The U.S. Securities and Exchange Commission (SEC) is closely examining the intersection of traditional finance and blockchain technology. In a recent statement, Commissioner Hester Peirce commented on the Division of Corporation Finance's views on certain liquid staking activities.  **Key Points:**  * The SEC is scrutinizing the concept of "liquid staking," which allows users to stake their cryptocurrency without forfeiting control. * Commissioner Peirce weighed in on the implications of this practice, noting that it raises questions about securities law. * The SEC is considering whether liquid staking activities could be considered a new form of investment contract.  **Takeaways:**  1. The SEC's focus on liquid staking highlights the growing importance of blockchain technology in traditional finance. 2. As regulatory bodies continue to grapple with the nuances of crypto, investors should remain vigilant about potential changes in securities law.  **Sources:** [www.sec.gov/newsroom/speeches-statements/peirce-staking-sequel-080525](https://www.sec.gov/newsroom/speeches-statements/peirce-staking-sequel-080525) 
