@@ -1,5 +1,6 @@
 baseURL = "https://hashnhedge.com/"
 title = "Hash & Hedge"
+theme = "tableless"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true

@@ -1,0 +1,115 @@
+{{- partial "header-home.html" . -}}
+
+<section class="tb-feature-posts">
+
+{{ range first 4 (where .Site.Pages "Type" "post" )}}
+  <div>
+    <a href="{{ .RelPermalink }}" class="tb-post-img" title="Link para o post {{ .Title}}" style="background-image: url({{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }})">
+    </a>
+    <span class="tb-taxono">
+      <span class="tb-categ-list">
+      {{ range .Params.categories }}
+      <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="tb-categ-flag">{{ . }}</a>
+      {{ end }}
+      </span>
+      <span class="tb-flag-list">
+      {{ range .Params.tags }}
+      <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="tb-tag-flag">{{ . }}</a>
+      {{ end }}
+      </span>
+    </span>
+    <h1>
+      <a href="{{ .RelPermalink }}" class="tb-lnk-feature-post">{{ .Title }}</a>
+    </h1>
+    {{ partial "byauthor.html" . }}
+  </div>
+{{end}}
+</section>
+
+<a href="{{ .Site.BaseURL }}todos-os-posts/" class="tb-btn tb-btn-seeall">Ver todos os Artigos</a>
+
+<section class="tb-post-list">
+  <div class="tb-container">
+    {{ range first 3 (after 4 .Pages)}}
+      {{ partial "postbox.html" . }}
+    {{end}}
+  </div>
+</section>
+
+<!-- <section class="tb-banner-home">
+  <div class="tb-banner-inner">
+    <div id='div-gpt-ad-1506041417420-1'>
+        <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1506041417420-1'); });
+        </script>
+        </div>
+
+    <script class='__lxGc__' type='text/javascript'>
+    ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_607086']={'i':__lxGc__.b++};
+    </script>
+  </div>
+</section>
+-->
+
+<!-- <div class="tb-home-banner">
+    <script class='__lxGc__' type='text/javascript'>
+    ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_609049']={'i':__lxGc__.b++};
+    </script>
+</div> -->
+
+
+<section class="tb-posts-categs">
+
+  <nav>
+    <h2>JavaScript</h2>
+    <ul>
+    {{ range first 5 .Site.Taxonomies.categories.javascript }}
+        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-js">{{ .Page.Title }}</a></li>
+    {{ end }}
+    </ul>
+  </nav>
+
+  <nav>
+    <h2>CSS</h2>
+    <ul>
+    {{ range first 5 .Site.Taxonomies.categories.css }}
+        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-css">{{ .Page.Title }}</a></li>
+    {{ end }}
+    </ul>
+  </nav>
+
+  <nav>
+    <h2>ReactJS</h2>
+    <ul>
+    {{ range first 5 .Site.Taxonomies.tags.reactjs }}
+        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-react">{{ .Page.Title }}</a></li>
+    {{ end }}
+    </ul>
+  </nav>
+
+  <nav>
+    <h2>Design</h2>
+    <ul>
+    {{ range first 5 .Site.Taxonomies.categories.design }}
+        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-design">{{ .Page.Title }}</a></li>
+    {{ end }}
+    </ul>
+  </nav>
+</section>
+
+<section class="tb-comuna">
+  <h2>Participe da comunidade</h2>
+  <p>Eventos e encontros sobre desenvolvimento web, design e processos/agile. <br>Você pode começar por aqui:</p>
+
+  <ul>
+    <li><a rel="noopener" class="tb-comuna-banner" id="tb-banner-jssp" href="https://conteudo.frontinsampa.com.br/sampa/?utm_source=tableless&utm_medium=banner_tableless"><img src="images/frontin%20sampa.png"></a></li>
+    <li><a rel="noopener" class="tb-comuna-banner" id="tb-banner-femugsp" href="https://instagram.com/elasprogramam/?utm_source=tableless&utm_medium=banner_tableless"><img src="images/elas%20programam.png"></a></li>
+    <li><a rel="noopener" class="tb-comuna-banner" id="tb-banner-reactjssp" href="https://discord.com/invite/wagxzStdcR/?utm_source=tableless&utm_medium=banner_tableless"><img src="images/rafa%20ballerini.png"></a></li>
+    <li><a rel="noopener" class="tb-comuna-banner" id="tb-banner-codamos" href="https://thedevconf.com/?utm_source=tableless&utm_medium=banner_tableless"><img src="images/the%20dev%20conf.png"></a></li>
+    <li><a rel="noopener" class="tb-comuna-banner" id="tb-banner-csssp" href="https://todasasletras.org/?utm_source=tableless&utm_medium=banner_tableless"><img src="images/todas%20as%20letras.png"></a></li>
+    <li><a rel="noopener" class="tb-comuna-banner" id="tb-banner-processosdev" href="https://frontendbr.com.br/?utm_source=tableless&utm_medium=banner_tableless"><img src="images/front%20end%20brasil.png"></a></li>
+  </ul>
+
+</section>
+
+{{- partialCached "footer-home.html" . -}}

@@ -1,0 +1,3 @@
+    {{with .Params.authors}}
+    <span class="tb-author">por <a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
+    {{end}}

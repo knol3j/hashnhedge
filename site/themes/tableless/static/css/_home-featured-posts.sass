@@ -1,0 +1,102 @@
+.tb-feature-posts 
+  padding: 50px 20px !important
+  max-width: 1240px
+  margin: 0 auto
+  overflow: hidden
+
+  div
+    display: none
+    margin-bottom: 25px
+  
+    &:first-child
+      display: block
+      text-align: center
+    
+    .tb-taxono
+      display: none
+
+    h1
+      font: 800 2rem/1.55 $fontFamily
+
+      a
+        text-decoration: none
+        color: #000
+        &:hover
+          color: $red
+
+    .tb-post-img
+      display: none
+
+////
+// Big Screens
+////
+@media #{$break-desk}
+  .tb-feature-posts
+    padding: 100px 0 !important
+
+    div
+      overflow: hidden
+      display: block
+      position: relative
+      padding-bottom: 14px
+
+      .tb-taxono
+        position: absolute
+        bottom: 3px
+        transform: translateY(0)
+
+      h1
+        padding-top: 10px
+        font: 800 1.1rem/1.45 $fontFamily
+        overflow: hidden
+
+        a
+          display: block
+
+      .tb-post-img
+        float: left
+        display: flex
+        font-size: 0
+        margin-right: 27px
+        width: 280px
+        height: 160px
+        // background-color: rgba(248, 170, 28, 0.6)
+        // background-blend-mode: hard-light
+        // animation: none
+
+      .tb-author
+        padding-top: 20px
+
+      &:first-child
+        width: 620px
+        min-height: 520px
+        float: left
+        margin-right: 30px
+        text-align: left
+
+        .tb-taxono
+          position: static
+          transform: translateY(-13px)
+
+        .tb-author
+          padding-left: 20px
+          padding-right: 20px
+
+        h1
+          font: 300 2.18rem/1.45 $fontFamily
+          padding-top: 30px
+          padding-left: 20px
+          text-align: left
+
+        .tb-post-img
+          float: none
+          margin-right: 0
+          width: 100%
+          height: 335px
+          overflow: hidden
+          display: block
+          
+
+          img
+            width: 110%
+            height: auto

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html class="Type-is-{{ .Type }} Kind-is-{{ .Kind }} Section-is-{{ .Section }}" lang='{{ .Site.LanguageCode | default "en-us" }}' prefix='og: https://ogp.me/ns# fb: https://ogp.me/ns/fb#'>
+<head>
+  <title>
+   {{ .Site.Title }} - {{ .Site.Params.tagline }}
+  </title>
+  
+  {{if .IsHome}}
+  <meta property="og:type" content="website" />
+  <meta name="description" content="{{ .Site.Params.description}}">
+
+  <script type='application/ld+json'>
+    {
+      "@context": "https://www.schema.org",
+      "@type": "WebSite",
+      "name": "{{.Site.Title}}",
+      "alternateName": "Hash & Hedge",
+      "url": "{{ .Site.BaseURL}}",
+      "description": "{{ .Site.Title }} - {{ .Site.Params.description}}",
+      "publisher": "Hash & Hedge",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://duckduckgo.com/?sites=hashnhedge.com&q={search_term}&kl=en-us&kz=1&ky=e&k8=g&k1=-1&kj=w&x=0&y=0&ia=web",
+        "query-input": "required name=search_term" }
+      }
+  </script>
+  {{end}}
+
+  {{- partialCached "head.html" . -}}
+  
+</head>
+<body>
+
+<header id="tb-header-home">
+    <a href="{{ .Site.BaseURL }}" class="tb-logo">
+      <img src="{{ .Site.BaseURL }}{{ .Site.Params.logo }}" alt="Hash & Hedge Logo">
+    </a>
+
+    <ul class="tb-channels">
+      <li>
+        <form class="tb-search" name="x" action="//duckduckgo.com/">
+          <input type="hidden" value="hashnhedge.com" name="sites"></input>
+          <input type="hidden" value="en-us" name="kl"></input>
+          <input type="hidden" value="1" name="kz"></input>
+          <input type="hidden" value="e" name="ky"></input>
+          <input type="hidden" value="g" name="k8"></input>
+          <input type="hidden" value="-1" name="k1"></input>
+          <input type="hidden" value="w" name="kj"></input>
+          <input type="text" placeholder="Search" name="q"></input>
+          <input type="image" src="{{ .Site.BaseURL }}images/search.svg">
+        </form>
+      </li>
+      {{ with .Site.Params.twitter }}
+      <li><a href="https://twitter.com/{{ . }}" class="tb-lnk-social-twitter"><img src="{{ $.Site.BaseURL }}images/logo-twitter.png" alt="Twitter"></a></li>
+      {{ end }}
+      <li><a href="{{ "/index.xml" | absURL }}" class="tb-lnk-social-rss"><img src="{{ .Site.BaseURL }}images/logo-rss.png" alt="RSS Feed"></a></li>
+    </ul>
+
+    {{- partialCached "menu-header.html" . -}}
+    
+</header>

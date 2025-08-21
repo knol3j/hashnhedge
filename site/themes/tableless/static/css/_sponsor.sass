@@ -1,0 +1,96 @@
+.tb-sponsor-paragraph
+  padding: 20px
+  margin: 30px 0 90px
+  border-top: 2px solid rgba(0, 0, 0, .2)
+  border-bottom: 2px solid rgba(0, 0, 0, .2)
+  display: flex
+  justify-content: center
+  justify-items: center
+  align-items: center
+
+  a
+    flex: 1 0 150px
+    display: block
+    max-width: 150px
+    margin: 0 30px 0 0
+
+  img
+    margin: 0 20px 0 0
+
+  p
+    strong
+      text-transform: uppercase
+      color: $red
+
+    a
+      display: inline-block
+      text-decoration: none
+      padding: 0
+      margin: 0
+
+.tb-sponsors-header
+  display: none
+
+
+.tb-sponsors-footer
+  text-align: center
+  max-width: 1000px
+  margin: 140px auto 50px
+
+  p
+    font-style: italic
+    margin-bottom: 20px
+
+
+  li
+    max-width: 100px
+    width: 100%
+    list-style: none
+    display: inline-block
+    vertical-align: middle
+    margin: 0 10px
+    a
+      opacity: .8
+      transition: opacity linear .15s
+
+      &:hover
+        opacity: 1
+
+  img
+    width: 100%
+    max-width: 150px
+    max-height: 90px
+
+
+@media #{$break-desk}
+
+  .tb-sponsors-header
+    display: block
+    position: absolute
+    top: 20px
+    left: 20px
+    font-size: 12px
+    color: rgba(0, 0, 0, .5)
+
+    ul
+      list-style: none
+      display: inline-block
+      vertical-align: middle
+      padding-left: 15px
+
+      li
+        text-align: center
+        display: inline-block
+        vertical-align: middle
+        padding: 0 5px 0 0
+
+        a
+          display: inline-block
+          vertical-align: middle
+          max-width: 60px
+          
+          &[data-sponsor="schoolofnet"]
+            max-width: 80px
+
+        img
+          width: 100%

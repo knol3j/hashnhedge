@@ -1,0 +1,14 @@
+﻿---
+title: "Introducing Copy Trading on BitMEX: Copy the Best Traders in Crypto History"
+date: "2025-08-20T20:54:16"
+category: "Markets"
+summary: ""
+slug: "introducing copy trading on bitmex copy the best traders in "
+source_urls:
+  - "https://blog.bitmex.com/now-live-copy-trading/"
+seo:
+  title: "Introducing Copy Trading on BitMEX: Copy the Best Traders in Crypto History | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+Here is the news brief:  **Headline:** BitMEX Launches Copy Trading Feature  **Summary Meta Description:** BitMEX introduces copy trading, allowing users to replicate trades of top performers in crypto history. This feature aims to democratize access to successful strategies and reduce the barrier to entry for new traders.  **Key Points:**  * Users can select from a list of top-performing traders and replicate their trades * Copy trading is available on all BitMEX markets, including futures and perpetual contracts * Traders are ranked by performance metrics such as profit, return on investment, and maximum drawdown  **Takeaways:**  1. **Democratization of successful strategies:** The introduction of copy trading aims to make it easier for new traders to access proven strategies and reduce the risk of entering the market. 2. **Potential risks:** While copy trading can be a valuable tool for learning from experienced traders, users should remain cautious and do their own research before following any strategy.  **Sources:** https://blog.bitmex.com/now-live-copy-trading/  Note: The original source provides more context on the benefits and limitations of copy trading, as well as details on how to use this feature on BitMEX. 

@@ -1,0 +1,70 @@
+<aside class="tb-aside">
+
+  <!-- /7969368/RetanguloMedio-TopoSidebar -->
+<!--   <div class="tb-banner-sidebar" id='div-gpt-ad-1514953930189-0'>
+    <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1514953930189-0'); });
+    </script>
+  </div>
+ -->
+  <div class="tb-banner-sidebar">
+    <!-- <script data-cfasync="false" type="text/javascript" src="https://www.revupads.com/banner/tag.php?slot=9770401823&width=300&height=250"></script> -->
+
+    <script class='__lxGc__' type='text/javascript'>
+      ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_607085']={'i':__lxGc__.b++};
+    </script>
+  </div>
+
+  <!-- <div class="tb-newsletter">
+    <form action="https://tinyletter.com/tableless" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/tableless', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+      <label for="tlemail">Entre na nossa TinyLetter:</label>
+      <input type="text" placeholder="Qual o seu e-mail?" name="email" id="tlemail" />
+      <input type="hidden" value="1" name="embed"/><input type="submit" value="Inscrever-se" />
+    </form>
+  </div> -->
+
+  {{ $related := .Site.RegularPages.Related . | first 5 }} {{ with $related }}
+  <h2>Você vai gostar de ler:</h2>
+  <ul>
+    {{ range . }}
+    <li><a href="{{ .RelPermalink }}?utm_source=tablelessSidebarRelatedLink" class="tb-sidebarrelated-post">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
+  <h2>Categorias</h2>
+  <ul>
+    {{ range first 10 .Site.Taxonomies.categories.ByCount }}
+    <li><a href="/categories/{{ .Name | urlize }}" class="tb-categ-link">{{ .Name }}</a> ({{ .Count }})</li>
+    {{ end }}
+  </ul>
+
+<!--   <h2>Últimos posts</h2>
+  <ul>
+    {{ range first 5 .Site.Pages }}
+    <li><a href="{{ .RelPermalink }}/?utm_source=tablelessSidebarLatestLinks" class="tb-latestpost-link">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+
+ -->  <br><br>
+
+  <div class="tb-banner-sidebar tb-banner-bottom">
+
+  <!-- <script data-cfasync="false" type="text/javascript" src="https://www.revupads.com/banner/tag.php?slot=2762140343&width=300&height=600"></script> -->
+
+
+    <!-- /7969368/RetanguloMedio-MiddleSidebar -->
+<!--     <div id='div-gpt-ad-1545588863020-0' style='height:600px; width:300px;'>
+      <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1545588863020-0'); });
+    </script>
+    </div>
+ -->
+    <script async type='text/javascript' src='//s.clickiocdn.com/t/common_258.js'></script>
+    <script class='__lxGc__' type='text/javascript'>
+    ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_606621']={'i':__lxGc__.b++};
+    </script>
+
+    </div>
+
+  </aside>

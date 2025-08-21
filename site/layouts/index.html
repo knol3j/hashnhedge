@@ -1,0 +1,84 @@
+{{- partial "header-home.html" . -}}
+
+<section class="tb-feature-posts">
+
+{{ range first 4 (where .Site.Pages "Type" "posts" )}}
+  <div>
+    <a href="{{ .RelPermalink }}" class="tb-post-img" title="Link para o post {{ .Title}}" style="background-image: url({{ with .Params.image }}{{ . }}{{ else }}/images/missing-img.png{{ end }})">
+    </a>
+    <span class="tb-taxono">
+      <span class="tb-categ-list">
+      {{ range .Params.categories }}
+      <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="tb-categ-flag">{{ . }}</a>
+      {{ end }}
+      </span>
+      <span class="tb-flag-list">
+      {{ range .Params.tags }}
+      <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="tb-tag-flag">{{ . }}</a>
+      {{ end }}
+      </span>
+    </span>
+    <h1>
+      <a href="{{ .RelPermalink }}" class="tb-lnk-feature-post">{{ .Title }}</a>
+    </h1>
+    {{ partial "byauthor.html" . }}
+  </div>
+{{end}}
+</section>
+
+<a href="{{ .Site.BaseURL }}posts/" class="tb-btn tb-btn-seeall">View All Articles</a>
+
+<section class="tb-post-list">
+  <div class="tb-container">
+    {{ range first 3 (after 4 (where .Site.Pages "Type" "posts"))}}
+      {{ partial "postbox.html" . }}
+    {{end}}
+  </div>
+</section>
+
+<section class="tb-posts-categs">
+
+  <nav>
+    <h2>Markets</h2>
+    <ul>
+    {{ range first 5 (where .Site.Pages "Params.category" "Markets") }}
+        <li><a href="{{ .Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-js">{{ .Title }}</a></li>
+    {{ end }}
+    </ul>
+  </nav>
+
+  <nav>
+    <h2>Technology</h2>
+    <ul>
+    {{ range first 5 (where .Site.Pages "Params.category" "Technology") }}
+        <li><a href="{{ .Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-css">{{ .Title }}</a></li>
+    {{ end }}
+    </ul>
+  </nav>
+
+  <nav>
+    <h2>Security</h2>
+    <ul>
+    {{ range first 5 (where .Site.Pages "Params.category" "Security") }}
+        <li><a href="{{ .Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-react">{{ .Title }}</a></li>
+    {{ end }}
+    </ul>
+  </nav>
+
+  <nav>
+    <h2>Recent Posts</h2>
+    <ul>
+    {{ range first 5 (where .Site.Pages "Type" "posts") }}
+        <li><a href="{{ .Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-design">{{ .Title }}</a></li>
+    {{ end }}
+    </ul>
+  </nav>
+</section>
+
+<section class="tb-comuna">
+  <h2>About Hash & Hedge</h2>
+  <p>{{ .Site.Params.tagline }}</p>
+  <p>{{ .Site.Params.description }}</p>
+</section>
+
+{{- partialCached "footer-home.html" . -}}
