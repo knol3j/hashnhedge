@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:27:25'"
+date: "2025-08-19T18:27:25"
+"
 image: "/images/posts/oregon-man-charged-in-rapper-bot-ddos-service.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "oregon-man-charged-in-rapper-bot-ddos-service"

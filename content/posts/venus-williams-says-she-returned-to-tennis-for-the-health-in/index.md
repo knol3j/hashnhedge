@@ -1,5 +1,6 @@
 ---
-title: "Venus Williams says she returned to tennis for the health insurance ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â even after earning $42 million'"
+title: "Venus Williams says she returned to tennis for the health insurance ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â even after earning $42 million'
+"
 date: "2025-08-19T18:25:13"
 category: "Markets"
 slug: "venus-williams-says-she-returned-to-tennis-for-the-health-in"

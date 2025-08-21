@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-18T14:39:36'"
+date: "2025-08-18T14:39:36"
+"
 image: "/images/posts/how-much-do-electric-car-batteries-degrade.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "how-much-do-electric-car-batteries-degrade"

@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:15:39'"
+date: "2025-08-19T18:15:39"
+"
 image: "/images/posts/brazil-to-hold-first-hearing-on-proposed-19-billion-bitcoin.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "brazil-to-hold-first-hearing-on-proposed-19-billion-bitcoin-"

@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:36:04'"
+date: "2025-08-19T18:36:04"
+"
 image: "/images/posts/how-otel-community-day-enriched-my-open-source-career-a-tale.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "how-otel-community-day-enriched-my-open-source-career-a-tale"

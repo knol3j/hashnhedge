@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:26:30'"
+date: "2025-08-19T18:26:30"
+"
 image: "/images/posts/databricks-says-its-valued-at-over-100-billion-in-latest-fun.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "databricks-says-its-valued-at-over-100-billion-in-latest-fun"

@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:43:16'"
+date: "2025-08-19T18:43:16"
+"
 image: "/images/posts/trumps-police-takeover-of-dc-has-a-surprising-casualty-resta.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "trumps-police-takeover-of-dc-has-a-surprising-casualty-resta"

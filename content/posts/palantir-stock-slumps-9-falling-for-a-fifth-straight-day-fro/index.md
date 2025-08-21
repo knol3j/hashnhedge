@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:25:56'"
+date: "2025-08-19T18:25:56"
+"
 image: "/images/posts/palantir-stock-slumps-9-falling-for-a-fifth-straight-day-fro.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "palantir-stock-slumps-9-falling-for-a-fifth-straight-day-fro"

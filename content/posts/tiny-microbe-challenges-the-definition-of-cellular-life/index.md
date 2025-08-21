@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T19:52:39'"
+date: "2025-08-19T19:52:39"
+"
 image: "/images/posts/tiny-microbe-challenges-the-definition-of-cellular-life.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "tiny-microbe-challenges-the-definition-of-cellular-life"

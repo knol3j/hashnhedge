@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:24:45'"
+date: "2025-08-19T18:24:45"
+"
 image: "/images/posts/btc-and-eth-aths-where-to-next.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "btc-and-eth-aths-where-to-next"

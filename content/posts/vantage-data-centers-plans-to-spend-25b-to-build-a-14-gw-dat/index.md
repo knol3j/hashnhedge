@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T20:41:57'"
+date: "2025-08-19T20:41:57"
+"
 image: "/images/posts/vantage-data-centers-plans-to-spend-25b-to-build-a-14-gw-dat.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "vantage-data-centers-plans-to-spend-25b-to-build-a-14-gw-dat"

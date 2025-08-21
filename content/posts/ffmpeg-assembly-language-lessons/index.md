@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-18T14:39:45'"
+date: "2025-08-18T14:39:45"
+"
 image: "/images/posts/ffmpeg-assembly-language-lessons.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "ffmpeg-assembly-language-lessons"

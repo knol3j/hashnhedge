@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:17:55'"
+date: "2025-08-19T18:17:55"
+"
 image: "/images/posts/personal-superintelligence-for-everyone.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "personal-superintelligence-for-everyone"

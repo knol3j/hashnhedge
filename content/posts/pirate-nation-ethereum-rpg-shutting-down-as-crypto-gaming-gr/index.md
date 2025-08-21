@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:22:08'"
+date: "2025-08-19T18:22:08"
+"
 image: "/images/posts/pirate-nation-ethereum-rpg-shutting-down-as-crypto-gaming-gr.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "pirate-nation-ethereum-rpg-shutting-down-as-crypto-gaming-gr"

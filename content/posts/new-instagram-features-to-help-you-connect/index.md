@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:17:38'"
+date: "2025-08-19T18:17:38"
+"
 image: "/images/posts/new-instagram-features-to-help-you-connect.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "new-instagram-features-to-help-you-connect"

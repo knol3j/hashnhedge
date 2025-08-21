@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-18T14:44:44'"
+date: "2025-08-18T14:44:44"
+"
 image: "/images/posts/trump-considering-11-candidates-for-fed-chair-including-davi.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "trump-considering-11-candidates-for-fed-chair-including-davi"

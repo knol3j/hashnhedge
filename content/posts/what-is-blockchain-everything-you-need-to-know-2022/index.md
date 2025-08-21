@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:13:46'"
+date: "2025-08-19T18:13:46"
+"
 image: "/images/posts/what-is-blockchain-everything-you-need-to-know-2022.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "what-is-blockchain-everything-you-need-to-know-2022"

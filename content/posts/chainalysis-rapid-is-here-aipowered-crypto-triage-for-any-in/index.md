@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:23:03'"
+date: "2025-08-19T18:23:03"
+"
 image: "/images/posts/chainalysis-rapid-is-here-aipowered-crypto-triage-for-any-in.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "chainalysis-rapid-is-here-aipowered-crypto-triage-for-any-in"

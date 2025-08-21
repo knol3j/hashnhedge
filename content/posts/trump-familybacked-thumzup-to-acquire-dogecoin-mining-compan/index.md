@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:21:57'"
+date: "2025-08-19T18:21:57"
+"
 image: "/images/posts/trump-familybacked-thumzup-to-acquire-dogecoin-mining-compan.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "trump-familybacked-thumzup-to-acquire-dogecoin-mining-compan"

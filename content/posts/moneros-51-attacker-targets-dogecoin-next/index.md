@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:41:19'"
+date: "2025-08-19T18:41:19"
+"
 image: "/images/posts/moneros-51-attacker-targets-dogecoin-next.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "moneros-51-attacker-targets-dogecoin-next"

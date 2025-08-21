@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:12:05'"
+date: "2025-08-19T18:12:05"
+"
 image: "/images/posts/show-hn-openaireflect-physical-ai-assistant-that-illuminate.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "show-hn-openaireflect-physical-ai-assistant-that-illuminate"

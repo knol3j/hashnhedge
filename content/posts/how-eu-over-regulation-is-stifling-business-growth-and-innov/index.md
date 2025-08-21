@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:17:49'"
+date: "2025-08-19T18:17:49"
+"
 image: "/images/posts/how-eu-over-regulation-is-stifling-business-growth-and-innov.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "how-eu-over-regulation-is-stifling-business-growth-and-innov"

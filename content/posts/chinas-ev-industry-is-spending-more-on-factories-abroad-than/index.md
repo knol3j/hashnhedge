@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:16:36'"
+date: "2025-08-19T18:16:36"
+"
 image: "/images/posts/chinas-ev-industry-is-spending-more-on-factories-abroad-than.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "chinas-ev-industry-is-spending-more-on-factories-abroad-than"

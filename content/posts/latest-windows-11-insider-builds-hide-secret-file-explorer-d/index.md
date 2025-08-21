@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:39:35'"
+date: "2025-08-19T18:39:35"
+"
 image: "/images/posts/latest-windows-11-insider-builds-hide-secret-file-explorer-d.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "latest-windows-11-insider-builds-hide-secret-file-explorer-d"

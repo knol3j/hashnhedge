@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:22:02'"
+date: "2025-08-19T18:22:02"
+"
 image: "/images/posts/dogecoin-and-xrp-are-bleeding-wheres-the-bottom.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "dogecoin-and-xrp-are-bleeding-wheres-the-bottom"

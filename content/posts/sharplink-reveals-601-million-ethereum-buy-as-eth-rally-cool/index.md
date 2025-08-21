@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:22:19'"
+date: "2025-08-19T18:22:19"
+"
 image: "/images/posts/sharplink-reveals-601-million-ethereum-buy-as-eth-rally-cool.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "sharplink-reveals-601-million-ethereum-buy-as-eth-rally-cool"

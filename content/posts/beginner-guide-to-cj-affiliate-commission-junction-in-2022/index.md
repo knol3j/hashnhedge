@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:13:14'"
+date: "2025-08-19T18:13:14"
+"
 image: "/images/posts/beginner-guide-to-cj-affiliate-commission-junction-in-2022.webp"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "beginner-guide-to-cj-affiliate-commission-junction-in-2022"

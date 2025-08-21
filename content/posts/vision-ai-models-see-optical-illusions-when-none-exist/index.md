@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:39:30'"
+date: "2025-08-19T18:39:30"
+"
 image: "/images/posts/vision-ai-models-see-optical-illusions-when-none-exist.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "vision-ai-models-see-optical-illusions-when-none-exist"

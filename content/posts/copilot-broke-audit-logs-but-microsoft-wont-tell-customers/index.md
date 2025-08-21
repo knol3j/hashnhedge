@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T19:52:35'"
+date: "2025-08-19T19:52:35"
+"
 image: "/images/posts/copilot-broke-audit-logs-but-microsoft-wont-tell-customers.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "copilot-broke-audit-logs-but-microsoft-wont-tell-customers"

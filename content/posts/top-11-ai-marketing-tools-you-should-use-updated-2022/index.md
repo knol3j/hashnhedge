@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:13:26'"
+date: "2025-08-19T18:13:26"
+"
 image: "/images/posts/top-11-ai-marketing-tools-you-should-use-updated-2022.webp"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "top-11-ai-marketing-tools-you-should-use-updated-2022"

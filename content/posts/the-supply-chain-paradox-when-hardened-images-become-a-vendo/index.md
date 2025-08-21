@@ -1,15 +1,19 @@
 ---
 
-title: "The Supply Chain Paradox: When Ã¢â‚¬Å“HardenedÃ¢â‚¬Â Images Become a Vendor Lock-in Trap'"
-date: "2025-08-20T15:10:56""
+title: "The Supply Chain Paradox: When Ã¢â‚¬Å“HardenedÃ¢â‚¬Â Images Become a Vendor Lock-in Trap'
+"
+date: "2025-08-20T15:10:56"
+"
 category: "Markets"
 summary: ""
 slug: "the supply chain paradox when hardened images become a vendo"
 source_urls:
   - "https://www.docker.com/blog/hardened-container-images-security-vendor-lock-in/"
 seo:
-  title: "The Supply Chain Paradox: When Ã¢â‚¬Å“HardenedÃ¢â‚¬Â Images Become a Vendor Lock-in Trap | Hash n Hedge'"
-  description: ""
+  title: "The Supply Chain Paradox: When Ã¢â‚¬Å“HardenedÃ¢â‚¬Â Images Become a Vendor Lock-in Trap | Hash n Hedge'
+"
+  description: "
+"
   keywords: ["news", "markets", "brief"]
 
 ---

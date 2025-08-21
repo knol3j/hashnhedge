@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:24:28'"
+date: "2025-08-19T18:24:28"
+"
 image: "/images/posts/solana-etf-frenzy-high-volumes-high-hopes.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "solana-etf-frenzy-high-volumes-high-hopes"

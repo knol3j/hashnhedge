@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:26:03'"
+date: "2025-08-19T18:26:03"
+"
 image: "/images/posts/crypto-stocks-tumble-as-investors-go-into-riskoff-mode.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "crypto-stocks-tumble-as-investors-go-into-riskoff-mode"

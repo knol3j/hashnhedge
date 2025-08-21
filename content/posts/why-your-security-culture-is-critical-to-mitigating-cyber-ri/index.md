@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:29:29'"
+date: "2025-08-19T18:29:29"
+"
 image: "/images/posts/why-your-security-culture-is-critical-to-mitigating-cyber-ri.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "why-your-security-culture-is-critical-to-mitigating-cyber-ri"

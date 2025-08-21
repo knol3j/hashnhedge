@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-18T14:48:08'"
+date: "2025-08-18T14:48:08"
+"
 image: "/images/posts/cloud-ciso-perspectives-new-threat-horizons-details-evolving.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "cloud-ciso-perspectives-new-threat-horizons-details-evolving"

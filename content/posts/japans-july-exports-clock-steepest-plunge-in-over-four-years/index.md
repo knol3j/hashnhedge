@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T19:53:00'"
+date: "2025-08-19T19:53:00"
+"
 image: "/images/posts/japans-july-exports-clock-steepest-plunge-in-over-four-years.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "japans-july-exports-clock-steepest-plunge-in-over-four-years"

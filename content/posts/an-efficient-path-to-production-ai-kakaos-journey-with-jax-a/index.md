@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:20:07'"
+date: "2025-08-19T18:20:07"
+"
 image: "/images/posts/an-efficient-path-to-production-ai-kakaos-journey-with-jax-a.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "an-efficient-path-to-production-ai-kakaos-journey-with-jax-a"

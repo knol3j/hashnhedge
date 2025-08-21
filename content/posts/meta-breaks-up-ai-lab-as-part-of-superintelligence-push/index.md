@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:21:52'"
+date: "2025-08-19T18:21:52"
+"
 image: "/images/posts/meta-breaks-up-ai-lab-as-part-of-superintelligence-push.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "meta-breaks-up-ai-lab-as-part-of-superintelligence-push"

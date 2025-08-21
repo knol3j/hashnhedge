@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:28:59'"
+date: "2025-08-19T18:28:59"
+"
 image: "/images/posts/ny-business-council-discloses-data-breach-affecting-47000-pe.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "ny-business-council-discloses-data-breach-affecting-47000-pe"

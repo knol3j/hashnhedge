@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:17:14'"
+date: "2025-08-19T18:17:14"
+"
 image: "/images/posts/odds-of-trump-tapping-david-zervos-for-fed-chief-jump-on-kal.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "odds-of-trump-tapping-david-zervos-for-fed-chief-jump-on-kal"

@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:38:55'"
+date: "2025-08-19T18:38:55"
+"
 image: "/images/posts/physics-of-badmintons-new-killer-spin-serve.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "physics-of-badmintons-new-killer-spin-serve"

@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:17:26'"
+date: "2025-08-19T18:17:26"
+"
 image: "/images/posts/meta-ai-meets-african-fashion-unveiling-the-first-aiimagined.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "meta-ai-meets-african-fashion-unveiling-the-first-aiimagined"

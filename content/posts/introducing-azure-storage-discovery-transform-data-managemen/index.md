@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:19:21'"
+date: "2025-08-19T18:19:21"
+"
 image: "/images/posts/introducing-azure-storage-discovery-transform-data-managemen.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "introducing-azure-storage-discovery-transform-data-managemen"

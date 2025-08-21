@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:11:54'"
+date: "2025-08-19T18:11:54"
+"
 image: "/images/posts/emacs-as-your-videotrimming-tool.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "emacs-as-your-videotrimming-tool"

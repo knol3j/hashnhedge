@@ -1,8 +1,10 @@
 ---
-title: "Asian powerhouses japan and south korea advance stablecoin r'"
-image: "/images/posts/asian-powerhouses-japan-and-south-korea-advance-stablecoin-r.jpg"
-
+title: 'Asian powerhouses japan and south korea advance stablecoin r'' '
+image: /images/posts/asian-powerhouses-japan-and-south-korea-advance-stablecoin-r.jpg
+date: '2025-08-20'
+slug: asian-powerhouses-japan-and-south-korea-advance-stablecoin-r
 ---
+
 
 Ã¯Â»Â¿---
 title: "Asian powerhouses Japan and South Korea advance stablecoin regulatory efforts"

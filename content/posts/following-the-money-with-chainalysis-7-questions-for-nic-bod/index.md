@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:22:50'"
+date: "2025-08-19T18:22:50"
+"
 image: "/images/posts/following-the-money-with-chainalysis-7-questions-for-nic-bod.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "following-the-money-with-chainalysis-7-questions-for-nic-bod"

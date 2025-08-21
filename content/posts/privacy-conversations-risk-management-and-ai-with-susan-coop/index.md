@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:17:20'"
+date: "2025-08-19T18:17:20"
+"
 image: "/images/posts/privacy-conversations-risk-management-and-ai-with-susan-coop.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "privacy-conversations-risk-management-and-ai-with-susan-coop"

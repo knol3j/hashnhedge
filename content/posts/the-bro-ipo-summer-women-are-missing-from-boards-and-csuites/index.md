@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:43:47'"
+date: "2025-08-19T18:43:47"
+"
 image: "/images/posts/the-bro-ipo-summer-women-are-missing-from-boards-and-csuites.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "the-bro-ipo-summer-women-are-missing-from-boards-and-csuites"

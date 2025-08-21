@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:40:12'"
+date: "2025-08-19T18:40:12"
+"
 image: "/images/posts/alibaba-releases-qwenimageedit-the-image-editing-version-of.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "alibaba-releases-qwenimageedit-the-image-editing-version-of-"

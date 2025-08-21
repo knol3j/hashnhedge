@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:26:22'"
+date: "2025-08-19T18:26:22"
+"
 image: "/images/posts/from-sweet-treats-to-protein-boosts-chains-are-banking-on-be.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "from-sweet-treats-to-protein-boosts-chains-are-banking-on-be"

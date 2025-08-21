@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T19:52:44'"
+date: "2025-08-19T19:52:44"
+"
 image: "/images/posts/bitcoin-sinks-as-concerns-over-inflation-economic-data-mount.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "bitcoin-sinks-as-concerns-over-inflation-economic-data-mount"

@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:26:16'"
+date: "2025-08-19T18:26:16"
+"
 image: "/images/posts/trump-vows-to-target-woke-museums-with-same-playbook-used-on.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "trump-vows-to-target-woke-museums-with-same-playbook-used-on"

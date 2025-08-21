@@ -1,8 +1,10 @@
 ---
-title: "Tokenized assets near 300 billion as wall street quietly flo'"
-image: "/images/posts/tokenized-assets-near-300-billion-as-wall-street-quietly-flo.jpg"
-
+title: 'Tokenized assets near 300 billion as wall street quietly flo'' '
+image: /images/posts/tokenized-assets-near-300-billion-as-wall-street-quietly-flo.jpg
+date: '2025-08-20'
+slug: tokenized-assets-near-300-billion-as-wall-street-quietly-flo
 ---
+
 
 Ã¯Â»Â¿---
 title: "Tokenized assets near $300 billion as Wall Street quietly floods on chain"

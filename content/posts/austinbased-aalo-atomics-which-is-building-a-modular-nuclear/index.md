@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:40:19'"
+date: "2025-08-19T18:40:19"
+"
 image: "/images/posts/austinbased-aalo-atomics-which-is-building-a-modular-nuclear.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "austinbased-aalo-atomics-which-is-building-a-modular-nuclear"

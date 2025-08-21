@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:28:34'"
+date: "2025-08-19T18:28:34"
+"
 image: "/images/posts/elastic-rejects-claims-of-a-zeroday-rce-flaw-in-defend-edr.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "elastic-rejects-claims-of-a-zeroday-rce-flaw-in-defend-edr"

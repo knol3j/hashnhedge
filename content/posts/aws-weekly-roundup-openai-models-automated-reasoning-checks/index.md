@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:18:40'"
+date: "2025-08-19T18:18:40"
+"
 image: "/images/posts/aws-weekly-roundup-openai-models-automated-reasoning-checks.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "aws-weekly-roundup-openai-models-automated-reasoning-checks-"

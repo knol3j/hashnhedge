@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:41:13'"
+date: "2025-08-19T18:41:13"
+"
 image: "/images/posts/ethereum-ico-wallet-moves-15-million-after-10-years.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "ethereum-ico-wallet-moves-15-million-after-10-years"

@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:23:09'"
+date: "2025-08-19T18:23:09"
+"
 image: "/images/posts/the-road-to-crypto-regulation-part-2-stablecoins-at-the-cros.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "the-road-to-crypto-regulation-part-2-stablecoins-at-the-cros"

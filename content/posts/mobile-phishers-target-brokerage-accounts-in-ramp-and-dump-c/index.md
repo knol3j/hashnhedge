@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:27:32'"
+date: "2025-08-19T18:27:32"
+"
 image: "/images/posts/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-c.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-c"

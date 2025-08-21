@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:24:22'"
+date: "2025-08-19T18:24:22"
+"
 image: "/images/posts/dat-stocks-vs-crypto-which-is-the-better-investment.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "dat-stocks-vs-crypto-which-is-the-better-investment"

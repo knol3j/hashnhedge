@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:15:16'"
+date: "2025-08-19T18:15:16"
+"
 image: "/images/posts/encryption-made-for-police-and-military-radios-may-be-easily.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "encryption-made-for-police-and-military-radios-may-be-easily"

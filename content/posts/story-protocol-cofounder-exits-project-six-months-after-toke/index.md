@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:41:25'"
+date: "2025-08-19T18:41:25"
+"
 image: "/images/posts/story-protocol-cofounder-exits-project-six-months-after-toke.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "story-protocol-cofounder-exits-project-six-months-after-toke"

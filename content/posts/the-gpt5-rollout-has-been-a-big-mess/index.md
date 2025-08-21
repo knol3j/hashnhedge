@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:15:10'"
+date: "2025-08-19T18:15:10"
+"
 image: "/images/posts/the-gpt5-rollout-has-been-a-big-mess.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "the-gpt5-rollout-has-been-a-big-mess"

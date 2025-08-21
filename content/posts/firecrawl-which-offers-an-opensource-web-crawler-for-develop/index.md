@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:55:51'"
+date: "2025-08-19T18:55:51"
+"
 image: "/images/posts/firecrawl-which-offers-an-opensource-web-crawler-for-develop.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "firecrawl-which-offers-an-opensource-web-crawler-for-develop"

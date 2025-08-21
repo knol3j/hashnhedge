@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:23:44'"
+date: "2025-08-19T18:23:44"
+"
 image: "/images/posts/kraken-now-live-across-all-30-eea-countries-under-mica.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "kraken-now-live-across-all-30-eea-countries-under-mica"

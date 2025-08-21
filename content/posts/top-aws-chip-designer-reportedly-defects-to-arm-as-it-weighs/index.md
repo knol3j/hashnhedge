@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:39:13'"
+date: "2025-08-19T18:39:13"
+"
 image: "/images/posts/top-aws-chip-designer-reportedly-defects-to-arm-as-it-weighs.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "top-aws-chip-designer-reportedly-defects-to-arm-as-it-weighs"

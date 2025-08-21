@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:13:36'"
+date: "2025-08-19T18:13:36"
+"
 image: "/images/posts/most-frequently-asked-questions-about-affiliate-marketing.webp"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "most-frequently-asked-questions-about-affiliate-marketing"

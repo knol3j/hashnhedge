@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:40:31'"
+date: "2025-08-19T18:40:31"
+"
 image: "/images/posts/bullish-says-it-has-received-all-115b-in-capital-raised-from.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "bullish-says-it-has-received-all-115b-in-capital-raised-from"

@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-18T14:39:26'"
+date: "2025-08-18T14:39:26"
+"
 image: "/images/posts/my-retro-tvs.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "my-retro-tvs"

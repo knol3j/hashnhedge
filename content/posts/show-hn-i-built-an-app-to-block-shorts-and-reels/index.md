@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-18T14:39:40'"
+date: "2025-08-18T14:39:40"
+"
 image: "/images/posts/show-hn-i-built-an-app-to-block-shorts-and-reels.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "show-hn-i-built-an-app-to-block-shorts-and-reels"

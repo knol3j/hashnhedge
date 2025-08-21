@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:43:10'"
+date: "2025-08-19T18:43:10"
+"
 image: "/images/posts/an-excerpt-from-bitcoin-circular-economies-prologue.webp"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "an-excerpt-from-bitcoin-circular-economies-prologue"

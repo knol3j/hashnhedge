@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:19:28'"
+date: "2025-08-19T18:19:28"
+"
 image: "/images/posts/openais-opensource-model-gptoss-on-azure-ai-foundry-and-wind.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "openais-opensource-model-gptoss-on-azure-ai-foundry-and-wind"

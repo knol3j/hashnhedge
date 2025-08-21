@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:11:31'"
+date: "2025-08-19T18:11:31"
+"
 image: "/images/posts/the-forgotten-meaning-of-jerk.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "the-forgotten-meaning-of-jerk"

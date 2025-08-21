@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:17:07'"
+date: "2025-08-19T18:17:07"
+"
 image: "/images/posts/new-york-attorney-general-james-sues-zelle-parent-company-al.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "new-york-attorney-general-james-sues-zelle-parent-company-al"

@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:25:50'"
+date: "2025-08-19T18:25:50"
+"
 image: "/images/posts/lutnick-says-intel-has-to-give-government-equity-in-return-f.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "lutnick-says-intel-has-to-give-government-equity-in-return-f"

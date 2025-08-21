@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:14:56'"
+date: "2025-08-19T18:14:56"
+"
 image: "/images/posts/why-its-a-mistake-to-ask-chatbots-about-their-mistakes.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "why-its-a-mistake-to-ask-chatbots-about-their-mistakes"

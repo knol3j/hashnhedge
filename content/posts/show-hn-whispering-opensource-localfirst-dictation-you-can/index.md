@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-18T14:39:31'"
+date: "2025-08-18T14:39:31"
+"
 image: "/images/posts/show-hn-whispering-opensource-localfirst-dictation-you-can.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "show-hn-whispering-opensource-localfirst-dictation-you-can-"

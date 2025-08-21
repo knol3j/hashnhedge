@@ -1,8 +1,10 @@
 ---
-title: "Microsoft azure ai foundry models and microsoft security cop'"
-image: "/images/posts/microsoft-azure-ai-foundry-models-and-microsoft-security-cop.png"
-
+title: 'Microsoft azure ai foundry models and microsoft security cop'' '
+image: /images/posts/microsoft-azure-ai-foundry-models-and-microsoft-security-cop.png
+date: '2025-08-20'
+slug: microsoft-azure-ai-foundry-models-and-microsoft-security-cop
 ---
+
 
 Ã¯Â»Â¿---
 title: "Microsoft Azure AI Foundry Models and Microsoft Security Copilot achieve ISO/IEC 42001:2023 certification"

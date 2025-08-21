@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:18:57'"
+date: "2025-08-19T18:18:57"
+"
 image: "/images/posts/building-the-frontier-firm-with-microsoft-azure-the-business.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "building-the-frontier-firm-with-microsoft-azure-the-business"

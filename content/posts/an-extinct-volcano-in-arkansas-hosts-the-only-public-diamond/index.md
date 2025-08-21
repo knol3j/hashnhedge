@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:39:08'"
+date: "2025-08-19T18:39:08"
+"
 image: "/images/posts/an-extinct-volcano-in-arkansas-hosts-the-only-public-diamond.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "an-extinct-volcano-in-arkansas-hosts-the-only-public-diamond"

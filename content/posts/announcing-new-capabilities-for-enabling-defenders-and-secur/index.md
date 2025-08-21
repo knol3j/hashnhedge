@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:19:54'"
+date: "2025-08-19T18:19:54"
+"
 image: "/images/posts/announcing-new-capabilities-for-enabling-defenders-and-secur.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "announcing-new-capabilities-for-enabling-defenders-and-secur"

@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T20:30:39'"
+date: "2025-08-19T20:30:39"
+"
 image: "/images/posts/asias-elderly-risk-getting-sicker-for-longer-hotelier-allen.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "asias-elderly-risk-getting-sicker-for-longer-hotelier-allen-"

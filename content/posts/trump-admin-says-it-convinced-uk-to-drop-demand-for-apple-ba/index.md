@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:38:49'"
+date: "2025-08-19T18:38:49"
+"
 image: "/images/posts/trump-admin-says-it-convinced-uk-to-drop-demand-for-apple-ba.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "trump-admin-says-it-convinced-uk-to-drop-demand-for-apple-ba"

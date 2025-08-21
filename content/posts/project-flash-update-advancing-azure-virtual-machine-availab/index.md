@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:19:39'"
+date: "2025-08-19T18:19:39"
+"
 image: "/images/posts/project-flash-update-advancing-azure-virtual-machine-availab.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "project-flash-update-advancing-azure-virtual-machine-availab"

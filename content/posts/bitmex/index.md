@@ -1,16 +1,23 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:24:17'"
+date: "2025-08-19T18:24:17"
+"
 image: "/images/posts/bitmex.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "bitmex-"
 source_urls:
   - "https://blog.bitmex.com/%e5%a6%82%e4%bd%95%e4%bf%9d%e6%8a%a4%e6%82%a8%e7%9a%84-bitmex-%e8%b4%a6%e6%88%b7/"
-title: "ÃƒÂ¥Ã‚Â¦Ã¢â‚¬Å¡ÃƒÂ¤Ã‚Â½Ã¢â‚¬Â¢ÃƒÂ¤Ã‚Â¿Ã‚ÂÃƒÂ¦Ã…Â Ã‚Â¤ÃƒÂ¦Ã¢â‚¬Å¡Ã‚Â¨ÃƒÂ§Ã…Â¡Ã¢â‚¬Å¾ BitMEX ÃƒÂ¨Ã‚Â´Ã‚Â¦ÃƒÂ¦Ã‹â€ Ã‚Â·"
+title: "ÃƒÂ¥Ã‚Â¦Ã¢â‚¬Å¡ÃƒÂ¤Ã‚Â½Ã¢â‚¬Â¢ÃƒÂ¤Ã‚Â¿Ã‚ÂÃƒÂ¦Ã…Â Ã‚Â¤ÃƒÂ¦Ã¢â‚¬Å¡Ã‚Â¨ÃƒÂ§Ã…Â¡Ã¢â‚¬Å¾ BitMEX ÃƒÂ¨Ã‚Â´Ã‚Â¦ÃƒÂ¦Ã‹â€ Ã‚Â·"
 
 ---
 

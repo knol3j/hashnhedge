@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:43:22'"
+date: "2025-08-19T18:43:22"
+"
 image: "/images/posts/home-depot-says-customers-are-putting-off-larger-homeimprove.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "home-depot-says-customers-are-putting-off-larger-homeimprove"

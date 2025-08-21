@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:15:46'"
+date: "2025-08-19T18:15:46"
+"
 image: "/images/posts/federal-reserve-says-us-banks-should-serve-crypto-without-fe.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "federal-reserve-says-us-banks-should-serve-crypto-without-fe"

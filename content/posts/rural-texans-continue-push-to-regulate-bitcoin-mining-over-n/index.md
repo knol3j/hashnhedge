@@ -1,8 +1,10 @@
 ---
-title: "Rural texans continue push to regulate bitcoin mining over n'"
-image: "/images/posts/rural-texans-continue-push-to-regulate-bitcoin-mining-over-n.jpg"
-
+title: 'Rural texans continue push to regulate bitcoin mining over n'' '
+image: /images/posts/rural-texans-continue-push-to-regulate-bitcoin-mining-over-n.jpg
+date: '2025-08-20'
+slug: rural-texans-continue-push-to-regulate-bitcoin-mining-over-n
 ---
+
 
 Ã¯Â»Â¿---
 title: "Rural Texans continue push to regulate Bitcoin mining over noise, quality of life concerns"

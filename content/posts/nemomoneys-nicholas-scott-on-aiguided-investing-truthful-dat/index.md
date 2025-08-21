@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:16:17'"
+date: "2025-08-19T18:16:17"
+"
 image: "/images/posts/nemomoneys-nicholas-scott-on-aiguided-investing-truthful-dat.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "nemomoneys-nicholas-scott-on-aiguided-investing-truthful-dat"

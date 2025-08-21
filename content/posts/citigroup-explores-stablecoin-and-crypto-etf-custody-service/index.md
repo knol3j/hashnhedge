@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:41:31'"
+date: "2025-08-19T18:41:31"
+"
 image: "/images/posts/citigroup-explores-stablecoin-and-crypto-etf-custody-service.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "citigroup-explores-stablecoin-and-crypto-etf-custody-service"

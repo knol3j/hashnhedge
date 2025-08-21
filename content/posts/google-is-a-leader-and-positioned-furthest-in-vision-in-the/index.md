@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:20:26'"
+date: "2025-08-19T18:20:26"
+"
 image: "/images/posts/google-is-a-leader-and-positioned-furthest-in-vision-in-the.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "google-is-a-leader-and-positioned-furthest-in-vision-in-the-"

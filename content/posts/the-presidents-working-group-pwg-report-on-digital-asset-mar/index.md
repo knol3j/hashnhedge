@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:23:15'"
+date: "2025-08-19T18:23:15"
+"
 image: "/images/posts/the-presidents-working-group-pwg-report-on-digital-asset-mar.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "the-presidents-working-group-pwg-report-on-digital-asset-mar"

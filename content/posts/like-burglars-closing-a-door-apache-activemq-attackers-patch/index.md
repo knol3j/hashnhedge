@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:39:24'"
+date: "2025-08-19T18:39:24"
+"
 image: "/images/posts/like-burglars-closing-a-door-apache-activemq-attackers-patch.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "like-burglars-closing-a-door-apache-activemq-attackers-patch"

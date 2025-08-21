@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:23:59'"
+date: "2025-08-19T18:23:59"
+"
 image: "/images/posts/trade-shortcuts-now-live-on-kraken-desktop.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "trade-shortcuts-now-live-on-kraken-desktop"

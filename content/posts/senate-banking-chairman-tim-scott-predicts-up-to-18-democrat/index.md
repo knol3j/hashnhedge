@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:15:52'"
+date: "2025-08-19T18:15:52"
+"
 image: "/images/posts/senate-banking-chairman-tim-scott-predicts-up-to-18-democrat.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "senate-banking-chairman-tim-scott-predicts-up-to-18-democrat"

@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:39:19'"
+date: "2025-08-19T18:39:19"
+"
 image: "/images/posts/dont-want-driveby-ollama-attackers-snooping-on-your-local-ch.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "dont-want-driveby-ollama-attackers-snooping-on-your-local-ch"

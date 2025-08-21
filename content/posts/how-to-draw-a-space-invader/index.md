@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:55:01'"
+date: "2025-08-19T18:55:01"
+"
 image: "/images/posts/how-to-draw-a-space-invader.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "how-to-draw-a-space-invader"

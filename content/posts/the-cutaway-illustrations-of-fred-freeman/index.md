@@ -1,8 +1,10 @@
 ---
-title: "The cutaway illustrations of fred freeman'"
-image: "/images/posts/the-cutaway-illustrations-of-fred-freeman.jpg"
-
+title: 'The cutaway illustrations of fred freeman'' '
+image: /images/posts/the-cutaway-illustrations-of-fred-freeman.jpg
+date: '2025-08-20'
+slug: the-cutaway-illustrations-of-fred-freeman
 ---
+
 
 Ã¯Â»Â¿---
 title: "The Cutaway Illustrations of Fred Freeman"

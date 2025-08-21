@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:12:39'"
+date: "2025-08-19T18:12:39"
+"
 image: "/images/posts/limewire-ai-studio-review-2023-details-pricing-features.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "limewire-ai-studio-review-2023-details-pricing-features"

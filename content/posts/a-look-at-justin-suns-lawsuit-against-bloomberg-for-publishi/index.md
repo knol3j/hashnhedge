@@ -1,6 +1,7 @@
 ---
 category: "Markets"
-date: "2025-08-19T19:53:05'"
+date: "2025-08-19T19:53:05"
+"
 image: "/images/posts/a-look-at-justin-suns-lawsuit-against-bloomberg-for-publishi.png"
 slug: "a-look-at-justin-suns-lawsuit-against-bloomberg-for-publishi"
 source_urls:

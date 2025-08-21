@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:20:15'"
+date: "2025-08-19T18:20:15"
+"
 image: "/images/posts/chromeos-desk-sync-keeps-your-momentum-going-across-devices.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "chromeos-desk-sync-keeps-your-momentum-going-across-devices"

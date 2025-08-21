@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:20:46'"
+date: "2025-08-19T18:20:46"
+"
 image: "/images/posts/the-aipowered-shift-to-living-games-meet-the-customers-and-p.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "the-aipowered-shift-to-living-games-meet-the-customers-and-p"

@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T19:52:50'"
+date: "2025-08-19T19:52:50"
+"
 image: "/images/posts/digital-assets-transforming-finance-in-singapore-podcast-ep.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "digital-assets-transforming-finance-in-singapore-podcast-ep-"

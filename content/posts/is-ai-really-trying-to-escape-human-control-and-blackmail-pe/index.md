@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:14:42'"
+date: "2025-08-19T18:14:42"
+"
 image: "/images/posts/is-ai-really-trying-to-escape-human-control-and-blackmail-pe.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "is-ai-really-trying-to-escape-human-control-and-blackmail-pe"

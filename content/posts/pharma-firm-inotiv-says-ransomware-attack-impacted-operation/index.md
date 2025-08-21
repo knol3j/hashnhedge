@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:28:48'"
+date: "2025-08-19T18:28:48"
+"
 image: "/images/posts/pharma-firm-inotiv-says-ransomware-attack-impacted-operation.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "pharma-firm-inotiv-says-ransomware-attack-impacted-operation"

@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:23:37'"
+date: "2025-08-19T18:23:37"
+"
 image: "/images/posts/xyo-is-available-for-trading.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "xyo-is-available-for-trading"

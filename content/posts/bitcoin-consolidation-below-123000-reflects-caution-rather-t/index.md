@@ -1,8 +1,10 @@
 ---
-title: "Bitcoin consolidation below 123000 reflects caution rather t'"
-image: "/images/posts/bitcoin-consolidation-below-123000-reflects-caution-rather-t.jpg"
-
+title: 'Bitcoin consolidation below 123000 reflects caution rather t'' '
+image: /images/posts/bitcoin-consolidation-below-123000-reflects-caution-rather-t.jpg
+date: '2025-08-20'
+slug: bitcoin-consolidation-below-123000-reflects-caution-rather-t
 ---
+
 
 Ã¯Â»Â¿---
 title: "Bitcoin consolidation below $123,000 reflects caution rather than market weakness"

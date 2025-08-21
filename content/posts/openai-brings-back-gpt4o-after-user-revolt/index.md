@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:14:49'"
+date: "2025-08-19T18:14:49"
+"
 image: "/images/posts/openai-brings-back-gpt4o-after-user-revolt.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "openai-brings-back-gpt4o-after-user-revolt"

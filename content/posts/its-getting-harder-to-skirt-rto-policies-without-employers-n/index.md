@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:15:22'"
+date: "2025-08-19T18:15:22"
+"
 image: "/images/posts/its-getting-harder-to-skirt-rto-policies-without-employers-n.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "its-getting-harder-to-skirt-rto-policies-without-employers-n"

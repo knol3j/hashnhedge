@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:43:59'"
+date: "2025-08-19T18:43:59"
+"
 image: "/images/posts/triangles-are-stamped-all-over-nvidias-920-million-headquart.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "triangles-are-stamped-all-over-nvidias-920-million-headquart"

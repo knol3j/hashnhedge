@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:39:47'"
+date: "2025-08-19T18:39:47"
+"
 image: "/images/posts/how-low-can-colo-go-asks-jll-as-datacenter-vacancy-rates-nea.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "how-low-can-colo-go-asks-jll-as-datacenter-vacancy-rates-nea"

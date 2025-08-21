@@ -1,8 +1,10 @@
 ---
-title: "Dogecoins 23m daily mining profits lure qubic after monero n'"
-image: "/images/posts/dogecoins-23m-daily-mining-profits-lure-qubic-after-monero-n.jpg"
-
+title: 'Dogecoins 23m daily mining profits lure qubic after monero n'' '
+image: /images/posts/dogecoins-23m-daily-mining-profits-lure-qubic-after-monero-n.jpg
+date: '2025-08-20'
+slug: dogecoins-23m-daily-mining-profits-lure-qubic-after-monero-n
 ---
+
 
 Ã¯Â»Â¿---
 title: "DogecoinÃ¢â‚¬â„¢s $2.3M daily mining profits lure Qubic after Monero network takeover"

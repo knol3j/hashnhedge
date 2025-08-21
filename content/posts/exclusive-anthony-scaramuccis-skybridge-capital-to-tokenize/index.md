@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:43:28'"
+date: "2025-08-19T18:43:28"
+"
 image: "/images/posts/exclusive-anthony-scaramuccis-skybridge-capital-to-tokenize.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "exclusive-anthony-scaramuccis-skybridge-capital-to-tokenize-"

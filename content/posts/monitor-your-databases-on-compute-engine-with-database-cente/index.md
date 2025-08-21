@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-18T14:47:43'"
+date: "2025-08-18T14:47:43"
+"
 image: "/images/posts/monitor-your-databases-on-compute-engine-with-database-cente.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "monitor-your-databases-on-compute-engine-with-database-cente"

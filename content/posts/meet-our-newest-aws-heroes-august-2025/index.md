@@ -1,16 +1,23 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:18:33'"
+date: "2025-08-19T18:18:33"
+"
 image: "/images/posts/meet-our-newest-aws-heroes-august-2025.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "meet-our-newest-aws-heroes-august-2025"
 source_urls:
   - "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-august-2025/"
-title: "Meet our newest AWS Heroes ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â August 2025"
+title: "Meet our newest AWS Heroes ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â August 2025"
 
 ---
 

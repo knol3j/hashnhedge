@@ -1,16 +1,19 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:24:04'"
+date: "2025-08-19T18:24:04"
+"
 image: "/images/posts/xbtusd.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "xbtusd-"
 source_urls:
   - "https://blog.bitmex.com/zh_cn-how-to-trade-a-xbt-usd-futures-contract-with-leverage/"
-title: "ÃƒÂ¤Ã‚Â½Ã‚Â¿ÃƒÂ§Ã¢â‚¬ÂÃ‚Â¨ÃƒÂ¦Ã‚ÂÃ‚Â ÃƒÂ¦Ã‚ÂÃ¢â‚¬Â ÃƒÂ¤Ã‚ÂºÃ‚Â¤ÃƒÂ¦Ã‹Å“Ã¢â‚¬Å“ XBT/USD ÃƒÂ¦Ã…â€œÃ…Â¸ÃƒÂ¨Ã‚Â´Ã‚Â§ÃƒÂ¥Ã‚ÂÃ‹â€ ÃƒÂ§Ã‚ÂºÃ‚Â¦"
+title: "ÃƒÂ¤Ã‚Â½Ã‚Â¿ÃƒÂ§Ã¢â‚¬ÂÃ‚Â¨ÃƒÂ¦Ã‚ÂÃ‚Â ÃƒÂ¦Ã‚ÂÃ¢â‚¬Â ÃƒÂ¤Ã‚ÂºÃ‚Â¤ÃƒÂ¦Ã‹Å“Ã¢â‚¬Å“ XBT/USD ÃƒÂ¦Ã…â€œÃ…Â¸ÃƒÂ¨Ã‚Â´Ã‚Â§ÃƒÂ¥Ã‚ÂÃ‹â€ ÃƒÂ§Ã‚ÂºÃ‚Â¦"
 
 ---
 

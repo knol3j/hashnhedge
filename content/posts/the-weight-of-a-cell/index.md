@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-18T14:53:36'"
+date: "2025-08-18T14:53:36"
+"
 image: "/images/posts/the-weight-of-a-cell.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "the-weight-of-a-cell"

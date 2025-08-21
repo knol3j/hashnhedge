@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:22:38'"
+date: "2025-08-19T18:22:38"
+"
 image: "/images/posts/legislated-sanctions-evasion-how-the-garantex-rebrand-grinex.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "legislated-sanctions-evasion-how-the-garantex-rebrand-grinex"

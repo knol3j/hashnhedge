@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:22:14'"
+date: "2025-08-19T18:22:14"
+"
 image: "/images/posts/bitcoin-hashrate-mining-difficulty-soar-while-fees-sink-bloc.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "bitcoin-hashrate-mining-difficulty-soar-while-fees-sink-bloc"

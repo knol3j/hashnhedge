@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:43:52'"
+date: "2025-08-19T18:43:52"
+"
 image: "/images/posts/walmart-recalls-potentially-radioactive-frozen-shrimp-sold-i.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "walmart-recalls-potentially-radioactive-frozen-shrimp-sold-i"

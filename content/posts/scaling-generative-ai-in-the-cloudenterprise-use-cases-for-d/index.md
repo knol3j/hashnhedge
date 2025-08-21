@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:19:34'"
+date: "2025-08-19T18:19:34"
+"
 image: "/images/posts/scaling-generative-ai-in-the-cloudenterprise-use-cases-for-d.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "scaling-generative-ai-in-the-cloudenterprise-use-cases-for-d"

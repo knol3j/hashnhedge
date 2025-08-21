@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-18T14:46:18'"
+date: "2025-08-18T14:46:18"
+"
 image: "/images/posts/introducing-amazon-elastic-vmware-service-for-running-vmware.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "introducing-amazon-elastic-vmware-service-for-running-vmware"

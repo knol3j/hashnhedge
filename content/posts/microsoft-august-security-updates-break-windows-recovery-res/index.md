@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:28:53'"
+date: "2025-08-19T18:28:53"
+"
 image: "/images/posts/microsoft-august-security-updates-break-windows-recovery-res.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "microsoft-august-security-updates-break-windows-recovery-res"

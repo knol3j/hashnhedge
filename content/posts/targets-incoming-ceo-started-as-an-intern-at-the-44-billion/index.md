@@ -1,15 +1,19 @@
 ---
 
-title: "TargetÃ¢â‚¬â„¢s incoming CEO started as an intern at the $44 billion retail giant 20 years agoÃ¢â‚¬â€he advises Gen Z who want to copy him to Ã¢â‚¬Ëœembrace feedbackÃ¢â‚¬â„¢'"
-date: "2025-08-20T15:31:20""
+title: "TargetÃ¢â‚¬â„¢s incoming CEO started as an intern at the $44 billion retail giant 20 years agoÃ¢â‚¬â€he advises Gen Z who want to copy him to Ã¢â‚¬Ëœembrace feedbackÃ¢â‚¬â„¢'
+"
+date: "2025-08-20T15:31:20"
+"
 category: "Markets"
 summary: ""
 slug: "targets incoming ceo started as an intern at the 44 billion "
 source_urls:
   - "https://fortune.com/2025/08/20/targets-incoming-ceo-started-as-an-intern-20-years-ago-career-advise-for-gen-z-who-want-to-copy/"
 seo:
-  title: "TargetÃ¢â‚¬â„¢s incoming CEO started as an intern at the $44 billion retail giant 20 years agoÃ¢â‚¬â€he advises Gen Z who want to copy him to Ã¢â‚¬Ëœembrace feedbackÃ¢â‚¬â„¢ | Hash n Hedge'"
-  description: ""
+  title: "TargetÃ¢â‚¬â„¢s incoming CEO started as an intern at the $44 billion retail giant 20 years agoÃ¢â‚¬â€he advises Gen Z who want to copy him to Ã¢â‚¬Ëœembrace feedbackÃ¢â‚¬â„¢ | Hash n Hedge'
+"
+  description: "
+"
   keywords: ["news", "markets", "brief"]
 
 ---

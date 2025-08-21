@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:25:44'"
+date: "2025-08-19T18:25:44"
+"
 image: "/images/posts/trump-expands-50-steel-and-aluminum-tariffs-to-include-407-a.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "trump-expands-50-steel-and-aluminum-tariffs-to-include-407-a"

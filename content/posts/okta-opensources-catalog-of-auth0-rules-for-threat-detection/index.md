@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:28:21'"
+date: "2025-08-19T18:28:21"
+"
 image: "/images/posts/okta-opensources-catalog-of-auth0-rules-for-threat-detection.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "okta-opensources-catalog-of-auth0-rules-for-threat-detection"

@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:40:37'"
+date: "2025-08-19T18:40:37"
+"
 image: "/images/posts/wyoming-launches-a-stablecoin-frnt-marking-the-first-time-a.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "wyoming-launches-a-stablecoin-frnt-marking-the-first-time-a-"

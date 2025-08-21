@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:18:14'"
+date: "2025-08-19T18:18:14"
+"
 image: "/images/posts/aws-weekly-roundup-single-gpu-p5-instances-advanced-go-drive.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "aws-weekly-roundup-single-gpu-p5-instances-advanced-go-drive"

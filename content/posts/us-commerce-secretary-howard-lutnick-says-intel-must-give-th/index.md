@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:40:01'"
+date: "2025-08-19T18:40:01"
+"
 image: "/images/posts/us-commerce-secretary-howard-lutnick-says-intel-must-give-th.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "us-commerce-secretary-howard-lutnick-says-intel-must-give-th"

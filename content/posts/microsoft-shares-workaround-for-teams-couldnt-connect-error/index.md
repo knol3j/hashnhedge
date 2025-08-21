@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:28:28'"
+date: "2025-08-19T18:28:28"
+"
 image: "/images/posts/microsoft-shares-workaround-for-teams-couldnt-connect-error.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "microsoft-shares-workaround-for-teams-couldnt-connect-error"

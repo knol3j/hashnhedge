@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:33:11'"
+date: "2025-08-19T18:33:11"
+"
 image: "/images/posts/how-scale-to-win-uses-aws-waf-to-block-ddos-events.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "how-scale-to-win-uses-aws-waf-to-block-ddos-events"

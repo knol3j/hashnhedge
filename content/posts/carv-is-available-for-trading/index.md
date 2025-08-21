@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:23:50'"
+date: "2025-08-19T18:23:50"
+"
 image: "/images/posts/carv-is-available-for-trading.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "carv-is-available-for-trading"

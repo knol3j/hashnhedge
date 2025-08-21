@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:16:23'"
+date: "2025-08-19T18:16:23"
+"
 image: "/images/posts/ripples-rlusd-and-donald-trumplinked-usd1-used-in-bullishs-1.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "ripples-rlusd-and-donald-trumplinked-usd1-used-in-bullishs-1"

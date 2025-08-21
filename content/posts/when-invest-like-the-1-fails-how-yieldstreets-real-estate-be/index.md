@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:16:47'"
+date: "2025-08-19T18:16:47"
+"
 image: "/images/posts/when-invest-like-the-1-fails-how-yieldstreets-real-estate-be.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "when-invest-like-the-1-fails-how-yieldstreets-real-estate-be"

@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T19:52:30'"
+date: "2025-08-19T19:52:30"
+"
 image: "/images/posts/agentsmd-open-format-for-guiding-coding-agents.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "agentsmd-open-format-for-guiding-coding-agents"

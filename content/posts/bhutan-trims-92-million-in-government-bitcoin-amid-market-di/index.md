@@ -1,8 +1,10 @@
 ---
-title: "Bhutan trims 92 million in government bitcoin amid market di'"
-image: "/images/posts/bhutan-trims-92-million-in-government-bitcoin-amid-market-di.jpg"
-
+title: 'Bhutan trims 92 million in government bitcoin amid market di'' '
+image: /images/posts/bhutan-trims-92-million-in-government-bitcoin-amid-market-di.jpg
+date: '2025-08-20'
+slug: bhutan-trims-92-million-in-government-bitcoin-amid-market-di
 ---
+
 
 Ã¯Â»Â¿---
 title: "Bhutan trims $92 million in government Bitcoin amid market dip"

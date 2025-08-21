@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:56:03'"
+date: "2025-08-19T18:56:03"
+"
 image: "/images/posts/the-ghosts-of-2007-and-the-graybeard-nifty-50-bofa-looks-at.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "the-ghosts-of-2007-and-the-graybeard-nifty-50-bofa-looks-at-"

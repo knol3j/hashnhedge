@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:39:41'"
+date: "2025-08-19T18:39:41"
+"
 image: "/images/posts/to-heck-with-export-controls-nvidia-reportedly-plotting-cutd.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "to-heck-with-export-controls-nvidia-reportedly-plotting-cutd"

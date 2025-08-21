@@ -1,16 +1,23 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:22:25'"
+date: "2025-08-19T18:22:25"
+"
 image: "/images/posts/bullish-takes-115-billion-in-ipo-proceeds-via-stablecoins-mostly-on-solana.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "bullish-takes-115-billion-in-ipo-proceeds-via-stablecoins-mostly-on-solana"
 source_urls:
   - "https://decrypt.co/335864/bullish-takes-1-15-billion-in-ipo-proceeds-via-stablecoins-mostly-on-solana"
-title: "Bullish Takes $1.15 Billion in IPO Proceeds via Stablecoins ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Mostly on Solana"
+title: "Bullish Takes $1.15 Billion in IPO Proceeds via Stablecoins ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Mostly on Solana"
 
 ---
 

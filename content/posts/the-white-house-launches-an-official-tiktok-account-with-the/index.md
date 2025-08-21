@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:55:58'"
+date: "2025-08-19T18:55:58"
+"
 image: "/images/posts/the-white-house-launches-an-official-tiktok-account-with-the.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "the-white-house-launches-an-official-tiktok-account-with-the"

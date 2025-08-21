@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:29:34'"
+date: "2025-08-19T18:29:34"
+"
 image: "/images/posts/pypi-blocks-1800-expireddomain-emails-to-prevent-account-tak.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "pypi-blocks-1800-expireddomain-emails-to-prevent-account-tak"

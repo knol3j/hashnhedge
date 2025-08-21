@@ -1,8 +1,10 @@
 ---
-title: "Ethereum captures 77 of 375 billion inflows while bitcoin tr'"
-image: "/images/posts/ethereum-captures-77-of-375-billion-inflows-while-bitcoin-tr.jpg"
-
+title: 'Ethereum captures 77 of 375 billion inflows while bitcoin tr'' '
+image: /images/posts/ethereum-captures-77-of-375-billion-inflows-while-bitcoin-tr.jpg
+date: '2025-08-20'
+slug: ethereum-captures-77-of-375-billion-inflows-while-bitcoin-tr
 ---
+
 
 Ã¯Â»Â¿---
 title: "Ethereum captures 77% of $3.75 billion inflows while Bitcoin trails behind"

@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:33:56'"
+date: "2025-08-19T18:33:56"
+"
 image: "/images/posts/securing-the-supply-chain-at-scale-starting-with-71-importan.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "securing-the-supply-chain-at-scale-starting-with-71-importan"

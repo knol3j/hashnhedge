@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:18:51'"
+date: "2025-08-19T18:18:51"
+"
 image: "/images/posts/openai-open-weight-models-now-available-on-aws.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "openai-open-weight-models-now-available-on-aws"

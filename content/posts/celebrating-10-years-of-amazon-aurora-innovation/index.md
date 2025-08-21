@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:18:27'"
+date: "2025-08-19T18:18:27"
+"
 image: "/images/posts/celebrating-10-years-of-amazon-aurora-innovation.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "celebrating-10-years-of-amazon-aurora-innovation"

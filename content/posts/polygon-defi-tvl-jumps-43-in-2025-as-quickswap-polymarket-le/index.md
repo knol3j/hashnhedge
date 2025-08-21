@@ -1,8 +1,10 @@
 ---
-title: "Polygon defi tvl jumps 43 in 2025 as quickswap polymarket le'"
-image: "/images/posts/polygon-defi-tvl-jumps-43-in-2025-as-quickswap-polymarket-le.jpg"
-
+title: 'Polygon defi tvl jumps 43 in 2025 as quickswap polymarket le'' '
+image: /images/posts/polygon-defi-tvl-jumps-43-in-2025-as-quickswap-polymarket-le.jpg
+date: '2025-08-20'
+slug: polygon-defi-tvl-jumps-43-in-2025-as-quickswap-polymarket-le
 ---
+
 
 Ã¯Â»Â¿---
 title: "Polygon DeFi TVL jumps 43% in 2025 as QuickSwap, Polymarket lead inflows"

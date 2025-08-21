@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:36:46'"
+date: "2025-08-19T18:36:46"
+"
 image: "/images/posts/building-ai-agents-made-easy-with-goose-and-docker.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "building-ai-agents-made-easy-with-goose-and-docker"

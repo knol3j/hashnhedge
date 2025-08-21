@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:15:58'"
+date: "2025-08-19T18:15:58"
+"
 image: "/images/posts/circles-new-gateway-promises-instant-crosschain-usdc-transfe.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "circles-new-gateway-promises-instant-crosschain-usdc-transfe"

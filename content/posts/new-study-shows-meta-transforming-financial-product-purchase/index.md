@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:17:33'"
+date: "2025-08-19T18:17:33"
+"
 image: "/images/posts/new-study-shows-meta-transforming-financial-product-purchase.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "new-study-shows-meta-transforming-financial-product-purchase"

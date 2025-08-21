@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:42:58'"
+date: "2025-08-19T18:42:58"
+"
 image: "/images/posts/the-secrets-behind-matt-odells-bitcoin-empire.webp"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "the-secrets-behind-matt-odells-bitcoin-empire"

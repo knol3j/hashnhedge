@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:11:43'"
+date: "2025-08-19T18:11:43"
+"
 image: "/images/posts/d2-text-to-diagram-tool-now-supports-ascii-renders.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "d2-text-to-diagram-tool-now-supports-ascii-renders"

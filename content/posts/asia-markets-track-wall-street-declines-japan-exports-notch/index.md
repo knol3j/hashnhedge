@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T19:52:54'"
+date: "2025-08-19T19:52:54"
+"
 image: "/images/posts/asia-markets-track-wall-street-declines-japan-exports-notch.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "asia-markets-track-wall-street-declines-japan-exports-notch-"

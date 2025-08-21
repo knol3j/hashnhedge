@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:40:43'"
+date: "2025-08-19T18:40:43"
+"
 image: "/images/posts/source-pylon-which-uses-ai-to-automate-b2b-customer-service.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "source-pylon-which-uses-ai-to-automate-b2b-customer-service-"

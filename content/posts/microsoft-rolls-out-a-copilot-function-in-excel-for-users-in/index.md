@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:40:06'"
+date: "2025-08-19T18:40:06"
+"
 image: "/images/posts/microsoft-rolls-out-a-copilot-function-in-excel-for-users-in.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "microsoft-rolls-out-a-copilot-function-in-excel-for-users-in"

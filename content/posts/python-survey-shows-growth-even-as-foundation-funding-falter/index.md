@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:39:54'"
+date: "2025-08-19T18:39:54"
+"
 image: "/images/posts/python-survey-shows-growth-even-as-foundation-funding-falter.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "python-survey-shows-growth-even-as-foundation-funding-falter"

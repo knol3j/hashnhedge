@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:22:43'"
+date: "2025-08-19T18:22:43"
+"
 image: "/images/posts/the-us-and-canada-join-forces-to-combat-scams-seizing-millio.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "the-us-and-canada-join-forces-to-combat-scams-seizing-millio"

@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:19:15'"
+date: "2025-08-19T18:19:15"
+"
 image: "/images/posts/gpt5-in-azure-ai-foundry-the-future-of-ai-apps-and-agents-st.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "gpt5-in-azure-ai-foundry-the-future-of-ai-apps-and-agents-st"

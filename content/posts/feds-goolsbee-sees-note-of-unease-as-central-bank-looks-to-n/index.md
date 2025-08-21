@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:16:55'"
+date: "2025-08-19T18:16:55"
+"
 image: "/images/posts/feds-goolsbee-sees-note-of-unease-as-central-bank-looks-to-n.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "feds-goolsbee-sees-note-of-unease-as-central-bank-looks-to-n"

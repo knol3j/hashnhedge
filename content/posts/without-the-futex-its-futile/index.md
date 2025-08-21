@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:12:10'"
+date: "2025-08-19T18:12:10"
+"
 image: "/images/posts/without-the-futex-its-futile.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "without-the-futex-its-futile"

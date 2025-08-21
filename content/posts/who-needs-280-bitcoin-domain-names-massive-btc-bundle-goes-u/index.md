@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:21:47'"
+date: "2025-08-19T18:21:47"
+"
 image: "/images/posts/who-needs-280-bitcoin-domain-names-massive-btc-bundle-goes-u.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "who-needs-280-bitcoin-domain-names-massive-btc-bundle-goes-u"

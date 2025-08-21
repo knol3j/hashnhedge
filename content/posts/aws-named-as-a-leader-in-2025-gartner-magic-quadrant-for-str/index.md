@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:18:20'"
+date: "2025-08-19T18:18:20"
+"
 image: "/images/posts/aws-named-as-a-leader-in-2025-gartner-magic-quadrant-for-str.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "aws-named-as-a-leader-in-2025-gartner-magic-quadrant-for-str"

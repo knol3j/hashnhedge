@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:23:21'"
+date: "2025-08-19T18:23:21"
+"
 image: "/images/posts/alkimi-is-available-for-trading.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "alkimi-is-available-for-trading"

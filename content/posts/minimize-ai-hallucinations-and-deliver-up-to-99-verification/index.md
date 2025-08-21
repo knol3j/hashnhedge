@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:18:45'"
+date: "2025-08-19T18:18:45"
+"
 image: "/images/posts/minimize-ai-hallucinations-and-deliver-up-to-99-verification.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "minimize-ai-hallucinations-and-deliver-up-to-99-verification"

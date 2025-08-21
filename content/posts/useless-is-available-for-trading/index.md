@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:23:31'"
+date: "2025-08-19T18:23:31"
+"
 image: "/images/posts/useless-is-available-for-trading.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "useless-is-available-for-trading"

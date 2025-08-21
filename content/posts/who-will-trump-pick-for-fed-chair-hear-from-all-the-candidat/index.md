@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:17:02'"
+date: "2025-08-19T18:17:02"
+"
 image: "/images/posts/who-will-trump-pick-for-fed-chair-hear-from-all-the-candidat.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "who-will-trump-pick-for-fed-chair-hear-from-all-the-candidat"

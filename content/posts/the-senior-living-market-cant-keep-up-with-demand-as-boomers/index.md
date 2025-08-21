@@ -1,10 +1,13 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:26:10'"
+date: "2025-08-19T18:26:10"
+"
 image: "/images/posts/the-senior-living-market-cant-keep-up-with-demand-as-boomers.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "the-senior-living-market-cant-keep-up-with-demand-as-boomers"

@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:18:01'"
+date: "2025-08-19T18:18:01"
+"
 image: "/images/posts/ending-political-electoral-and-social-issue-advertising-in-t.png"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "ending-political-electoral-and-social-issue-advertising-in-t"

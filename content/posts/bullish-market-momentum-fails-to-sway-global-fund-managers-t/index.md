@@ -1,8 +1,10 @@
 ---
-title: "Bullish market momentum fails to sway global fund managers t'"
-image: "/images/posts/bullish-market-momentum-fails-to-sway-global-fund-managers-t.jpg"
-
+title: 'Bullish market momentum fails to sway global fund managers t'' '
+image: /images/posts/bullish-market-momentum-fails-to-sway-global-fund-managers-t.jpg
+date: '2025-08-20'
+slug: bullish-market-momentum-fails-to-sway-global-fund-managers-t
 ---
+
 
 Ã¯Â»Â¿---
 title: "Bullish market momentum fails to sway global fund managers toward crypto, survey shows"

@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:16:29'"
+date: "2025-08-19T18:16:29"
+"
 image: "/images/posts/bessent-says-interviews-for-incredible-group-of-potential-fe.jpeg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "bessent-says-interviews-for-incredible-group-of-potential-fe"

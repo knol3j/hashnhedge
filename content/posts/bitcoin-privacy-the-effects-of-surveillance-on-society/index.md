@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:43:04'"
+date: "2025-08-19T18:43:04"
+"
 image: "/images/posts/bitcoin-privacy-the-effects-of-surveillance-on-society.webp"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "bitcoin-privacy-the-effects-of-surveillance-on-society"

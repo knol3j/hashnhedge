@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:16:04'"
+date: "2025-08-19T18:16:04"
+"
 image: "/images/posts/polkadot-eyes-wall-street-investors-to-close-gap-with-ethere.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "polkadot-eyes-wall-street-investors-to-close-gap-with-ethere"

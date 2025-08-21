@@ -1,10 +1,17 @@
 ---
 category: "Markets"
-date: "2025-08-19T18:24:10'"
+date: "2025-08-19T18:24:10"
+"
 image: "/images/posts/dat.jpg"
 seo:
-  keywords: ""
-  - "news"
+  keywords:
+    - "news"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
+    - "markets"
+    - "brief"
   - "markets"
   - "brief"
 slug: "dat-"
