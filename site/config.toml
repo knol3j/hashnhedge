@@ -8,10 +8,6 @@ hasCJKLanguage = false
 rssLimit = 20
 canonifyURLs = true
 
-# Ensure proper UTF-8 encoding
-[markup]
-  defaultMarkdownHandler = "goldmark"
-
 [pagination]
   pagerSize = 12
 
@@ -27,6 +23,7 @@ canonifyURLs = true
   section = ["HTML", "RSS"]
 
 [markup]
+  defaultMarkdownHandler = "goldmark"
   [markup.goldmark.renderer]
     unsafe = true
   [markup.goldmark.parser]
