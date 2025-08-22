@@ -1,0 +1,83 @@
+#tb-footer
+  background: $gray
+  padding: 45px
+  margin-top: 80px
+
+.tb-for-community
+  text-align: center
+  color: #fff
+  font: 700 1rem $fontFamily
+
+  a
+    color: $red
+    &:hover
+      color: #fff
+      text-decoration: none
+
+.tb-social-links
+  list-style: none
+  text-align: center
+  margin-bottom: 50px
+  li
+    display: inline-block
+
+  a
+    display: inline-block
+    background-repeat: no-repeat
+    background-position: center
+    width: 45px
+    height: 45px
+    text-indent: -8888px
+    overflow: hidden
+
+  a[href*="https://facebook"]
+    background-image: url(../images/social-facebook.svg)
+
+  a[href*="https://twitter"]
+    background-image: url(../images/social-twitter.svg)
+
+  a[href$=".xml"], a.tb-ico-rss
+    background-image: url(../images/social-rss.svg)
+
+  a[href*="https://medium.com"]
+    background-image: url(../images/social-medium.svg)
+
+.tb-nav-footer
+
+  nav
+    flex: 1 0 300px
+    margin: 0 0 30px
+    text-align: center
+
+    a
+      color: #fff
+      text-decoration: none
+      display: block
+      text-transform: uppercase
+      padding-bottom: 15px
+      &:hover
+        color: $red
+
+    h3
+      color: #fff
+      margin-bottom: 15px
+      text-transform: uppercase
+      font: 700 1.4rem $fontFamily
+
+////
+// Big Screen version
+////
+@media #{$break-desk}
+  #tb-footer
+    margin-top: 100px
+
+  .tb-nav-footer
+    display: flex
+    flex-wrap: wrap
+    padding: 70px 0
+    nav
+      margin: 0 15px
+      text-align: left
+  .tb-social-links a
+    margin-right: 15px
+

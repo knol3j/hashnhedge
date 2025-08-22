@@ -1,0 +1,162 @@
+.tb-post
+  @extend .tb-container
+
+  img
+    max-width: 800px
+    width: 100%
+    margin: 0 auto
+    display: block
+
+.tb-post-header
+  @extend .tb-container
+  margin-bottom: 70px
+
+.tb-post-content
+  max-width: 750px
+  
+  .tb-post-article iframe
+    max-width: 100%
+    display: block
+    margin: 0 auto
+
+  p
+    font: 400 1rem/1.7 $fontFamily
+    color: $text-gray
+    letter-spacing: -0.47px
+    margin: 25px 0
+
+  a
+    color: $red
+    word-wrap: break-word
+    &:hover
+      color: #000
+
+  li
+    font: 400 1.1rem/1.5 $fontFamily
+    margin-bottom: 10px
+
+  ul, ol
+    margin-left: 20px
+    margin-bottom: 40px
+
+  h2
+    margin: 50px 0 10px
+    font: 700 2rem $fontFamily
+  h3
+    margin: 50px 0 10px
+    font: 700 1.7rem/1.5 $fontFamily
+  h6
+    margin: 20px 0 10px
+    font-size: .9rem
+
+  blockquote
+    padding: 25px
+    margin: 50px 0
+    display: block
+    position: relative
+
+    &:after
+      content: "''"
+      font: italic 25rem Arial, Serif, Georgia, serif
+      color: rgba(0, 0, 0, .05)
+      position: absolute
+      top: -80px
+      left: -70px
+      z-index: 0
+
+    p
+      font: italic 1.65rem/1.5 Georgia, Times, serif
+      color: #000
+      margin: 0
+      position: relative
+      z-index: 1
+
+.gist
+  max-width: 800px
+
+iframe[sandbox]
+  min-height: 300px
+  display: none
+
+.tb-post .tb-post-content .tb-comments div#disqus_thread iframe[src*="disqusads"]
+  // outline: 1px solid red !important
+  display: none !important
+  opacity: 0 !important
+  visibility: hidden !important
+  height: 1px !important
+  width: 1px !important
+  position: absolute !important
+  top: 0 !important
+  left: 0 !important
+
+p code
+  color: #AB2632
+  display: inline-block
+  vertical-align: middle
+  background: #FBF0F0
+  border-radius: 4px
+  padding: 0 5px
+
+.figcaption_hack
+  display: block
+  font-style: italic
+  text-align: center
+  color: #666
+  margin-bottom: 40px
+
+pre
+  background: #f4f4f4
+  padding: 15px
+  max-width: 100%
+  width: 870px
+  overflow: auto
+
+table
+  width: 100%
+  border-collapse: collapse
+  margin: 25px 0
+
+  td, th
+    text-align: left
+    border: 1px solid rgba(0, 0, 0, .1)
+    padding: 3px 10px
+
+  th
+    font-size: 1.1rem
+
+.tb-post-time-read
+  font-weight: 300
+  display: block
+
+
+////
+// Big Screen version
+////
+@media #{$break-desk}
+  
+  .tb-post-time-read
+    float: right
+
+  .tb-comments
+    margin-top: 100px
+
+  .tb-post
+    display: flex
+
+  .tb-post-header
+    margin-bottom: 150px
+
+  .tb-aside
+    flex: 0 0 360px
+    order: 2
+
+  .tb-post-content
+    padding-left: 30px
+    flex: 1
+    order: 3
+
+    p, li
+      font-size: 1.1rem
+
+  .tb-post-article h2:first-child
+    margin-top: 0

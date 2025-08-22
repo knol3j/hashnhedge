@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html class="Type-is-{{ .Type }} Kind-is-{{ .Kind }} Section-is-{{ .Section }}" lang='{{ .Site.LanguageCode | default "pt-br" }}' prefix='og: https://ogp.me/ns# fb: https://ogp.me/ns/fb#'>
+<head>
+  <title>
+    {{.Title}} - {{.Site.Params.siteName}} - {{ .Site.Params.description}}
+  </title>
+  <meta property="og:type" content="article">
+  <meta name="description" content='{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}'>
+
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5cefe0277feea60012093e56&product=social-analytics' async='async'></script>
+
+  <link rel="canonical" href='{{ if $.Param "canonical" }}{{ $.Param "canonical" }}{{else}}{{.Permalink}}{{end}}'>
+
+  <meta property="og:url" content="{{ .Permalink }}">
+  
+  <meta property="og:title" content="{{ .Title}}">
+  <meta property="og:description" content="{{ .Params.excerpt }}" name="description">
+  <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
+  <meta property="fb:app_id" content="187329465112652">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@tableless">
+  <meta name="twitter:title" content="{{.Title}}">
+  <meta name="twitter:description" content="{{ .Params.excerpt }}">
+  <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
+
+  <script type="application/ld+json">
+    { "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "{{.Title}}",
+      "author": "{{with .Params.authors}}{{ . }}{{end}}",
+      "image": "{{ .Params.image }}",
+      "publisher": {
+        "@type" : "Organization",
+        "name":"{{.Site.Params.siteName}}",
+        "logo":"https://tableless.com.br/images/logo.svg"
+        },
+      "url": "{{ .Permalink }}",
+      "wordCount": "{{ .FuzzyWordCount }}",
+      "keywords": "{{.Params.tags}}",
+      "datePublished": "{{ .Date.Format "02/01/2006"}}",
+      "dateCreated": "{{ .Date.Format "02/01/2006"}}",
+      "articleBody": "{{ .Content }}",
+      "description": "{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end }}"
+    }
+  </script>
+
+  {{- partialCached "head.html" . -}}
+
+</head>
+<body>
+
+  <header id="tb-header">
+  <!-- - partialCached "sponsors/sponsor-header-logos.html" . - -->
+
+    <a href="{{ .Site.BaseURL }}" class="tb-logo"><img src="{{ .Site.BaseURL }}images/logo.svg" alt="Logo tableless"></a>
+    <ul class="tb-channels">
+      <li><a href="http://forum.tableless.com.br/" class="tb-lnk-forum">Acesse nosso <b>Fórum</b></a></li>
+      <li><a href="https://tableless.github.io/iniciantes/" data-cliked="tb-lnk-iniciantes" class="tb-lnk-iniciantes">Guia p/ iniciantes</a></li>
+      <li><a href="https://tableless.com.br/anuncie-no-tableless" class="tb-lnk-anuncie">Anuncie conosco</a></li>
+      <li><a href="https://tableless.com.br/seja-um-autor" class="tb-lnk-sejaauthor">Escreva conosco</a></li>
+      <!-- <li><a href="https://servicos.netlify.com/" class="tb-lnk-psdhtml">PSD para HTML</a></li> -->
+      <li><a href="mailto:contato@tableless.com.br" class="tb-lnk-contato">Fale conosco</a></li>
+      <!-- <li><a href="https://medium.com/tableless/" class="tb-lnk-medium">Acesse nosso <b>Medium</b></a></li> -->
+      <li><a href="https://twitter.com/tableless" class="tb-lnk-social-twitter"><img src="{{ .Site.BaseURL }}images/logo-twitter.png" alt="Link para Twitter"></a></li>
+      <li><a href="https://facebook.com/tablelessbr" class="tb-lnk-social-facebook"><img src="{{ .Site.BaseURL }}images/logo-facebook.png" alt="Link para Facebook"></a></li>
+      <li><a href="https://feeds.feedburner.com/tableless" class="tb-lnk-social-rss"><img src="{{ .Site.BaseURL }}images/logo-rss.png" alt="Link para RSS"></a></li>
+      <li><a href="https://slack-tableless.herokuapp.com/" class="tb-lnk-social-slack"><img src="{{ .Site.BaseURL}}images/logo-slack.png" alt="Link para entrar no Slack do Tableless"></a></li>
+      <li><a href="https://t.me/tableless" class="tb-lnk-social-telegram"><img src="{{ .Site.BaseURL}}images/logo-telegram.png" alt="Entrar no Telegram do Tableless"></a></li>
+    </ul>
+    
+    {{- partialCached "menu-header.html" . -}}
+
+    {{- partialCached "form-search.html" . -}}
+
+  </header>
+

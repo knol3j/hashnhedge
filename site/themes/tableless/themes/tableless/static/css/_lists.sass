@@ -1,0 +1,47 @@
+.tb-list
+  @extend .tb-container
+  display: flex
+  flex-wrap: wrap
+
+.tb-list h1
+  flex: 1 0 100%
+  font: 900 2rem/1 $fontFamily
+  margin-bottom: 70px
+  text-transform: uppercase
+
+  small
+    font: 400 .9rem $fontFamily
+    display: block
+    text-transform: initial
+
+.tb-list-item
+  flex: 1 0 275px
+  margin-bottom: 50px
+
+  a
+    text-decoration: none
+
+    &:hover h2
+      color: $red
+  h2
+    margin: 0 0 10px
+    font: 700 1.1rem $fontFamily
+    color: $gray
+    word-break: break-word
+
+  p
+    color: $text-gray
+    word-break: break-word
+    font: 400 .9rem/1.4 $fontFamily
+
+////
+// Big Screen version
+////
+@media #{$break-desk}
+  .tb-list h1
+    font-size: 3rem
+    line-height: 1.6
+    margin-bottom: 100px
+  
+  .tb-list-item
+    margin: 0 30px 90px 0

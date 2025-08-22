@@ -1,0 +1,8 @@
+.well-known
+.DS_Store
+/public/
+uploads
+html
+.sass-cache
+tb-extras
+resourses
