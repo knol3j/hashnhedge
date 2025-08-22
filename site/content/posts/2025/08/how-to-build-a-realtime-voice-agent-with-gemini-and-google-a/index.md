@@ -1,0 +1,14 @@
+﻿---
+title: "How to build a real-time voice agent with Gemini and Google ADK"
+date: "2025-08-21T16:47:08"
+category: "Markets"
+summary: ""
+slug: "how to build a realtime voice agent with gemini and google a"
+source_urls:
+  - "https://cloud.google.com/blog/products/ai-machine-learning/build-a-real-time-voice-agent-with-gemini-adk/"
+seo:
+  title: "How to build a real-time voice agent with Gemini and Google ADK | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+**Headline** Google Cloud Publishes Guide to Building Real-Time Voice Agents with Gemini and ADK  **Summary Meta Description** Learn how to build advanced, real-time voice agents using Google's Gemini and Agent Development Kit (ADK). This guide provides a step-by-step tutorial on creating conversational AI systems that can handle complex tasks and interact with users in natural language.  **Key Points**  *   The guide uses Gemini and ADK to create a real-time voice agent *   Agents need low-latency, two-way communication, real-time information retrieval, and the ability to handle complex tasks *   The foundational agent is created first, relying on pre-trained knowledge only *   Advanced agents are built by adding tools that allow access to external data and services  **Short Takeaways**  1.  Building real-time voice agents requires a combination of AI capabilities and low-latency communication protocols. 2.  Google's Gemini and ADK provide the necessary tools for developers to create advanced conversational systems.  **Sources** *   [https://cloud.google.com/blog/products/ai-machine-learning/build-a-real-time-voice-agent-with-gemini-adk/](https://cloud.google.com/blog/products/ai-machine-learning/build-a-real-time-voice-agent-with-gemini-adk/) 

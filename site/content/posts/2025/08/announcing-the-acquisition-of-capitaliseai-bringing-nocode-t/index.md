@@ -1,6 +1,6 @@
 ﻿---
 title: "Announcing the acquisition of Capitalise.ai, bringing no-code trading automation to Kraken Pro"
-date: "2025-08-20T20:53:15"
+date: "2025-08-21T16:54:29"
 category: "Markets"
 summary: ""
 slug: "announcing the acquisition of capitaliseai bringing nocode t"
@@ -11,4 +11,4 @@ seo:
   description: ""
   keywords: ["news", "markets", "brief"]
 ---
-Here is the news brief:  **Headline** Kraken Acquires Capitalise.ai for Trading Automation  **Summary Meta Description** Kraken, a leading cryptocurrency exchange, has acquired Capitalise.ai to integrate no-code trading automation capabilities into its Kraken Pro platform. The acquisition aims to enhance user experience and increase efficiency in trading operations.  **Key Points**  * Kraken acquires Capitalise.ai to bring no-code trading automation to its Kraken Pro platform * Integration will enable users to create custom trading strategies without coding knowledge * Move marks a significant enhancement for professional traders on the platform  **Takeaways with Analysis**  1. The acquisition highlights Kraken's commitment to expanding its offerings and improving user experience. 2. No-code trading automation is becoming increasingly relevant in the industry, allowing non-technical users to participate more effectively.  **Sources** https://blog.kraken.com/news/capitalise-ai 
+**Headline** Kraken Acquires Capitalise.ai for No-CODE Trading Automation  **Meta Description** Kraken Pro users will soon gain access to no-code trading automation capabilities after the exchange's acquisition of Capitalise.ai. The deal aims to enhance user experience and efficiency in trading operations.  **Key Points**  * Kraken has acquired Capitalise.ai, a company specializing in no-code trading automation solutions. * No-code trading automation enables users to create custom trading strategies without extensive programming knowledge. * Integration with Kraken Pro is expected to improve user experience and efficiency in trading operations. * The acquisition supports Kraken's mission to provide innovative and accessible cryptocurrency trading services.  **Short Takeaways**  1.  **Enhanced User Experience**: By incorporating no-code trading automation into Kraken Pro, users will be able to streamline their trading activities without needing extensive technical expertise. 2.  **Competitive Advantage**: This strategic move positions Kraken as a leader in the cryptocurrency exchange market by offering cutting-edge solutions to its customers.  **Sources** https://blog.kraken.com/news/capitalise-ai 

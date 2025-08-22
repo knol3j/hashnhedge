@@ -1,18 +1,14 @@
----
-title: Changes to Kubernetes Slack
-date: '2025-08-20'
-category: Markets
-summary: ''
-slug: changes to kubernetes slack
+﻿---
+title: "Changes to Kubernetes Slack"
+date: "2025-08-21T17:23:32"
+category: "Markets"
+summary: ""
+slug: "changes to kubernetes slack"
 source_urls:
-- https://kubernetes.io/blog/2025/06/16/changes-to-kubernetes-slack/
+  - "https://kubernetes.io/blog/2025/06/16/changes-to-kubernetes-slack/"
 seo:
-  title: Changes to Kubernetes Slack | Hash n Hedge
-  description: ''
-  keywords:
-  - news
-  - markets
-  - brief
+  title: "Changes to Kubernetes Slack | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
 ---
-
-**Headline**: Kubernetes Slack to Downgrade to Standard Free Version  **Summary Meta Description**: The Kubernetes community's Slack workspace will lose its special status and be downgraded to a standard free version on June 20, 2025. This means feature limitations, including only retaining 90 days of history, and disabling certain apps and workflows.  **Key Points**  * Kubernetes Slack will be downgraded to a standard free version on June 20, 2025 * Feature limitations include only retaining 90 days of history and disabling certain apps and workflows * Community may move to a new platform, including Discord, which would allow for new tools and integrations * Channel owners and User Group members should take actions to prepare for the upgrade and preserve information  **Short Takeaways with Analysis**  1. **Kubernetes Slack will lose its customized features**: The downgrade to a standard free version means that Kubernetes will no longer have access to certain features, including only retaining 90 days of history. 2. **Community may move to Discord**: The CNCF Projects Staff has proposed migrating to Discord, which would allow for new tools and integrations, such as GitHub group membership synchronization.  **Sources**  * Kubernetes Slack Update: Changes to Kubernetes Slack (https://kubernetes.io/blog/2025/06/16/changes-to-kubernetes-slack/) 
+**Headline** Kubernetes Community to Migrate from Slack due to Downgrade  **Summary Meta Description** The Kubernetes community will lose its special Slack status and face feature limitations as of June 20, 2025. A new platform may be implemented later this year.  **Key Points**  * Kubernetes Slack will be downgraded to a standard free account on June 20, 2025 * Feature limitations will include limited message history (90 days) and app/workflow restrictions * Channel owners and private channel members must take actions to preserve information before the upgrade  **Short Takeaways with Light Analysis** The Kubernetes community's Slack downgrade reflects the platform's increasing costs and limitations. This change may prompt a migration to a new communication platform, such as Discord.  Sources: https://kubernetes.io/blog/2025/06/16/changes-to-kubernetes-slack/ https://github.com/kubernetes/community/blob/master/communication/slack-migration-faq.md 

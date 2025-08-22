@@ -1,19 +1,14 @@
----
-title: 'Microsoft Build 2025: The age of AI agents and building the open agentic web'
-date: '2025-08-20'
-category: Markets
-summary: ''
-slug: microsoft build 2025 the age of ai agents and building the o
+﻿---
+title: "Microsoft Build 2025: The age of AI agents and building the open agentic web"
+date: "2025-08-21T17:55:13"
+category: "Markets"
+summary: ""
+slug: "microsoft build 2025 the age of ai agents and building the o"
 source_urls:
-- https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/
+  - "https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/"
 seo:
-  title: 'Microsoft Build 2025: The age of AI agents and building the open agentic
-    web | Hash n Hedge'
-  description: ''
-  keywords:
-  - news
-  - markets
-  - brief
+  title: "Microsoft Build 2025: The age of AI agents and building the open agentic web | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
 ---
-
-**Headline:** Microsoft Unveils AI Agent Plans at Build 2025  **Summary Meta Description:** At the recent Microsoft Build 2025 conference, the tech giant announced significant developments in its artificial intelligence (AI) strategy. The company's focus on AI agents and an "open agentic web" has sparked interest among developers and industry experts. Key highlights include the expansion of Azure OpenAI Service, advancements in natural language processing, and the introduction of a new AI agent platform.  **Bullet Key Points:**  ΓÇó Microsoft unveiled plans to enhance its Azure OpenAI Service, allowing developers to integrate AI capabilities into their applications. ΓÇó The company showcased advancements in natural language processing (NLP) through its latest models and tools. ΓÇó A new AI agent platform was introduced, enabling developers to create more sophisticated conversational interfaces.  **Takeaways:**  1. **Accelerated AI Adoption**: Microsoft's emphasis on AI agents signals a significant shift towards integrating AI capabilities into various applications, potentially accelerating the adoption of AI technology across industries. 2. **Web 3.0 Implications**: The concept of an "open agentic web" hints at a more decentralized and interactive internet, where AI plays a central role in shaping user experiences.  **Sources:**  Microsoft Build 2025: The age of AI agents and building the open agentic web (https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/) 
+**Headline:** Microsoft Unveils AI Agent Vision at Build 2025  **Summary Meta Description:** At Microsoft Build 2025, the tech giant highlights its focus on developing AI agents that can collaborate with humans and other systems, marking a significant shift towards an "open agentic web." The company's vision for this future involves building a network of interconnected, autonomous entities.  **Key Points:**  ΓÇó Microsoft emphasizes the importance of AI agents in automating tasks and improving productivity. ΓÇó The company showcases various tools and services designed to facilitate the development and deployment of AI agents. ΓÇó The concept of an "open agentic web" is introduced as a vision for a networked system where AI agents can interact with each other and humans seamlessly.  **Takeaways:**  1. **Rise of Autonomous Systems:** Microsoft's emphasis on AI agents signals a growing trend towards autonomous systems that can operate independently, potentially transforming industries such as healthcare, finance, and transportation. 2. **Open Collaboration:** The company's push for an "open agentic web" suggests a desire to create a collaborative ecosystem where AI agents from different sources can interact and learn from each other.  **Sources:** * https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/ 

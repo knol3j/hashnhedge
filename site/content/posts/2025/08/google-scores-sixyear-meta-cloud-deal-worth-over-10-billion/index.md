@@ -1,0 +1,14 @@
+﻿---
+title: "Google scores six-year Meta cloud deal worth over $10 billion"
+date: "2025-08-21T20:43:16"
+category: "Markets"
+summary: ""
+slug: "google scores sixyear meta cloud deal worth over 10 billion"
+source_urls:
+  - "https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html"
+seo:
+  title: "Google scores six-year Meta cloud deal worth over $10 billion | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+Here's the edited news brief:  **Headline** Google Locks in $10B+ Meta Cloud Deal for Six Years  **Summary Meta Description** Google has secured a six-year cloud deal with Meta worth over $10 billion, marking one of the largest such partnerships in the tech industry. The agreement underscores the growing demand for cloud services and the strategic importance of these deals.  **Key Points**  ΓÇó Google will provide cloud infrastructure to Meta, spanning compute, storage, and networking services. ΓÇó The six-year term is reportedly valued at over $10 billion, making it one of the largest such partnerships in the industry. ΓÇó This deal highlights the increasing reliance on cloud computing among major tech companies.  **Short Takeaways**  1. The massive scale of this agreement underscores the significant investments being made by large tech firms in cloud infrastructure, driven by growing demand and strategic importance. 2. As cloud services become increasingly central to the operations of these companies, such deals will only continue to rise in value and prominence.  **Sources** https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html 

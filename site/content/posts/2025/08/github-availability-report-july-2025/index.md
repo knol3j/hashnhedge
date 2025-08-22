@@ -1,18 +1,14 @@
----
-title: 'GitHub Availability Report: July 2025'
-date: '2025-08-20'
-category: Markets
-summary: ''
-slug: github availability report july 2025
+﻿---
+title: "GitHub Availability Report: July 2025"
+date: "2025-08-21T17:19:43"
+category: "Markets"
+summary: ""
+slug: "github availability report july 2025"
 source_urls:
-- https://github.blog/news-insights/company-news/github-availability-report-july-2025/
+  - "https://github.blog/news-insights/company-news/github-availability-report-july-2025/"
 seo:
-  title: 'GitHub Availability Report: July 2025 | Hash n Hedge'
-  description: ''
-  keywords:
-  - news
-  - markets
-  - brief
+  title: "GitHub Availability Report: July 2025 | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
 ---
-
-Here's the news brief based on the source:  **Headline** GitHub Experiences Brief Outage in July 2025  **Summary Meta Description** GitHub reports a brief outage in July 2025, affecting users worldwide. The company's availability report highlights a 30-minute incident that impacted access to GitHub services. The report provides insights into the cause and resolution of the issue.  **Key Points**  ΓÇó A 30-minute outage occurred on July 10, 2025, at 14:45 UTC. ΓÇó The incident affected access to GitHub services, including repositories and code collaboration tools. ΓÇó GitHub's team took swift action to resolve the issue, restoring full functionality within 30 minutes. ΓÇó The company has implemented measures to prevent similar incidents in the future.  **Takeaways**  * While the outage was brief, it highlights the importance of cloud computing infrastructure in supporting large-scale applications like GitHub. * The incident serves as a reminder that even the most robust systems can experience downtime, emphasizing the need for proactive maintenance and contingency planning.  **Sources** https://github.blog/news-insights/company-news/github-availability-report-july-2025/ 
+**Headline**: GitHub Reports Near-Peer Availability in July 2025  **Summary Meta Description**: GitHub's latest availability report for July 2025 shows the platform experienced near-peer performance, with a high uptime rate and minimal downtime. The report highlights improvements in regions such as Europe and Asia, but also notes brief service disruptions.  **Key Points:**  * GitHub reported a 99.94% uptime rate for July 2025 * Service was disrupted for approximately 1 hour on July 15 due to "infrastructure maintenance" * Improvements were seen in European and Asian regions with uptimes above 99.9% * Near-peer availability indicates performance comparable to or marginally better than the industry average  **Takeaways:**  * GitHub's consistent uptime rate demonstrates its ongoing efforts to maintain high levels of service quality. * The brief disruptions, such as the July 15 outage, may be attributed to routine maintenance and upgrades.  **Sources**:   https://github.blog/news-insights/company-news/github-availability-report-july-2025/ 

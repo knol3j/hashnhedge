@@ -1,0 +1,14 @@
+﻿---
+title: "Clothing subscription service Rent the Runway gives up around 86% ownership to three lenders in exchange for $240M+ in debt relief and $20M in fresh financing (Bloomberg)"
+date: "2025-08-21T20:44:39"
+category: "Markets"
+summary: ""
+slug: "clothing subscription service rent the runway gives up aroun"
+source_urls:
+  - "http://www.techmeme.com/250821/p33#a250821p33"
+seo:
+  title: "Clothing subscription service Rent the Runway gives up around 86% ownership to three lenders in exchange for $240M+ in debt relief and $20M in fresh financing (Bloomberg) | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+Here's the news brief:  **Headline:** Rent the Runway Hands Over Majority Ownership to Lenders for Debt Relief  **Summary Meta Description:** Fashion subscription service Rent the Runway has given up nearly 86% of its ownership to three lenders in exchange for over $240 million in debt relief and an additional $20 million in fresh financing.  **Key Points:**  * Rent the Runway's founders will maintain a minority stake, but will cede control to lenders. * The deal includes $240 million in debt relief and $20 million in new capital. * This marks a significant shift for the company, which has struggled with cash flow issues. * The lenders involved have not been publicly disclosed.  **Takeaways:**  1. Rent the Runway's move suggests that the company is prioritizing short-term financial stability over long-term control and autonomy. This trade-off may come at a cost to its brand identity and strategic direction. 2. The deal highlights the growing trend of fashion companies seeking debt relief and investment from lenders, underscoring the challenges faced by consumer-facing businesses in today's market.  **Sources:**  * [http://www.techmeme.com/250821/p33#a250821p33](http://www.techmeme.com/250821/p33#a250821p33) 

@@ -1,18 +1,14 @@
----
-title: Tracking the Cost of Quantum Factoring
-date: '2025-08-20'
-category: Markets
-summary: ''
-slug: tracking the cost of quantum factoring
+﻿---
+title: "Tracking the Cost of Quantum Factoring"
+date: "2025-08-21T17:09:18"
+category: "Markets"
+summary: ""
+slug: "tracking the cost of quantum factoring"
 source_urls:
-- http://security.googleblog.com/2025/05/tracking-cost-of-quantum-factori.html
+  - "http://security.googleblog.com/2025/05/tracking-cost-of-quantum-factori.html"
 seo:
-  title: Tracking the Cost of Quantum Factoring | Hash n Hedge
-  description: ''
-  keywords:
-  - news
-  - markets
-  - brief
+  title: "Tracking the Cost of Quantum Factoring | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
 ---
-
-**Headline** Google Tracks Rising Costs of Quantum Computing Threat to Cryptography  **Summary Meta Description** "Google's latest research reveals the increasing cost-effectiveness of quantum computers in factoring large numbers, a breakthrough that could compromise cryptographic systems. As computing power grows, so does the urgency for post-quantum cryptography."  **Key Points:**  * Google researchers have been tracking the growth in quantum computer performance and its impact on cryptography. * Quantum computers can now factor 2048-bit RSA numbers within 2^64 operations, a significant improvement from previous estimates. * The cost of building a quantum computer capable of breaking certain encryption algorithms is decreasing rapidly.  **Takeaways:**  1. **Quantum computing's growing power**: As quantum computers improve in performance and decrease in cost, the threat to cryptographic systems becomes more pressing. Experts warn that post-quantum cryptography solutions are urgently needed. 2. **Cryptographic urgency**: The increasing cost-effectiveness of quantum computers means that certain encryption algorithms will soon be vulnerable to attack. This highlights the need for organizations to migrate to post-quantum cryptography before it's too late.  **Sources:** http://security.googleblog.com/2025/05/tracking-cost-of-quantum-factori.html 
+**Headline** Google Tracks Quantum Computing's Financial Footprint on Factoring Algorithms  **Summary Meta Description** Google has released a study detailing the growing financial burden of quantum computing on factoring algorithms, as the threat of large-scale breaches looms. Researchers analyze the economic implications of transitioning to post-quantum cryptography.  **Bullet Key Points**  * Google researchers tracked the cost of breaking RSA-2048 with a quantum computer * The estimated cost decreased over time due to advancements in quantum computing technology * Factoring algorithms are becoming increasingly vulnerable to large-scale breaches * Post-quantum cryptography is necessary for long-term security  **Short Takeaways and Analysis**  1. **Quantum Computing's Financial Footprint**: As quantum computers become more powerful, the cost of factoring algorithms will continue to decrease, making them more vulnerable to breaches. 2. **Post-Quantum Cryptography**: The study emphasizes the need for post-quantum cryptography as a long-term solution to ensure data security in a world where large-scale breaches are increasingly possible.  **Sources** * Google Blog: "Tracking the Cost of Quantum Factoring" (http://security.googleblog.com/2025/05/tracking-cost-of-quantum-factori.html) 

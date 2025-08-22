@@ -1,6 +1,6 @@
 ﻿---
 title: "From silos to synergy: New Compliance Manager, now in preview"
-date: "2025-08-20T20:49:58"
+date: "2025-08-21T16:47:50"
 category: "Markets"
 summary: ""
 slug: "from silos to synergy new compliance manager now in preview"

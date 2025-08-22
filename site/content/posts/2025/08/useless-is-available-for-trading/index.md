@@ -1,6 +1,6 @@
 ﻿---
 title: "USELESS is available for trading!"
-date: "2025-08-20T20:53:31"
+date: "2025-08-21T16:55:01"
 category: "Markets"
 summary: ""
 slug: "useless is available for trading"
@@ -11,4 +11,4 @@ seo:
   description: ""
   keywords: ["news", "markets", "brief"]
 ---
-**Headline** "Kraken Lists 'Useless' Token for Trading"  **Summary Meta Description** Kraken has added the "Useless" token to its trading platform, allowing users to buy and sell the cryptocurrency. The token's purpose is to be used as a form of satire, highlighting the perceived excesses of the cryptocurrency market.  **Key Points**  * Kraken has listed the "Useless" token for trading * The token's sole purpose is to criticize the excesses of the cryptocurrency market * Trading pairs include USDT and EUR * Users can buy and sell the token on Kraken's exchange  **Takeaways**  1. The listing of the "Useless" token highlights the growing trend of satire in the cryptocurrency space, where tokens are created to poke fun at the market or its participants. 2. The move by Kraken to list the token may be seen as a nod to the creativity and irreverence of some cryptocurrency enthusiasts, who often use new tokens as a form of social commentary.  **Sources** https://blog.kraken.com/product/asset-listings/useless-is-available-for-trading 
+Here's the news brief:  **Headline** "Kraken Adds 'Useless' Cryptocurrency to Trading Platform"  **Summary Meta Description** "Digital asset exchange Kraken has listed 'Useless', a cryptocurrency created as a satire of Bitcoin's volatility and market trends. The new addition joins other unconventional assets on Kraken's trading platform."  **Key Points:**  * 'Useless' is now available for trading on Kraken, alongside over 200 other digital assets. * Created in 2018 by the founder of Dogecoin, Jackson Palmer, as a critique of Bitcoin's market fluctuations. * The cryptocurrency has gained a niche following and is being listed despite its name and purpose.  **Takeaways:**  1. **Kraken Expands Unconventional Asset Listings**: By adding 'Useless' to its platform, Kraken demonstrates its willingness to cater to diverse investor interests, even if they challenge traditional notions of value. 2. **Market Trends: A Reflection of Investor Sentiment**: The listing of 'Useless', a cryptocurrency born from satire, highlights the complex and often humorous nature of cryptocurrency markets, where investor sentiment can shift rapidly.  **Sources** https://blog.kraken.com/product/asset-listings/useless-is-available-for-trading 

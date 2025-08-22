@@ -1,0 +1,14 @@
+﻿---
+title: "Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer"
+date: "2025-08-21T16:27:48"
+category: "Markets"
+summary: ""
+slug: "textai yc x25 is hiring founding fullstack engineer"
+source_urls:
+  - "https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer"
+seo:
+  title: "Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+**Headline** Text.ai Seeks Founding Full-Stack Engineer for Ambitious Project  **Summary Meta Description** Text.ai, a Y Combinator-backed startup, is recruiting a founding full-stack engineer to join their team and shape the development of their language-focused product. The successful candidate will be responsible for building and maintaining the core infrastructure of the platform.  **Key Points**  ΓÇó Text.ai focuses on AI-powered text analysis and generation tools ΓÇó Founding engineer will have significant input in shaping the company's tech direction ΓÇó Opportunity to work with a small team at an early stage of development  **Takeaways**  * The hiring process for this role indicates that Text.ai is actively building its technical foundation, suggesting a strong focus on product development. * As a founding member, the chosen candidate will have significant influence over the company's technology strategy and direction.  **Sources** https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer 

@@ -1,20 +1,14 @@
----
-title: Sustaining Digital Certificate Security - Upcoming Changes to the Chrome Root
-  Store
-date: '2025-08-20'
-category: Markets
-summary: ''
-slug: sustaining digital certificate security  upcoming changes to
+﻿---
+title: "Sustaining Digital Certificate Security - Upcoming Changes to the Chrome Root Store"
+date: "2025-08-21T17:09:01"
+category: "Markets"
+summary: ""
+slug: "sustaining digital certificate security  upcoming changes to"
 source_urls:
-- http://security.googleblog.com/2025/05/sustaining-digital-certificate-security-chrome-root-store-changes.html
+  - "http://security.googleblog.com/2025/05/sustaining-digital-certificate-security-chrome-root-store-changes.html"
 seo:
-  title: Sustaining Digital Certificate Security - Upcoming Changes to the Chrome
-    Root Store | Hash n Hedge
-  description: ''
-  keywords:
-  - news
-  - markets
-  - brief
+  title: "Sustaining Digital Certificate Security - Upcoming Changes to the Chrome Root Store | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
 ---
-
-**Headline** Chrome Updates Root Store Policy to Boost Digital Certificate Security  **Summary Meta Description** Google announces changes to the Chrome root store policy to enhance digital certificate security. The updates aim to prevent misissuance of certificates and protect users from potential threats. Learn more about the upcoming changes and their implications for web developers.  **Key Points**  ΓÇó Google will remove non-HTTPS-issued certificates from the Chrome root store. ΓÇó New requirements for HTTPS issuance will be introduced to increase certificate security. ΓÇó Organizations will need to meet new guidelines for HTTPS certification. ΓÇó The updates aim to reduce the risk of misissuance and protect users from potential threats.  **Takeaways**  * This update reflects Google's continued commitment to digital certificate security, a critical aspect of online safety. As the web continues to evolve, so too must our measures to safeguard it. * Web developers should review the new requirements and ensure compliance to avoid disruptions in HTTPS functionality. 
+**Headline** Chrome Updates Root Store to Enhance Digital Certificate Security  **Summary Meta Description** Google announces upcoming changes to the Chrome Root Store, aimed at strengthening digital certificate security. The update will introduce new requirements for root certificates, ensuring better protection against potential threats.  **Bullet Key Points**  * New requirements for root certificates, including: 	+ Mandatory code signing 	+ Enhanced vetting process 	+ Regular audits and reviews * Update focuses on mitigating risks associated with weak or compromised root certificates * Google emphasizes importance of ongoing security maintenance in digital certificate ecosystem  **Takeaways with Analysis**  1. **Prioritizing Security**: The Chrome Root Store update underscores the need for continuous improvement in digital certificate security. By introducing stricter requirements, Google aims to minimize potential threats and maintain user trust. 2. **Evolving Digital Landscape**: This change reflects the evolving nature of online security, where even established systems can be vulnerable to compromise. Regular updates and enhancements are crucial to staying ahead of emerging risks.  **Sources** Google Security Blog: Sustaining Digital Certificate Security - Upcoming Changes to the Chrome Root Store http://security.googleblog.com/2025/05/sustaining-digital-certificate-security-chrome-root-store-changes.html 

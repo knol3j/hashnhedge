@@ -1,20 +1,14 @@
----
-title: 'From private to public: How a United Nations organization open sourced its
-  tech in four steps'
-date: '2025-08-20'
-category: Markets
-summary: ''
-slug: from private to public how a united nations organization ope
+﻿---
+title: "From private to public: How a United Nations organization open sourced its tech in four steps"
+date: "2025-08-21T17:20:03"
+category: "Markets"
+summary: ""
+slug: "from private to public how a united nations organization ope"
 source_urls:
-- https://github.blog/open-source/social-impact/from-private-to-public-how-a-united-nations-organization-open-sourced-its-tech-in-four-steps/
+  - "https://github.blog/open-source/social-impact/from-private-to-public-how-a-united-nations-organization-open-sourced-its-tech-in-four-steps/"
 seo:
-  title: 'From private to public: How a United Nations organization open sourced its
-    tech in four steps | Hash n Hedge'
-  description: ''
-  keywords:
-  - news
-  - markets
-  - brief
+  title: "From private to public: How a United Nations organization open sourced its tech in four steps | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
 ---
-
-**Headline** UN Agency Releases Code, Fosters Collaboration and Innovation  **Summary Meta Description** The United Nations' Food and Agriculture Organization (FAO) has successfully transitioned its in-house software development to open-source, leveraging GitHub's platform. This move enables collaboration with external experts, accelerates innovation, and ensures transparency in global food security efforts.  **Key Points:**  * The FAO leveraged GitHub's platform to migrate their codebase to an open-source model. * Four key steps were taken: setting clear goals, selecting the right tools, onboarding internal teams, and engaging with external contributors. * By going public, the FAO has fostered collaboration, innovation, and transparency in its global food security efforts.  **Takeaways**  1. **Innovation through Collaboration**: The FAO's open-sourcing of their codebase demonstrates the potential for international organizations to harness collective expertise and accelerate innovation in global development projects. 2. **Transparency in Global Development**: By making their software development process transparent, the FAO sets a precedent for other organizations to prioritize openness and collaboration in tackling complex global challenges.  **Sources** https://github.blog/open-source/social-impact/from-private-to-public-how-a-united-nations-organization-open-sourced-its-tech-in-four-steps/ 
+**Headline** UN Organization Makes Breakthrough in Open Sourcing Tech  **Summary Meta Description** The United Nations' Food and Agriculture Organization (FAO) has successfully transitioned its proprietary technology into an open-source model. By following a four-step process, the FAO has made its tech available to a global community of developers. This shift aims to enhance collaboration, innovation, and the overall impact of agricultural development.  **Key Points:**  ΓÇó The FAO's open-sourcing process began with a thorough assessment of their technology, identifying areas that could benefit from external contributions. ΓÇó The organization worked closely with GitHub to create a public repository for its code, allowing developers worldwide to access and contribute to the tech. ΓÇó A four-step framework guided the transition, ensuring a smooth shift from private to public ownership of the FAO's proprietary software. ΓÇó The open-sourced technology is expected to foster global collaboration in agricultural development, promoting efficiency and innovation.  **Short Takeaways:**  1. By embracing open-source principles, the FAO demonstrates its commitment to transparency and cooperation, potentially leading to significant advancements in agricultural development worldwide. 2. This breakthrough serves as a model for other organizations seeking to adapt their proprietary technologies, highlighting the value of collaboration and community-driven innovation in achieving global impact.  **Sources** * https://github.blog/open-source/social-impact/from-private-to-public-how-a-united-nations-organization-open-sourced-its-tech-in-four-steps/ 
