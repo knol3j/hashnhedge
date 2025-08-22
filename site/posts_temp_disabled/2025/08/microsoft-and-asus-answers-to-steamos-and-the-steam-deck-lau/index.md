@@ -1,0 +1,20 @@
+﻿---
+title: Microsoft and Asus’ answers to SteamOS and the Steam Deck launch on October
+  16
+date: '2025-08-20'
+category: Markets
+summary: ''
+slug: microsoft and asus answers to steamos and the steam deck lau
+source_urls:
+- https://arstechnica.com/gadgets/2025/08/asus-and-microsofts-xbox-handhelds-arrive-october-16-but-pricing-remains-a-mystery/
+seo:
+  title: Microsoft and Asus’ answers to SteamOS and the Steam Deck launch on October
+    16 | Hash n Hedge
+  description: ''
+  keywords:
+  - news
+  - markets
+  - brief
+---
+
+Here is the requested news brief:  **Headline** Microsoft, Asus Unveil Xbox Handheld Consoles This Fall  **Summary Meta Description** Get ready for a new wave of gaming on-the-go as Microsoft and Asus launch their respective Xbox handheld consoles on October 16. But will these devices be priced to compete with Steam Deck? Find out what we know so far.  **Key Points**  * Microsoft and Asus will release their Xbox handheld consoles on October 16 * Details on pricing, specifications, and features remain scarce * These devices aim to challenge the emerging trend of gaming handhelds led by Valve's Steam Deck  **Short Takeaways with Analysis**  1. The launch of these new devices highlights the growing competition in the gaming handheld market, which Valve disrupted with the Steam Deck. 2. Microsoft and Asus' pricing strategy will be crucial in determining the success of their products, as gamers may opt for more affordable alternatives.  **Sources** https://arstechnica.com/gadgets/2025/08/asus-and-microsofts-xbox-handhelds-arrive-october-16-but-pricing-remains-a-mystery/ 

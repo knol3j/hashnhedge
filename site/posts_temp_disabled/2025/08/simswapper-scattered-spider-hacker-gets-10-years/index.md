@@ -1,0 +1,14 @@
+﻿---
+title: "SIM-Swapper, Scattered Spider Hacker Gets 10 Years"
+date: "2025-08-21T17:01:13"
+category: "Markets"
+summary: ""
+slug: "simswapper scattered spider hacker gets 10 years"
+source_urls:
+  - "https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/"
+seo:
+  title: "SIM-Swapper, Scattered Spider Hacker Gets 10 Years | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+**Headline**: Sim-Swapper Hacker Sentenced to 10 Years in Prison  **Summary Meta Description**: A notorious hacker, known as Scattered Spider, has been sentenced to 10 years in prison for using SIM-swapping attacks to steal millions of dollars from victims. The sentencing marks a significant milestone in the fight against cybercrime.  **Key Points:**  * Scattered Spider used SIM-swapping attacks to take control of victims' phone numbers and gain access to their online accounts. * The hacker stole millions of dollars from victims, including celebrities and business executives. * The sentence is one of the longest ever handed down for a cybercrime offense in the US.  **Takeaways:**  1. **Rising concern**: SIM-swapping attacks have become increasingly common, highlighting the need for greater awareness and protection among consumers. 2. **Accountability**: The sentencing serves as a warning to other hackers that they will face severe consequences if caught, potentially deterring others from engaging in cybercrime.  **Sources:**  * Krebs on Security (https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/) 

@@ -1,0 +1,14 @@
+﻿---
+title: "a16z hires Anne Neuberger, formerly a senior cybersecurity official in the Biden White House, as a senior adviser to work on American Dynamism, AI, and cyber (Patrick Howell O'Neill/Bloomberg)"
+date: "2025-08-21T17:39:26"
+category: "Markets"
+summary: ""
+slug: "a16z hires anne neuberger formerly a senior cybersecurity of"
+source_urls:
+  - "http://www.techmeme.com/250821/p26#a250821p26"
+seo:
+  title: "a16z hires Anne Neuberger, formerly a senior cybersecurity official in the Biden White House, as a senior adviser to work on American Dynamism, AI, and cyber (Patrick Howell O'Neill/Bloomberg) | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+**Headline:**  a16z Taps Former White House Cyber Official Anne Neuberger as Senior Adviser  **Summary Meta Description:**  Andreessen Horowitz (a16z) hires Anne Neuberger, a senior cybersecurity official in the Biden White House, to work on American Dynamism, AI, and cyber initiatives. This move highlights the increasing focus on tech policy and national security issues within venture capital firms.  **Key Points:**  ΓÇó Former White House senior cybersecurity official Anne Neuberger joins Andreessen Horowitz (a16z) as a senior adviser. ΓÇó She will focus on American Dynamism, artificial intelligence (AI), and cyber initiatives. ΓÇó This appointment underscores the growing importance of tech policy and national security in venture capital circles.  **Takeaways:**  1.  The hiring of Anne Neuberger by a16z signals a significant shift in the venture capital industry's approach to addressing technological advancements and their implications on society, particularly in areas like AI and cyber. 2.  As former officials from prominent government roles join private sector companies, it may indicate an increasing blurring of lines between public and private sectors in tech policy discussions.  **Sources:**  http://www.techmeme.com/250821/p26#a250821p26 

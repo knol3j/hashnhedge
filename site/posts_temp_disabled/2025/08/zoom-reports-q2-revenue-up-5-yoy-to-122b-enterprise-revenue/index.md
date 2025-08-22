@@ -1,0 +1,14 @@
+﻿---
+title: "Zoom reports Q2 revenue up 5% YoY to $1.22B, Enterprise revenue up 7% to $730.7M, vs. $716.7M est., raises FY 2026 forecast above est.; ZM jumps 6%+ after hours (Brody Ford/Bloomberg)"
+date: "2025-08-21T20:44:44"
+category: "Markets"
+summary: ""
+slug: "zoom reports q2 revenue up 5 yoy to 122b enterprise revenue "
+source_urls:
+  - "http://www.techmeme.com/250821/p32#a250821p32"
+seo:
+  title: "Zoom reports Q2 revenue up 5% YoY to $1.22B, Enterprise revenue up 7% to $730.7M, vs. $716.7M est., raises FY 2026 forecast above est.; ZM jumps 6%+ after hours (Brody Ford/Bloomberg) | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+**Headline:** Zoom Revenue Rises 5%, Enterprise Sales Beat Estimates  **Summary Meta Description:** Zoom's Q2 revenue grows 5% year-over-year to $1.22 billion, with enterprise sales increasing 7% to $730.7 million, surpassing analyst expectations. The company also raises its FY2026 forecast above estimates, sending shares up after-hours.  **Key Points:**  * Q2 revenue reaches $1.22B, a 5% YoY increase * Enterprise revenue grows 7% to $730.7M, beating est. of $716.7M * Zoom raises FY2026 forecast above estimates * Shares jump 6%+ after-hours  **Takeaways:**  * Zoom's steady growth in enterprise sales suggests its shift towards higher-margin business is paying off. * The company's raised forecast indicates optimism about the future, despite broader economic uncertainty.  **Sources:** http://www.techmeme.com/250821/p32#a250821p32 

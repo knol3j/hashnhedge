@@ -1,0 +1,20 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+<div class="post-list">
+{{ range .Paginator.Pages }}
+    <article class="post-item">
+        <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <div class="post-meta">
+            {{ .Date.Format "January 2, 2006" }}
+            {{ if .Params.category }} • {{ .Params.category }}{{ end }}
+        </div>
+        {{ if .Summary }}
+        <div class="post-summary">{{ .Summary }}</div>
+        {{ end }}
+    </article>
+{{ end }}
+</div>
+
+{{ template "_internal/pagination.html" . }}
+{{ end }}

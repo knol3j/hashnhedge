@@ -1,6 +1,6 @@
 baseURL = "https://hashnhedge.com/"
 title = "Hash & Hedge"
-theme = "tableless"
+theme = "simple"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -13,7 +13,7 @@ canonifyURLs = true
   pagerSize = 12
 
 [permalinks]
-  posts = "/posts/:year/:month/:slug/"
+  test-posts = "/test-posts/:year/:month/:slug/"
 
 [taxonomies]
   category = "categories"
@@ -59,7 +59,7 @@ canonifyURLs = true
   images = ["/logo.svg"]
   
   # SEO Settings
-  mainSections = ["posts"]
+  mainSections = ["test-posts"]
   robotsNoIndex = false
   defaultImage = "/images/default-og.png"
   

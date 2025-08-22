@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article>
+    <header>
+        <h1>{{ .Title }}</h1>
+        <div class="post-meta">
+            {{ .Date.Format "January 2, 2006" }}
+            {{ if .Params.category }} • {{ .Params.category }}{{ end }}
+        </div>
+    </header>
+    
+    <div class="content">
+        {{ .Content }}
+    </div>
+    
+    {{ if .Params.source_urls }}
+    <footer>
+        <h3>Sources</h3>
+        <ul>
+        {{ range .Params.source_urls }}
+            <li><a href="{{ . }}" target="_blank" rel="noopener">{{ . }}</a></li>
+        {{ end }}
+        </ul>
+    </footer>
+    {{ end }}
+</article>
+{{ end }}

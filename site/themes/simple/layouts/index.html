@@ -1,0 +1,29 @@
+{{ define "main" }}
+<h1 id="hash--hedge">{{ .Site.Title }}</h1>
+<p><em>{{ .Site.Params.tagline }}</em></p>
+<p>{{ .Site.Params.description }}</p>
+
+<h2 id="what-we-cover">What We Cover</h2>
+<p>• <strong>Crypto & DeFi</strong> - Market manipulation, security exploits, regulatory theater<br>
+• <strong>Technology & Security</strong> - Vulnerabilities, breaches, AI developments<br>
+• <strong>Culture & Commentary</strong> - Where tech meets human nature</p>
+
+{{ if .Site.Params.home.recentPostsCount }}
+<h2 id="recent-analysis">Recent Analysis</h2>
+<div class="post-list">
+{{ range first (.Site.Params.home.recentPostsCount | default 5) (where .Site.RegularPages "Section" "test-posts") }}
+    <article class="post-item">
+        <h3 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <div class="post-meta">{{ .Date.Format "January 2, 2006" }}</div>
+        {{ if .Summary }}
+        <div class="post-summary">{{ .Summary }}</div>
+        {{ end }}
+    </article>
+{{ end }}
+</div>
+{{ end }}
+
+<hr>
+<p><em>No bullshit. No shilling. Just analysis that cuts through the noise.</em></p>
+<p><a href="{{ .Site.BaseURL }}newsletter">Subscribe to our newsletter</a> • <a href="{{ .Site.BaseURL }}about">About</a> • <a href="{{ .Site.BaseURL }}editorial-policy">Editorial Policy</a></p>
+{{ end }}
