@@ -1,0 +1,80 @@
+DefaultContentLanguage = "pt-br"
+title = "Tableless"
+baseURL = "https://tableless.com.br/"
+theme = "tableless"
+
+disqusShortname = "tableless"
+googleAnalytics = "UA-335027-1"
+
+rssLimit = 50
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+draft = false
+enableRobotsTXT = true
+disableLiveReload = true
+
+[permalinks]
+  posts = "/:filename"
+  pages = "/:filename"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"
+
+[related]
+  threshold = 90
+  includeNewer = true
+  toLower = false
+
+  [[related.indices]]
+  name  = "categories"
+  weight = 40
+  [[related.indices]]
+  name  = "tags"
+  weight = 30
+  [[related.indices]]
+  name  = "title"
+  weight = 15
+  [[related.indices]]
+  name  = "author"
+  toLower = true
+  weight = 15
+
+[[redirects]]
+  from = "/iniciantes/"
+  to = "http://tableless.github.io/iniciantes/"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/colocar-rodape-fixo-no-bottom"
+  to = "https://productoversee.com/colocar-rodape-fixo-no-bottom/"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/o-que-html-basico"
+  to = "https://productoversee.com/o-que-html-basico/"
+  status = 301
+  force = false
+
+[params]
+  siteName = "Tableless"
+  description = "Website com artigos e textos sobre Padrões Web, Design, Back-end e Front-end tudo em um só lugar. "
+
+  [params.sponsor]
+      [params.sponsor.alura]
+          active = false
+          site = "https://www.alura.com.br/?utm_source=tableless&utm_medium=logo&utm_campaign=patrocinio&utm_content=Tableless"
+          name = "alura"
+      [params.sponsor.organizze]
+          active = true
+          site = "https://www.organizze.com.br/?utm_source=tableless&utm_medium=logo&utm_campaign=patrocinio&utm_content=Tableless"
+          name = "organizze"
+      [params.sponsor.schoolofnet]
+          active = true
+          site = "https://www.schoolofnet.com/?utm_source=tableless&utm_medium=patrocinio_logo&utm_campaign=institucional_patrocinio_logobase&utm_term=institucional_patrocinio_logobase&utm_content=institucional_patrocinio_logobase"
+          name = "schoolofnet"

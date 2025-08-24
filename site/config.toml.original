@@ -1,0 +1,96 @@
+baseURL = "https://hashnhedge.com/"
+title = "Hash & Hedge"
+theme = "../themes/tableless"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+enableGitInfo = true
+hasCJKLanguage = false
+rssLimit = 20
+canonifyURLs = true
+
+[pagination]
+  pagerSize = 12
+
+[permalinks]
+  test-posts = "/test-posts/:year/:month/:slug/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.goldmark.parser]
+    autoHeadingIDType = "github"
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false
+  [markup.highlight]
+    style = "github-dark"
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+
+[services]
+  [services.googleAnalytics]
+    id = "G-4BD4Z2JKW3"
+
+[params]
+  tagline = "life in the grey makes you appreciate color in everything."
+  description = "Crypto, finance, and security through the lens of culture and craft. Concise, thoughtful stories with brutal honesty."
+  keywords = ["crypto", "bitcoin", "defi", "cybersecurity", "hacking", "finance", "blockchain", "ai security"]
+  # Remove author table to hide the large author block on the homepage
+  # (post pages will gracefully default without author metadata)
+  copyright = "© Hash \u0026 Hedge"
+  logo = "/logo.svg"
+  adsense_enabled = true
+  adsense_publisher_id = "ca-pub-4626165154390205"
+  adsense_inarticle_slot_id = "5837847046"
+  # Disable intrusive consent banner
+  consent_mode = false
+  images = ["/logo.svg"]
+  
+  # SEO Settings
+  mainSections = ["test-posts"]
+  robotsNoIndex = false
+  defaultImage = "/images/default-og.png"
+  
+  # Social Media
+  twitter = "hashnhedge"
+  
+  # Performance
+  lazyLoading = true
+  
+  # Home settings
+  [params.home]
+    recentPostsCount = 20
+
+[params.ga4]
+  id = "G-4BD4Z2JKW3"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.8
+  filename = "sitemap.xml"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+  [[related.indices]]
+    name = "keywords"
+    weight = 100
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+  [[related.indices]]
+    name = "categories"
+    weight = 60

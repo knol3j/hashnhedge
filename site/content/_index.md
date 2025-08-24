@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hash & Hedge"
 description: "Life in the grey makes you appreciate color in everything"
 ---
@@ -11,9 +11,9 @@ Welcome to the intersection of crypto, finance, security, and culture. We docume
 
 ## What We Cover
 
-• **Crypto & DeFi** - Market manipulation, security exploits, regulatory theater
-• **Technology & Security** - Vulnerabilities, breaches, AI developments  
-• **Culture & Commentary** - Where tech meets human nature
+ **Crypto & DeFi** - Market manipulation, security exploits, regulatory theater
+ **Technology & Security** - Vulnerabilities, breaches, AI developments  
+ **Culture & Commentary** - Where tech meets human nature
 
 ## Recent Analysis
 
@@ -25,4 +25,4 @@ Welcome to the intersection of crypto, finance, security, and culture. We docume
 
 *No bullshit. No shilling. Just analysis that cuts through the noise.*
 
-[Subscribe to our newsletter](/newsletter) • [About](/about) • [Editorial Policy](/editorial-policy)
+[Subscribe to our newsletter](/newsletter)  [About](/about)  [Editorial Policy](/editorial-policy)
