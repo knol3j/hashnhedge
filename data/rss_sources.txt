@@ -74,16 +74,20 @@ https://azurecomcdn.azureedge.net/en-us/updates/feed
 https://cloud.google.com/blog/rss
 https://vercel.com/atom
 https://www.netlify.com/blog/feed.xml
-https://fly.io/blog/index.xml
-https://www.digitalocean.com/blog/rss.xml
+# noisy/blocked: 404
+# https://fly.io/blog/index.xml
+# noisy/blocked: connection closed unexpectedly
+# https://www.digitalocean.com/blog/rss.xml
 https://github.blog/feed/
 https://about.gitlab.com/atom.xml
-https://www.linuxfoundation.org/blog/feed/
+# noisy/blocked: connection closed unexpectedly
+# https://www.linuxfoundation.org/blog/feed/
 https://kubernetes.io/feed.xml
 https://www.cncf.io/blog/feed/
 https://www.docker.com/blog/feed/
 https://www.hashicorp.com/blog/feed.xml
-https://openai.com/blog.rss
+# noisy/blocked: Cloudflare challenge
+# https://openai.com/blog.rss
 https://ai.googleblog.com/atom.xml
 https://ai.facebook.com/blog/rss/
 https://huggingface.co/blog/feed.xml
