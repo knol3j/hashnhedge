@@ -5,7 +5,8 @@ theme = "newsroom"
 copyright = "Copyright © 2025 Hash & Hedge. All rights reserved."
 
 # Pagination and content settings
-paginate = 12
+[pagination]
+pagerSize = 12
 summaryLength = 25
 enableRobotsTXT = true
 enableEmoji = true

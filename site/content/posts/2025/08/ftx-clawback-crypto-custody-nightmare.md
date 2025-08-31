@@ -4,7 +4,7 @@ date: 2025-08-31T14:00:00Z
 categories: ["crypto", "markets"]
 tags: ["FTX", "clawbacks", "crypto custody", "legal", "trading"]
 description: "FTX bankruptcy trustees are clawing back billions from customers who thought they owned their crypto. Here's why 'not your keys, not your crypto' isn't just a meme—it's legal reality."
-image: "/images/posts/ftx-clawback-nightmare.jpg"
+image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=630&fit=crop&crop=center&auto=format"
 featured: true
 ---
 

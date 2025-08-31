@@ -4,7 +4,7 @@ date: 2025-08-31T12:00:00Z
 categories: ["technology", "markets"]
 tags: ["AI trading", "machine learning", "market psychology", "automation", "fintech"]
 description: "Sophisticated AI trading algorithms are hemorrhaging money in 2025 markets. Here's why artificial intelligence fails when human irrationality meets mathematical certainty."
-image: "/images/posts/ai-trading-autopsy.jpg"
+image: "https://images.unsplash.com/photo-1518186233392-c232efbf2373?w=1200&h=630&fit=crop&crop=center&auto=format"
 featured: true
 ---
 

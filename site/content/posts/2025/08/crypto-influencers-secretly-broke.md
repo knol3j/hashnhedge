@@ -4,7 +4,7 @@ date: 2025-08-31T10:00:00Z
 categories: ["crypto", "culture"]
 tags: ["crypto influencers", "social media", "psychology", "content creation", "fintech"]
 description: "The biggest names in crypto Twitter are living paycheck to paycheck while telling you how to get rich. Here's the uncomfortable math behind the influence economy."
-image: "/images/posts/crypto-influencer-broke.jpg"
+image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=1200&h=630&fit=crop&crop=center&auto=format"
 featured: true
 ---
 

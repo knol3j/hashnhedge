@@ -4,7 +4,7 @@ date: 2025-08-31T08:00:00Z
 categories: ["security", "crypto"]
 tags: ["smart contracts", "vulnerabilities", "defi", "code audit", "blockchain security"]
 description: "A critical vulnerability in popular DeFi protocols could drain $47 million, but fixing it would break backward compatibility. Welcome to the blockchain trilemma nobody talks about."
-image: "/images/posts/smart-contract-bug-47m.jpg"
+image: "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=1200&h=630&fit=crop&crop=center&auto=format"
 featured: true
 ---
 
