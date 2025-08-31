@@ -1,118 +1,63 @@
-# Merged configuration for Hash & Hedge with Tableless theme
-baseURL = "https://hashnhedge.com/"
+baseurl = "https://hashnhedge.com/"
 title = "Hash & Hedge"
-theme = "tableless"
+theme = "newsroom"
 languageCode = "en-us"
-defaultContentLanguage = "en"
+canonifyurls = true
 enableRobotsTXT = true
-enableGitInfo = true
-hasCJKLanguage = false
-rssLimit = 50
-canonifyURLs = true
-
-# Code highlighting settings from Tableless
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
 
 [pagination]
-  pagerSize = 12
+disableAliases = false
+pagerSize = 12
+path = 'page'
 
 [permalinks]
-  posts = "/:year/:month/:slug/"
-  test-posts = "/test-posts/:year/:month/:slug/"
-  pages = "/:filename"
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
-  author = "authors"
+posts = '/:year/:month/:slug/'
+pages = ':contentbasename/'
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
-  section = ["HTML", "RSS"]
+home = ["HTML", "RSS", "JSON"]
+section = ["HTML", "RSS"]
 
 [markup]
-  defaultMarkdownHandler = "goldmark"
-  [markup.goldmark.renderer]
-    unsafe = true
-  [markup.goldmark.parser]
-    autoHeadingIDType = "github"
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel = 4
-    ordered = false
-  [markup.highlight]
-    style = "github-dark"
-    lineNos = true
-    lineNumbersInTable = false
-    noClasses = false
-
-[services]
-  [services.googleAnalytics]
-    id = "G-4BD4Z2JKW3"
-
-# Related content configuration from Tableless
-[related]
-  threshold = 80
-  includeNewer = true
-  toLower = false
-  [[related.indices]]
-    name = "keywords"
-    weight = 100
-  [[related.indices]]
-    name = "tags"
-    weight = 80
-  [[related.indices]]
-    name = "categories"
-    weight = 60
-  [[related.indices]]
-    name = "title"
-    weight = 15
-  [[related.indices]]
-    name = "author"
-    toLower = true
-    weight = 15
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
-  # Site identity
-  siteName = "Hash & Hedge"
-  tagline = "life in the grey makes you appreciate color in everything."
-  description = "Crypto, finance, and security through the lens of culture and craft. Concise, thoughtful stories with brutal honesty."
-  keywords = ["crypto", "bitcoin", "defi", "cybersecurity", "hacking", "finance", "blockchain", "ai security"]
-  
-  # Copyright and branding
-  copyright = "© Hash & Hedge"
-  logo = "/logo.svg"
-  
-  # AdSense configuration
-  adsense_enabled = true
-  adsense_publisher_id = "ca-pub-4626165154390205"
-  adsense_inarticle_slot_id = "5837847046"
-  
-  # Disable consent banner
-  consent_mode = false
-  images = ["/logo.svg"]
-  
-  # SEO Settings
-  mainSections = ["posts", "test-posts"]
-  robotsNoIndex = false
-  defaultImage = "/images/default-og.png"
-  
-  # Social Media
-  twitter = "hashnhedge"
-  
-  # Performance
-  lazyLoading = true
-  
-  # Home settings
-  [params.home]
-    recentPostsCount = 20
+# Site Identity
+blogDir = "posts"
+mainSections = ["posts"]
+logo = "/images/logo.svg"
+faviconsDir = "images/icons/"
+description = "Crypto, finance, and security through the lens of culture and craft. Concise, thoughtful stories with brutal honesty."
+tagline = "life in the grey makes you appreciate color in everything"
 
-  # Google Analytics 4
-  [params.ga4]
-    id = "G-4BD4Z2JKW3"
+# Social Media
+twitter = "hashnhedge"
+email = "ugbuni@proton.me"
 
+# Analytics
+ga_analytics = "G-4BD4Z2JKW3"
+
+# AdSense Monetization
+adsense_enabled = true
+adsense_publisher_id = "ca-pub-4626165154390205"
+
+# SEO Optimization
+keywords = ["cryptocurrency", "bitcoin", "blockchain", "cybersecurity", "hacking", "finance", "market analysis", "crypto news"]
+
+[services]
+[services.googleAnalytics]
+id = "G-4BD4Z2JKW3"
+
+# Sitemap configuration
 [sitemap]
-  changefreq = "weekly"
-  priority = 0.8
-  filename = "sitemap.xml"
+changefreq = "weekly"
+priority = 0.5
+filename = "sitemap.xml"
+
+# RSS configuration
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"

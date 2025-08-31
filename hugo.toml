@@ -1,0 +1,220 @@
+baseURL = "https://hashnhedge.com"
+languageCode = "en-us"
+title = "Hash & Hedge - Your Premier Source for Finance, Tech & Crypto News"
+theme = "newsroom"
+copyright = "Copyright © 2025 Hash & Hedge. All rights reserved."
+
+# Pagination and content settings
+paginate = 12
+summaryLength = 25
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = true
+
+# Performance optimizations
+timeout = 30000
+disableLiveReload = false
+
+# Output formats for SEO
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+page = ["HTML"]
+section = ["HTML", "RSS"]
+
+# Minification for faster loading
+[minify]
+disableCSS = false
+disableHTML = false
+disableJS = false
+disableJSON = false
+disableSVG = false
+disableXML = false
+
+# Site parameters for monetization and SEO
+[params]
+# Basic site info
+description = "Hash & Hedge delivers breaking news and expert analysis on cryptocurrency, blockchain technology, financial markets, and investment strategies. Stay ahead with our comprehensive coverage of digital assets, fintech innovations, and market trends."
+author = "Hash & Hedge Editorial Team"
+keywords = ["cryptocurrency", "bitcoin", "blockchain", "finance", "investment", "fintech", "crypto news", "market analysis", "digital assets", "trading"]
+
+# SEO and social media
+og_image = "/images/og-default.png"
+twitter_card = "summary_large_image"
+twitter_creator = "@hashnhedge"
+
+# Monetization settings
+ads_enabled = true
+google_adsense = "ca-pub-XXXXXXXXXXXXXXXX" # Replace with your AdSense publisher ID
+google_analytics = "G-XXXXXXXXXX" # Replace with your GA4 measurement ID
+
+# Theme customization
+primary_color = "#1e40af" # Professional blue
+secondary_color = "#059669" # Success green for positive news
+accent_color = "#dc2626" # Alert red for urgent news
+
+# Content settings
+show_author = true
+show_date = true
+show_reading_time = true
+show_word_count = true
+show_related_posts = true
+posts_per_page = 12
+
+# Social media integration
+social_sharing = true
+social_media_links = true
+
+# Newsletter signup
+newsletter_enabled = true
+newsletter_service = "mailchimp" # Change to your preferred service
+
+# Search functionality
+search_enabled = true
+
+# Comments system
+comments_enabled = true
+
+# RSS settings
+[params.rss]
+full_text = false
+copyright = "Copyright © 2025 Hash & Hedge"
+
+# Social media profiles
+[params.social]
+twitter = "hashnhedge"
+linkedin = "hash-and-hedge"
+facebook = "hashnhedge"
+youtube = "hashnhedge"
+telegram = "hashnhedge"
+github = "hashnhedge"
+
+# AdSense ad units configuration
+[params.ads]
+header_ad = true
+sidebar_ad = true
+footer_ad = true
+in_article_ad = true
+between_posts_ad = true
+
+# SEO optimization
+[params.seo]
+meta_description_length = 155
+og_type = "website"
+schema_org = true
+structured_data = true
+
+# Site navigation
+[[menu.main]]
+name = "Breaking News"
+url = "/categories/breaking-news/"
+weight = 10
+
+[[menu.main]]
+name = "Cryptocurrency"
+url = "/categories/cryptocurrency/"
+weight = 20
+
+[[menu.main]]
+name = "Finance"
+url = "/categories/finance/"
+weight = 30
+
+[[menu.main]]
+name = "Technology"
+url = "/categories/technology/"
+weight = 40
+
+[[menu.main]]
+name = "Markets"
+url = "/categories/markets/"
+weight = 50
+
+[[menu.main]]
+name = "Analysis"
+url = "/categories/analysis/"
+weight = 60
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 70
+
+# Footer menu
+[[menu.footer]]
+name = "Privacy Policy"
+url = "/privacy/"
+weight = 10
+
+[[menu.footer]]
+name = "Terms of Service"
+url = "/terms/"
+weight = 20
+
+[[menu.footer]]
+name = "Contact"
+url = "/contact/"
+weight = 30
+
+[[menu.footer]]
+name = "Advertise"
+url = "/advertise/"
+weight = 40
+
+# Taxonomies for better SEO and organization
+[taxonomies]
+category = "categories"
+tag = "tags"
+author = "authors"
+
+# Security headers
+[security]
+[security.exec]
+allow = ["^dart-sass-embedded$", "^go$", "^npx$", "^postcss$", "^asciidoctor$"]
+
+# Markup configuration
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "github"
+tabWidth = 4
+
+# Image processing
+[imaging]
+resampleFilter = "lanczos"
+quality = 85
+anchor = "smart"
+
+# Permalinks for SEO-friendly URLs
+[permalinks]
+posts = "/:year/:month/:slug/"
+categories = "/category/:slug/"
+tags = "/tag/:slug/"
+authors = "/author/:slug/"
+
+# Related content settings
+[related]
+includeNewer = true
+threshold = 80
+toLower = true
+
+[[related.indices]]
+name = "keywords"
+weight = 100
+
+[[related.indices]]
+name = "tags"
+weight = 80
+
+[[related.indices]]
+name = "categories"
+weight = 60

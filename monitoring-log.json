@@ -1,0 +1,913 @@
+{
+    "Recommendations":  [
+                            {
+                                "Message":  "Only 0 posts this week. Target: 7 posts/week.",
+                                "Type":  "warning"
+                            },
+                            {
+                                "Message":  "144 image issues detected. Fix missing or oversized images.",
+                                "Type":  "warning"
+                            },
+                            {
+                                "Message":  "Latest post is 10 days old. Consider publishing more frequently.",
+                                "Type":  "info"
+                            }
+                        ],
+    "Content":  {
+                    "Images":  {
+                                   "TotalIssues":  144,
+                                   "Issues":  [
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\postquantum-cryptography-in-kubernetes.png",
+                                                      "Post":  "Post-Quantum Cryptography in Kubernetes",
+                                                      "Slug":  "postquantum-cryptography-in-kubernetes"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\palantir-stock-slumps-9-falling-for-a-fifth-straight-day-fro.png",
+                                                      "Post":  "Palantir stock slumps 9 falling for a fifth straight day fro",
+                                                      "Slug":  "palantir-stock-slumps-9-falling-for-a-fifth-straight-day-fro"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\palo-alto-networks-earnings-beat-sparks-investor-confidence.png",
+                                                      "Post":  "palo-alto-networks-earnings-beat-sparks-investor-confidence",
+                                                      "Slug":  "palo-alto-networks-earnings-beat-sparks-investor-confidence"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\peanut-butter-watermelon-financial-privacy-in-the-digital-a.png",
+                                                      "Post":  "Peanut butter watermelon financial privacy in the digital a",
+                                                      "Slug":  "peanut-butter-watermelon-financial-privacy-in-the-digital-a"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\outofband-update-arrives-to-clean-up-windows-reset-and-recov.png",
+                                                      "Post":  "Out-of-band update arrives to clean up Windows reset and recovery mess",
+                                                      "Slug":  "outofband-update-arrives-to-clean-up-windows-reset-and-recov"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\over-500-million-liquidated-as-crypto-selloff-accelerates.png",
+                                                      "Post":  "Over $500 Million Liquidated as Crypto Selloff Accelerates",
+                                                      "Slug":  "over-500-million-liquidated-as-crypto-selloff-accelerates"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\pirate-nation-ethereum-rpg-shutting-down-as-crypto-gaming-gr.png",
+                                                      "Post":  "Pirate nation ethereum rpg shutting down as crypto gaming gr",
+                                                      "Slug":  "pirate-nation-ethereum-rpg-shutting-down-as-crypto-gaming-gr"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\pixel-10-gets-a-108-mp-telephoto-lens-10-pro-and-pro-xl-get.png",
+                                                      "Post":  "Pixel 10 gets a 10.8 MP telephoto lens; 10 Pro and Pro XL get an AI-driven Pro Res Zoom capable of up to 100x zoom; all models get AI features like Camera Coach (Damien Wilde/9to5Google)",
+                                                      "Slug":  "pixel-10-gets-a-108-mp-telephoto-lens-10-pro-and-pro-xl-get"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\physically-based-rendering-in-filament.png",
+                                                      "Post":  "Physically Based Rendering in Filament",
+                                                      "Slug":  "physically-based-rendering-in-filament"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\securities-and-exchange-commission-division-of-corporation.png",
+                                                      "Post":  "Securities and exchange commission division of corporation",
+                                                      "Slug":  "securities-and-exchange-commission-division-of-corporation"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\shuttered-local-newspapers-across-wyoming-and-south-dakota-c.png",
+                                                      "Post":  "Shuttered local newspapers across Wyoming and South Dakota come back to life because of their big audience of 10,000",
+                                                      "Slug":  "shuttered-local-newspapers-across-wyoming-and-south-dakota-c"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\siemens-desigo-cc-product-family-and-sentron-powermanager.png",
+                                                      "Post":  "Siemens Desigo CC Product Family and SENTRON Powermanager",
+                                                      "Slug":  "siemens-desigo-cc-product-family-and-sentron-powermanager"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\siemens-mendix-saml-module.png",
+                                                      "Post":  "Siemens Mendix SAML Module",
+                                                      "Slug":  "siemens-mendix-saml-module"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\show-hn-we-started-building-an-ai-dev-tool-but-it-turned-int.png",
+                                                      "Post":  "Show hn we started building an ai dev tool but it turned int",
+                                                      "Slug":  "show-hn-we-started-building-an-ai-dev-tool-but-it-turned-int"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\response-to-staff-statement-on-certain-liquid-staking-activi.png",
+                                                      "Post":  "Response to staff statement on certain liquid staking activi",
+                                                      "Slug":  "response-to-staff-statement-on-certain-liquid-staking-activi"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\sec-launches-new-statistics-and-data-visualizations-webpag.png",
+                                                      "Post":  "Sec launches new statistics and data visualizations webpag",
+                                                      "Slug":  "sec-launches-new-statistics-and-data-visualizations-webpag"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\sec-permits-inkind-creations-and-redemptions-for-crypto-et.png",
+                                                      "Post":  "Sec permits inkind creations and redemptions for crypto et",
+                                                      "Slug":  "sec-permits-inkind-creations-and-redemptions-for-crypto-et"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\sec-announces-george-botic-to-serve-as-acting-chair-of-the.png",
+                                                      "Post":  "Sec announces george botic to serve as acting chair of the",
+                                                      "Slug":  "sec-announces-george-botic-to-serve-as-acting-chair-of-the"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\sec-creates-task-force-to-tap-artificial-intelligence-for.png",
+                                                      "Post":  "Sec creates task force to tap artificial intelligence for",
+                                                      "Slug":  "sec-creates-task-force-to-tap-artificial-intelligence-for"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\mindjourney-enables-ai-to-explore-simulated-3d-worlds-to-imp.png",
+                                                      "Post":  "MindJourney enables AI to explore simulated 3D worlds to improve spatial interpretation",
+                                                      "Slug":  "mindjourney-enables-ai-to-explore-simulated-3d-worlds-to-imp"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\most-frequently-asked-questions-about-affiliate-marketing.png",
+                                                      "Post":  "Most Frequently Asked Questions About Affiliate Marketing",
+                                                      "Slug":  "most-frequently-asked-questions-about-affiliate-marketing"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\my-stepmothers-lawyer-called-us-greedy-for-fighting-for-our.png",
+                                                      "Post":  "My stepmothers lawyer called us greedy for fighting for our",
+                                                      "Slug":  "my-stepmothers-lawyer-called-us-greedy-for-fighting-for-our"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\natural-gas-falls-on-shifting-weather-forecasts.png",
+                                                      "Post":  "Natural Gas Falls on Shifting Weather Forecasts",
+                                                      "Slug":  "natural-gas-falls-on-shifting-weather-forecasts"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\my-aunt-barely-spends-any-money-will-we-receive-the-contents.png",
+                                                      "Post":  "My aunt barely spends any money will we receive the contents",
+                                                      "Slug":  "my-aunt-barely-spends-any-money-will-we-receive-the-contents"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\my-friends-father-gifted-her-tesla-and-google-stock-they-cou.png",
+                                                      "Post":  "My friends father gifted her tesla and google stock they cou",
+                                                      "Slug":  "my-friends-father-gifted-her-tesla-and-google-stock-they-cou"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\microsoft-fixes-windows-upgrades-failing-with-0x8007007f-err.png",
+                                                      "Post":  "Microsoft fixes Windows upgrades failing with 0x8007007F error",
+                                                      "Slug":  "microsoft-fixes-windows-upgrades-failing-with-0x8007007f-err"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\microsoft-investigates-outage-impacting-copilot-officecom.png",
+                                                      "Post":  "Microsoft investigates outage impacting Copilot, Office.com",
+                                                      "Slug":  "microsoft-investigates-outage-impacting-copilot-officecom"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\microsoft-releases-emergency-updates-to-fix-windows-recovery.png",
+                                                      "Post":  "Microsoft releases emergency updates to fix Windows recovery",
+                                                      "Slug":  "microsoft-releases-emergency-updates-to-fix-windows-recovery"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\microsoft-reportedly-fixing-ssd-failures-caused-by-windows-u.png",
+                                                      "Post":  "Microsoft reportedly fixing SSD failures caused by Windows updates",
+                                                      "Slug":  "microsoft-reportedly-fixing-ssd-failures-caused-by-windows-u"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\oliver-perry-editorial.png",
+                                                      "Post":  "Oliver perry editorial",
+                                                      "Slug":  "oliver-perry-editorial"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\on-the-road-sec-crypto-task-force-to-host-a-series-of-roun.png",
+                                                      "Post":  "On the road sec crypto task force to host a series of roun",
+                                                      "Slug":  "on-the-road-sec-crypto-task-force-to-host-a-series-of-roun"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\ofac-garantex-grinexa7a5.png",
+                                                      "Post":  "OFACÃƒÂ¥Ã‹â€ Ã‚Â¶ÃƒÂ¨Ã‚Â£Ã‚ÂÃƒÂ¦Ã…â€™Ã¢â‚¬Â¡ÃƒÂ¥Ã‚Â®Ã…Â¡ÃƒÂ£Ã‚ÂÃ‚Â®ÃƒÂ£Ã†â€™Ã‚Â­ÃƒÂ£Ã¢â‚¬Å¡Ã‚Â·ÃƒÂ£Ã¢â‚¬Å¡Ã‚Â¢ÃƒÂ¦Ã…Â¡Ã¢â‚¬â€ÃƒÂ¥Ã‚ÂÃ‚Â·ÃƒÂ¨Ã‚Â³Ã¢â‚¬Â¡ÃƒÂ§Ã¢â‚¬ÂÃ‚Â£ÃƒÂ£Ã†â€™Ã‚ÂÃƒÂ£Ã†â€™Ã†â€™ÃƒÂ£Ã†â€™Ã‹â€ ÃƒÂ£Ã†â€™Ã‚Â¯ÃƒÂ£Ã†â€™Ã‚Â¼ÃƒÂ£Ã¢â‚¬Å¡Ã‚Â¯ÃƒÂ¯Ã‚Â¼Ã…Â¡GarantexÃƒÂ£Ã†â€™Ã‚ÂªÃƒÂ£Ã†â€™Ã¢â‚¬â€œÃƒÂ£Ã†â€™Ã‚Â©ÃƒÂ£Ã†â€™Ã‚Â³ÃƒÂ£Ã†â€™Ã¢â‚¬Â°ÃƒÂ£Ã†â€™Ã‚Â»GrinexÃƒÂ£Ã†â€™Ã‚Â»A7A5ÃƒÂ£Ã†â€™Ã‹â€ ÃƒÂ£Ã†â€™Ã‚Â¼ÃƒÂ£Ã¢â‚¬Å¡Ã‚Â¯ÃƒÂ£Ã†â€™Ã‚Â³ÃƒÂ£Ã‚ÂÃ‚Â¨ÃƒÂ§Ã‚Â«Ã¢â‚¬Â¹ÃƒÂ¦Ã‚Â³Ã¢â‚¬Â¢ÃƒÂ§Ã…Â¡Ã¢â‚¬Å¾ÃƒÂ¥Ã‹â€ Ã‚Â¶ÃƒÂ¨Ã‚Â£Ã‚ÂÃƒÂ¥Ã¢â‚¬ÂºÃ…Â¾ÃƒÂ©Ã‚ÂÃ‚Â¿",
+                                                      "Slug":  "ofac-garantex-grinexa7a5"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\openais-chairman-says-chatgpt-is-obviating-his-own-joband-sa.png",
+                                                      "Post":  "OpenAIÃ¢â‚¬â„¢s chairman says ChatGPT is Ã¢â‚¬ËœobviatingÃ¢â‚¬â„¢ his own jobÃ¢â‚¬â€and says AI is like an Ã¢â‚¬ËœIron Man suitÃ¢â‚¬â„¢ for workers",
+                                                      "Slug":  "openais-chairman-says-chatgpt-is-obviating-his-own-joband-sa"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\new-york-attorney-general-james-sues-zelle-parent-company-al.png",
+                                                      "Post":  "New york attorney general james sues zelle parent company al",
+                                                      "Slug":  "new-york-attorney-general-james-sues-zelle-parent-company-al"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\north-korea-uses-github-in-diplomat-cyber-attacks-as-it-work.png",
+                                                      "Post":  "North Korea Uses GitHub in Diplomat Cyber Attacks as IT Worker Scheme Hits 320+ Firms",
+                                                      "Slug":  "north-korea-uses-github-in-diplomat-cyber-attacks-as-it-work"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\nexstartegna-deal-puts-trump-move-to-eliminate-broadcast-own.png",
+                                                      "Post":  "Nexstartegna deal puts trump move to eliminate broadcast own",
+                                                      "Slug":  "nexstartegna-deal-puts-trump-move-to-eliminate-broadcast-own"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\uniting-the-cloud-native-community-at-the-inaugural-kcd-sf-b.png",
+                                                      "Post":  "Uniting the Cloud Native Community at the Inaugural KCD SF Bay Area",
+                                                      "Slug":  "uniting-the-cloud-native-community-at-the-inaugural-kcd-sf-b"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\unauthorized-largesse-at-taxpayer-expense-dissent-from-the.png",
+                                                      "Post":  "Unauthorized largesse at taxpayer expense dissent from the",
+                                                      "Slug":  "unauthorized-largesse-at-taxpayer-expense-dissent-from-the"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\uncle-sam-eyes-slice-of-intel-in-return-for-chips-act-cash.png",
+                                                      "Post":  "Uncle Sam eyes slice of Intel in return for CHIPS Act cash",
+                                                      "Slug":  "uncle-sam-eyes-slice-of-intel-in-return-for-chips-act-cash"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\venus-williams-says-she-returned-to-tennis-for-the-health-in.png",
+                                                      "Post":  "Venus Williams says she returned to tennis for the health insurance ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â even after earning $42 million",
+                                                      "Slug":  "venus-williams-says-she-returned-to-tennis-for-the-health-in"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\top-pediatricians-buck-rfk-jrs-antivaccine-meddling-on-covid.png",
+                                                      "Post":  "Top pediatricians buck RFK Jr.Ã¢â‚¬â„¢s anti-vaccine meddling on COVID shot guidance",
+                                                      "Slug":  "top-pediatricians-buck-rfk-jrs-antivaccine-meddling-on-covid"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\trump-considering-11-candidates-for-fed-chair-including-davi.png",
+                                                      "Post":  "Trump considering 11 candidates for fed chair including davi",
+                                                      "Slug":  "trump-considering-11-candidates-for-fed-chair-including-davi"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\trump-expands-50-steel-and-aluminum-tariffs-to-include-407-a.png",
+                                                      "Post":  "Trump expands 50% steel and aluminum tariffs to include 407 additional product",
+                                                      "Slug":  "trump-expands-50-steel-and-aluminum-tariffs-to-include-407-a"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\trump-vows-to-target-woke-museums-with-same-playbook-used-on.png",
+                                                      "Post":  "Trump vows to target woke museums with same playbook used on",
+                                                      "Slug":  "trump-vows-to-target-woke-museums-with-same-playbook-used-on"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\why-the-nfl-drafted-microsofts-gen-ai-for-the-leagues-next-b.png",
+                                                      "Post":  "Why the NFL drafted MicrosoftÃ¢â‚¬â„¢s gen AI for the leagueÃ¢â‚¬â„¢s next big play",
+                                                      "Slug":  "why-the-nfl-drafted-microsofts-gen-ai-for-the-leagues-next-b"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\who-will-maintain-the-future-rethinking-open-source-leadersh.png",
+                                                      "Post":  "Who will maintain the future? Rethinking open source leadership for a new generation",
+                                                      "Slug":  "who-will-maintain-the-future-rethinking-open-source-leadersh"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\why-email-security-needs-its-edr-moment-to-move-beyond-preve.png",
+                                                      "Post":  "Why email security needs its EDR moment to move beyond prevention",
+                                                      "Slug":  "why-email-security-needs-its-edr-moment-to-move-beyond-preve"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\wyoming-launches-frnt-stablecoin-on-several-blockchains.png",
+                                                      "Post":  "Wyoming Launches FRNT Stablecoin on Several Blockchains",
+                                                      "Slug":  "wyoming-launches-frnt-stablecoin-on-several-blockchains"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\washington-dc-leads-america-in-unemployment-rate-for-3rd-str.png",
+                                                      "Post":  "Washington DC leads America in unemployment rate for 3rd straight month",
+                                                      "Slug":  "washington-dc-leads-america-in-unemployment-rate-for-3rd-str"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\webinar-discover-and-control-shadow-ai-agents-in-your-enter.png",
+                                                      "Post":  "??? Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do",
+                                                      "Slug":  "webinar-discover-and-control-shadow-ai-agents-in-your-enter"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\welcome-to-hash-and-hedge.png",
+                                                      "Post":  "Welcome to hash and hedge",
+                                                      "Slug":  "welcome-to-hash-and-hedge"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\who-rugged-rogoff.png",
+                                                      "Post":  "Who Rugged Rogoff?",
+                                                      "Slug":  "who-rugged-rogoff"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\when-invest-like-the-1-fails-how-yieldstreets-real-estate-be.png",
+                                                      "Post":  "When invest like the 1 fails how yieldstreets real estate be",
+                                                      "Slug":  "when-invest-like-the-1-fails-how-yieldstreets-real-estate-be"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\stop-pretending-bitcoin-self-custody-is-easy-its-not.png",
+                                                      "Post":  "Stop Pretending Bitcoin Self Custody Is Easy, ItÃ¢â‚¬â„¢s Not",
+                                                      "Slug":  "stop-pretending-bitcoin-self-custody-is-easy-its-not"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\statement-on-the-commissions-approval-of-inkind-creations-an.png",
+                                                      "Post":  "Statement on the commissions approval of inkind creations an",
+                                                      "Slug":  "statement-on-the-commissions-approval-of-inkind-creations-an"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\statement-on-the-presidents-working-group-recommendations.png",
+                                                      "Post":  "Statement on the PresidentÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Working Group Recommendations",
+                                                      "Slug":  "statement-on-the-presidents-working-group-recommendations"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\stocks-sink-in-broad-ai-rout-sparked-by-chinas-deepseek.png",
+                                                      "Post":  "Stocks sink in broad ai rout sparked by chinas deepseek",
+                                                      "Slug":  "stocks-sink-in-broad-ai-rout-sparked-by-chinas-deepseek"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\swiss-franc-japanese-yen-rise-as-deepseek-news-boosts-safe-h.png",
+                                                      "Post":  "Swiss franc japanese yen rise as deepseek news boosts safe h",
+                                                      "Slug":  "swiss-franc-japanese-yen-rise-as-deepseek-news-boosts-safe-h"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\targets-incoming-ceo-started-as-an-intern-at-the-44-billion.png",
+                                                      "Post":  "TargetÃ¢â‚¬â„¢s incoming CEO started as an intern at the $44 billion retail giant 20 years agoÃ¢â‚¬â€he advises Gen Z who want to copy him to Ã¢â‚¬Ëœembrace feedbackÃ¢â‚¬â„¢",
+                                                      "Slug":  "targets-incoming-ceo-started-as-an-intern-at-the-44-billion"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\sofi-launches-lightning-network-remittances.png",
+                                                      "Post":  "SoFi Launches Lightning Network Remittances",
+                                                      "Slug":  "sofi-launches-lightning-network-remittances"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\siemens-ruggedcom-crossbow-station-access-controller.png",
+                                                      "Post":  "Siemens RUGGEDCOM CROSSBOW Station Access Controller",
+                                                      "Slug":  "siemens-ruggedcom-crossbow-station-access-controller"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\siemens-simatic-rtls-locating-manager.png",
+                                                      "Post":  "Siemens SIMATIC RTLS Locating Manager",
+                                                      "Slug":  "siemens-simatic-rtls-locating-manager"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\siemens-siprotec-5.png",
+                                                      "Post":  "Siemens SIPROTEC 5",
+                                                      "Slug":  "siemens-siprotec-5"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\staff-issues-faqs-to-help-brokerdealers-implement-financia.png",
+                                                      "Post":  "Staff issues faqs to help brokerdealers implement financia",
+                                                      "Slug":  "staff-issues-faqs-to-help-brokerdealers-implement-financia"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\staking-sequel-comments-on-division-of-corporation-finances.png",
+                                                      "Post":  "staking-sequel-comments-on-division-of-corporation-finances",
+                                                      "Slug":  "staking-sequel-comments-on-division-of-corporation-finances"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\statement-on-certain-liquid-staking-activities.png",
+                                                      "Post":  "Statement on Certain Liquid Staking Activities",
+                                                      "Slug":  "statement-on-certain-liquid-staking-activities"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\space-industry-frets-as-uksa-set-for-bureaucratic-reentry.png",
+                                                      "Post":  "Space industry frets as UKSA set for bureaucratic re-entry",
+                                                      "Slug":  "space-industry-frets-as-uksa-set-for-bureaucratic-reentry"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\the-weight-of-a-cell.png",
+                                                      "Post":  "The Weight of a Cell",
+                                                      "Slug":  "the-weight-of-a-cell"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\the-supply-chain-paradox-when-hardened-images-become-a-vendo.png",
+                                                      "Post":  "The Supply Chain Paradox: When Ã¢â‚¬Å“HardenedÃ¢â‚¬Â Images Become a Vendor Lock-in Trap",
+                                                      "Slug":  "the-supply-chain-paradox-when-hardened-images-become-a-vendo"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\this-isnt-about-free-speech-im-sure-theyre-gonna-holler-that.png",
+                                                      "Post":  "Ã¢â‚¬ËœThis isnÃ¢â‚¬â„¢t about free speech. IÃ¢â‚¬â„¢m sure theyÃ¢â‚¬â„¢re gonna holler thatÃ¢â‚¬â„¢: Minnesota sues TikTok, accusing it of preying on the young",
+                                                      "Slug":  "this-isnt-about-free-speech-im-sure-theyre-gonna-holler-that"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\top-11-ai-marketing-tools-you-should-use-updated-2022.png",
+                                                      "Post":  "TOP 11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022)",
+                                                      "Slug":  "top-11-ai-marketing-tools-you-should-use-updated-2022"
+                                                  },
+                                                  {
+                                                      "Issue":  "Image too large: 22.6MB",
+                                                      "Path":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\the-cutaway-illustrations-of-fred-freeman.jpg",
+                                                      "Post":  "The cutaway illustrations of fred freeman",
+                                                      "Slug":  "the-cutaway-illustrations-of-fred-freeman"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\the-secrets-behind-matt-odells-bitcoin-empire.png",
+                                                      "Post":  "The secrets behind matt odells bitcoin empire",
+                                                      "Slug":  "the-secrets-behind-matt-odells-bitcoin-empire"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\the-great-resentment-bosses-are-lording-over-workers-as-reve.png",
+                                                      "Post":  "The Great Resentment: Bosses are lording over workers as revenge for the Great Resignation when they had to hand out once-in-a-generation raises",
+                                                      "Slug":  "the-great-resentment-bosses-are-lording-over-workers-as-reve"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\the-hidden-thread.png",
+                                                      "Post":  "The hidden thread",
+                                                      "Slug":  "the-hidden-thread"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\microsoft-and-asus-answers-to-steamos-and-the-steam-deck-lau.png",
+                                                      "Post":  "Microsoft and AsusÃ¢â‚¬â„¢ answers to SteamOS and the Steam Deck launch on October 16",
+                                                      "Slug":  "microsoft-and-asus-answers-to-steamos-and-the-steam-deck-lau"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\cisa-adds-one-known-exploited-vulnerability-to-catalog.png",
+                                                      "Post":  "CISA Adds One Known Exploited Vulnerability to Catalog",
+                                                      "Slug":  "cisa-adds-one-known-exploited-vulnerability-to-catalog"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\cisa-and-partners-release-asset-inventory-guidance-to-streng.png",
+                                                      "Post":  "CISA and Partners Release Asset Inventory Guidance to Strengthen Operational Technology Security",
+                                                      "Slug":  "cisa-and-partners-release-asset-inventory-guidance-to-streng"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\cisa-announces-release-of-thorium-for-malware-analysis.png",
+                                                      "Post":  "CISA Announces Release of Thorium for Malware Analysis ",
+                                                      "Slug":  "cisa-announces-release-of-thorium-for-malware-analysis"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\cisa-issues-alert-on-vulnerability-affecting-microsoft-excha.png",
+                                                      "Post":  "CISA Issues Alert on Vulnerability affecting Microsoft Exchange",
+                                                      "Slug":  "cisa-issues-alert-on-vulnerability-affecting-microsoft-excha"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\cisa-welcomes-madhu-gottumukkala-as-the-new-deputy-director.png",
+                                                      "Post":  "CISA Welcomes Madhu Gottumukkala as the New Deputy Director",
+                                                      "Slug":  "cisa-welcomes-madhu-gottumukkala-as-the-new-deputy-director"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\cisa-issues-emergency-directive-requiring-federal-agencies-t.png",
+                                                      "Post":  "CISA issues emergency directive requiring federal agencies to update systems to prevent Microsoft Exchange vulnerability",
+                                                      "Slug":  "cisa-issues-emergency-directive-requiring-federal-agencies-t"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\cisa-releases-four-industrial-control-systems-advisories.png",
+                                                      "Post":  "CISA Releases Four Industrial Control Systems Advisories",
+                                                      "Slug":  "cisa-releases-four-industrial-control-systems-advisories"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\cisa-releases-opensource-eviction-strategies-tool-for-cyber.png",
+                                                      "Post":  "CISA Releases Open-Source Eviction Strategies Tool for Cyber Incident Response",
+                                                      "Slug":  "cisa-releases-opensource-eviction-strategies-tool-for-cyber"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\bullish-settles-115b-ipo-entirely-in-stablecoins.png",
+                                                      "Post":  "Bullish Settles $1.15B IPO Entirely in Stablecoins",
+                                                      "Slug":  "bullish-settles-115b-ipo-entirely-in-stablecoins"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\buildingproducts-distributor-qxo-launches-hostile-bid-for-be.png",
+                                                      "Post":  "Buildingproducts distributor qxo launches hostile bid for be",
+                                                      "Slug":  "buildingproducts-distributor-qxo-launches-hostile-bid-for-be"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\bullish-takes-115-billion-in-ipo-proceeds-via-stablecoins-mo.png",
+                                                      "Post":  "Bullish Takes $1.15 Billion in IPO Proceeds via Stablecoins ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Mostly on Solana",
+                                                      "Slug":  "bullish-takes-115-billion-in-ipo-proceeds-via-stablecoins-mo"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\changes-to-kubernetes-slack.png",
+                                                      "Post":  "Changes to Kubernetes Slack",
+                                                      "Slug":  "changes-to-kubernetes-slack"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\chinas-ev-industry-is-spending-more-on-factories-abroad-than.png",
+                                                      "Post":  "Chinas ev industry is spending more on factories abroad than",
+                                                      "Slug":  "chinas-ev-industry-is-spending-more-on-factories-abroad-than"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\dhs-launches-over-100-million-in-funding-to-strengthen-commu.png",
+                                                      "Post":  "DHS Launches Over $100 Million in Funding to Strengthen CommunitiesÃ¢â‚¬â„¢ Cyber Defenses",
+                                                      "Slug":  "dhs-launches-over-100-million-in-funding-to-strengthen-commu"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\drunken-bishop-2023.png",
+                                                      "Post":  "Drunken Bishop (2023)",
+                                                      "Slug":  "drunken-bishop-2023"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\doj-charges-22yearold-for-running-rapperbot-botnet-behind-37.png",
+                                                      "Post":  "DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks",
+                                                      "Slug":  "doj-charges-22yearold-for-running-rapperbot-botnet-behind-37"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\crdt-text-buffer.png",
+                                                      "Post":  "Crdt text buffer",
+                                                      "Slug":  "crdt-text-buffer"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\crypto-stocks-tumble-as-investors-go-into-riskoff-mode.png",
+                                                      "Post":  "Crypto stocks tumble as investors go into riskoff mode",
+                                                      "Slug":  "crypto-stocks-tumble-as-investors-go-into-riskoff-mode"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\comex-gold-silver-settle-lower.png",
+                                                      "Post":  "Comex gold silver settle lower",
+                                                      "Slug":  "comex-gold-silver-settle-lower"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\deepseek-wont-sink-us-ai-titans.png",
+                                                      "Post":  "Deepseek wont sink us ai titans",
+                                                      "Slug":  "deepseek-wont-sink-us-ai-titans"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\american-leadership-in-the-digital-finance-revolution.png",
+                                                      "Post":  "American Leadership in the Digital Finance Revolution",
+                                                      "Slug":  "american-leadership-in-the-digital-finance-revolution"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\ai-skeptics-zone-out-when-chatbots-get-preachy.png",
+                                                      "Post":  "AI skeptics zone out when chatbots get preachy",
+                                                      "Slug":  "ai-skeptics-zone-out-when-chatbots-get-preachy"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\an-excerpt-from-bitcoin-circular-economies-prologue.png",
+                                                      "Post":  "An excerpt from bitcoin circular economies prologue",
+                                                      "Slug":  "an-excerpt-from-bitcoin-circular-economies-prologue"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\annas-archive-an-update-from-the-team.png",
+                                                      "Post":  "Annas archive an update from the team",
+                                                      "Slug":  "annas-archive-an-update-from-the-team"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\    founder and owner of washingtonbased water machine manuf.png",
+                                                      "Post":  "    founder and owner of washingtonbased water machine manuf",
+                                                      "Slug":  "    founder and owner of washingtonbased water machine manuf"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\  on the road sec crypto task force to host a series of roun.png",
+                                                      "Post":  "  on the road sec crypto task force to host a series of roun",
+                                                      "Slug":  "  on the road sec crypto task force to host a series of roun"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\  sec announces george botic to serve as acting chair of the.png",
+                                                      "Post":  "SEC Announces George Botic to Serve as Acting Chair of the PCAOB",
+                                                      "Slug":  "  sec announces george botic to serve as acting chair of the"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\arabica-coffee-prices-hit-record-on-us-colombia-tariff-spat.png",
+                                                      "Post":  "Arabica coffee prices hit record on us colombia tariff spat",
+                                                      "Slug":  "arabica-coffee-prices-hit-record-on-us-colombia-tariff-spat"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\bitcoin-privacy-the-effects-of-surveillance-on-society.png",
+                                                      "Post":  "Bitcoin privacy the effects of surveillance on society",
+                                                      "Slug":  "bitcoin-privacy-the-effects-of-surveillance-on-society"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\are-you-even-a-bitcoiner-if-youre-not-on-nostr.png",
+                                                      "Post":  "Are You Even a Bitcoiner If YouÃ¢â‚¬â„¢re Not on Nostr?",
+                                                      "Slug":  "are-you-even-a-bitcoiner-if-youre-not-on-nostr"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\are-you-willing-to-take-big-risks-for-big-returns-you-may-be.png",
+                                                      "Post":  "Are you willing to take big risks for big returns you may be",
+                                                      "Slug":  "are-you-willing-to-take-big-risks-for-big-returns-you-may-be"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\asia-markets-track-wall-street-declines-japan-exports-notch.png",
+                                                      "Post":  "Asia markets track Wall Street declines; Japan exports notch steepest drop",
+                                                      "Slug":  "asia-markets-track-wall-street-declines-japan-exports-notch"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\beginner-guide-to-cj-affiliate-commission-junction-in-2022.png",
+                                                      "Post":  "Beginner Guide to CJ Affiliate (Commission Junction) in 2022",
+                                                      "Slug":  "beginner-guide-to-cj-affiliate-commission-junction-in-2022"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\bessent-says-interviews-for-incredible-group-of-potential-fe.png",
+                                                      "Post":  "Bessent says interviews for incredible group of potential fe",
+                                                      "Slug":  "bessent-says-interviews-for-incredible-group-of-potential-fe"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\implement-monitoring-for-amazon-eks-with-managed-services.png",
+                                                      "Post":  "Implement monitoring for Amazon EKS with managed services",
+                                                      "Slug":  "implement-monitoring-for-amazon-eks-with-managed-services"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\intels-stock-surges-on-softbank-investment-and-potential-us.png",
+                                                      "Post":  "intels-stock-surges-on-softbank-investment-and-potential-us",
+                                                      "Slug":  "intels-stock-surges-on-softbank-investment-and-potential-us"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\i-can-only-rely-on-me-how-do-i-protect-myself-from-my-parent.png",
+                                                      "Post":  "I can only rely on me how do i protect myself from my parent",
+                                                      "Slug":  "i-can-only-rely-on-me-how-do-i-protect-myself-from-my-parent"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\im-a-senior-who-barely-survives-on-1300-a-month-no-way-could.png",
+                                                      "Post":  "Im a senior who barely survives on 1300 a month no way could",
+                                                      "Slug":  "im-a-senior-who-barely-survives-on-1300-a-month-no-way-could"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\introducing-headlamp-ai-assistant.png",
+                                                      "Post":  "Introducing Headlamp AI Assistant",
+                                                      "Slug":  "introducing-headlamp-ai-assistant"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\how-much-do-electric-car-batteries-degrade.png",
+                                                      "Post":  "How much do electric car batteries degrade",
+                                                      "Slug":  "how-much-do-electric-car-batteries-degrade"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\how-restaurant-chains-are-competing-on-instore-vibes-to-win.png",
+                                                      "Post":  "How restaurant chains are competing on instore vibes to win",
+                                                      "Slug":  "how-restaurant-chains-are-competing-on-instore-vibes-to-win"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\limited-data-leak-at-aussie-telco-turns-out-to-be-280k-custo.png",
+                                                      "Post":  "Limited",
+                                                      "Slug":  "limited-data-leak-at-aussie-telco-turns-out-to-be-280k-custo"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\major-password-managers-can-leak-logins-in-clickjacking-atta.png",
+                                                      "Post":  "Major password managers can leak logins in clickjacking attacks",
+                                                      "Slug":  "major-password-managers-can-leak-logins-in-clickjacking-atta"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\japan-pitches-free-trade-zone-linking-it-to-africa-india-whi.png",
+                                                      "Post":  "Japan pitches free trade zone linking it to Africa, India while extending $5.5 billion loan",
+                                                      "Slug":  "japan-pitches-free-trade-zone-linking-it-to-africa-india-whi"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\japans-july-exports-clock-steepest-plunge-in-over-four-years.png",
+                                                      "Post":  "Japans july exports clock steepest plunge in over four years",
+                                                      "Slug":  "japans-july-exports-clock-steepest-plunge-in-over-four-years"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\joint-statement-from-cisa-fbi-dc3-and-nsa-on-potential-targe.png",
+                                                      "Post":  "Joint Statement from CISA, FBI, DC3 and NSA on Potential Targeted Cyber Activity Against U.S. Critical Infrastructure by Iran",
+                                                      "Slug":  "joint-statement-from-cisa-fbi-dc3-and-nsa-on-potential-targe"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\kubernetes-v134-sneak-peek.png",
+                                                      "Post":  "Kubernetes v1.34 Sneak Peek",
+                                                      "Slug":  "kubernetes-v134-sneak-peek"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\kartoon-studios-launches-bitcoin-brigade-adventures-in-satos.png",
+                                                      "Post":  "Kartoon Studios Launches Ã¢â‚¬Å“BITCOIN BRIGADE: Adventures In Satoshi CityÃ¢â‚¬Â",
+                                                      "Slug":  "kartoon-studios-launches-bitcoin-brigade-adventures-in-satos"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\financial-services-roundup-market-talk.png",
+                                                      "Post":  "Financial services roundup market talk",
+                                                      "Slug":  "financial-services-roundup-market-talk"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\feds-goolsbee-sees-note-of-unease-as-central-bank-looks-to-n.png",
+                                                      "Post":  "Feds goolsbee sees note of unease as central bank looks to n",
+                                                      "Slug":  "feds-goolsbee-sees-note-of-unease-as-central-bank-looks-to-n"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\founder-and-owner-of-washingtonbased-water-machine-manuf.png",
+                                                      "Post":  "Founder and owner of washingtonbased water machine manuf",
+                                                      "Slug":  "founder-and-owner-of-washingtonbased-water-machine-manuf"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\from-sweet-treats-to-protein-boosts-chains-are-banking-on-be.png",
+                                                      "Post":  "From sweet treats to protein boosts chains are banking on be",
+                                                      "Slug":  "from-sweet-treats-to-protein-boosts-chains-are-banking-on-be"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\from-the-bitcoin-jungle-to-the-sea-let-lightning-be-free.png",
+                                                      "Post":  "From the Bitcoin Jungle to the Sea, Let Lightning be Free!",
+                                                      "Slug":  "from-the-bitcoin-jungle-to-the-sea-let-lightning-be-free"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\fried-chips-uks-nascent-semi-industry-risks-faltering.png",
+                                                      "Post":  "Fried chips: UK",
+                                                      "Slug":  "fried-chips-uks-nascent-semi-industry-risks-faltering"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\from-hotel-rwanda-to-bitcoin-ana-se-kanimbas-fight-for-freed.png",
+                                                      "Post":  "From Hotel Rwanda to Bitcoin: AnaÃƒÂ¯se KanimbaÃ¢â‚¬â„¢s Fight for Freedom Enters a New Chapter",
+                                                      "Slug":  "from-hotel-rwanda-to-bitcoin-ana-se-kanimbas-fight-for-freed"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\from-impact-to-action-turning-bia-insights-into-resilient-re.png",
+                                                      "Post":  "From Impact to Action: Turning BIA Insights Into Resilient Recovery",
+                                                      "Slug":  "from-impact-to-action-turning-bia-insights-into-resilient-re"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\experts-find-ai-browsers-can-be-tricked-by-promptfix-exploit.png",
+                                                      "Post":  "Experts Find AI Browsers Can Be Tricked by PromptFix Exploit to Run Malicious Hidden Prompts",
+                                                      "Slug":  "experts-find-ai-browsers-can-be-tricked-by-promptfix-exploit"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\hackers-steal-microsoft-logins-using-legitimate-adfs-redirec.png",
+                                                      "Post":  "Hackers steal Microsoft logins using legitimate ADFS redirects",
+                                                      "Slug":  "hackers-steal-microsoft-logins-using-legitimate-adfs-redirec"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\home-depot-says-tariffs-will-lead-to-price-increases-but-the.png",
+                                                      "Post":  "Home depot says tariffs will lead to price increases but the",
+                                                      "Slug":  "home-depot-says-tariffs-will-lead-to-price-increases-but-the"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\globalfoundries-inks-domestic-chipmaking-deal-with-cirrus-lo.png",
+                                                      "Post":  "GlobalFoundries inks domestic chipmaking deal with Cirrus Logic",
+                                                      "Slug":  "globalfoundries-inks-domestic-chipmaking-deal-with-cirrus-lo"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\google-plans-to-update-the-pixel-buds-pro-2-in-september-wit.png",
+                                                      "Post":  "Google plans to update the Pixel Buds Pro 2 in September with adaptive audio, background noise reduction when using Gemini Live, and a new ",
+                                                      "Slug":  "google-plans-to-update-the-pixel-buds-pro-2-in-september-wit"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\google-removes-support-for-physical-sim-cards-on-the-pixel-1.png",
+                                                      "Post":  "Google removes support for physical SIM cards on the Pixel 10 series in the US, relying solely on eSIM; Apple removed it with the iPhone 14 series in the US (Ben Schoon/9to5Google)",
+                                                      "Slug":  "google-removes-support-for-physical-sim-cards-on-the-pixel-1"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\google-unveils-the-pixel-watch-4-in-41mm-and-45mm-sizes-with.png",
+                                                      "Post":  "Google unveils the Pixel Watch 4 in 41mm and 45mm sizes, with an Actua 360 curved display and emergency satellite communication, starting at $349 from October 9 (Aisha Malik/TechCrunch)",
+                                                      "Slug":  "google-unveils-the-pixel-watch-4-in-41mm-and-45mm-sizes-with"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\google-unveils-the-tensor-g5-a-3nm-chip-manufactured-by-tsmc.png",
+                                                      "Post":  "Google unveils the Tensor G5, a 3nm chip manufactured by TSMC, says it has ",
+                                                      "Slug":  "google-unveils-the-tensor-g5-a-3nm-chip-manufactured-by-tsmc"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\googles-new-ai-features-for-pixel-include-magic-cue-for-cont.png",
+                                                      "Post":  "Google",
+                                                      "Slug":  "googles-new-ai-features-for-pixel-include-magic-cue-for-cont"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\google-tweaks-play-store-fees-to-keep-euro-watchdogs-at-bay.png",
+                                                      "Post":  "Google tweaks Play Store fees to keep Euro watchdogs at bay",
+                                                      "Slug":  "google-tweaks-play-store-fees-to-keep-euro-watchdogs-at-bay"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\google-unveils-130-pixel-buds-2a-with-a-tensor-a1-chip-gemin.png",
+                                                      "Post":  "Google unveils $130 Pixel Buds 2A with a Tensor A1 chip, Gemini features, seven hours of battery life with ANC, and a replaceable battery, available October 9 (Victoria Song/The Verge)",
+                                                      "Slug":  "google-unveils-130-pixel-buds-2a-with-a-tensor-a1-chip-gemin"
+                                                  },
+                                                  {
+                                                      "Issue":  "Missing featured image",
+                                                      "ExpectedPath":  "C:\\Users\\gnul\\hashnhedge\\public\\images\\posts\\google-unveils-a-new-geminipowered-personal-health-coach-for.png",
+                                                      "Post":  "Google unveils a new Gemini-powered personal health coach for Fitbit, rolling out as a preview in October for Fitbit Premium users in the redesigned Fitbit app (Aisha Malik/TechCrunch)",
+                                                      "Slug":  "google-unveils-a-new-geminipowered-personal-health-coach-for"
+                                                  }
+                                              ]
+                               },
+                    "Posts":  {
+                                  "IsPublishingRegularly":  false,
+                                  "AveragePostsPerWeek":  106.2,
+                                  "PostsThisWeek":  0,
+                                  "LatestPost":  {
+                                                     "Date":  "\/Date(1755720262000)\/",
+                                                     "Title":  "Post-Quantum Cryptography in Kubernetes",
+                                                     "DaysAgo":  10
+                                                 },
+                                  "TotalPosts":  425,
+                                  "PostsThisMonth":  425
+                              }
+                },
+    "Timestamp":  "2025-08-31T04:10:33.682Z",
+    "Site":  {
+                 "Url":  "https://hashnhedge.com",
+                 "Health":  {
+                                "Status":  200,
+                                "IsHealthy":  true,
+                                "Headers":  {
+                                                "ContentType":  "text/html; charset=utf-8",
+                                                "CacheControl":  "max-age=600"
+                                            },
+                                "ResponseTime":  516
+                            },
+                 "AdSenseConfigured":  true
+             }
+}

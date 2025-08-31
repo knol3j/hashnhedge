@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" role="img" aria-label="Hash & Hedge monogram">
+  <rect width="320" height="80" rx="12" fill="#111827"/>
+  <g fill="#10b981">
+    <path d="M48 20h12v40H48zM76 20h12v40H76z"/>
+  </g>
+  <text x="112" y="52" font-family="'Inter', system-ui" font-size="36" font-weight="700" fill="#ffffff">Hash &amp; Hedge</text>
+</svg>

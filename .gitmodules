@@ -1,6 +1,0 @@
-[submodule "themes/seven"]
-	path = themes/seven
-	url = https://github.com/mrhelloboy/seven.git
-[submodule "themes/tableless"]
-	path = themes/tableless
-	url = https://github.com/tableless/tableless.git
