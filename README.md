@@ -1,13 +1,17 @@
-# Hash & Hedge
+# Hash & Hedge - Hugo Static Site
 
 "life in the grey makes you appreciate color in everything."
 
-Niche: Crypto, finance, and security (hacking/pentesting) through the lens of culture and craft. Concise, thoughtful stories.
+A Hugo-powered static site for cryptocurrency, finance, and technology news using the Newsroom theme.
 
-- Tech stack: Hugo (static), GitHub Pages + Porkbun DNS, Google Analytics 4
-- Content: Daily AI-assisted news briefs + periodic explainers
-- Monetization: Google AdSense (auto + in-article); ads.txt included
-- Automation: Local AI (Windows) + scheduled job to generate Markdown posts and push to GitHub
+## Current Status ✅
+
+- **Successfully Built**: 2,562 pages with Hugo Extended 0.148.2
+- **Theme**: Newsroom theme (installed as git submodule)
+- **Deployment**: GitHub Actions workflow for automated GitHub Pages deployment
+- **Domain**: Configured for hashnhedge.com custom domain
+- **Content**: Focused on working briefs content (424 paginator pages)
+- **Build Output**: 1,710 optimized files
 
 ## Repo layout
 
@@ -17,28 +21,39 @@ Niche: Crypto, finance, and security (hacking/pentesting) through the lens of cu
 - assets/              — Logos, OG templates, shared brand assets
 - .github/workflows/   — CI (optional deploy helpers)
 
-## Quick start (local preview)
+## Quick start (local development)
 
-1) Install Hugo (extended) and Git.
-2) Preview: `hugo server -s site` (or via VS Code task).
-3) Build: `hugo --gc --minify -s site -d public`.
+```bash
+# Clone with submodules (includes Newsroom theme)
+git clone --recurse-submodules https://github.com/knol3j/hashnhedge.git
+cd hashnhedge
 
-Deployment is via GitHub Pages using the workflow in `.github/workflows/site.yml`.
+# Preview site locally
+hugo server
 
-## Theme and UI
+# Build optimized site
+hugo --gc --minify
+```
 
-Option 2 (recommended): use the "hugo-narrow-1.1.3" theme.
+## Deployment
 
-1) Place the ZIP on disk, then extract into site/themes/hugo-narrow:
-   PowerShell:
-   Expand-Archive -Path "C:\\path\\to\\hugo-narrow-1.1.3.zip" -DestinationPath "site\\themes\\hugo-narrow" -Force
+**Automatic Deployment**: Site automatically deploys to GitHub Pages when pushed to:
+- `main` branch (production)
+- `chore/newsroom-setup` branch (testing)
 
-2) Enable theme in site/config.toml (add near the top):
-   theme = "hugo-narrow"
+GitHub Actions workflow (`.github/workflows/hugo.yml`):
+1. Installs Hugo Extended 0.148.2
+2. Builds site with optimization
+3. Deploys to GitHub Pages
+4. Serves at https://hashnhedge.com
 
-3) Keep our custom partials (head, consent) — these override theme defaults.
+## Theme: Newsroom
 
-4) Our custom overrides CSS is loaded from /css/custom.css; adjust styles there.
+**Current Setup**: Using Newsroom theme as git submodule
+- **Theme Repository**: https://github.com/onweru/newsroom
+- **Installation**: `git submodule add https://github.com/onweru/newsroom.git themes/newsroom`
+- **Configuration**: `theme = "newsroom"` in `hugo.toml`
+- **Features**: News-focused, responsive, SEO optimized
 
 ## Branding
 - Title: Hash \u0026 Hedge
