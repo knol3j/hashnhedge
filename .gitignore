@@ -29,3 +29,8 @@ pipeline/.cache/
 # Node.js dependencies
 node_modules/
 package-lock.json
+
+# Hugo build artifacts
+resources/_gen/
+.hugo_build.lock
+go.sum

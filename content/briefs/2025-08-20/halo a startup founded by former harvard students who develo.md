@@ -1,5 +1,5 @@
-﻿---
-title: "Halo, a startup founded by former Harvard students who developed a facial recognition app for Ray-Ban Meta glasses, is launching "always-on" AI glasses for $249 (TechCrunch)"
+---
+title: "Halo, a startup founded by former Harvard students who developed a facial recognition app for Ray-Ban Meta glasses, is launching 'always-on' AI glasses for $249 (TechCrunch)"
 date: "2025-08-20T20:59:34"
 category: "Markets"
 summary: ""
@@ -7,7 +7,7 @@ slug: "halo a startup founded by former harvard students who develo"
 source_urls:
   - "http://www.techmeme.com/250820/p54#a250820p54"
 seo:
-  title: "Halo, a startup founded by former Harvard students who developed a facial recognition app for Ray-Ban Meta glasses, is launching "always-on" AI glasses for $249 (TechCrunch) | Hash n Hedge"
+  title: "Halo, a startup founded by former Harvard students who developed a facial recognition app for Ray-Ban Meta glasses, is launching 'always-on' AI glasses for $249 (TechCrunch) | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---
