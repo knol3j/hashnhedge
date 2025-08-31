@@ -1,4 +1,4 @@
----
+﻿---
 title: Google tweaks Play Store fees to keep Euro watchdogs at bay
 date: '2025-08-20'
 category: Markets

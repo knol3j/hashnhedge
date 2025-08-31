@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Uniting the Cloud Native Community at the Inaugural KCD SF Bay Area'"
-date: "2025-08-20T15:07:21""
+title: "Uniting the Cloud Native Community at the Inaugural KCD SF Bay Area''
+date: '2025-08-20T15:07:21""
 category: "Markets"
 summary: ""
 slug: "uniting the cloud native community at the inaugural kcd sf b"
 source_urls:
   - "https://www.cncf.io/blog/2025/08/20/uniting-the-cloud-native-community-at-the-inaugural-kcd-sf-bay-area/"
 seo:
-  title: "Uniting the Cloud Native Community at the Inaugural KCD SF Bay Area | Hash n Hedge'"
-  description: ""
+  title: "Uniting the Cloud Native Community at the Inaugural KCD SF Bay Area | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

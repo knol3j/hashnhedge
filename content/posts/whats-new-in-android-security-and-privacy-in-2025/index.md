@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "WhatÃ¢â‚¬â„¢s New in Android Security and Privacy in 2025'"
-date: "2025-08-20T14:46:12""
+title: "WhatÃ¢â‚¬â„¢s New in Android Security and Privacy in 2025''
+date: '2025-08-20T14:46:12""
 category: "Markets"
 summary: ""
 slug: "whats new in android security and privacy in 2025"
 source_urls:
   - "http://security.googleblog.com/2025/05/whats-new-in-android-security-privacy-2025.html"
 seo:
-  title: "WhatÃ¢â‚¬â„¢s New in Android Security and Privacy in 2025 | Hash n Hedge'"
-  description: ""
+  title: "WhatÃ¢â‚¬â„¢s New in Android Security and Privacy in 2025 | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

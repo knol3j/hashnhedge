@@ -1,6 +1,6 @@
 ---
 title: "AI Trading Bots Are Losing Billions: A Technical Autopsy"
-date: 2025-08-31T12:00:00Z
+date: "2025-08-31T12:00:00Z"
 categories: ["technology", "markets"]
 tags: ["AI trading", "machine learning", "market psychology", "automation", "fintech"]
 description: "Sophisticated AI trading algorithms are hemorrhaging money in 2025 markets. Here's why artificial intelligence fails when human irrationality meets mathematical certainty."
@@ -45,7 +45,7 @@ AI treats market irrationality as noise to be filtered out. But in 2025, irratio
 - Human traders: Buy for the lulz
 - Result: 47,000% gain while AI funds missed the entire move
 
-The AI was technically correct—it made no rational sense. The AI was also completely wrong about what mattered.
+The AI was technically correct--it made no rational sense. The AI was also completely wrong about what mattered.
 
 ## The Technical Breakdown
 
@@ -69,7 +69,7 @@ Most AI trading systems use variations of:
 
 ## The Human Element AI Can't Compute
 
-Markets aren't just mathematical systems—they're social systems. And social systems run on emotions, narratives, and collective psychology that no amount of historical data can predict.
+Markets aren't just mathematical systems--they're social systems. And social systems run on emotions, narratives, and collective psychology that no amount of historical data can predict.
 
 **What AI Models Can't Process:**
 - The social signaling value of owning certain assets
@@ -91,7 +91,7 @@ We've created artificial intelligence capable of mastering chess, Go, and protei
 
 ## The Bottom Line
 
-The future of trading isn't artificial intelligence replacing human intelligence—it's artificial intelligence failing to understand that markets are fundamentally about human intelligence, human emotion, and human stupidity.
+The future of trading isn't artificial intelligence replacing human intelligence--it's artificial intelligence failing to understand that markets are fundamentally about human intelligence, human emotion, and human stupidity.
 
 The machines can calculate faster than we can think, but they still can't figure out why we do what we do. 
 

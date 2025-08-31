@@ -1,4 +1,4 @@
----
+﻿---
 title: Mitigating prompt injection attacks with a layered defense strategy
 date: '2025-08-20'
 category: Markets

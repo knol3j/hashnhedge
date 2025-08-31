@@ -1,4 +1,4 @@
----
+﻿---
 title: How Imagine Learning Reduced Operational Overhead by 20% With Linkerd
 date: '2025-08-20'
 category: Markets

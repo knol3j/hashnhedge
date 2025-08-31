@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Deepseek wont sink us ai titans'' '
 date: '2025-08-19'
 category: Markets

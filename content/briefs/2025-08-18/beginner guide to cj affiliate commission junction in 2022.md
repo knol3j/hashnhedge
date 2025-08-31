@@ -1,4 +1,4 @@
----
+﻿---
 title: Beginner Guide to CJ Affiliate (Commission Junction) in 2022
 date: '2025-08-18'
 category: Markets

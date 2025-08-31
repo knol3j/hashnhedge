@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "CISA issues emergency directive requiring federal agencies to update systems to prevent Microsoft Exchange vulnerability'"
-date: "2025-08-20T14:47:31""
+title: "CISA issues emergency directive requiring federal agencies to update systems to prevent Microsoft Exchange vulnerability''
+date: '2025-08-20T14:47:31""
 category: "Markets"
 summary: ""
 slug: "cisa issues emergency directive requiring federal agencies t"
 source_urls:
   - "https://www.cisa.gov/news-events/news/cisa-issues-emergency-directive-requiring-federal-agencies-update-systems-prevent-microsoft-exchange"
 seo:
-  title: "CISA issues emergency directive requiring federal agencies to update systems to prevent Microsoft Exchange vulnerability | Hash n Hedge'"
-  description: ""
+  title: "CISA issues emergency directive requiring federal agencies to update systems to prevent Microsoft Exchange vulnerability | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

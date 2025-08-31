@@ -1,6 +1,6 @@
 ---
 title: "Why Every Crypto Influencer Is Secretly Broke: The Social Media Paradox"
-date: 2025-08-31T10:00:00Z
+date: "2025-08-31T10:00:00Z"
 categories: ["crypto", "culture"]
 tags: ["crypto influencers", "social media", "psychology", "content creation", "fintech"]
 description: "The biggest names in crypto Twitter are living paycheck to paycheck while telling you how to get rich. Here's the uncomfortable math behind the influence economy."
@@ -56,7 +56,7 @@ When your entire personal brand is built on financial expertise, admitting you'r
 - **Avoid seeking help** (can't admit weakness publicly)
 
 ### The Authenticity Paradox
-The most successful crypto content is about "keeping it real" and "calling out the BS." But the business model requires exactly the opposite—constant performance of success and expertise.
+The most successful crypto content is about "keeping it real" and "calling out the BS." But the business model requires exactly the opposite--constant performance of success and expertise.
 
 ## The Economics of Engagement
 
@@ -94,7 +94,7 @@ Platforms designed these revenue models to extract maximum content from creators
 - **Burnout rate**: 67% of crypto influencers quit within 18 months
 
 ### Platform Dependency Risk
-When your business model depends entirely on algorithms controlled by companies that view you as free content labor, you're not an entrepreneur—you're an unpaid employee with no benefits.
+When your business model depends entirely on algorithms controlled by companies that view you as free content labor, you're not an entrepreneur--you're an unpaid employee with no benefits.
 
 ## The Beautiful Irony
 
@@ -106,7 +106,7 @@ The voices preaching "be your own bank" can't afford to be their own anything.
 
 ## What This Actually Means
 
-Most crypto influence isn't education—it's performance art. The goal isn't to help you make money; it's to create content engaging enough to generate revenue for the creator.
+Most crypto influence isn't education--it's performance art. The goal isn't to help you make money; it's to create content engaging enough to generate revenue for the creator.
 
 This doesn't make the influencers evil. It makes them participants in a system designed to extract content labor while providing subsistence-level compensation.
 
@@ -118,7 +118,7 @@ The best crypto advice comes from people who don't need to give crypto advice fo
 
 ## The Bottom Line
 
-The crypto influence economy has created a class of people who are experts at getting attention but amateurs at generating wealth. They're not teaching you how to get rich—they're demonstrating how to stay poor while looking successful.
+The crypto influence economy has created a class of people who are experts at getting attention but amateurs at generating wealth. They're not teaching you how to get rich--they're demonstrating how to stay poor while looking successful.
 
 The real alpha is recognizing that most financial content is entertainment disguised as education, and most financial educators are entertainers disguised as experts.
 

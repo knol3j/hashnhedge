@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "How Karrot built a feature platform on AWS, Part 1: Motivation and feature serving'"
-date: "2025-08-20T14:55:16""
+title: "How Karrot built a feature platform on AWS, Part 1: Motivation and feature serving''
+date: '2025-08-20T14:55:16""
 category: "Markets"
 summary: ""
 slug: "how karrot built a feature platform on aws part 1 motivation"
 source_urls:
   - "https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-1-motivation-and-feature-serving/"
 seo:
-  title: "How Karrot built a feature platform on AWS, Part 1: Motivation and feature serving | Hash n Hedge'"
-  description: ""
+  title: "How Karrot built a feature platform on AWS, Part 1: Motivation and feature serving | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Siemens Desigo CC Product Family and SENTRON Powermanager'"
-date: "2025-08-20T14:51:59""
+title: "Siemens Desigo CC Product Family and SENTRON Powermanager''
+date: '2025-08-20T14:51:59""
 category: "Markets"
 summary: ""
 slug: "siemens desigo cc product family and sentron powermanager"
 source_urls:
   - "https://www.cisa.gov/news-events/ics-advisories/icsa-25-231-01"
 seo:
-  title: "Siemens Desigo CC Product Family and SENTRON Powermanager | Hash n Hedge'"
-  description: ""
+  title: "Siemens Desigo CC Product Family and SENTRON Powermanager | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

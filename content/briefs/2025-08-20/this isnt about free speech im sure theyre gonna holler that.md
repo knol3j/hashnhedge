@@ -1,4 +1,4 @@
----
+﻿---
 title: '‘This isn’t about free speech. I’m sure they’re gonna holler that’: Minnesota
   sues TikTok, accusing it of preying on the young'
 date: '2025-08-20'

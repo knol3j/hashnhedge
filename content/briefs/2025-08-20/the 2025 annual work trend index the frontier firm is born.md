@@ -1,4 +1,4 @@
----
+﻿---
 title: 'The 2025 Annual Work Trend Index: The Frontier Firm is born'
 date: '2025-08-20'
 category: Markets

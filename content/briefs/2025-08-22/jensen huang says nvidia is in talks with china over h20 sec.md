@@ -1,5 +1,5 @@
 ﻿---
-title: "Jensen Huang says Nvidia is in talks with China over H20 security concerns, is hopeful for a resolution, and reiterates that the H20 has no "security backdoors" (Nikkei Asia)"
+title: "Jensen Huang says Nvidia is in talks with China over H20 security concerns, is hopeful for a resolution, and reiterates that the H20 has no 'security backdoors' (Nikkei Asia)"
 date: "2025-08-22T05:09:51"
 category: "Markets"
 summary: ""
@@ -7,7 +7,7 @@ slug: "jensen huang says nvidia is in talks with china over h20 sec"
 source_urls:
   - "http://www.techmeme.com/250822/p2#a250822p2"
 seo:
-  title: "Jensen Huang says Nvidia is in talks with China over H20 security concerns, is hopeful for a resolution, and reiterates that the H20 has no "security backdoors" (Nikkei Asia) | Hash n Hedge"
+  title: "Jensen Huang says Nvidia is in talks with China over H20 security concerns, is hopeful for a resolution, and reiterates that the H20 has no 'security backdoors' (Nikkei Asia) | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

@@ -1,4 +1,4 @@
----
+﻿---
 title: Significant USDC Transfer to Alameda Research on Ethereum
 date: '2025-08-20'
 category: Markets

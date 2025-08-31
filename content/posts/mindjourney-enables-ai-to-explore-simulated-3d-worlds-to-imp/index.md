@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "MindJourney enables AI to explore simulated 3D worlds to improve spatial interpretation'"
-date: "2025-08-20T15:15:22""
+title: "MindJourney enables AI to explore simulated 3D worlds to improve spatial interpretation''
+date: '2025-08-20T15:15:22""
 category: "Markets"
 summary: ""
 slug: "mindjourney enables ai to explore simulated 3d worlds to imp"
 source_urls:
   - "https://www.microsoft.com/en-us/research/blog/mindjourney-enables-ai-to-explore-simulated-3d-worlds-to-improve-spatial-interpretation/"
 seo:
-  title: "MindJourney enables AI to explore simulated 3D worlds to improve spatial interpretation | Hash n Hedge'"
-  description: ""
+  title: "MindJourney enables AI to explore simulated 3D worlds to improve spatial interpretation | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

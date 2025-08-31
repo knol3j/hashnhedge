@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "System.Object[]'"
-date: "2025-08-20T14:43:18""
+title: "System.Object[]''
+date: '2025-08-20T14:43:18""
 category: "Markets"
 summary: ""
 slug: "systemobject"
 source_urls:
   - ""
 seo:
-  title: "System.Object[] | Hash n Hedge'"
-  description: ""
+  title: "System.Object[] | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

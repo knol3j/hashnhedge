@@ -1,14 +1,14 @@
 ﻿---
-title: "How Imagine Learning Reduced Operational Overhead by 20% With Linkerd"
-date: "2025-08-21T17:25:57"
+title: "How Imagine Learning Reduced Operational Overhead by 20% With Linkerd'
+date: '2025-08-21T17:25:57"
 category: "Markets"
 summary: ""
 slug: "how imagine learning reduced operational overhead by 20 with"
 source_urls:
   - "https://www.cncf.io/blog/2025/08/15/innovating-with-a-rock-solid-foundation-while-saving-40-on-networking-costs-imagine-learnings-journey-with-linkerd/"
 seo:
-  title: "How Imagine Learning Reduced Operational Overhead by 20% With Linkerd | Hash n Hedge"
-  description: ""
+  title: "How Imagine Learning Reduced Operational Overhead by 20% With Linkerd | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 Here's the news brief:  **Headline**: Imagine Learning Cuts Operational Overhead by 20% with Linkerd  **Summary Meta Description**: Learn how education technology company Imagine Learning reduced its operational overhead by 20% and saved on networking costs using Linkerd, an open-source service mesh. Discover the benefits of adopting a modern service mesh architecture for improved efficiency and scalability.  **Key Points:**  ΓÇó Imagine Learning deployed Linkerd to manage its microservices architecture ΓÇó The company achieved a 20% reduction in operational overhead ΓÇó Savings were also realized on networking costs through reduced egress traffic  **Takeaways with Analysis:**  1. **Improved Efficiency**: Implementing Linkerd allowed Imagine Learning to streamline its service mesh, reducing the complexity of managing multiple services and improving overall efficiency. 2. **Cost Savings**: By leveraging a modern service mesh architecture, the company was able to save on networking costs through reduced egress traffic.  **Sources:** https://www.cncf.io/blog/2025/08/15/innovating-with-a-rock-solid-foundation-while-saving-40-on-networking-costs-imagine-learnings-journey-with-linkerd/ 

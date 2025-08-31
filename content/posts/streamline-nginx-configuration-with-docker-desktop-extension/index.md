@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Streamline NGINX Configuration with Docker Desktop Extension'"
-date: "2025-08-20T15:11:24""
+title: "Streamline NGINX Configuration with Docker Desktop Extension''
+date: '2025-08-20T15:11:24""
 category: "Markets"
 summary: ""
 slug: "streamline nginx configuration with docker desktop extension"
 source_urls:
   - "https://www.docker.com/blog/streamline-nginx-configuration-with-docker-desktop-extension/"
 seo:
-  title: "Streamline NGINX Configuration with Docker Desktop Extension | Hash n Hedge'"
-  description: ""
+  title: "Streamline NGINX Configuration with Docker Desktop Extension | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Navigating Failures in Pods With Devices'"
-date: "2025-08-20T15:05:29""
+title: "Navigating Failures in Pods With Devices''
+date: '2025-08-20T15:05:29""
 category: "Markets"
 summary: ""
 slug: "navigating failures in pods with devices"
 source_urls:
   - "https://kubernetes.io/blog/2025/07/03/navigating-failures-in-pods-with-devices/"
 seo:
-  title: "Navigating Failures in Pods With Devices | Hash n Hedge'"
-  description: ""
+  title: "Navigating Failures in Pods With Devices | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

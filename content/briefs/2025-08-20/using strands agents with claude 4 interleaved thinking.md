@@ -1,4 +1,4 @@
----
+﻿---
 title: Using Strands Agents with Claude 4 Interleaved Thinking
 date: '2025-08-20'
 category: Markets

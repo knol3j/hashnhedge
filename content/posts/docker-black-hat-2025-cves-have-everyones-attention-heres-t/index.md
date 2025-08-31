@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Docker @ Black Hat 2025: CVEs have everyoneÃ¢â‚¬â„¢s attention, hereÃ¢â‚¬â„¢s the path forward'"
-date: "2025-08-20T15:12:13""
+title: "Docker @ Black Hat 2025: CVEs have everyoneÃ¢â‚¬â„¢s attention, hereÃ¢â‚¬â„¢s the path forward''
+date: '2025-08-20T15:12:13""
 category: "Markets"
 summary: ""
 slug: "docker  black hat 2025 cves have everyones attention heres t"
 source_urls:
   - "https://www.docker.com/blog/docker-black-hat-2025-secure-software-supply-chain/"
 seo:
-  title: "Docker @ Black Hat 2025: CVEs have everyoneÃ¢â‚¬â„¢s attention, hereÃ¢â‚¬â„¢s the path forward | Hash n Hedge'"
-  description: ""
+  title: "Docker @ Black Hat 2025: CVEs have everyoneÃ¢â‚¬â„¢s attention, hereÃ¢â‚¬â„¢s the path forward | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Stocks sink in broad ai rout sparked by chinas deepseek'' '
 date: '2025-08-19'
 category: Markets

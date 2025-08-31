@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Project Flash update: Advancing Azure Virtual Machine availability monitoring'
 date: '2025-08-18'
 category: Markets

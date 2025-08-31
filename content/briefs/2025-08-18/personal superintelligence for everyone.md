@@ -1,4 +1,4 @@
----
+﻿---
 title: Personal Superintelligence for Everyone
 date: '2025-08-18'
 category: Markets

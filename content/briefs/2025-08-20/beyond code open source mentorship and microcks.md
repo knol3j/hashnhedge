@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Beyond Code: Open Source, Mentorship and Microcks'
 date: '2025-08-20'
 category: Markets

@@ -1,14 +1,14 @@
 ﻿---
-title: "XYO is available for trading!"
-date: "2025-08-21T16:55:10"
+title: "XYO is available for trading!'
+date: '2025-08-21T16:55:10"
 category: "Markets"
 summary: ""
 slug: "xyo is available for trading"
 source_urls:
   - "https://blog.kraken.com/product/asset-listings/xyo-is-available-for-trading"
 seo:
-  title: "XYO is available for trading! | Hash n Hedge"
-  description: ""
+  title: "XYO is available for trading! | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 **Headline** Crypto Asset XYO Now Available on Kraken Exchange  **Summary Meta Description** The cryptocurrency asset XYO Network has been listed for trading on the Kraken exchange, allowing users to buy and sell XYO tokens. The addition of XYO brings the total number of assets available on Kraken to over 200.  **Key Points**  ΓÇó XYO Network's token is now tradable on Kraken. ΓÇó Users can deposit and withdraw XYO from their accounts. ΓÇó Trading pairs for XYO will be announced by Kraken in due course.  **Takeaways**  1. The listing of XYO on Kraken expands the exchange's cryptocurrency offerings, catering to user demand for diverse assets. 2. This development may attract more users to Kraken, contributing to an increase in trading activity and overall market participation.  **Sources** https://blog.kraken.com/product/asset-listings/xyo-is-available-for-trading 

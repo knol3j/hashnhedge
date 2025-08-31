@@ -1,4 +1,4 @@
----
+﻿---
 title: What’s New in Android Security and Privacy in 2025
 date: '2025-08-20'
 category: Markets

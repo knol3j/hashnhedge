@@ -1,4 +1,4 @@
----
+﻿---
 title: Google's new AI features for Pixel include Magic Cue for contextual suggestions
   across apps, Voice Translate for calls, and Visual Overlays for the camera (Sarah
   Perez/TechCrunch)

@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale'"
-date: "2025-08-20T14:56:58""
+title: "How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale''
+date: '2025-08-20T14:56:58""
 category: "Markets"
 summary: ""
 slug: "how zapier runs isolated tasks on aws lambda and upgrades fu"
 source_urls:
   - "https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/"
 seo:
-  title: "How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale | Hash n Hedge'"
-  description: ""
+  title: "How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

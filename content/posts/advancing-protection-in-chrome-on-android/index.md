@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Advancing Protection in Chrome on Android'"
-date: "2025-08-20T14:44:33""
+title: "Advancing Protection in Chrome on Android''
+date: '2025-08-20T14:44:33""
 category: "Markets"
 summary: ""
 slug: "advancing protection in chrome on android"
 source_urls:
   - "http://security.googleblog.com/2025/07/advancing-protection-in-chrome-on.html"
 seo:
-  title: "Advancing Protection in Chrome on Android | Hash n Hedge'"
-  description: ""
+  title: "Advancing Protection in Chrome on Android | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Explore AI-powered success stories of customer transformation and innovation'"
-date: "2025-08-20T15:32:54""
+title: "Explore AI-powered success stories of customer transformation and innovation''
+date: '2025-08-20T15:32:54""
 category: "Markets"
 summary: ""
 slug: "explore aipowered success stories of customer transformation"
 source_urls:
   - "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation"
 seo:
-  title: "Explore AI-powered success stories of customer transformation and innovation | Hash n Hedge'"
-  description: ""
+  title: "Explore AI-powered success stories of customer transformation and innovation | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

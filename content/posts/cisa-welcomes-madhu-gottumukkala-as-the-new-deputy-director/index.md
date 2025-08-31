@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "CISA Welcomes Madhu Gottumukkala as the New Deputy Director'"
-date: "2025-08-20T14:50:02""
+title: "CISA Welcomes Madhu Gottumukkala as the New Deputy Director''
+date: '2025-08-20T14:50:02""
 category: "Markets"
 summary: ""
 slug: "cisa welcomes madhu gottumukkala as the new deputy director"
 source_urls:
   - "https://www.cisa.gov/news-events/news/cisa-welcomes-madhu-gottumukkala-new-deputy-director"
 seo:
-  title: "CISA Welcomes Madhu Gottumukkala as the New Deputy Director | Hash n Hedge'"
-  description: ""
+  title: "CISA Welcomes Madhu Gottumukkala as the New Deputy Director | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

@@ -1,4 +1,4 @@
----
+﻿---
 title: Shuttered local newspapers across Wyoming and South Dakota come back to life
   because of their big audience of 10,000
 date: '2025-08-20'

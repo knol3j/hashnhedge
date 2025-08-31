@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Agents panel: Launch Copilot coding agent tasks anywhere on GitHub'"
-date: "2025-08-20T14:58:35""
+title: "Agents panel: Launch Copilot coding agent tasks anywhere on GitHub''
+date: '2025-08-20T14:58:35""
 category: "Markets"
 summary: ""
 slug: "agents panel launch copilot coding agent tasks anywhere on g"
 source_urls:
   - "https://github.blog/news-insights/product-news/agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github/"
 seo:
-  title: "Agents panel: Launch Copilot coding agent tasks anywhere on GitHub | Hash n Hedge'"
-  description: ""
+  title: "Agents panel: Launch Copilot coding agent tasks anywhere on GitHub | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

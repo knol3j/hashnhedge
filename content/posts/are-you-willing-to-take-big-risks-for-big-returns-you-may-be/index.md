@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Are you willing to take big risks for big returns you may be'' '
 date: '2025-08-19'
 category: Markets

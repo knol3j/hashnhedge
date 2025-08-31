@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Why the NFL drafted MicrosoftÃ¢â‚¬â„¢s gen AI for the leagueÃ¢â‚¬â„¢s next big play'"
-date: "2025-08-20T15:31:46""
+title: "Why the NFL drafted MicrosoftÃ¢â‚¬â„¢s gen AI for the leagueÃ¢â‚¬â„¢s next big play''
+date: '2025-08-20T15:31:46""
 category: "Markets"
 summary: ""
 slug: "why the nfl drafted microsofts gen ai for the leagues next b"
 source_urls:
   - "https://fortune.com/2025/08/20/why-the-nfl-drafted-microsofts-gen-ai-for-the-leagues-next-big-play/"
 seo:
-  title: "Why the NFL drafted MicrosoftÃ¢â‚¬â„¢s gen AI for the leagueÃ¢â‚¬â„¢s next big play | Hash n Hedge'"
-  description: ""
+  title: "Why the NFL drafted MicrosoftÃ¢â‚¬â„¢s gen AI for the leagueÃ¢â‚¬â„¢s next big play | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

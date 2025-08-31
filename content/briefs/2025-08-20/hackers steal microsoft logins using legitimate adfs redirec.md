@@ -1,4 +1,4 @@
----
+﻿---
 title: Hackers steal Microsoft logins using legitimate ADFS redirects
 date: '2025-08-20'
 category: Markets

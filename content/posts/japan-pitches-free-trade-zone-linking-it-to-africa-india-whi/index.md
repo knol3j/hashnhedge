@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Japan pitches free trade zone linking it to Africa, India while extending $5.5 billion loan'"
-date: "2025-08-20T15:31:52""
+title: "Japan pitches free trade zone linking it to Africa, India while extending $5.5 billion loan''
+date: '2025-08-20T15:31:52""
 category: "Markets"
 summary: ""
 slug: "japan pitches free trade zone linking it to africa india whi"
 source_urls:
   - "https://fortune.com/2025/08/20/japan-5-billion-africa-india-ocean-free-trade-zone/"
 seo:
-  title: "Japan pitches free trade zone linking it to Africa, India while extending $5.5 billion loan | Hash n Hedge'"
-  description: ""
+  title: "Japan pitches free trade zone linking it to Africa, India while extending $5.5 billion loan | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

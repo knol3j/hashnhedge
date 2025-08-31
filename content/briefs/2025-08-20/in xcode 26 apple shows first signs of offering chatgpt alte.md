@@ -1,4 +1,4 @@
----
+﻿---
 title: In Xcode 26, Apple shows first signs of offering ChatGPT alternatives
 date: '2025-08-20'
 category: Markets

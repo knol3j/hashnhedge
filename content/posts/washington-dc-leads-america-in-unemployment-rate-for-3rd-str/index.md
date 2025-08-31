@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Washington DC leads America in unemployment rate for 3rd straight month'"
-date: "2025-08-20T15:31:39""
+title: "Washington DC leads America in unemployment rate for 3rd straight month''
+date: '2025-08-20T15:31:39""
 category: "Markets"
 summary: ""
 slug: "washington dc leads america in unemployment rate for 3rd str"
 source_urls:
   - "https://fortune.com/2025/08/20/washington-dc-leads-america-in-unemployment-rate-for-3rd-straight-month/"
 seo:
-  title: "Washington DC leads America in unemployment rate for 3rd straight month | Hash n Hedge'"
-  description: ""
+  title: "Washington DC leads America in unemployment rate for 3rd straight month | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

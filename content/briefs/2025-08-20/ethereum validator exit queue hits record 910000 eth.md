@@ -1,4 +1,4 @@
----
+﻿---
 title: Ethereum Validator Exit Queue Hits Record 910,000 ETH
 date: '2025-08-20'
 category: Markets

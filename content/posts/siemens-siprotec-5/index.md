@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Siemens SIPROTEC 5'"
-date: "2025-08-20T14:53:47""
+title: "Siemens SIPROTEC 5''
+date: '2025-08-20T14:53:47""
 category: "Markets"
 summary: ""
 slug: "siemens siprotec 5"
 source_urls:
   - "https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-10"
 seo:
-  title: "Siemens SIPROTEC 5 | Hash n Hedge'"
-  description: ""
+  title: "Siemens SIPROTEC 5 | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

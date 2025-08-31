@@ -1,4 +1,4 @@
----
+﻿---
 title: 'IntelÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s stock surges on SoftBank investment and potential
   U.S. government stake. HereÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s why the rally could crumble.'' '
 date: '2025-08-19'

@@ -1,14 +1,14 @@
 ﻿---
-title: "Curb Your Enthusiasm: Assistant Attorney General Galeotti’s Talk on Crypto Devs Changes Very Little"
-date: "2025-08-21T20:45:11"
+title: "Curb Your Enthusiasm: Assistant Attorney General Galeotti’s Talk on Crypto Devs Changes Very Little'
+date: '2025-08-21T20:45:11"
 category: "Markets"
 summary: ""
 slug: "curb your enthusiasm assistant attorney general galeottis ta"
 source_urls:
   - "https://bitcoinmagazine.com/legal/curb-your-enthusiasm-assistant-attorney-general-galeottis-talk-changes-very-little"
 seo:
-  title: "Curb Your Enthusiasm: Assistant Attorney General Galeotti’s Talk on Crypto Devs Changes Very Little | Hash n Hedge"
-  description: ""
+  title: "Curb Your Enthusiasm: Assistant Attorney General Galeotti’s Talk on Crypto Devs Changes Very Little | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 **Headline:** "Assistant Attorney General's Talk on Crypto Developers Falls Flat"  **Summary Meta Description:** Assistant Attorney General Elizabeth C. Galeotti's speech to the Stanford Law School crypto club has been met with disappointment from developers, as it failed to provide clear guidance or regulation for the industry.  **Bullet Key Points:**  * Assistant Attorney General Elizabeth C. Galeotti spoke at a Stanford Law School crypto club event * Her talk was anticipated to provide insight into potential regulatory changes affecting crypto developers * Developers expressed frustration and disappointment with the lack of concrete information provided by Galeotti * The event was seen as an opportunity for the government to engage in constructive dialogue with the industry  **Short Takeaways:**  1. **Lack of clarity:** The speech failed to provide clear guidance or regulation, leaving developers with more questions than answers. 2. **Missed opportunity:** The event could have been a chance for the government to engage in open and productive dialogue with the crypto community, but instead it came across as vague and unhelpful.  **Sources:**  * https://bitcoinmagazine.com/legal/curb-your-enthusiasm-assistant-attorney-general-galeottis-talk-changes-very-little 

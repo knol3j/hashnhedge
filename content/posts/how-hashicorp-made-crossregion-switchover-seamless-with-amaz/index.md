@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "How HashiCorp made cross-Region switchover seamless with Amazon Application Recovery Controller'"
-date: "2025-08-20T14:57:23""
+title: "How HashiCorp made cross-Region switchover seamless with Amazon Application Recovery Controller''
+date: '2025-08-20T14:57:23""
 category: "Markets"
 summary: ""
 slug: "how hashicorp made crossregion switchover seamless with amaz"
 source_urls:
   - "https://aws.amazon.com/blogs/architecture/how-hashicorp-made-cross-region-switchover-seamless-with-amazon-application-recovery-controller/"
 seo:
-  title: "How HashiCorp made cross-Region switchover seamless with Amazon Application Recovery Controller | Hash n Hedge'"
-  description: ""
+  title: "How HashiCorp made cross-Region switchover seamless with Amazon Application Recovery Controller | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

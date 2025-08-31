@@ -1,14 +1,4 @@
 ﻿---
-title: "Cattle Traders Square Up Ahead of Friday’s Report, Closing Mixed"
-date: "2025-08-21T20:45:33"
-category: "Markets"
-summary: ""
-slug: "cattle traders square up ahead of fridays report closing mix"
-source_urls:
-  - "https://www.nasdaq.com/articles/cattle-traders-square-ahead-fridays-report-closing-mixed"
-seo:
-  title: "Cattle Traders Square Up Ahead of Friday’s Report, Closing Mixed | Hash n Hedge"
-  description: ""
-  keywords: ["news", "markets", "brief"]
+title: "Cattle Traders Square Up Ahead of Friday's Report, Closing Mixed"  date: "2025-08-21T20:45:33"  category: "Markets"  summary: ""  slug: "cattle traders square up ahead of fridays report closing mix"  source_urls:    - "https://www.nasdaq.com/articles/cattle-traders-square-ahead-fridays-report-closing-mixed"  seo:    title: "Cattle Traders Square Up Ahead of Friday's Report, Closing Mixed | Hash n Hedge"    description: ""    keywords: ["news", "markets", "brief"]
 ---
-**Headline** Cattle Traders Eye Friday's Report Amid Mixed Trade  **Summary Meta Description** Cattle traders are cautiously optimistic ahead of this week's crucial report, with live futures posting mixed trade and cash prices lingering. Nearbys remain relatively unchanged while deferred contracts see gains.  **Key Points:**  ΓÇó Live cattle futures closed within 15 cents of their previous trading levels. ΓÇó Cash trade has been sluggish this week, with some northern dressed cattle selling at $385 and live trade at $245. ΓÇó The Thursday Fed Cattle Exchange online auction reported no sales on its 1,264 head offering.  **Short Takeaways:**  - **Uncertainty Ahead**: Friday's report will be a crucial indicator of market trends. A mixed reaction from traders suggests volatility could remain in the short term. - **Cash Trade Lingers**: The slow pace of cash trade this week underscores ongoing challenges in the cattle industry, with prices remaining relatively stable despite some fluctuations.  **Sources** https://www.nasdaq.com/articles/cattle-traders-square-ahead-fridays-report-closing-mixed 
+**Headline** Cattle Traders Eye Friday's Report Amid Mixed Trade  **Summary Meta Description** Cattle traders are cautiously optimistic ahead of this week's crucial report, with live futures posting mixed trade and cash prices lingering. Nearbys remain relatively unchanged while deferred contracts see gains.  **Key Points:**  • Live cattle futures closed within 15 cents of their previous trading levels. • Cash trade has been sluggish this week, with some northern dressed cattle selling at $385 and live trade at $245. • The Thursday Fed Cattle Exchange online auction reported no sales on its 1,264 head offering.  **Short Takeaways:**  - **Uncertainty Ahead**: Friday's report will be a crucial indicator of market trends. A mixed reaction from traders suggests volatility could remain in the short term. - **Cash Trade Lingers**: The slow pace of cash trade this week underscores ongoing challenges in the cattle industry, with prices remaining relatively stable despite some fluctuations.  **Sources** https://www.nasdaq.com/articles/cattle-traders-square-ahead-fridays-report-closing-mixed 

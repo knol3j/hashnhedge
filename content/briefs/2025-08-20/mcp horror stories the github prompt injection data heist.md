@@ -1,4 +1,4 @@
----
+﻿---
 title: 'MCP Horror Stories: The GitHub Prompt Injection Data Heist'
 date: '2025-08-20'
 category: Markets

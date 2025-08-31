@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Meta AI Meets African Fashion: Unveiling the First AI-Imagined Fashion Collection
   With I.N OFFICIAL at Africa Fashion Week London'
 date: '2025-08-18'

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Home depot says tariffs will lead to price increases but the'' '
 date: '2025-08-19'
 category: Markets

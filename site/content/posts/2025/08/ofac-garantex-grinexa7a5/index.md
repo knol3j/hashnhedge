@@ -1,14 +1,4 @@
 ﻿---
-title: "OFAC制裁指定のロシア暗号資産ネットワーク：Garantexリブランド・Grinex・A7A5トークンと立法的制裁回避"
-date: "2025-08-21T16:52:53"
-category: "Markets"
-summary: ""
-slug: "ofac制裁指定のロシア暗号資産ネットワークgarantexリブランドgrinexa7a5トークンと立法的制裁回避"
-source_urls:
-  - "https://www.chainalysis.com/blog/a7a5-grinex-russian-crypto-economy-ofac-sanctions-august-2025-japanese/"
-seo:
-  title: "OFAC制裁指定のロシア暗号資産ネットワーク：Garantexリブランド・Grinex・A7A5トークンと立法的制裁回避 | Hash n Hedge"
-  description: ""
-  keywords: ["news", "markets", "brief"]
+title: "OFAC                   Garantex      Grinex A7A5            "  date: "2025-08-21T16:52:53"  category: "Markets"  summary: ""  slug: "ofac                  garantex     grinexa7a5            "  source_urls:    - "https://www.chainalysis.com/blog/a7a5-grinex-russian-crypto-economy-ofac-sanctions-august-2025-japanese/"  seo:    title: "OFAC                   Garantex      Grinex A7A5             | Hash n Hedge"    description: ""    keywords: ["news", "markets", "brief"]
 ---
 **Headline:** OFAC Targets Russian Crypto Network with Sanctions  **Summary Meta Description:** The US Treasury's Office of Foreign Assets Control (OFAC) has added a Russian cryptocurrency network to its sanctions list, targeting its assets and transactions in an effort to disrupt Russia's crypto economy. This move comes as part of the ongoing economic pressure on Russia following its invasion of Ukraine.  **Key Points:**  * OFAC designated Garantex, a Moscow-based cryptocurrency exchange, as a sanctioned entity. * The network also includes Grinex, a Russian token that has been used to evade sanctions. * A7A5 is another token associated with the network, which has been linked to illicit activities.  **Short Takeaways:**  1. This latest move by OFAC demonstrates the US government's commitment to disrupting Russia's crypto economy and its efforts to circumvent economic sanctions through digital means. 2. The designation of Garantex highlights the risks faced by Russian crypto exchanges in complying with international regulations, as well as the evolving nature of sanctions evasion strategies.  **Sources:** https://www.chainalysis.com/blog/a7a5-grinex-russian-crypto-economy-ofac-sanctions-august-2025-japanese/ 

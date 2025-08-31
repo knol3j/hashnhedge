@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "The 2025 Annual Work Trend Index: The Frontier Firm is born'"
-date: "2025-08-20T15:32:44""
+title: "The 2025 Annual Work Trend Index: The Frontier Firm is born''
+date: '2025-08-20T15:32:44""
 category: "Markets"
 summary: ""
 slug: "the 2025 annual work trend index the frontier firm is born"
 source_urls:
   - "https://blogs.microsoft.com/blog/2025/04/23/the-2025-annual-work-trend-index-the-frontier-firm-is-born/"
 seo:
-  title: "The 2025 Annual Work Trend Index: The Frontier Firm is born | Hash n Hedge'"
-  description: ""
+  title: "The 2025 Annual Work Trend Index: The Frontier Firm is born | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

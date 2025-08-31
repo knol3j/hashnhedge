@@ -1,4 +1,4 @@
----
+﻿---
 title: DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks
 date: '2025-08-20'
 category: Markets

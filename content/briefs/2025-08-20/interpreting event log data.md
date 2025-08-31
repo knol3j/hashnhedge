@@ -1,4 +1,4 @@
----
+﻿---
 title: Interpreting Event Log Data
 date: '2025-08-20'
 category: Markets

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Introducing AI Sheets: a tool to work with datasets using open AI models!'
 date: '2025-08-20'
 category: Markets

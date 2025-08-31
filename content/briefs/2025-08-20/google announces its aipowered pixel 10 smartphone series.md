@@ -1,14 +1,14 @@
 ﻿---
-title: "Google announces its AI-powered Pixel 10 smartphone series"
-date: "2025-08-20T20:55:55"
+title: "Google announces its AI-powered Pixel 10 smartphone series'
+date: '2025-08-20T20:55:55"
 category: "Markets"
 summary: ""
 slug: "google announces its aipowered pixel 10 smartphone series"
 source_urls:
   - "https://www.cnbc.com/2025/08/20/google-pixel-10-gemini-ai.html"
 seo:
-  title: "Google announces its AI-powered Pixel 10 smartphone series | Hash n Hedge"
-  description: ""
+  title: "Google announces its AI-powered Pixel 10 smartphone series | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 **Headline** Google Unveils AI-Powered Pixel 10 Series  **Meta Description** Get the latest on Google's newest smartphone series, the Pixel 10, featuring AI-powered capabilities and advanced camera features. Discover what sets these devices apart from their predecessors.  **Key Points**  ΓÇó The Pixel 10 series boasts improved battery life, with up to 24 hours of talk time. ΓÇó A new "Gemini" chip enables AI-driven performance enhancements and efficiency. ΓÇó Enhanced cameras feature improved low-light capabilities and a higher-quality zoom. ΓÇó Google Assistant is integrated directly into the device for seamless interactions. ΓÇó The phones run on Android 13, providing a smooth user experience.  **Takeaways**  1. **AI takes center stage**: Google's focus on AI-powered features marks a significant shift in smartphone technology, emphasizing efficiency and performance over raw processing power. 2. **Camera capabilities reign supreme**: With improved low-light capture and higher-quality zoom, the Pixel 10 series is poised to compete with other top-tier smartphones in the camera department.  **Sources** https://www.cnbc.com/2025/08/20/google-pixel-10-gemini-ai.html 

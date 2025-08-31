@@ -1,5 +1,5 @@
 ﻿---
-title: "X removes the ability for free-tier developers to like posts and follow users via its API to "protect the platform from spam, bots, and manipulative activities" (Sarah Perez/TechCrunch)"
+title: "X removes the ability for free-tier developers to like posts and follow users via its API to 'protect the platform from spam, bots, and manipulative activities' (Sarah Perez/TechCrunch)"
 date: "2025-08-22T12:46:36"
 category: "Markets"
 summary: ""
@@ -7,7 +7,7 @@ slug: "x removes the ability for freetier developers to like posts "
 source_urls:
   - "http://www.techmeme.com/250822/p16#a250822p16"
 seo:
-  title: "X removes the ability for free-tier developers to like posts and follow users via its API to "protect the platform from spam, bots, and manipulative activities" (Sarah Perez/TechCrunch) | Hash n Hedge"
+  title: "X removes the ability for free-tier developers to like posts and follow users via its API to 'protect the platform from spam, bots, and manipulative activities' (Sarah Perez/TechCrunch) | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

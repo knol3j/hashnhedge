@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Introducing Strands Agents 1.0: Production-Ready Multi-Agent Orchestration Made Simple'"
-date: "2025-08-20T15:33:57""
+title: "Introducing Strands Agents 1.0: Production-Ready Multi-Agent Orchestration Made Simple''
+date: '2025-08-20T15:33:57""
 category: "Markets"
 summary: ""
 slug: "introducing strands agents 10 productionready multiagent orc"
 source_urls:
   - "https://aws.amazon.com/blogs/opensource/introducing-strands-agents-1-0-production-ready-multi-agent-orchestration-made-simple/"
 seo:
-  title: "Introducing Strands Agents 1.0: Production-Ready Multi-Agent Orchestration Made Simple | Hash n Hedge'"
-  description: ""
+  title: "Introducing Strands Agents 1.0: Production-Ready Multi-Agent Orchestration Made Simple | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

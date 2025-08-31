@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Why email security needs its EDR moment to move beyond prevention'"
-date: "2025-08-20T14:38:22""
+title: "Why email security needs its EDR moment to move beyond prevention''
+date: '2025-08-20T14:38:22""
 category: "Markets"
 summary: ""
 slug: "why email security needs its edr moment to move beyond preve"
 source_urls:
   - "https://www.bleepingcomputer.com/news/security/why-email-security-needs-its-edr-moment-to-move-beyond-prevention/"
 seo:
-  title: "Why email security needs its EDR moment to move beyond prevention | Hash n Hedge'"
-  description: ""
+  title: "Why email security needs its EDR moment to move beyond prevention | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

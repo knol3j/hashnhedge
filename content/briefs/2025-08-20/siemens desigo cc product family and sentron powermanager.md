@@ -1,4 +1,4 @@
----
+﻿---
 title: Siemens Desigo CC Product Family and SENTRON Powermanager
 date: '2025-08-20'
 category: Markets

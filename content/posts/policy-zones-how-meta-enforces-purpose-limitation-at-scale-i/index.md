@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Policy Zones: How Meta enforces purpose limitation at scale in batch processing systems'"
-date: "2025-08-20T15:33:31""
+title: "Policy Zones: How Meta enforces purpose limitation at scale in batch processing systems''
+date: '2025-08-20T15:33:31""
 category: "Markets"
 summary: ""
 slug: "policy zones how meta enforces purpose limitation at scale i"
 source_urls:
   - "https://engineering.fb.com/2025/07/23/security/policy-zones-meta-purpose-limitation-batch-processing-systems/"
 seo:
-  title: "Policy Zones: How Meta enforces purpose limitation at scale in batch processing systems | Hash n Hedge'"
-  description: ""
+  title: "Policy Zones: How Meta enforces purpose limitation at scale in batch processing systems | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

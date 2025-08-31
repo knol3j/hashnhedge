@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Secure your Express application APIs in 5 minutes with Cedar'"
-date: "2025-08-20T15:34:19""
+title: "Secure your Express application APIs in 5 minutes with Cedar''
+date: '2025-08-20T15:34:19""
 category: "Markets"
 summary: ""
 slug: "secure your express application apis in 5 minutes with cedar"
 source_urls:
   - "https://aws.amazon.com/blogs/opensource/secure-your-application-apis-in-5-minutes-with-cedar/"
 seo:
-  title: "Secure your Express application APIs in 5 minutes with Cedar | Hash n Hedge'"
-  description: ""
+  title: "Secure your Express application APIs in 5 minutes with Cedar | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

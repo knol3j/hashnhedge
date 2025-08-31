@@ -1,4 +1,4 @@
----
+﻿---
 title: TOP 11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022)
 date: '2025-08-18'
 category: Markets

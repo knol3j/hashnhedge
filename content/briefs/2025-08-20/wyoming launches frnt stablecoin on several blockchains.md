@@ -1,4 +1,4 @@
----
+﻿---
 title: Wyoming Launches FRNT Stablecoin on Several Blockchains
 date: '2025-08-20'
 category: Markets

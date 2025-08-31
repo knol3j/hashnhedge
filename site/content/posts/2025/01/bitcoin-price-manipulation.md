@@ -28,7 +28,7 @@ Between Friday's close and Monday's open, Bitcoin experienced what mainstream me
 ### The Setup (Friday, 11 PM EST)
 Large holders begin moving Bitcoin to exchanges. Not selling yet - just creating the infrastructure for what's coming. Think of it as loading the gun before pointing it at retail's head.
 
-**Wallet Analysis:**
+**Wallet Analysis: **
 - 1A1zP1... moved 15,200 BTC to Binance
 - 3J98t1... transferred 18,900 BTC to Coinbase  
 - bc1qxy2k... deposited 12,900 BTC to Kraken
@@ -45,38 +45,38 @@ As retail panic reached fever pitch, suddenly Bitcoin found "support" at exactly
 
 Every crypto influencer with a trading view account was posting their "analysis" of what happened. Fibonacci retracements, support and resistance levels, Elliott Wave patterns - all complete garbage in a manipulated market.
 
-**Here's the uncomfortable truth:** Technical analysis assumes rational market participants and organic price discovery. Bitcoin has neither. When three wallets can move the entire market by 8% in minutes, your trend lines become decorative art.
+**Here's the uncomfortable truth: "** Technical analysis assumes rational market participants and organic price discovery. Bitcoin has neither. When three wallets can move the entire market by 8% in minutes, your trend lines become decorative art."
 
 The manipulation isn't even hidden. It's right there in the blockchain data for anyone willing to look. But most people prefer comfortable lies to uncomfortable truths.
 
 ## The Psychology of Controlled Markets
 
-**Phase 1: Create Fear**
+**Phase 1: "Create Fear**"
 Drop the price fast enough to trigger stop losses and liquidations. Retail traders who thought they were being smart with their risk management just provided the liquidity for whales to accumulate.
 
-**Phase 2: Exploit Panic**
+**Phase 2: "Exploit Panic**"
 Let the price fall further than necessary. Create genuine fear. Watch leverage traders get rekt and spot holders question everything. This is when real accumulation happens.
 
-**Phase 3: Restore "Normal" Prices**
+**Phase 3: "Restore "Normal" Prices**"
 Buy back at lower levels, push price to slightly below where the manipulation started. Everyone thinks it was just "volatility." The cycle continues.
 
 ## Who Benefits From This Beautiful Chaos
 
-**The Whales:** Obviously. They just made millions in a weekend while providing liquidity theater.
+**The Whales: "** Obviously. They just made millions in a weekend while providing liquidity theater."
 
-**The Exchanges:** Trading volume means fees. Liquidations mean more fees. Manipulation creates volume, so manipulation creates revenue.
+**The Exchanges: "** Trading volume means fees. Liquidations mean more fees. Manipulation creates volume, so manipulation creates revenue."
 
-**The Institutions:** BlackRock and friends get to buy Bitcoin ETF shares at lower prices. Convenient timing, that.
+**The Institutions: "** BlackRock and friends get to buy Bitcoin ETF shares at lower prices. Convenient timing, that."
 
-**Who Loses:** Everyone else. Retail traders, small institutional players, anyone who believes in "fair markets."
+**Who Loses: "** Everyone else. Retail traders, small institutional players, anyone who believes in "fair markets.""
 
 ## What This Means for Your Portfolio
 
-**If you're trading:** Stop. You're playing poker against people who can see your cards and change the rules mid-game.
+**If you're trading: "** Stop. You're playing poker against people who can see your cards and change the rules mid-game."
 
-**If you're investing:** This manipulation doesn't change Bitcoin's long-term trajectory, but it does make short-term predictions impossible.
+**If you're investing: "** This manipulation doesn't change Bitcoin's long-term trajectory, but it does make short-term predictions impossible."
 
-**If you're building:** Keep building. The manipulation is noise. The signal is a global shift toward decentralized money.
+**If you're building: "** Keep building. The manipulation is noise. The signal is a global shift toward decentralized money."
 
 ## The Bigger Picture
 
@@ -88,7 +88,7 @@ The beautiful irony? Bitcoin was supposed to democratize finance. Instead, it's 
 
 Expect more of the same. Weekend manipulation, coordinated moves, and retail getting rekt while whales accumulate. The only question is whether you'll keep pretending it's not happening or adapt to the reality of manipulated markets.
 
-**The nihilistic optimism:** Eventually, even manipulation can't hold back fundamental adoption. But "eventually" is doing a lot of heavy lifting in that sentence.
+**The nihilistic optimism: "** Eventually, even manipulation can't hold back fundamental adoption. But "eventually" is doing a lot of heavy lifting in that sentence."
 
 ---
 

@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Gear Up for the 5th Annual KCD Washington DC!'"
-date: "2025-08-20T15:08:48""
+title: "Gear Up for the 5th Annual KCD Washington DC!''
+date: '2025-08-20T15:08:48""
 category: "Markets"
 summary: ""
 slug: "gear up for the 5th annual kcd washington dc"
 source_urls:
   - "https://www.cncf.io/blog/2025/08/16/gear-up-for-the-5th-annual-kcd-washington-dc/"
 seo:
-  title: "Gear Up for the 5th Annual KCD Washington DC! | Hash n Hedge'"
-  description: ""
+  title: "Gear Up for the 5th Annual KCD Washington DC! | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

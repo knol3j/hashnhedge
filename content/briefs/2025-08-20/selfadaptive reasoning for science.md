@@ -1,4 +1,4 @@
----
+﻿---
 title: Self-adaptive reasoning for science
 date: '2025-08-20'
 category: Markets

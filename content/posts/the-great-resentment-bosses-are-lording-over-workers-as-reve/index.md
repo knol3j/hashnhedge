@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "The Great Resentment: Bosses are lording over workers as revenge for the Great Resignation when they had to hand out once-in-a-generation raises'"
-date: "2025-08-20T15:32:04""
+title: "The Great Resentment: Bosses are lording over workers as revenge for the Great Resignation when they had to hand out once-in-a-generation raises''
+date: '2025-08-20T15:32:04""
 category: "Markets"
 summary: ""
 slug: "the great resentment bosses are lording over workers as reve"
 source_urls:
   - "https://fortune.com/2025/08/20/great-resentment-revenge-return-to-office-remote-work/"
 seo:
-  title: "The Great Resentment: Bosses are lording over workers as revenge for the Great Resignation when they had to hand out once-in-a-generation raises | Hash n Hedge'"
-  description: ""
+  title: "The Great Resentment: Bosses are lording over workers as revenge for the Great Resignation when they had to hand out once-in-a-generation raises | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

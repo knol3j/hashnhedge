@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Microsoft releases emergency updates to fix Windows recovery'"
-date: "2025-08-20T14:39:28""
+title: "Microsoft releases emergency updates to fix Windows recovery''
+date: '2025-08-20T14:39:28""
 category: "Markets"
 summary: ""
 slug: "microsoft releases emergency updates to fix windows recovery"
 source_urls:
   - "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-recovery/"
 seo:
-  title: "Microsoft releases emergency updates to fix Windows recovery | Hash n Hedge'"
-  description: ""
+  title: "Microsoft releases emergency updates to fix Windows recovery | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

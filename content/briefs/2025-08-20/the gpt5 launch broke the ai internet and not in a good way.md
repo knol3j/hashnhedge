@@ -1,4 +1,4 @@
----
+﻿---
 title: The GPT-5 Launch Broke the AI Internet (And Not in a Good Way)
 date: '2025-08-20'
 category: Markets

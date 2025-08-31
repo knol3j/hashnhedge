@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Policy Zones: How Meta enforces purpose limitation at scale in batch processing
   systems'
 date: '2025-08-20'

@@ -1,4 +1,4 @@
----
+﻿---
 title: Target’s incoming CEO started as an intern at the $44 billion retail giant
   20 years ago—he advises Gen Z who want to copy him to ‘embrace feedback’
 date: '2025-08-20'

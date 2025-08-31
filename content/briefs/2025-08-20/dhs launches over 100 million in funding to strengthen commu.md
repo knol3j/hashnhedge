@@ -1,4 +1,4 @@
----
+﻿---
 title: DHS Launches Over $100 Million in Funding to Strengthen Communities’ Cyber
   Defenses
 date: '2025-08-20'

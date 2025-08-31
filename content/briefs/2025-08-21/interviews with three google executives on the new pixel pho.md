@@ -1,5 +1,5 @@
 ﻿---
-title: "Interviews with three Google executives on the new Pixel phones, why Pixel won't ever be a "giant player", improving the devices by ~30% each year, AI, and more (Bloomberg)"
+title: "Interviews with three Google executives on the new Pixel phones, why Pixel won't ever be a 'giant player', improving the devices by ~30% each year, AI, and more (Bloomberg)"
 date: "2025-08-21T17:41:17"
 category: "Markets"
 summary: ""
@@ -7,7 +7,7 @@ slug: "interviews with three google executives on the new pixel pho"
 source_urls:
   - "http://www.techmeme.com/250821/p20#a250821p20"
 seo:
-  title: "Interviews with three Google executives on the new Pixel phones, why Pixel won't ever be a "giant player", improving the devices by ~30% each year, AI, and more (Bloomberg) | Hash n Hedge"
+  title: "Interviews with three Google executives on the new Pixel phones, why Pixel won't ever be a 'giant player', improving the devices by ~30% each year, AI, and more (Bloomberg) | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

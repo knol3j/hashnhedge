@@ -1,4 +1,4 @@
----
+﻿---
 title: Cloud Native in the City of Kings
 date: '2025-08-20'
 category: Markets

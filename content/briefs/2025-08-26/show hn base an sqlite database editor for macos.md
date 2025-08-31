@@ -1,14 +1,14 @@
 ﻿---
-title: "Show HN: Base, an SQLite database editor for macOS"
-date: "2025-08-26T07:40:05"
+title: "Show HN: Base, an SQLite database editor for macOS'
+date: '2025-08-26T07:40:05"
 category: "Markets"
 summary: ""
 slug: "show hn base an sqlite database editor for macos"
 source_urls:
   - "https://menial.co.uk/base/"
 seo:
-  title: "Show HN: Base, an SQLite database editor for macOS | Hash n Hedge"
-  description: ""
+  title: "Show HN: Base, an SQLite database editor for macOS | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 Here's the news brief:  **Headline:** "New SQLite Editor 'Base' Launches on Mac"  **Summary Meta Description:** "Developers can now easily edit and manage SQLite databases on their Macs with the release of Base, a user-friendly database editor. The tool offers features like live query results, syntax highlighting, and more."  **Key Points:**  * Base is an open-source SQLite database editor designed for macOS * Features include live query results, syntax highlighting, and SQL execution history * Users can create new databases or connect to existing ones with ease * Supports various encoding types, including UTF-8 and ISO 8859-1  **Short Takeaways:**  1. The release of Base provides a convenient solution for developers to manage SQLite databases on their Macs. 2. As a free, open-source tool, it's likely to appeal to those looking for an alternative to existing database editors.  **Sources:** https://menial.co.uk/base/ 

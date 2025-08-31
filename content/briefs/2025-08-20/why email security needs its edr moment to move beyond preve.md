@@ -1,4 +1,4 @@
----
+﻿---
 title: Why email security needs its EDR moment to move beyond prevention
 date: '2025-08-20'
 category: Markets

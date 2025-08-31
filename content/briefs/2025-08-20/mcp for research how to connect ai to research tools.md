@@ -1,4 +1,4 @@
----
+﻿---
 title: 'MCP for Research: How to Connect AI to Research Tools'
 date: '2025-08-20'
 category: Markets

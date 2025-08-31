@@ -1,5 +1,5 @@
 ﻿---
-title: "Email: TikTok plans to lay off several hundred UK trust and safety staff in the UK and Asia, citing "technological advances" such as LLMs in content moderation (Financial Times)"
+title: "Email: TikTok plans to lay off several hundred UK trust and safety staff in the UK and Asia, citing 'technological advances' such as LLMs in content moderation (Financial Times)"
 date: "2025-08-22T07:35:32"
 category: "Markets"
 summary: ""
@@ -7,7 +7,7 @@ slug: "email tiktok plans to lay off several hundred uk trust and s"
 source_urls:
   - "http://www.techmeme.com/250822/p10#a250822p10"
 seo:
-  title: "Email: TikTok plans to lay off several hundred UK trust and safety staff in the UK and Asia, citing "technological advances" such as LLMs in content moderation (Financial Times) | Hash n Hedge"
+  title: "Email: TikTok plans to lay off several hundred UK trust and safety staff in the UK and Asia, citing 'technological advances' such as LLMs in content moderation (Financial Times) | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

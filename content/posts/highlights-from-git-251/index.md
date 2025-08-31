@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Highlights from Git 2.51'"
-date: "2025-08-20T14:58:56""
+title: "Highlights from Git 2.51''
+date: '2025-08-20T14:58:56""
 category: "Markets"
 summary: ""
 slug: "highlights from git 251"
 source_urls:
   - "https://github.blog/open-source/git/highlights-from-git-2-51/"
 seo:
-  title: "Highlights from Git 2.51 | Hash n Hedge'"
-  description: ""
+  title: "Highlights from Git 2.51 | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

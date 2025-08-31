@@ -4,9 +4,9 @@ date: "2025-08-26T07:28:38"
 category: "Markets"
 summary: ""
 slug: "macos dotfiles should not go in libraryapplication support"
-source_urls:
-  - "https://becca.ooo/blog/macos-dotfiles/"
-seo:
+source_urls: 
+  - "https: "//becca.ooo/blog/macos-dotfiles/""
+seo: 
   title: "macOS dotfiles should not go in ~/Library/Application Support | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]

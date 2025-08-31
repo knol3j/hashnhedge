@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Changes to Kubernetes Slack'"
-date: "2025-08-20T15:06:50""
+title: "Changes to Kubernetes Slack''
+date: '2025-08-20T15:06:50""
 category: "Markets"
 summary: ""
 slug: "changes to kubernetes slack"
 source_urls:
   - "https://kubernetes.io/blog/2025/06/16/changes-to-kubernetes-slack/"
 seo:
-  title: "Changes to Kubernetes Slack | Hash n Hedge'"
-  description: ""
+  title: "Changes to Kubernetes Slack | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

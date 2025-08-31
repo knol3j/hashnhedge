@@ -1,4 +1,4 @@
----
+﻿---
 title: Siemens SIPROTEC 5
 date: '2025-08-20'
 category: Markets

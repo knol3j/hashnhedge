@@ -1,4 +1,4 @@
----
+﻿---
 title: System.Object[]
 date: '2025-08-18'
 category: Markets

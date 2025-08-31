@@ -1,4 +1,4 @@
----
+﻿---
 title: KindlyMD Buys 5,744 Bitcoin For $679 Million To Expand Nakamoto Bitcoin Treasury
 date: '2025-08-20'
 category: Markets

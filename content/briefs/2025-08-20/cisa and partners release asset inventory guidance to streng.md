@@ -1,4 +1,4 @@
----
+﻿---
 title: CISA and Partners Release Asset Inventory Guidance to Strengthen Operational
   Technology Security
 date: '2025-08-20'

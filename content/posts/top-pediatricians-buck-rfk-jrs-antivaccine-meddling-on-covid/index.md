@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Top pediatricians buck RFK Jr.Ã¢â‚¬â„¢s anti-vaccine meddling on COVID shot guidance'"
-date: "2025-08-20T15:18:12""
+title: "Top pediatricians buck RFK Jr.Ã¢â‚¬â„¢s anti-vaccine meddling on COVID shot guidance''
+date: '2025-08-20T15:18:12""
 category: "Markets"
 summary: ""
 slug: "top pediatricians buck rfk jrs antivaccine meddling on covid"
 source_urls:
   - "https://arstechnica.com/health/2025/08/top-pediatricians-buck-rfk-jr-s-anti-vaccine-meddling-on-covid-shot-guidance/"
 seo:
-  title: "Top pediatricians buck RFK Jr.Ã¢â‚¬â„¢s anti-vaccine meddling on COVID shot guidance | Hash n Hedge'"
-  description: ""
+  title: "Top pediatricians buck RFK Jr.Ã¢â‚¬â„¢s anti-vaccine meddling on COVID shot guidance | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

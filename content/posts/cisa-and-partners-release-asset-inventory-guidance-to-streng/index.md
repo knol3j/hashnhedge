@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "CISA and Partners Release Asset Inventory Guidance to Strengthen Operational Technology Security'"
-date: "2025-08-20T14:47:07""
+title: "CISA and Partners Release Asset Inventory Guidance to Strengthen Operational Technology Security''
+date: '2025-08-20T14:47:07""
 category: "Markets"
 summary: ""
 slug: "cisa and partners release asset inventory guidance to streng"
 source_urls:
   - "https://www.cisa.gov/news-events/news/cisa-and-partners-release-asset-inventory-guidance-strengthen-operational-technology-security"
 seo:
-  title: "CISA and Partners Release Asset Inventory Guidance to Strengthen Operational Technology Security | Hash n Hedge'"
-  description: ""
+  title: "CISA and Partners Release Asset Inventory Guidance to Strengthen Operational Technology Security | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

@@ -1,14 +1,14 @@
 ﻿---
-title: "Going beyond basic data security with Google Cloud DSPM"
-date: "2025-08-20T20:49:51"
+title: "Going beyond basic data security with Google Cloud DSPM'
+date: '2025-08-20T20:49:51"
 category: "Markets"
 summary: ""
 slug: "going beyond basic data security with google cloud dspm"
 source_urls:
   - "https://cloud.google.com/blog/products/identity-security/going-beyond-dspm-to-protect-your-data-in-the-cloud-now-in-preview/"
 seo:
-  title: "Going beyond basic data security with Google Cloud DSPM | Hash n Hedge"
-  description: ""
+  title: "Going beyond basic data security with Google Cloud DSPM | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 **Headline**: Google Cloud Introduces Data Security Posture Management in Preview  **Summary Meta Description**: Google Cloud has announced the preview of its Data Security Posture Management (DSPM) solution, providing end-to-end governance for data security, privacy, and compliance. DSPM offers advanced controls to match security, privacy, and compliance requirements with business needs.  **Key Points:**  *   Google Cloud's DSPM provides a birds-eye view of data across the Google Cloud environment, its sensitivity level, and default security posture. *   The solution includes capabilities such as:     *   Data discovery and mapping     *   Risk assessment and identification of potential vulnerabilities     *   Data protection and compliance monitoring     *   Simplified compliance with relevant frameworks (HIPAA, GDPR, PCI DSS) *   DSPM is available as part of Security Command Center and can help reduce tooling complexity.  **Takeaways:**  1.  Google Cloud's DSPM offers a comprehensive solution for data security posture management, addressing the need for scalable security and compliance in today's data-driven organizations. 2.  The advanced controls provided by DSPM enable organizations to protect sensitive data, restrict access, and ensure compliance with regulatory requirements.  **Sources:**  *   [Google Cloud Blog](https://cloud.google.com/blog/products/identity-security/going-beyond-dspm-to-protect-your-data-in-the-cloud-now-in-preview/) *   [Google Cloud Security Command Center Documentation](https://cloud.google.com/security-command-center/docs/dspm-data-security) 

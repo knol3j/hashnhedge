@@ -1,4 +1,4 @@
----
+﻿---
 title: Rural Texans continue push to regulate Bitcoin mining over noise, quality of
   life concerns
 date: '2025-08-18'

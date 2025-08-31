@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Sec creates task force to tap artificial intelligence for'' '
 date: '2025-08-19'
 category: Markets

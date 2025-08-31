@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Docker Desktop 4.44: Smarter AI Modeling, Platform Stability, and Streamlined
   Kubernetes Workflows'
 date: '2025-08-20'

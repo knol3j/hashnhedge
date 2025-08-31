@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Docker @ Black Hat 2025: CVEs have everyone’s attention, here’s the path forward'
 date: '2025-08-20'
 category: Markets

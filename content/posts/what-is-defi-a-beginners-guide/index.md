@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "What is DeFi? A beginnerÃ¢â‚¬â„¢s guide'"
-date: "2025-08-20T15:29:50""
+title: "What is DeFi? A beginnerÃ¢â‚¬â„¢s guide''
+date: '2025-08-20T15:29:50""
 category: "Markets"
 summary: ""
 slug: "what is defi a beginners guide"
 source_urls:
   - "https://okcoinacademy.wpcomstaging.com/en/2024/08/17/what-is-defi"
 seo:
-  title: "What is DeFi? A beginnerÃ¢â‚¬â„¢s guide | Hash n Hedge'"
-  description: ""
+  title: "What is DeFi? A beginnerÃ¢â‚¬â„¢s guide | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

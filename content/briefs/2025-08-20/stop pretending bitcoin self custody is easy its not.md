@@ -1,4 +1,4 @@
----
+﻿---
 title: Stop Pretending Bitcoin Self Custody Is Easy, It’s Not
 date: '2025-08-20'
 category: Markets

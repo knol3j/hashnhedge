@@ -1,4 +1,4 @@
----
+﻿---
 title: Changes to Kubernetes Slack
 date: '2025-08-20'
 category: Markets

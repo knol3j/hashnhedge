@@ -1,4 +1,4 @@
----
+﻿---
 title: Pixel 10 gets a 10.8 MP telephoto lens; 10 Pro and Pro XL get an AI-driven
   Pro Res Zoom capable of up to 100x zoom; all models get AI features like Camera
   Coach (Damien Wilde/9to5Google)

@@ -1,5 +1,5 @@
 ﻿---
-title: "OpenAI warns investors against "unauthorized opportunities" to gain exposure to its equity, including through special purpose vehicles (Anthony Ha/TechCrunch)"
+title: "OpenAI warns investors against 'unauthorized opportunities' to gain exposure to its equity, including through special purpose vehicles (Anthony Ha/TechCrunch)"
 date: "2025-08-23T17:52:50"
 category: "Markets"
 summary: ""
@@ -7,7 +7,7 @@ slug: "openai warns investors against unauthorized opportunities to"
 source_urls:
   - "http://www.techmeme.com/250823/p15#a250823p15"
 seo:
-  title: "OpenAI warns investors against "unauthorized opportunities" to gain exposure to its equity, including through special purpose vehicles (Anthony Ha/TechCrunch) | Hash n Hedge"
+  title: "OpenAI warns investors against 'unauthorized opportunities' to gain exposure to its equity, including through special purpose vehicles (Anthony Ha/TechCrunch) | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

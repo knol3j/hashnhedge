@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Using AI to make lower-carbon, faster-curing concrete'"
-date: "2025-08-20T15:33:45""
+title: "Using AI to make lower-carbon, faster-curing concrete''
+date: '2025-08-20T15:33:45""
 category: "Markets"
 summary: ""
 slug: "using ai to make lowercarbon fastercuring concrete"
 source_urls:
   - "https://engineering.fb.com/2025/07/16/data-center-engineering/ai-make-lower-carbon-faster-curing-concrete/"
 seo:
-  title: "Using AI to make lower-carbon, faster-curing concrete | Hash n Hedge'"
-  description: ""
+  title: "Using AI to make lower-carbon, faster-curing concrete | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

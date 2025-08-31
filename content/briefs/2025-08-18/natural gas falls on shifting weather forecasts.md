@@ -1,4 +1,4 @@
----
+﻿---
 title: Natural Gas Falls on Shifting Weather Forecasts
 date: '2025-08-18'
 category: Markets

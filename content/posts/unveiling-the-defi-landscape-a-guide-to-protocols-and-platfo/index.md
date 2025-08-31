@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Unveiling the DeFi landscape: A guide to protocols and platforms'"
-date: "2025-08-20T15:29:45""
+title: "Unveiling the DeFi landscape: A guide to protocols and platforms''
+date: '2025-08-20T15:29:45""
 category: "Markets"
 summary: ""
 slug: "unveiling the defi landscape a guide to protocols and platfo"
 source_urls:
   - "https://okcoinacademy.wpcomstaging.com/en/2024/08/18/unveiling-the-defi-landscape"
 seo:
-  title: "Unveiling the DeFi landscape: A guide to protocols and platforms | Hash n Hedge'"
-  description: ""
+  title: "Unveiling the DeFi landscape: A guide to protocols and platforms | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

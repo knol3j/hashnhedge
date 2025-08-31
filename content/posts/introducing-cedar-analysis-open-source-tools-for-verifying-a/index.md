@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Introducing Cedar Analysis: Open Source Tools for Verifying Authorization Policies'"
-date: "2025-08-20T15:34:25""
+title: "Introducing Cedar Analysis: Open Source Tools for Verifying Authorization Policies''
+date: '2025-08-20T15:34:25""
 category: "Markets"
 summary: ""
 slug: "introducing cedar analysis open source tools for verifying a"
 source_urls:
   - "https://aws.amazon.com/blogs/opensource/introducing-cedar-analysis-open-source-tools-for-verifying-authorization-policies/"
 seo:
-  title: "Introducing Cedar Analysis: Open Source Tools for Verifying Authorization Policies | Hash n Hedge'"
-  description: ""
+  title: "Introducing Cedar Analysis: Open Source Tools for Verifying Authorization Policies | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

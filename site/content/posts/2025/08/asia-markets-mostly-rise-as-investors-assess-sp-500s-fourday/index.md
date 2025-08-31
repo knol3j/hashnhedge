@@ -1,14 +1,4 @@
 ﻿---
-title: "Asia markets mostly rise as investors assess S&P 500's four-day losing streak"
-date: "2025-08-20T20:55:37"
-category: "Markets"
-summary: ""
-slug: "asia markets mostly rise as investors assess sp 500s fourday"
-source_urls:
-  - "https://www.cnbc.com/2025/08/21/asia-stock-markets-today-live-updates-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html"
-seo:
-  title: "Asia markets mostly rise as investors assess S&P 500's four-day losing streak | Hash n Hedge"
-  description: ""
-  keywords: ["news", "markets", "brief"]
+title: "Asia markets mostly rise as investors assess S&P 500's four-day losing streak"  date: "2025-08-20T20:55:37"  category: "Markets"  summary: ""  slug: "asia markets mostly rise as investors assess sp 500s fourday"  source_urls:    - "https://www.cnbc.com/2025/08/21/asia-stock-markets-today-live-updates-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html"  seo:    title: "Asia markets mostly rise as investors assess S&P 500's four-day losing streak | Hash n Hedge"    description: ""    keywords: ["news", "markets", "brief"]
 ---
-**Headline:** Asia Stocks Bounce Back Amid Global Market Volatility  **Summary Meta Description:** Asian markets rebounded on Wednesday as investors assessed the S&P 500's four-day losing streak, with most major indices rising. The Nikkei 225 and Hang Seng led gains in the region, while the CSI 300 and Sensex also showed strength. However, some analysts expressed caution due to ongoing global economic concerns.  **Key Points:**  ΓÇó The Nikkei 225 rose 1.3% to 29,445.55 ΓÇó The Hang Seng index increased by 0.8% to 23,511.15 ΓÇó The CSI 300 climbed 1.2% to 5,351.35 ΓÇó The Sensex gained 0.7% to 59,325.25  **Takeaways:**  * Despite the rebound, Asian markets remain sensitive to global economic trends and the US stock market's performance. * Investors are closely watching the S&P 500 for signs of a potential turnaround or further decline.  **Sources:** CNBC (https://www.cnbc.com/2025/08/21/asia-stock-markets-today-live-updates-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html) 
+**Headline:** Asia Stocks Bounce Back Amid Global Market Volatility  **Summary Meta Description:** Asian markets rebounded on Wednesday as investors assessed the S&P 500's four-day losing streak, with most major indices rising. The Nikkei 225 and Hang Seng led gains in the region, while the CSI 300 and Sensex also showed strength. However, some analysts expressed caution due to ongoing global economic concerns.  **Key Points:**  • The Nikkei 225 rose 1.3% to 29,445.55 • The Hang Seng index increased by 0.8% to 23,511.15 • The CSI 300 climbed 1.2% to 5,351.35 • The Sensex gained 0.7% to 59,325.25  **Takeaways:**  * Despite the rebound, Asian markets remain sensitive to global economic trends and the US stock market's performance. * Investors are closely watching the S&P 500 for signs of a potential turnaround or further decline.  **Sources:** CNBC (https://www.cnbc.com/2025/08/21/asia-stock-markets-today-live-updates-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html) 

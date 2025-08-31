@@ -1,4 +1,4 @@
----
+﻿---
 title: How HashiCorp made cross-Region switchover seamless with Amazon Application
   Recovery Controller
 date: '2025-08-20'

@@ -1,4 +1,4 @@
----
+﻿---
 title: Building a human-computer interface for everyone
 date: '2025-08-20'
 category: Markets

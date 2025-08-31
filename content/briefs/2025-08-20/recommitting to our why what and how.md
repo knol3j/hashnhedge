@@ -1,4 +1,4 @@
----
+﻿---
 title: Recommitting to our why, what, and how
 date: '2025-08-20'
 category: Markets

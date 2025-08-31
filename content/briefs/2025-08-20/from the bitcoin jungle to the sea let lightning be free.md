@@ -1,4 +1,4 @@
----
+﻿---
 title: From the Bitcoin Jungle to the Sea, Let Lightning be Free!
 date: '2025-08-20'
 category: Markets

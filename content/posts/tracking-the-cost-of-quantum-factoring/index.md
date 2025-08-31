@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Tracking the Cost of Quantum Factoring'"
-date: "2025-08-20T14:45:47""
+title: "Tracking the Cost of Quantum Factoring''
+date: '2025-08-20T14:45:47""
 category: "Markets"
 summary: ""
 slug: "tracking the cost of quantum factoring"
 source_urls:
   - "http://security.googleblog.com/2025/05/tracking-cost-of-quantum-factori.html"
 seo:
-  title: "Tracking the Cost of Quantum Factoring | Hash n Hedge'"
-  description: ""
+  title: "Tracking the Cost of Quantum Factoring | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

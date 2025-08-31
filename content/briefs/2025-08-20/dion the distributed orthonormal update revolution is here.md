@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Dion: the distributed orthonormal update revolution is here'
 date: '2025-08-20'
 category: Markets

@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "How real-world businesses are transforming with AI Ã¢â‚¬â€œ with 50 new stories'"
-date: "2025-08-20T15:32:49""
+title: "How real-world businesses are transforming with AI Ã¢â‚¬â€œ with 50 new stories''
+date: '2025-08-20T15:32:49""
 category: "Markets"
 summary: ""
 slug: "how realworld businesses are transforming with ai  with 50 n"
 source_urls:
   - "https://blogs.microsoft.com/blog/2025/04/22/https-blogs-microsoft-com-blog-2024-11-12-how-real-world-businesses-are-transforming-with-ai/"
 seo:
-  title: "How real-world businesses are transforming with AI Ã¢â‚¬â€œ with 50 new stories | Hash n Hedge'"
-  description: ""
+  title: "How real-world businesses are transforming with AI Ã¢â‚¬â€œ with 50 new stories | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

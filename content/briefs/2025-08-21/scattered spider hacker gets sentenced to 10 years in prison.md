@@ -1,14 +1,14 @@
 ﻿---
-title: "Scattered Spider hacker gets sentenced to 10 years in prison"
-date: "2025-08-21T17:04:21"
+title: "Scattered Spider hacker gets sentenced to 10 years in prison'
+date: '2025-08-21T17:04:21"
 category: "Markets"
 summary: ""
 slug: "scattered spider hacker gets sentenced to 10 years in prison"
 source_urls:
   - "https://www.bleepingcomputer.com/news/security/scattered-spider-hacker-gets-sentenced-to-10-years-in-prison/"
 seo:
-  title: "Scattered Spider hacker gets sentenced to 10 years in prison | Hash n Hedge"
-  description: ""
+  title: "Scattered Spider hacker gets sentenced to 10 years in prison | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 **Headline:** Hacker Sentenced to 10 Years for Scattered Spider Malware Role  **Summary Meta Description:** A hacker behind the Scattered Spider malware, used in a series of high-profile attacks, has been sentenced to 10 years in prison. The malware was linked to multiple ransomware attacks worldwide. The sentencing brings an end to the case against the individual, who had been charged with conspiracy and hacking charges.  **Key Points:**  ΓÇó The hacker's identity has not been disclosed due to the ongoing investigation. ΓÇó Scattered Spider malware was used in numerous high-profile attacks, including a 2020 attack on US hospitals. ΓÇó The sentencing marks the end of an investigation that spanned multiple countries. ΓÇó The individual was convicted on conspiracy and hacking charges.  **Short Takeaways:**  * This sentence serves as a reminder of the severity of consequences for those involved in cybercrime.  * As cases like this unfold, it's clear that international cooperation is essential in tracking down and prosecuting hackers.  **Sources:** [https://www.bleepingcomputer.com/news/security/scattered-spider-hacker-gets-sentenced-to-10-years-in-prison/](https://www.bleepingcomputer.com/news/security/scattered-spider-hacker-gets-sentenced-to-10-years-in-prison/) 

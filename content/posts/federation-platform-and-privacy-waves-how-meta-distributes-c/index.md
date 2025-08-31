@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale'"
-date: "2025-08-20T15:33:05""
+title: "Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale''
+date: '2025-08-20T15:33:05""
 category: "Markets"
 summary: ""
 slug: "federation platform and privacy waves how meta distributes c"
 source_urls:
   - "https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/"
 seo:
-  title: "Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale | Hash n Hedge'"
-  description: ""
+  title: "Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

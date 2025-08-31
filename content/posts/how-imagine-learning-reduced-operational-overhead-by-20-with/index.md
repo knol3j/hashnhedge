@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "How Imagine Learning Reduced Operational Overhead by 20% With Linkerd'"
-date: "2025-08-20T15:09:44""
+title: "How Imagine Learning Reduced Operational Overhead by 20% With Linkerd''
+date: '2025-08-20T15:09:44""
 category: "Markets"
 summary: ""
 slug: "how imagine learning reduced operational overhead by 20 with"
 source_urls:
   - "https://www.cncf.io/blog/2025/08/15/innovating-with-a-rock-solid-foundation-while-saving-40-on-networking-costs-imagine-learnings-journey-with-linkerd/"
 seo:
-  title: "How Imagine Learning Reduced Operational Overhead by 20% With Linkerd | Hash n Hedge'"
-  description: ""
+  title: "How Imagine Learning Reduced Operational Overhead by 20% With Linkerd | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

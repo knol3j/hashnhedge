@@ -1,4 +1,4 @@
----
+﻿---
 title: How CommBank made their CommSec trading platform highly available and operationally
   resilient
 date: '2025-08-20'

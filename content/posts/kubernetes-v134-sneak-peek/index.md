@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Kubernetes v1.34 Sneak Peek'"
-date: "2025-08-20T15:03:28""
+title: "Kubernetes v1.34 Sneak Peek''
+date: '2025-08-20T15:03:28""
 category: "Markets"
 summary: ""
 slug: "kubernetes v134 sneak peek"
 source_urls:
   - "https://kubernetes.io/blog/2025/07/28/kubernetes-v1-34-sneak-peek/"
 seo:
-  title: "Kubernetes v1.34 Sneak Peek | Hash n Hedge'"
-  description: ""
+  title: "Kubernetes v1.34 Sneak Peek | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

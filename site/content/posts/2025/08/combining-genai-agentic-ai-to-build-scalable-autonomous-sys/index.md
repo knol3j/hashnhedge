@@ -1,14 +1,4 @@
 ﻿---
-title: "Combining GenAI & Agentic AI to build scalable, autonomous systems"
-date: "2025-08-21T17:24:56"
-category: "Markets"
-summary: ""
-slug: "combining genai  agentic ai to build scalable autonomous sys"
-source_urls:
-  - "https://www.cncf.io/blog/2025/08/18/combining-genai-agentic-ai-to-build-scalable-autonomous-systems/"
-seo:
-  title: "Combining GenAI & Agentic AI to build scalable, autonomous systems | Hash n Hedge"
-  description: ""
-  keywords: ["news", "markets", "brief"]
+title: "Combining GenAI & Agentic AI to build scalable, autonomous systems"  date: "2025-08-21T17:24:56"  category: "Markets"  summary: ""  slug: "combining genai  agentic ai to build scalable autonomous sys"  source_urls:    - "https://www.cncf.io/blog/2025/08/18/combining-genai-agentic-ai-to-build-scalable-autonomous-systems/"  seo:    title: "Combining GenAI & Agentic AI to build scalable, autonomous systems | Hash n Hedge"    description: ""    keywords: ["news", "markets", "brief"]
 ---
 **Headline:** "GenAI and Agentic AI Merge for Autonomous Systems"  **Summary Meta Description:**  The Cloud Native Computing Foundation explores the integration of Generative Artificial Intelligence (GenAI) and Agent-based Artificial Intelligence (Agentic AI), aiming to create scalable, autonomous systems that can learn and adapt. This fusion could lead to significant advancements in areas like natural language processing, computer vision, and predictive maintenance.  **Key Points:**  * Researchers are combining GenAI and Agentic AI to develop self-sustaining systems * GenAI is being used for tasks such as data generation and completion, while Agentic AI handles decision-making and control * The merged approach enables systems to learn from interactions and adapt to new situations  **Takeaways with Analysis:**  1. **Autonomous Systems Take Shape:** The integration of GenAI and Agentic AI has the potential to create autonomous systems that can operate independently with minimal human intervention. 2. **Rise of Adaptive Technologies:** This fusion could lead to a surge in adaptive technologies, enabling more efficient processing of complex tasks.  **Sources:** https://www.cncf.io/blog/2025/08/18/combining-genai-agentic-ai-to-build-scalable-autonomous-systems/ 

@@ -1,4 +1,4 @@
----
+﻿---
 title: MindJourney enables AI to explore simulated 3D worlds to improve spatial interpretation
 date: '2025-08-20'
 category: Markets

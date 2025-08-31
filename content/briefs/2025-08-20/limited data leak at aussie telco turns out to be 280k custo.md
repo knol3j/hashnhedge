@@ -1,4 +1,4 @@
----
+﻿---
 title: '''Limited'' data leak at Aussie telco turns out to be 280K customer details'
 date: '2025-08-20'
 category: Markets

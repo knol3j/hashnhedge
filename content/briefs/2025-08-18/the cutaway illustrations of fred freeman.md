@@ -1,4 +1,4 @@
----
+﻿---
 title: The Cutaway Illustrations of Fred Freeman
 date: '2025-08-18'
 category: Markets

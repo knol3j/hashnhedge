@@ -1,4 +1,4 @@
----
+﻿---
 title: GlobalFoundries inks domestic chipmaking deal with Cirrus Logic
 date: '2025-08-20'
 category: Markets

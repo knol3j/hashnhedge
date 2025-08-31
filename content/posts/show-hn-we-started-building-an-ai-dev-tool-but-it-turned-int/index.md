@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Show hn we started building an ai dev tool but it turned int'' '
 date: '2025-08-18'
 category: Markets

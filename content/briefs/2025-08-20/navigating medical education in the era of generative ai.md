@@ -1,4 +1,4 @@
----
+﻿---
 title: Navigating medical education in the era of generative AI
 date: '2025-08-20'
 category: Markets

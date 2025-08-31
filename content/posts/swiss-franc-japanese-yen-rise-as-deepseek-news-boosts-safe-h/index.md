@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Swiss franc japanese yen rise as deepseek news boosts safe h'' '
 date: '2025-08-19'
 category: Markets

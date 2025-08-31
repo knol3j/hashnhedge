@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Building AI Agents with Docker MCP Toolkit: A DeveloperÃ¢â‚¬â„¢s Real-World Setup'"
-date: "2025-08-20T15:11:50""
+title: "Building AI Agents with Docker MCP Toolkit: A DeveloperÃ¢â‚¬â„¢s Real-World Setup''
+date: '2025-08-20T15:11:50""
 category: "Markets"
 summary: ""
 slug: "building ai agents with docker mcp toolkit a developers real"
 source_urls:
   - "https://www.docker.com/blog/docker-mcp-ai-agent-developer-setup/"
 seo:
-  title: "Building AI Agents with Docker MCP Toolkit: A DeveloperÃ¢â‚¬â„¢s Real-World Setup | Hash n Hedge'"
-  description: ""
+  title: "Building AI Agents with Docker MCP Toolkit: A DeveloperÃ¢â‚¬â„¢s Real-World Setup | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

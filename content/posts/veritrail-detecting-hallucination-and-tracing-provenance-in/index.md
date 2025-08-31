@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "VeriTrail: Detecting hallucination and tracing provenance in multi-step AI workflows'"
-date: "2025-08-20T15:16:59""
+title: "VeriTrail: Detecting hallucination and tracing provenance in multi-step AI workflows''
+date: '2025-08-20T15:16:59""
 category: "Markets"
 summary: ""
 slug: "veritrail detecting hallucination and tracing provenance in "
 source_urls:
   - "https://www.microsoft.com/en-us/research/blog/veritrail-detecting-hallucination-and-tracing-provenance-in-multi-step-ai-workflows/"
 seo:
-  title: "VeriTrail: Detecting hallucination and tracing provenance in multi-step AI workflows | Hash n Hedge'"
-  description: ""
+  title: "VeriTrail: Detecting hallucination and tracing provenance in multi-step AI workflows | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

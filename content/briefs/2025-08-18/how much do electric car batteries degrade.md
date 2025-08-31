@@ -1,4 +1,4 @@
----
+﻿---
 title: How much do electric car batteries degrade?
 date: '2025-08-18'
 category: Markets

@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Tuning Linux Swap for Kubernetes: A Deep Dive'"
-date: "2025-08-20T15:02:05""
+title: "Tuning Linux Swap for Kubernetes: A Deep Dive''
+date: '2025-08-20T15:02:05""
 category: "Markets"
 summary: ""
 slug: "tuning linux swap for kubernetes a deep dive"
 source_urls:
   - "https://kubernetes.io/blog/2025/08/19/tuning-linux-swap-for-kubernetes-a-deep-dive/"
 seo:
-  title: "Tuning Linux Swap for Kubernetes: A Deep Dive | Hash n Hedge'"
-  description: ""
+  title: "Tuning Linux Swap for Kubernetes: A Deep Dive | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

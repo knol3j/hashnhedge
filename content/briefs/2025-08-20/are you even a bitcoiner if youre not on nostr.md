@@ -1,4 +1,4 @@
----
+﻿---
 title: Are You Even a Bitcoiner If You’re Not on Nostr?
 date: '2025-08-20'
 category: Markets

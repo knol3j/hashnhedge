@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Reimagining healthcare delivery and public health with AI'"
-date: "2025-08-20T15:16:06""
+title: "Reimagining healthcare delivery and public health with AI''
+date: '2025-08-20T15:16:06""
 category: "Markets"
 summary: ""
 slug: "reimagining healthcare delivery and public health with ai"
 source_urls:
   - "https://www.microsoft.com/en-us/research/podcast/reimagining-healthcare-delivery-and-public-health-with-ai/"
 seo:
-  title: "Reimagining healthcare delivery and public health with AI | Hash n Hedge'"
-  description: ""
+  title: "Reimagining healthcare delivery and public health with AI | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

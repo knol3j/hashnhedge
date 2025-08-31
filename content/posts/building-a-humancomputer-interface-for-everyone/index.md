@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Building a human-computer interface for everyone'"
-date: "2025-08-20T15:33:19""
+title: "Building a human-computer interface for everyone''
+date: '2025-08-20T15:33:19""
 category: "Markets"
 summary: ""
 slug: "building a humancomputer interface for everyone"
 source_urls:
   - "https://engineering.fb.com/2025/08/04/virtual-reality/building-a-human-computer-interface-for-everyone-meta-tech-podcast/"
 seo:
-  title: "Building a human-computer interface for everyone | Hash n Hedge'"
-  description: ""
+  title: "Building a human-computer interface for everyone | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

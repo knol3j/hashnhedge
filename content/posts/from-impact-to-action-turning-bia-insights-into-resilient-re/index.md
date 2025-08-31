@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "From Impact to Action: Turning BIA Insights Into Resilient Recovery'"
-date: "2025-08-20T14:40:54""
+title: "From Impact to Action: Turning BIA Insights Into Resilient Recovery''
+date: '2025-08-20T14:40:54""
 category: "Markets"
 summary: ""
 slug: "from impact to action turning bia insights into resilient re"
 source_urls:
   - "https://thehackernews.com/2025/08/turning-bia-insights-into-resilient-recovery.html"
 seo:
-  title: "From Impact to Action: Turning BIA Insights Into Resilient Recovery | Hash n Hedge'"
-  description: ""
+  title: "From Impact to Action: Turning BIA Insights Into Resilient Recovery | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

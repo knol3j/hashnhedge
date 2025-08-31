@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Maximizing Business Value Through Strategic Cloud Optimization'"
-date: "2025-08-20T14:56:34""
+title: "Maximizing Business Value Through Strategic Cloud Optimization''
+date: '2025-08-20T14:56:34""
 category: "Markets"
 summary: ""
 slug: "maximizing business value through strategic cloud optimizati"
 source_urls:
   - "https://aws.amazon.com/blogs/architecture/maximizing-business-value-through-strategic-cloud-optimization/"
 seo:
-  title: "Maximizing Business Value Through Strategic Cloud Optimization | Hash n Hedge'"
-  description: ""
+  title: "Maximizing Business Value Through Strategic Cloud Optimization | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

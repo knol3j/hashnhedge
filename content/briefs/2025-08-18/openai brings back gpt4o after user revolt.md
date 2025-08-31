@@ -1,4 +1,4 @@
----
+﻿---
 title: OpenAI brings back GPT-4o after user revolt
 date: '2025-08-18'
 category: Markets

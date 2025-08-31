@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "MCP for Research: How to Connect AI to Research Tools'"
-date: "2025-08-20T15:14:02""
+title: "MCP for Research: How to Connect AI to Research Tools''
+date: '2025-08-20T15:14:02""
 category: "Markets"
 summary: ""
 slug: "mcp for research how to connect ai to research tools"
 source_urls:
   - "https://huggingface.co/blog/mcp-for-research"
 seo:
-  title: "MCP for Research: How to Connect AI to Research Tools | Hash n Hedge'"
-  description: ""
+  title: "MCP for Research: How to Connect AI to Research Tools | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

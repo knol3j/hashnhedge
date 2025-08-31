@@ -1,4 +1,4 @@
----
+﻿---
 title: Advancing Protection in Chrome on Android
 date: '2025-08-20'
 category: Markets

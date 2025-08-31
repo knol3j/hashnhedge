@@ -1,4 +1,4 @@
----
+﻿---
 title: Is AI really trying to escape human control and blackmail people?
 date: '2025-08-18'
 category: Markets

@@ -1,4 +1,4 @@
----
+﻿---
 title: Why the NFL drafted Microsoft’s gen AI for the league’s next big play
 date: '2025-08-20'
 category: Markets

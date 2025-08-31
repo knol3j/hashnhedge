@@ -1,5 +1,5 @@
 ﻿---
-title: "a16z hires Anne Neuberger, formerly a senior cybersecurity official in the Biden White House, as a senior adviser to work on "American Dynamism, AI, and cyber" (Patrick Howell O'Neill/Bloomberg)"
+title: "a16z hires Anne Neuberger, formerly a senior cybersecurity official in the Biden White House, as a senior adviser to work on 'American Dynamism, AI, and cyber' (Patrick Howell O'Neill/Bloomberg)"
 date: "2025-08-21T17:39:26"
 category: "Markets"
 summary: ""
@@ -7,7 +7,7 @@ slug: "a16z hires anne neuberger formerly a senior cybersecurity of"
 source_urls:
   - "http://www.techmeme.com/250821/p26#a250821p26"
 seo:
-  title: "a16z hires Anne Neuberger, formerly a senior cybersecurity official in the Biden White House, as a senior adviser to work on "American Dynamism, AI, and cyber" (Patrick Howell O'Neill/Bloomberg) | Hash n Hedge"
+  title: "a16z hires Anne Neuberger, formerly a senior cybersecurity official in the Biden White House, as a senior adviser to work on 'American Dynamism, AI, and cyber' (Patrick Howell O'Neill/Bloomberg) | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

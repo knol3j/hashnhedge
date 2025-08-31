@@ -4,9 +4,9 @@ date: "2025-08-21T20:41:54"
 category: "Markets"
 summary: ""
 slug: "microsoft-ai-chief-warns-society-isnt-ready-for-conscious-machines"
-source_urls:
-  - "https://decrypt.co/336353/microsoft-ai-chief-warns-society-isnt-ready-conscious-machines"
-seo:
+source_urls: 
+  - "https: "//decrypt.co/336353/microsoft-ai-chief-warns-society-isnt-ready-conscious-machines""
+seo: 
   title: "Microsoft AI Chief Warns Society Isn't Ready for 'Conscious' Machines | Hash & Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]

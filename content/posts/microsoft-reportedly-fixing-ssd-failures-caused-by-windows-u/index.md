@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Microsoft reportedly fixing SSD failures caused by Windows updates'"
-date: "2025-08-20T14:38:39""
+title: "Microsoft reportedly fixing SSD failures caused by Windows updates''
+date: '2025-08-20T14:38:39""
 category: "Markets"
 summary: ""
 slug: "microsoft reportedly fixing ssd failures caused by windows u"
 source_urls:
   - "https://www.bleepingcomputer.com/news/microsoft/microsoft-reportedly-fixing-ssd-failures-caused-by-windows-updates/"
 seo:
-  title: "Microsoft reportedly fixing SSD failures caused by Windows updates | Hash n Hedge'"
-  description: ""
+  title: "Microsoft reportedly fixing SSD failures caused by Windows updates | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

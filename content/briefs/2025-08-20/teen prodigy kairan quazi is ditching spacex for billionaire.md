@@ -1,14 +1,14 @@
 ﻿---
-title: "Teen prodigy Kairan Quazi is ditching SpaceX for billionaire Ken Griffin’s Citadel Securities"
-date: "2025-08-20T21:00:54"
+title: "Teen prodigy Kairan Quazi is ditching SpaceX for billionaire Ken Griffin’s Citadel Securities'
+date: '2025-08-20T21:00:54"
 category: "Markets"
 summary: ""
 slug: "teen prodigy kairan quazi is ditching spacex for billionaire"
 source_urls:
   - "https://fortune.com/2025/08/19/kairan-quazi-elon-musk-teen-prodigy-spacex-citadel-ken-griffin/"
 seo:
-  title: "Teen prodigy Kairan Quazi is ditching SpaceX for billionaire Ken Griffin’s Citadel Securities | Hash n Hedge"
-  description: ""
+  title: "Teen prodigy Kairan Quazi is ditching SpaceX for billionaire Ken Griffin’s Citadel Securities | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 Here's the news brief:  **Headline:** Teen Prodigy Quits SpaceX for Citadel Securities  **Summary Meta Description:** Kairan Quazi, a teen prodigy who interned at SpaceX and was part of Elon Musk's "child genius" group, is leaving the space company to join billionaire Ken Griffin's Citadel Securities. The 19-year-old's departure has sparked interest in his career trajectory and the opportunities available in finance.  **Key Points:**  ΓÇó Kairan Quazi interned at SpaceX at age 17 and was part of Elon Musk's program for "exceptional young people." ΓÇó He will be joining Citadel Securities, a prominent financial services firm founded by Ken Griffin. ΓÇó Quazi's decision to leave SpaceX has generated curiosity about his future plans and the opportunities in finance.  **Takeaways:**  1. The move from space exploration to finance highlights the diverse career paths available to individuals with exceptional talent and skills. 2. The departure of Kairan Quazi from SpaceX adds another layer of intrigue to Elon Musk's efforts to foster innovation among young minds.  **Sources:**  Fortune - https://fortune.com/2025/08/19/kairan-quazi-elon-musk-teen-prodigy-spacex-citadel-ken-griffin/ 

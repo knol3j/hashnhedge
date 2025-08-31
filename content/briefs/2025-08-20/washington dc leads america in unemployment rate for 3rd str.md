@@ -1,4 +1,4 @@
----
+﻿---
 title: Washington DC leads America in unemployment rate for 3rd straight month
 date: '2025-08-20'
 category: Markets

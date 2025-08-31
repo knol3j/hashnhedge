@@ -1,14 +1,14 @@
 ﻿---
-title: "Microsoft's gutting of discounts for some clients likely baked into guidance, analyst says"
-date: "2025-08-20T20:55:30"
+title: "Microsoft's gutting of discounts for some clients likely baked into guidance, analyst says'
+date: '2025-08-20T20:55:30"
 category: "Markets"
 summary: ""
 slug: "microsofts gutting of discounts for some clients likely bake"
 source_urls:
   - "https://www.cnbc.com/2025/08/20/microsoft-guidance-probably-includes-gutting-volume-discounts-analyst.html"
 seo:
-  title: "Microsoft's gutting of discounts for some clients likely baked into guidance, analyst says | Hash n Hedge"
-  description: ""
+  title: "Microsoft's gutting of discounts for some clients likely baked into guidance, analyst says | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 Here is the news brief:  **Headline:** Microsoft's Discount Cuts May Be Factored into Guidance  **Summary Meta Description:** Microsoft's decision to cut discounts for some clients has sparked concerns, but an analyst suggests that this move may have already been accounted for in the company's guidance. The shift in pricing strategy could be a response to changing market conditions and increased competition.  **Key Points:**  * Microsoft is reportedly cutting volume discounts for some clients * An analyst believes this decision was likely factored into the company's latest guidance * The move may be a response to increasing competition and shifting market conditions * Some analysts have expressed concerns about the potential impact on sales and revenue  **Short Takeaways:**  1. Microsoft's decision to cut discounts for some clients may not come as a surprise, given its likely inclusion in the company's guidance. 2. The shift in pricing strategy could be an attempt to adapt to changing market conditions and increased competition.  **Sources:**  * CNBC: https://www.cnbc.com/2025/08/20/microsoft-guidance-probably-includes-gutting-volume-discounts-analyst.html 

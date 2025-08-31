@@ -1,14 +1,4 @@
 ﻿---
-title: "Crude Oil Rallies on Tighter Inventories and Signs of Stronger Energy Demand"
-date: "2025-08-21T17:49:21"
-category: "Markets"
-summary: ""
-slug: "crude oil rallies on tighter inventories and signs of strong"
-source_urls:
-  - "https://www.nasdaq.com/articles/crude-oil-rallies-tighter-inventories-and-signs-stronger-energy-demand"
-seo:
-  title: "Crude Oil Rallies on Tighter Inventories and Signs of Stronger Energy Demand | Hash n Hedge"
-  description: ""
-  keywords: ["news", "markets", "brief"]
+title: "Crude Oil Rallies on Tighter Inventories and Signs of Stronger Energy Demand"  date: "2025-08-21T17:49:21"  category: "Markets"  summary: ""  slug: "crude oil rallies on tighter inventories and signs of strong"  source_urls:    - "https://www.nasdaq.com/articles/crude-oil-rallies-tighter-inventories-and-signs-stronger-energy-demand"  seo:    title: "Crude Oil Rallies on Tighter Inventories and Signs of Stronger Energy Demand | Hash n Hedge"    description: ""    keywords: ["news", "markets", "brief"]
 ---
-Here is the rewritten news brief:  **Crude Oil Prices Rally Amid Tighter Inventories**  Summary: The price of crude oil surged on Thursday, reaching a two-week high, as inventories tightened and signs of increased energy demand emerged. The rally in prices also extended to gasoline, which hit a 2.5-week high.  Key Points: ΓÇó Crude oil prices rose by 1.29% to close at $63.81 per barrel ΓÇó Gasoline prices increased by 1.43% to reach $1.82 per gallon ΓÇó Tighter inventories and stronger energy demand contributed to the price rally  Takeaways:  * The rise in crude oil prices may be a sign of improved market conditions, but it also increases costs for consumers. * As global energy demand continues to grow, investors may expect further price increases in the coming months.  Sources: https://www.nasdaq.com/articles/crude-oil-rallies-tighter-inventories-and-signs-stronger-energy-demand 
+Here is the rewritten news brief:  **Crude Oil Prices Rally Amid Tighter Inventories**  Summary: The price of crude oil surged on Thursday, reaching a two-week high, as inventories tightened and signs of increased energy demand emerged. The rally in prices also extended to gasoline, which hit a 2.5-week high.  Key Points: • Crude oil prices rose by 1.29% to close at $63.81 per barrel • Gasoline prices increased by 1.43% to reach $1.82 per gallon • Tighter inventories and stronger energy demand contributed to the price rally  Takeaways:  * The rise in crude oil prices may be a sign of improved market conditions, but it also increases costs for consumers. * As global energy demand continues to grow, investors may expect further price increases in the coming months.  Sources: https://www.nasdaq.com/articles/crude-oil-rallies-tighter-inventories-and-signs-stronger-energy-demand 

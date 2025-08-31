@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "From private to public: How a United Nations organization open sourced its tech in four steps'"
-date: "2025-08-20T15:00:44""
+title: "From private to public: How a United Nations organization open sourced its tech in four steps''
+date: '2025-08-20T15:00:44""
 category: "Markets"
 summary: ""
 slug: "from private to public how a united nations organization ope"
 source_urls:
   - "https://github.blog/open-source/social-impact/from-private-to-public-how-a-united-nations-organization-open-sourced-its-tech-in-four-steps/"
 seo:
-  title: "From private to public: How a United Nations organization open sourced its tech in four steps | Hash n Hedge'"
-  description: ""
+  title: "From private to public: How a United Nations organization open sourced its tech in four steps | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

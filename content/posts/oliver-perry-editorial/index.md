@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Oliver perry editorial'' '
 author: Oliver Perry
 date: '2025-08-20'

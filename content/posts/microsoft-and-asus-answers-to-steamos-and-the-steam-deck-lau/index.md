@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Microsoft and AsusÃ¢â‚¬â„¢ answers to SteamOS and the Steam Deck launch on October 16'"
-date: "2025-08-20T15:17:47""
+title: "Microsoft and AsusÃ¢â‚¬â„¢ answers to SteamOS and the Steam Deck launch on October 16''
+date: '2025-08-20T15:17:47""
 category: "Markets"
 summary: ""
 slug: "microsoft and asus answers to steamos and the steam deck lau"
 source_urls:
   - "https://arstechnica.com/gadgets/2025/08/asus-and-microsofts-xbox-handhelds-arrive-october-16-but-pricing-remains-a-mystery/"
 seo:
-  title: "Microsoft and AsusÃ¢â‚¬â„¢ answers to SteamOS and the Steam Deck launch on October 16 | Hash n Hedge'"
-  description: ""
+  title: "Microsoft and AsusÃ¢â‚¬â„¢ answers to SteamOS and the Steam Deck launch on October 16 | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

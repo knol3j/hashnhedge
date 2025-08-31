@@ -1,14 +1,14 @@
 ﻿---
-title: "Microsoft Build 2025: The age of AI agents and building the open agentic web"
-date: "2025-08-21T17:55:13"
+title: "Microsoft Build 2025: The age of AI agents and building the open agentic web'
+date: '2025-08-21T17:55:13"
 category: "Markets"
 summary: ""
 slug: "microsoft build 2025 the age of ai agents and building the o"
 source_urls:
   - "https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/"
 seo:
-  title: "Microsoft Build 2025: The age of AI agents and building the open agentic web | Hash n Hedge"
-  description: ""
+  title: "Microsoft Build 2025: The age of AI agents and building the open agentic web | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 **Headline:** Microsoft Unveils AI Agent Vision at Build 2025  **Summary Meta Description:** At Microsoft Build 2025, the tech giant highlights its focus on developing AI agents that can collaborate with humans and other systems, marking a significant shift towards an "open agentic web." The company's vision for this future involves building a network of interconnected, autonomous entities.  **Key Points:**  ΓÇó Microsoft emphasizes the importance of AI agents in automating tasks and improving productivity. ΓÇó The company showcases various tools and services designed to facilitate the development and deployment of AI agents. ΓÇó The concept of an "open agentic web" is introduced as a vision for a networked system where AI agents can interact with each other and humans seamlessly.  **Takeaways:**  1. **Rise of Autonomous Systems:** Microsoft's emphasis on AI agents signals a growing trend towards autonomous systems that can operate independently, potentially transforming industries such as healthcare, finance, and transportation. 2. **Open Collaboration:** The company's push for an "open agentic web" suggests a desire to create a collaborative ecosystem where AI agents from different sources can interact and learn from each other.  **Sources:** * https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/ 

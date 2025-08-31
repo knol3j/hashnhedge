@@ -1,14 +1,4 @@
 ﻿---
-title: "Source: Meta has signed a deal with Google, worth more than $10B over six years, to use Google Cloud's servers, storage, networking, and other services (The Information)"
-date: "2025-08-21T20:44:54"
-category: "Markets"
-summary: ""
-slug: "source meta has signed a deal with google worth more than 10"
-source_urls:
-  - "http://www.techmeme.com/250821/p30#a250821p30"
-seo:
-  title: "Source: Meta has signed a deal with Google, worth more than $10B over six years, to use Google Cloud's servers, storage, networking, and other services (The Information) | Hash n Hedge"
-  description: ""
-  keywords: ["news", "markets", "brief"]
+title: "Source: Meta has signed a deal with Google, worth more than $10B over six years, to use Google Cloud's servers, storage, networking, and other services (The Information)"  date: "2025-08-21T20:44:54"  category: "Markets"  summary: ""  slug: "source meta has signed a deal with google worth more than 10"  source_urls:    - "http://www.techmeme.com/250821/p30#a250821p30"  seo:    title: "Source: Meta has signed a deal with Google, worth more than $10B over six years, to use Google Cloud's servers, storage, networking, and other services (The Information) | Hash n Hedge"    description: ""    keywords: ["news", "markets", "brief"]
 ---
 **Headline** Meta, Google Ink $10B+ Deal for Cloud Services  **Summary Meta Description** Meta, the parent company of Facebook, has signed a multi-billion dollar deal with Google to utilize its cloud services over six years. The agreement marks a significant partnership between two tech giants and could have implications for the global cloud computing market.  **Key Points**  * Meta will use Google Cloud's servers, storage, networking, and other services. * The deal is worth more than $10 billion over six years. * This partnership represents one of the largest deals in the history of cloud computing. * Meta has been expanding its infrastructure to support growing user demand.  **Takeaways with Analysis**  1. **Competitive Landscape**: This deal highlights the increasing competition between tech giants for dominance in the cloud market, which is projected to reach $445 billion by 2028. 2. **Infrastructure Scaling**: Meta's reliance on Google Cloud services suggests a strategic decision to accelerate its infrastructure growth and meet user demand, potentially impacting the company's sustainability efforts.  **Sources** The Information: http://www.techmeme.com/250821/p30#a250821p30 

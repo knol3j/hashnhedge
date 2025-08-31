@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Image Compatibility In Cloud Native Environments'"
-date: "2025-08-20T15:06:21""
+title: "Image Compatibility In Cloud Native Environments''
+date: '2025-08-20T15:06:21""
 category: "Markets"
 summary: ""
 slug: "image compatibility in cloud native environments"
 source_urls:
   - "https://kubernetes.io/blog/2025/06/25/image-compatibility-in-cloud-native-environments/"
 seo:
-  title: "Image Compatibility In Cloud Native Environments | Hash n Hedge'"
-  description: ""
+  title: "Image Compatibility In Cloud Native Environments | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

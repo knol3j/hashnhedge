@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Q1 2025 Innovation Graph update: Bar chart races, data visualization on the
   rise, and key research'
 date: '2025-08-20'

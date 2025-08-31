@@ -1,4 +1,4 @@
----
+﻿---
 title: Microsoft releases emergency updates to fix Windows recovery
 date: '2025-08-20'
 category: Markets

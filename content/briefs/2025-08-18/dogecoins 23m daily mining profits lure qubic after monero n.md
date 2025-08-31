@@ -1,4 +1,4 @@
----
+﻿---
 title: Dogecoin’s $2.3M daily mining profits lure Qubic after Monero network takeover
 date: '2025-08-18'
 category: Markets

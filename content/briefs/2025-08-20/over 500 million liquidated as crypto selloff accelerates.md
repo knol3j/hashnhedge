@@ -1,4 +1,4 @@
----
+﻿---
 title: Over $500 Million Liquidated as Crypto Selloff Accelerates
 date: '2025-08-20'
 category: Markets

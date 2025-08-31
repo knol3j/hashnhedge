@@ -1,4 +1,4 @@
----
+﻿---
 title: Deploy LLMs on Amazon EKS using vLLM Deep Learning Containers
 date: '2025-08-20'
 category: Markets

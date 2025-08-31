@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "CISA Releases Four Industrial Control Systems Advisories'"
-date: "2025-08-20T14:51:15""
+title: "CISA Releases Four Industrial Control Systems Advisories''
+date: '2025-08-20T14:51:15""
 category: "Markets"
 summary: ""
 slug: "cisa releases four industrial control systems advisories"
 source_urls:
   - "https://www.cisa.gov/news-events/alerts/2025/08/19/cisa-releases-four-industrial-control-systems-advisories"
 seo:
-  title: "CISA Releases Four Industrial Control Systems Advisories | Hash n Hedge'"
-  description: ""
+  title: "CISA Releases Four Industrial Control Systems Advisories | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

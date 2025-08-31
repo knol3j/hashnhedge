@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Hackers steal Microsoft logins using legitimate ADFS redirects'"
-date: "2025-08-20T14:37:08""
+title: "Hackers steal Microsoft logins using legitimate ADFS redirects''
+date: '2025-08-20T14:37:08""
 category: "Markets"
 summary: ""
 slug: "hackers steal microsoft logins using legitimate adfs redirec"
 source_urls:
   - "https://www.bleepingcomputer.com/news/security/hackers-steal-microsoft-logins-using-legitimate-adfs-redirects/"
 seo:
-  title: "Hackers steal Microsoft logins using legitimate ADFS redirects | Hash n Hedge'"
-  description: ""
+  title: "Hackers steal Microsoft logins using legitimate ADFS redirects | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

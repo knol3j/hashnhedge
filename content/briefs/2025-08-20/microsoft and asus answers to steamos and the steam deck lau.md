@@ -1,4 +1,4 @@
----
+﻿---
 title: Microsoft and Asus’ answers to SteamOS and the Steam Deck launch on October
   16
 date: '2025-08-20'

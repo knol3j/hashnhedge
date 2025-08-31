@@ -1,5 +1,5 @@
 ﻿---
-title: "A look at the invite-only iOS and Android apps for Digg, which now operates similarly to Reddit, with links with a lot of "diggs" moving up the feed (Jay Peters/The Verge)"
+title: "A look at the invite-only iOS and Android apps for Digg, which now operates similarly to Reddit, with links with a lot of 'diggs' moving up the feed (Jay Peters/The Verge)"
 date: "2025-08-22T12:46:54"
 category: "Markets"
 summary: ""
@@ -7,7 +7,7 @@ slug: "a look at the inviteonly ios and android apps for digg which"
 source_urls:
   - "http://www.techmeme.com/250822/p13#a250822p13"
 seo:
-  title: "A look at the invite-only iOS and Android apps for Digg, which now operates similarly to Reddit, with links with a lot of "diggs" moving up the feed (Jay Peters/The Verge) | Hash n Hedge"
+  title: "A look at the invite-only iOS and Android apps for Digg, which now operates similarly to Reddit, with links with a lot of 'diggs' moving up the feed (Jay Peters/The Verge) | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

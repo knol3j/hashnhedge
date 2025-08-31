@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Advanced Protection: GoogleÃ¢â‚¬â„¢s Strongest Security for Mobile Devices'"
-date: "2025-08-20T14:46:39""
+title: "Advanced Protection: GoogleÃ¢â‚¬â„¢s Strongest Security for Mobile Devices''
+date: '2025-08-20T14:46:39""
 category: "Markets"
 summary: ""
 slug: "advanced protection googles strongest security for mobile de"
 source_urls:
   - "http://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html"
 seo:
-  title: "Advanced Protection: GoogleÃ¢â‚¬â„¢s Strongest Security for Mobile Devices | Hash n Hedge'"
-  description: ""
+  title: "Advanced Protection: GoogleÃ¢â‚¬â„¢s Strongest Security for Mobile Devices | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

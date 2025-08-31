@@ -1,4 +1,4 @@
----
+﻿---
 title: Out-of-band update arrives to clean up Windows reset and recovery mess
 date: '2025-08-20'
 category: Markets

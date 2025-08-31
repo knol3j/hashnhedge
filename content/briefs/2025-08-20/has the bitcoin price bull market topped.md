@@ -1,4 +1,4 @@
----
+﻿---
 title: Has the Bitcoin Price Bull Market Topped?
 date: '2025-08-20'
 category: Markets

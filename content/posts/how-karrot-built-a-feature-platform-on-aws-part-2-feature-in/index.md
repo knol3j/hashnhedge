@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "How Karrot built a feature platform on AWS, Part 2: Feature ingestion'"
-date: "2025-08-20T14:55:43""
+title: "How Karrot built a feature platform on AWS, Part 2: Feature ingestion''
+date: '2025-08-20T14:55:43""
 category: "Markets"
 summary: ""
 slug: "how karrot built a feature platform on aws part 2 feature in"
 source_urls:
   - "https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-2-feature-ingestion/"
 seo:
-  title: "How Karrot built a feature platform on AWS, Part 2: Feature ingestion | Hash n Hedge'"
-  description: ""
+  title: "How Karrot built a feature platform on AWS, Part 2: Feature ingestion | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

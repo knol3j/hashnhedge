@@ -1,4 +1,4 @@
----
+﻿---
 title: Reimagining healthcare delivery and public health with AI
 date: '2025-08-20'
 category: Markets

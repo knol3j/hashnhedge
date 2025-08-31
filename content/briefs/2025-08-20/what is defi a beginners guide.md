@@ -1,4 +1,4 @@
----
+﻿---
 title: What is DeFi? A beginner’s guide
 date: '2025-08-20'
 category: Markets

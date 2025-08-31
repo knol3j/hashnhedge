@@ -1,4 +1,4 @@
----
+﻿---
 title: Microsoft reportedly fixing SSD failures caused by Windows updates
 date: '2025-08-20'
 category: Markets

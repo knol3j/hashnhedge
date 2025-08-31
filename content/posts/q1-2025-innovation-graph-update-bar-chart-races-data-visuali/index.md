@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Q1 2025 Innovation Graph update: Bar chart races, data visualization on the rise, and key research'"
-date: "2025-08-20T14:59:52""
+title: "Q1 2025 Innovation Graph update: Bar chart races, data visualization on the rise, and key research''
+date: '2025-08-20T14:59:52""
 category: "Markets"
 summary: ""
 slug: "q1 2025 innovation graph update bar chart races data visuali"
 source_urls:
   - "https://github.blog/news-insights/policy-news-and-insights/q1-2025-innovation-graph-update-bar-chart-races-data-visualization-on-the-rise-and-key-research/"
 seo:
-  title: "Q1 2025 Innovation Graph update: Bar chart races, data visualization on the rise, and key research | Hash n Hedge'"
-  description: ""
+  title: "Q1 2025 Innovation Graph update: Bar chart races, data visualization on the rise, and key research | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

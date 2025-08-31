@@ -1,14 +1,14 @@
 ﻿---
-title: "CoreWeave’s stock gets a brief reprieve from the selling as Jane Street announces stake"
-date: "2025-08-21T16:57:06"
+title: "CoreWeave’s stock gets a brief reprieve from the selling as Jane Street announces stake'
+date: '2025-08-21T16:57:06"
 category: "Markets"
 summary: ""
 slug: "coreweaves stock gets a brief reprieve from the selling as j"
 source_urls:
   - "https://www.marketwatch.com/story/coreweaves-stock-gets-a-brief-reprieve-from-the-selling-as-jane-street-announces-stake-4c0e53bb?mod=mw_rss_topstories"
 seo:
-  title: "CoreWeave’s stock gets a brief reprieve from the selling as Jane Street announces stake | Hash n Hedge"
-  description: ""
+  title: "CoreWeave’s stock gets a brief reprieve from the selling as Jane Street announces stake | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 Here's the news brief:  **Headline** CoreWeave Stock Sees Brief Respite from Selling Pressure  **Summary Meta Description** Quantitative trading firm Jane Street reveals a significant stake in CoreWeave, sending its stock up briefly from recent selling pressure. The move is seen as a vote of confidence for the company.  **Key Points**  * Jane Street owns 5.4% of CoreWeave's outstanding shares, approximately 20 million. * The stake was revealed amidst recent selling pressure that had pushed CoreWeave's stock down. * CoreWeave's stock surged briefly on the news before resuming its downward trend.  **Takeaways**  1. Jane Street's significant stake in CoreWeave is a nod of confidence for the company, which has been struggling with selling pressure lately. 2. The move highlights the growing interest of institutional investors in the cloud computing and fintech space.  **Sources** https://www.marketwatch.com/story/coreweaves-stock-gets-a-brief-reprieve-from-the-selling-as-jane-street-announces-stake-4c0e53bb?mod=mw_rss_topstories 

@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Beyond Code: Open Source, Mentorship and Microcks'"
-date: "2025-08-20T15:10:38""
+title: "Beyond Code: Open Source, Mentorship and Microcks''
+date: '2025-08-20T15:10:38""
 category: "Markets"
 summary: ""
 slug: "beyond code open source mentorship and microcks"
 source_urls:
   - "https://www.cncf.io/blog/2025/08/14/beyond-code-open-source-mentorship-and-microcks/"
 seo:
-  title: "Beyond Code: Open Source, Mentorship and Microcks | Hash n Hedge'"
-  description: ""
+  title: "Beyond Code: Open Source, Mentorship and Microcks | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

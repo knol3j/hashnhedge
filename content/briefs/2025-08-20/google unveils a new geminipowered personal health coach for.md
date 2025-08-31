@@ -1,4 +1,4 @@
----
+﻿---
 title: Google unveils a new Gemini-powered personal health coach for Fitbit, rolling
   out as a preview in October for Fitbit Premium users in the redesigned Fitbit app
   (Aisha Malik/TechCrunch)

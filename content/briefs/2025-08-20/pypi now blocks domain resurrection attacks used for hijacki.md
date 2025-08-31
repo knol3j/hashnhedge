@@ -1,4 +1,4 @@
----
+﻿---
 title: PyPI now blocks domain resurrection attacks used for hijacking accounts
 date: '2025-08-20'
 category: Markets

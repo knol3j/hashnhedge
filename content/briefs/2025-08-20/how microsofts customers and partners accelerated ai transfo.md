@@ -1,4 +1,4 @@
----
+﻿---
 title: How Microsoft’s customers and partners accelerated AI Transformation in FY25
   to innovate with purpose and shape their future success
 date: '2025-08-20'

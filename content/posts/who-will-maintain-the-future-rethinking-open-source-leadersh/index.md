@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Who will maintain the future? Rethinking open source leadership for a new generation'"
-date: "2025-08-20T14:58:10""
+title: "Who will maintain the future? Rethinking open source leadership for a new generation''
+date: '2025-08-20T14:58:10""
 category: "Markets"
 summary: ""
 slug: "who will maintain the future rethinking open source leadersh"
 source_urls:
   - "https://github.blog/open-source/maintainers/who-will-maintain-the-future-rethinking-open-source-leadership-for-a-new-generation/"
 seo:
-  title: "Who will maintain the future? Rethinking open source leadership for a new generation | Hash n Hedge'"
-  description: ""
+  title: "Who will maintain the future? Rethinking open source leadership for a new generation | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

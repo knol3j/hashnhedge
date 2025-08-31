@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "CircleÃ¢â‚¬â„¢s Arc Blockchain Integrates With Fireblocks'"
-date: "2025-08-20T15:29:06""
+title: "CircleÃ¢â‚¬â„¢s Arc Blockchain Integrates With Fireblocks''
+date: '2025-08-20T15:29:06""
 category: "Markets"
 summary: ""
 slug: "circles arc blockchain integrates with fireblocks"
 source_urls:
   - "https://unchainedcrypto.com/circles-arc-blockchain-integrates-with-fireblocks/"
 seo:
-  title: "CircleÃ¢â‚¬â„¢s Arc Blockchain Integrates With Fireblocks | Hash n Hedge'"
-  description: ""
+  title: "CircleÃ¢â‚¬â„¢s Arc Blockchain Integrates With Fireblocks | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

@@ -1,14 +1,4 @@
 ﻿---
-title: "DOJ Criminal Division chief says open source smart contract devs not criminally liable without intent"
-date: "2025-08-21T16:36:49"
-category: "Markets"
-summary: ""
-slug: "doj criminal division chief says open source smart contract "
-source_urls:
-  - "https://cryptoslate.com/doj-criminal-division-chief-says-open-source-smart-contract-devs-not-criminally-liable-without-intent/"
-seo:
-  title: "DOJ Criminal Division chief says open source smart contract devs not criminally liable without intent | Hash n Hedge"
-  description: ""
-  keywords: ["news", "markets", "brief"]
+title: "DOJ Criminal Division chief says open source smart contract devs not criminally liable without intent"  date: "2025-08-21T16:36:49"  category: "Markets"  summary: ""  slug: "doj criminal division chief says open source smart contract "  source_urls:    - "https://cryptoslate.com/doj-criminal-division-chief-says-open-source-smart-contract-devs-not-criminally-liable-without-intent/"  seo:    title: "DOJ Criminal Division chief says open source smart contract devs not criminally liable without intent | Hash n Hedge"    description: ""    keywords: ["news", "markets", "brief"]
 ---
 **Headline**: DOJ Clarifies Liability for Open-Source Smart Contract Developers  **Summary Meta Description**: The US Department of Justice's (DOJ) Criminal Division chief has stated that open-source smart contract developers are not criminally liable unless they intentionally cause harm. This clarification addresses concerns in the cryptocurrency and blockchain space regarding potential liability for code vulnerabilities.  **Key Points:**  * The DOJ's clarification specifically targets open-source smart contract developers, not centralized entities. * Liability is tied to intent, not just the act of creating a vulnerable contract. * The statement aims to provide clarity on existing regulations and alleviate concerns in the industry. * This development may influence the way developers approach security measures in their code.  **Short Takeaways:**  1. **Clarifying Intent**: The DOJ's clarification emphasizes that liability is contingent upon intent, rather than mere negligence or oversight. This distinction acknowledges the complexities of developing decentralized systems. 2. **Regulatory Clarity**: By providing clearer guidelines on liability, the DOJ aims to foster a more stable and secure environment for developers and users alike in the cryptocurrency and blockchain space.  **Sources:**  * https://cryptoslate.com/doj-criminal-division-chief-says-open-source-smart-contract-devs-not-criminally-liable-without-intent/ 

@@ -1,4 +1,4 @@
----
+﻿---
 title: U.S. Treasury Seeks Public Input on Illicit Activity After GENIUS Act Signing
 date: '2025-08-20'
 category: Markets

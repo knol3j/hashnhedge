@@ -1,14 +1,4 @@
 ﻿---
-title: "Who Got Arrested in the Raid on the XSS Crime Forum?"
-date: "2025-08-21T17:02:09"
-category: "Markets"
-summary: ""
-slug: "who got arrested in the raid on the xss crime forum"
-source_urls:
-  - "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/"
-seo:
-  title: "Who Got Arrested in the Raid on the XSS Crime Forum? | Hash n Hedge"
-  description: ""
-  keywords: ["news", "markets", "brief"]
+title: "Who Got Arrested in the Raid on the XSS Crime Forum?"  date: "2025-08-21T17:02:09"  category: "Markets"  summary: ""  slug: "who got arrested in the raid on the xss crime forum"  source_urls:    - "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/"  seo:    title: "Who Got Arrested in the Raid on the XSS Crime Forum? | Hash n Hedge"    description: ""    keywords: ["news", "markets", "brief"]
 ---
 Here is a news brief based on the source:  **Headline** Arrests Made in XSS Crime Forum Raid  **Summary Meta Description** Law enforcement has arrested several individuals linked to the XSS crime forum, which was shut down earlier this year. The arrests bring an end to a long-running investigation into cybercrime operations and money laundering schemes.  **Key Points**  * Multiple individuals have been arrested in connection with the XSS crime forum raid * The forum was shut down by authorities earlier this year after a prolonged investigation * Arrestees are linked to various cybercrime operations, including identity theft and money laundering  **Short Takeaways**  1. The XSS crime forum's shutdown marked a significant blow to cybercrime operations, but it appears that the takedown has now been followed by arrests of key individuals involved. 2. This development underscores the ongoing efforts of law enforcement agencies worldwide to combat transnational cybercrime networks.  **Sources** * Krebs on Security: [https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/](https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/) 

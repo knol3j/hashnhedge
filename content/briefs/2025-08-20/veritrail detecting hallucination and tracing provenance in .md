@@ -1,4 +1,4 @@
----
+﻿---
 title: 'VeriTrail: Detecting hallucination and tracing provenance in multi-step AI
   workflows'
 date: '2025-08-20'

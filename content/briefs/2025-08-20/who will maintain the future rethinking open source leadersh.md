@@ -1,4 +1,4 @@
----
+﻿---
 title: Who will maintain the future? Rethinking open source leadership for a new generation
 date: '2025-08-20'
 category: Markets

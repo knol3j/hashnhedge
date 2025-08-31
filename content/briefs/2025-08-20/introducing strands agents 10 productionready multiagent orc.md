@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Introducing Strands Agents 1.0: Production-Ready Multi-Agent Orchestration
   Made Simple'
 date: '2025-08-20'

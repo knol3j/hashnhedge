@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Cloud Native in the City of Kings'"
-date: "2025-08-20T15:10:10""
+title: "Cloud Native in the City of Kings''
+date: '2025-08-20T15:10:10""
 category: "Markets"
 summary: ""
 slug: "cloud native in the city of kings"
 source_urls:
   - "https://www.cncf.io/blog/2025/08/14/cloud-native-in-the-city-of-kings/"
 seo:
-  title: "Cloud Native in the City of Kings | Hash n Hedge'"
-  description: ""
+  title: "Cloud Native in the City of Kings | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

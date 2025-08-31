@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "KindlyMD Buys 5,744 Bitcoin For $679 Million To Expand Nakamoto Bitcoin Treasury'"
-date: "2025-08-20T15:31:15""
+title: "KindlyMD Buys 5,744 Bitcoin For $679 Million To Expand Nakamoto Bitcoin Treasury''
+date: '2025-08-20T15:31:15""
 category: "Markets"
 summary: ""
 slug: "kindlymd buys 5744 bitcoin for 679 million to expand nakamot"
 source_urls:
   - "https://bitcoinmagazine.com/news/kindlymd-buys-5744-bitcoin-for-679-million-to-expand-nakamoto-bitcoin-treasury"
 seo:
-  title: "KindlyMD Buys 5,744 Bitcoin For $679 Million To Expand Nakamoto Bitcoin Treasury | Hash n Hedge'"
-  description: ""
+  title: "KindlyMD Buys 5,744 Bitcoin For $679 Million To Expand Nakamoto Bitcoin Treasury | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

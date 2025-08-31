@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Dion: the distributed orthonormal update revolution is here'"
-date: "2025-08-20T15:15:45""
+title: "Dion: the distributed orthonormal update revolution is here''
+date: '2025-08-20T15:15:45""
 category: "Markets"
 summary: ""
 slug: "dion the distributed orthonormal update revolution is here"
 source_urls:
   - "https://www.microsoft.com/en-us/research/blog/dion-the-distributed-orthonormal-update-revolution-is-here/"
 seo:
-  title: "Dion: the distributed orthonormal update revolution is here | Hash n Hedge'"
-  description: ""
+  title: "Dion: the distributed orthonormal update revolution is here | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

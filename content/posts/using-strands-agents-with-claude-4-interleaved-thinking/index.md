@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Using Strands Agents with Claude 4 Interleaved Thinking'"
-date: "2025-08-20T15:34:31""
+title: "Using Strands Agents with Claude 4 Interleaved Thinking''
+date: '2025-08-20T15:34:31""
 category: "Markets"
 summary: ""
 slug: "using strands agents with claude 4 interleaved thinking"
 source_urls:
   - "https://aws.amazon.com/blogs/opensource/using-strands-agents-with-claude-4-interleaved-thinking/"
 seo:
-  title: "Using Strands Agents with Claude 4 Interleaved Thinking | Hash n Hedge'"
-  description: ""
+  title: "Using Strands Agents with Claude 4 Interleaved Thinking | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

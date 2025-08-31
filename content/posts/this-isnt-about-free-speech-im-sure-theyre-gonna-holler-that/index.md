@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Ã¢â‚¬ËœThis isnÃ¢â‚¬â„¢t about free speech. IÃ¢â‚¬â„¢m sure theyÃ¢â‚¬â„¢re gonna holler thatÃ¢â‚¬â„¢: Minnesota sues TikTok, accusing it of preying on the young'"
-date: "2025-08-20T15:31:27""
+title: "Ã¢â‚¬ËœThis isnÃ¢â‚¬â„¢t about free speech. IÃ¢â‚¬â„¢m sure theyÃ¢â‚¬â„¢re gonna holler thatÃ¢â‚¬â„¢: Minnesota sues TikTok, accusing it of preying on the young''
+date: '2025-08-20T15:31:27""
 category: "Markets"
 summary: ""
 slug: "this isnt about free speech im sure theyre gonna holler that"
 source_urls:
   - "https://fortune.com/2025/08/20/tiktok-minnesota-free-speech-addiction-social-media/"
 seo:
-  title: "Ã¢â‚¬ËœThis isnÃ¢â‚¬â„¢t about free speech. IÃ¢â‚¬â„¢m sure theyÃ¢â‚¬â„¢re gonna holler thatÃ¢â‚¬â„¢: Minnesota sues TikTok, accusing it of preying on the young | Hash n Hedge'"
-  description: ""
+  title: "Ã¢â‚¬ËœThis isnÃ¢â‚¬â„¢t about free speech. IÃ¢â‚¬â„¢m sure theyÃ¢â‚¬â„¢re gonna holler thatÃ¢â‚¬â„¢: Minnesota sues TikTok, accusing it of preying on the young | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

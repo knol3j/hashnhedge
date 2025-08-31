@@ -1,8 +1,8 @@
----
+﻿---
 
 title: "OpenAIÃ¢â‚¬â„¢s chairman says ChatGPT is Ã¢â‚¬ËœobviatingÃ¢â‚¬â„¢ his own jobÃ¢â‚¬â€and says AI is like an Ã¢â‚¬ËœIron Man suitÃ¢â‚¬â„¢ for workers'
-"
-date: "2025-08-20T15:31:33"
+'
+date: '2025-08-20T15:31:33"
 "
 category: "Markets"
 summary: ""
@@ -11,8 +11,8 @@ source_urls:
   - "https://fortune.com/2025/08/20/openai-chairman-chatgpt-bret-taylor-programmers-ai/"
 seo:
   title: "OpenAIÃ¢â‚¬â„¢s chairman says ChatGPT is Ã¢â‚¬ËœobviatingÃ¢â‚¬â„¢ his own jobÃ¢â‚¬â€and says AI is like an Ã¢â‚¬ËœIron Man suitÃ¢â‚¬â„¢ for workers | Hash n Hedge'
-"
-  description: "
+'
+  description: '
 "
   keywords: ["news", "markets", "brief"]
 

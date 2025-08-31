@@ -1,14 +1,4 @@
 ﻿---
-title: "Developer jailed for taking down employer's network with kill switch malware"
-date: "2025-08-21T20:44:09"
-category: "Markets"
-summary: ""
-slug: "developer jailed for taking down employers network with kill"
-source_urls:
-  - "https://go.theregister.com/feed/www.theregister.com/2025/08/22/worlds_dumbest_it_admin_gets/"
-seo:
-  title: "Developer jailed for taking down employer's network with kill switch malware | Hash n Hedge"
-  description: ""
-  keywords: ["news", "markets", "brief"]
+title: "Developer jailed for taking down employer's network with kill switch malware"  date: "2025-08-21T20:44:09"  category: "Markets"  summary: ""  slug: "developer jailed for taking down employers network with kill"  source_urls:    - "https://go.theregister.com/feed/www.theregister.com/2025/08/22/worlds_dumbest_it_admin_gets/"  seo:    title: "Developer jailed for taking down employer's network with kill switch malware | Hash n Hedge"    description: ""    keywords: ["news", "markets", "brief"]
 ---
 **Headline:** Developer Jailed for Revenge Malware Attack  **Summary Meta Description:** A former Eaton developer is sentenced to four years in prison for installing malware that took down the company's network, highlighting the risks of revenge in the tech industry.  **Key Points:**  * The developer was sentenced to four years in prison by a US court. * He installed kill switch malware on Eaton's servers as an act of revenge against his former employer. * This is not the first case of an IT professional using their skills for malicious purposes. * Malware attacks can have severe consequences, including damage to company reputation and financial losses.  **Short Takeaways:**  1. **Revenge in the tech industry has consequences**: The developer's actions demonstrate that using one's skills for revenge can lead to severe repercussions, including imprisonment. 2. **Malware attacks are a growing concern**: This case highlights the need for companies to prioritize cybersecurity measures and monitor their employees' behavior to prevent similar incidents.  **Sources:**  * [www.theregister.com/2025/08/22/worlds_dumbest_it_admin_gets](https://www.theregister.com/2025/08/22/worlds_dumbest_it_admin_gets) 

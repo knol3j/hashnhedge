@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "PyPI now blocks domain resurrection attacks used for hijacking accounts'"
-date: "2025-08-20T14:39:48""
+title: "PyPI now blocks domain resurrection attacks used for hijacking accounts''
+date: '2025-08-20T14:39:48""
 category: "Markets"
 summary: ""
 slug: "pypi now blocks domain resurrection attacks used for hijacki"
 source_urls:
   - "https://www.bleepingcomputer.com/news/security/pypi-now-blocks-domain-resurrection-attacks-used-for-hijacking-accounts/"
 seo:
-  title: "PyPI now blocks domain resurrection attacks used for hijacking accounts | Hash n Hedge'"
-  description: ""
+  title: "PyPI now blocks domain resurrection attacks used for hijacking accounts | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

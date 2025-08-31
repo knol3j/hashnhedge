@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Federation Platform and Privacy Waves: How Meta distributes compliance-related
   tasks at scale'
 date: '2025-08-20'

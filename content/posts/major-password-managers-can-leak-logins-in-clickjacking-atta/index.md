@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Major password managers can leak logins in clickjacking attacks'"
-date: "2025-08-20T14:37:30""
+title: "Major password managers can leak logins in clickjacking attacks''
+date: '2025-08-20T14:37:30""
 category: "Markets"
 summary: ""
 slug: "major password managers can leak logins in clickjacking atta"
 source_urls:
   - "https://www.bleepingcomputer.com/news/security/major-password-managers-can-leak-logins-in-clickjacking-attacks/"
 seo:
-  title: "Major password managers can leak logins in clickjacking attacks | Hash n Hedge'"
-  description: ""
+  title: "Major password managers can leak logins in clickjacking attacks | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

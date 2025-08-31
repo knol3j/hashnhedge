@@ -1,4 +1,4 @@
----
+﻿---
 title: Siemens SIMATIC RTLS Locating Manager
 date: '2025-08-20'
 category: Markets

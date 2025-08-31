@@ -1,4 +1,4 @@
----
+﻿---
 title: Microsoft Fix Targets Attacks on SharePoint Zero-Day
 date: '2025-08-20'
 category: Markets

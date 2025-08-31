@@ -1,4 +1,4 @@
----
+﻿---
 title: 'The Great Resentment: Bosses are lording over workers as revenge for the Great
   Resignation when they had to hand out once-in-a-generation raises'
 date: '2025-08-20'

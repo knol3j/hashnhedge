@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Siemens SIMATIC RTLS Locating Manager'"
-date: "2025-08-20T14:53:04""
+title: "Siemens SIMATIC RTLS Locating Manager''
+date: '2025-08-20T14:53:04""
 category: "Markets"
 summary: ""
 slug: "siemens simatic rtls locating manager"
 source_urls:
   - "https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-01"
 seo:
-  title: "Siemens SIMATIC RTLS Locating Manager | Hash n Hedge'"
-  description: ""
+  title: "Siemens SIMATIC RTLS Locating Manager | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

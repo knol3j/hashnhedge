@@ -1,4 +1,4 @@
----
+﻿---
 title: Polygon DeFi TVL jumps 43% in 2025 as QuickSwap, Polymarket lead inflows
 date: '2025-08-18'
 category: Markets

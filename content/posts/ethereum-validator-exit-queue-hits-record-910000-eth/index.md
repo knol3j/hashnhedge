@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Ethereum Validator Exit Queue Hits Record 910,000 ETH'"
-date: "2025-08-20T15:29:39""
+title: "Ethereum Validator Exit Queue Hits Record 910,000 ETH''
+date: '2025-08-20T15:29:39""
 category: "Markets"
 summary: ""
 slug: "ethereum validator exit queue hits record 910000 eth"
 source_urls:
   - "https://unchainedcrypto.com/ethereum-validator-exit-queue-hits-record-910000-eth/"
 seo:
-  title: "Ethereum Validator Exit Queue Hits Record 910,000 ETH | Hash n Hedge'"
-  description: ""
+  title: "Ethereum Validator Exit Queue Hits Record 910,000 ETH | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

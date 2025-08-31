@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Im a senior who barely survives on 1300 a month no way could'' '
 date: '2025-08-19'
 category: Markets

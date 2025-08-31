@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Powering AI-Driven Security with the Open Cybersecurity Schema Framework'"
-date: "2025-08-20T15:33:51""
+title: "Powering AI-Driven Security with the Open Cybersecurity Schema Framework''
+date: '2025-08-20T15:33:51""
 category: "Markets"
 summary: ""
 slug: "powering aidriven security with the open cybersecurity schem"
 source_urls:
   - "https://aws.amazon.com/blogs/opensource/powering-ai-driven-security-with-the-open-cybersecurity-schema-framework/"
 seo:
-  title: "Powering AI-Driven Security with the Open Cybersecurity Schema Framework | Hash n Hedge'"
-  description: ""
+  title: "Powering AI-Driven Security with the Open Cybersecurity Schema Framework | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

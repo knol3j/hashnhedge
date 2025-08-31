@@ -1,4 +1,4 @@
----
+﻿---
 title: Circle’s Arc Blockchain Integrates With Fireblocks
 date: '2025-08-20'
 category: Markets

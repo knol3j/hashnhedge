@@ -1,4 +1,4 @@
----
+﻿---
 title: The West Texas measles outbreak has ended
 date: '2025-08-20'
 category: Markets

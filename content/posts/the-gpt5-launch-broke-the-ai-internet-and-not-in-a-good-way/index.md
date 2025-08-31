@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "The GPT-5 Launch Broke the AI Internet (And Not in a Good Way)'"
-date: "2025-08-20T15:13:01""
+title: "The GPT-5 Launch Broke the AI Internet (And Not in a Good Way)''
+date: '2025-08-20T15:13:01""
 category: "Markets"
 summary: ""
 slug: "the gpt5 launch broke the ai internet and not in a good way"
 source_urls:
   - "https://www.docker.com/blog/gpt5-api-deprecation-ai-app-failure/"
 seo:
-  title: "The GPT-5 Launch Broke the AI Internet (And Not in a Good Way) | Hash n Hedge'"
-  description: ""
+  title: "The GPT-5 Launch Broke the AI Internet (And Not in a Good Way) | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

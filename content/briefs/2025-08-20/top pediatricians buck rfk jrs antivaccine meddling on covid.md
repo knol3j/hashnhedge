@@ -1,4 +1,4 @@
----
+﻿---
 title: Top pediatricians buck RFK Jr.’s anti-vaccine meddling on COVID shot guidance
 date: '2025-08-20'
 category: Markets

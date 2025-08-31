@@ -1,4 +1,4 @@
----
+﻿---
 title: AWS named as a Leader in 2025 Gartner Magic Quadrant for Strategic Cloud Platform
   Services for 15 years in a row
 date: '2025-08-18'

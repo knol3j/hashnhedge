@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Betel nuts have been giving people a buzz for over 4,000 years'"
-date: "2025-08-20T15:19:15""
+title: "Betel nuts have been giving people a buzz for over 4,000 years''
+date: '2025-08-20T15:19:15""
 category: "Markets"
 summary: ""
 slug: "betel nuts have been giving people a buzz for over 4000 year"
 source_urls:
   - "https://arstechnica.com/science/2025/08/ancient-teeth-show-people-were-getting-high-off-betel-nuts-4000-years-ago/"
 seo:
-  title: "Betel nuts have been giving people a buzz for over 4,000 years | Hash n Hedge'"
-  description: ""
+  title: "Betel nuts have been giving people a buzz for over 4,000 years | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

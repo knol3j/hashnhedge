@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Introducing Headlamp AI Assistant'"
-date: "2025-08-20T15:02:45""
+title: "Introducing Headlamp AI Assistant''
+date: '2025-08-20T15:02:45""
 category: "Markets"
 summary: ""
 slug: "introducing headlamp ai assistant"
 source_urls:
   - "https://kubernetes.io/blog/2025/08/07/introducing-headlamp-ai-assistant/"
 seo:
-  title: "Introducing Headlamp AI Assistant | Hash n Hedge'"
-  description: ""
+  title: "Introducing Headlamp AI Assistant | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

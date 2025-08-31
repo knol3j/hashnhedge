@@ -1,4 +1,4 @@
----
+﻿---
 title: '🕵️ Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before
   Hackers Do'
 date: '2025-08-20'

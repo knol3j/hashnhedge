@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Who Rugged Rogoff?'"
-date: "2025-08-20T15:30:45""
+title: "Who Rugged Rogoff?''
+date: '2025-08-20T15:30:45""
 category: "Markets"
 summary: ""
 slug: "who rugged rogoff"
 source_urls:
   - "https://bitcoinmagazine.com/takes/who-rugged-rogoff-blames-criminals-trump"
 seo:
-  title: "Who Rugged Rogoff? | Hash n Hedge'"
-  description: ""
+  title: "Who Rugged Rogoff? | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

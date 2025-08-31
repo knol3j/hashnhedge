@@ -1,12 +1,6 @@
 ﻿---
-title: "Agentsmd Open Format For Guiding Coding Agents"
-date: "2025-08-31T03:37:41"
-category: "Tech"
-slug: "agentsmd-open-format-for-guiding-coding-agents"
-image: "/images/posts/systemobject.jpg"
-tags: ["tech", "news"]
+title: "Agentsmd Open Format For Guiding Coding Agents" date: "2025-08-31T03:37:41" category: "Tech" slug: "agentsmd-open-format-for-guiding-coding-agents" image: "/images/posts/systemobject.jpg" tags: ["tech", "news"]
 ---
-
 ---
 category: "Markets"
 date: "2025-08-19T19:52:30"
@@ -26,7 +20,7 @@ seo:
 slug: "agentsmd-open-format-for-guiding-coding-agents"
 source_urls:
   - "https://agents.md/"
-title: "AGENTS.md ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ Open format for guiding coding agents"
+title: "AGENTS.md ÃƒÂ¢Ã¢-€šÂ¬Ã¢-‚¬Å“ Open format for guiding coding agents"
 
 ---
 

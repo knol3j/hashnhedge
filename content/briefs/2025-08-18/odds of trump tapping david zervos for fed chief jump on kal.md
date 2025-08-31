@@ -1,4 +1,4 @@
----
+﻿---
 title: Odds of Trump tapping David Zervos for Fed chief jump on Kalshi after CNBC
   report
 date: '2025-08-18'

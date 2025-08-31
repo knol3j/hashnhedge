@@ -1,5 +1,5 @@
 ﻿---
-title: "You do not need "analytics" for your blog"
+title: "You do not need 'analytics' for your blog"
 date: "2025-08-30T07:34:03"
 category: "Markets"
 summary: ""
@@ -7,7 +7,7 @@ slug: "you do not need analytics for your blog"
 source_urls:
   - "https://www.thisdaysportion.com/posts/contra-analytics/"
 seo:
-  title: "You do not need "analytics" for your blog | Hash n Hedge"
+  title: "You do not need 'analytics' for your blog | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

@@ -1,4 +1,4 @@
----
+﻿---
 title: Xinxing Xu bridges AI research and real-world impact at Microsoft Research
   Asia – Singapore
 date: '2025-08-20'

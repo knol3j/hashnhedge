@@ -1,4 +1,4 @@
----
+﻿---
 title: Streamline NGINX Configuration with Docker Desktop Extension
 date: '2025-08-20'
 category: Markets

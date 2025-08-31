@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "From Hotel Rwanda to Bitcoin: AnaÃƒÂ¯se KanimbaÃ¢â‚¬â„¢s Fight for Freedom Enters a New Chapter'"
-date: "2025-08-20T15:30:58""
+title: "From Hotel Rwanda to Bitcoin: AnaÃƒÂ¯se KanimbaÃ¢â‚¬â„¢s Fight for Freedom Enters a New Chapter''
+date: '2025-08-20T15:30:58""
 category: "Markets"
 summary: ""
 slug: "from hotel rwanda to bitcoin anaÃƒÂ¯se kanimbas fight for freed"
 source_urls:
   - "https://bitcoinmagazine.com/politics/from-hotel-rwanda-to-bitcoin-anaise-kanimbas-fight-for-freedom-enters-a-new-chapter"
 seo:
-  title: "From Hotel Rwanda to Bitcoin: AnaÃƒÂ¯se KanimbaÃ¢â‚¬â„¢s Fight for Freedom Enters a New Chapter | Hash n Hedge'"
-  description: ""
+  title: "From Hotel Rwanda to Bitcoin: AnaÃƒÂ¯se KanimbaÃ¢â‚¬â„¢s Fight for Freedom Enters a New Chapter | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

@@ -1,4 +1,4 @@
----
+﻿---
 title: Introducing Headlamp AI Assistant
 date: '2025-08-20'
 category: Markets

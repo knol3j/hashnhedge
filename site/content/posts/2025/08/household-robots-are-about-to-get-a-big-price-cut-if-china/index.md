@@ -1,13 +1,13 @@
 ---
-title: "Household robots are about to get a big price cut — if China's top 'robovac' player has its way"
+title: "Household robots are about to get a big price cut -- if China's top 'robovac' player has its way"
 date: "2025-08-21T20:41:49"
 category: "Markets"
 summary: ""
 slug: "household-robots-are-about-to-get-a-big-price-cut-if-china"
-source_urls:
-  - "https://www.cnbc.com/2025/08/22/chinas-robot-vacuum-roborock-plans-mass-market-cleaners-with-ai-arms.html"
-seo:
-  title: "Household robots are about to get a big price cut — if China's top 'robovac' player has its way | Hash & Hedge"
+source_urls: 
+  - "https: "//www.cnbc.com/2025/08/22/chinas-robot-vacuum-roborock-plans-mass-market-cleaners-with-ai-arms.html""
+seo: 
+  title: "Household robots are about to get a big price cut -- if China's top 'robovac' player has its way | Hash & Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

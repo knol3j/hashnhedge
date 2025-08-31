@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Dragonfly v2.3.0 has been released'"
-date: "2025-08-20T15:09:12""
+title: "Dragonfly v2.3.0 has been released''
+date: '2025-08-20T15:09:12""
 category: "Markets"
 summary: ""
 slug: "dragonfly v230 has been released"
 source_urls:
   - "https://www.cncf.io/blog/2025/08/15/dragonfly-v2-3-0-has-been-released/"
 seo:
-  title: "Dragonfly v2.3.0 has been released | Hash n Hedge'"
-  description: ""
+  title: "Dragonfly v2.3.0 has been released | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

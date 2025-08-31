@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Sec launches new statistics and data visualizations webpag'' '
 date: '2025-08-19'
 category: Markets

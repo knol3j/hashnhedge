@@ -1,4 +1,4 @@
----
+﻿---
 title: Microsoft fixes Windows upgrades failing with 0x8007007F error
 date: '2025-08-20'
 category: Markets

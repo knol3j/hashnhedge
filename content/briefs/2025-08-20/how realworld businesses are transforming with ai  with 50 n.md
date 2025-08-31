@@ -1,4 +1,4 @@
----
+﻿---
 title: How real-world businesses are transforming with AI – with 50 new stories
 date: '2025-08-20'
 category: Markets

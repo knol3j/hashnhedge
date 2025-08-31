@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Open Protocols for Agent Interoperability Part 2: Authentication on MCP'
 date: '2025-08-20'
 category: Markets

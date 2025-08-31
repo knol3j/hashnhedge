@@ -1,4 +1,4 @@
----
+﻿---
 title: 'The hidden thread'' '
 date: '2025-08-18'
 category: Markets

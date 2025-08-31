@@ -1,5 +1,5 @@
 ﻿---
-title: "Trump signs an EO creating the National Design Studio to improve "websites and physical sites"; sources say he's tapping Airbnb co-founder Joe Gebbia to lead it (Gregory Korte/Bloomberg)"
+title: "Trump signs an EO creating the National Design Studio to improve 'websites and physical sites'; sources say he's tapping Airbnb co-founder Joe Gebbia to lead it (Gregory Korte/Bloomberg)"
 date: "2025-08-21T17:39:06"
 category: "Markets"
 summary: ""
@@ -7,7 +7,7 @@ slug: "trump signs an eo creating the national design studio to imp"
 source_urls:
   - "http://www.techmeme.com/250821/p27#a250821p27"
 seo:
-  title: "Trump signs an EO creating the National Design Studio to improve "websites and physical sites"; sources say he's tapping Airbnb co-founder Joe Gebbia to lead it (Gregory Korte/Bloomberg) | Hash n Hedge"
+  title: "Trump signs an EO creating the National Design Studio to improve 'websites and physical sites'; sources say he's tapping Airbnb co-founder Joe Gebbia to lead it (Gregory Korte/Bloomberg) | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

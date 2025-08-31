@@ -1,14 +1,14 @@
 ﻿---
-title: "Perplexity’s Comet AI browser tricked into buying fake items online"
-date: "2025-08-20T20:57:31"
+title: "Perplexity’s Comet AI browser tricked into buying fake items online'
+date: '2025-08-20T20:57:31"
 category: "Markets"
 summary: ""
 slug: "perplexitys comet ai browser tricked into buying fake items "
 source_urls:
   - "https://www.bleepingcomputer.com/news/security/perplexitys-comet-ai-browser-tricked-into-buying-fake-items-online/"
 seo:
-  title: "Perplexity’s Comet AI browser tricked into buying fake items online | Hash n Hedge"
-  description: ""
+  title: "Perplexity’s Comet AI browser tricked into buying fake items online | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 **Headline:** AI Browser "Tricked" into Buying Fake Goods Online  **Summary Meta Description:** Researchers have demonstrated a vulnerability in Perplexity's Comet AI browser, allowing attackers to trick it into making unauthorized purchases of fake items online. The experiment raises concerns about the potential for AI-powered browsers to be exploited by malicious actors.  **Key Points:**  * Researchers used a technique called "man-in-the-middle" attack to manipulate Comet AI browser transactions. * Attackers created fake product listings and used them to trick the browser into making purchases. * The vulnerability was demonstrated on the online marketplace, Amazon. * Perplexity's Comet AI browser is designed to help users make informed purchasing decisions based on reviews and ratings.  **Takeaways:**  1. This experiment highlights a potential flaw in AI-powered browsers that can be exploited by malicious actors, compromising user trust and security. 2. As AI technology advances, it's essential for developers to prioritize robust security measures to prevent such vulnerabilities from being discovered and exploited.  **Sources:**  https://www.bleepingcomputer.com/news/security/perplexitys-comet-ai-browser-tricked-into-buying-fake-items-online/ 

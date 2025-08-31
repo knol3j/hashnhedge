@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Recommitting to our why, what, and how'"
-date: "2025-08-20T15:32:17""
+title: "Recommitting to our why, what, and how''
+date: '2025-08-20T15:32:17""
 category: "Markets"
 summary: ""
 slug: "recommitting to our why what and how"
 source_urls:
   - "https://blogs.microsoft.com/blog/2025/07/24/recommitting-to-our-why-what-and-how/"
 seo:
-  title: "Recommitting to our why, what, and how | Hash n Hedge'"
-  description: ""
+  title: "Recommitting to our why, what, and how | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

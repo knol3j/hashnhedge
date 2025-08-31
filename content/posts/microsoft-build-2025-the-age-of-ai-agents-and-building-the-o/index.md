@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Microsoft Build 2025: The age of AI agents and building the open agentic web'"
-date: "2025-08-20T15:32:30""
+title: "Microsoft Build 2025: The age of AI agents and building the open agentic web''
+date: '2025-08-20T15:32:30""
 category: "Markets"
 summary: ""
 slug: "microsoft build 2025 the age of ai agents and building the o"
 source_urls:
   - "https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/"
 seo:
-  title: "Microsoft Build 2025: The age of AI agents and building the open agentic web | Hash n Hedge'"
-  description: ""
+  title: "Microsoft Build 2025: The age of AI agents and building the open agentic web | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

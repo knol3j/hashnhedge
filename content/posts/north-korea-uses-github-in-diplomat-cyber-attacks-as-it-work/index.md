@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "North Korea Uses GitHub in Diplomat Cyber Attacks as IT Worker Scheme Hits 320+ Firms'"
-date: "2025-08-20T14:41:19""
+title: "North Korea Uses GitHub in Diplomat Cyber Attacks as IT Worker Scheme Hits 320+ Firms''
+date: '2025-08-20T14:41:19""
 category: "Markets"
 summary: ""
 slug: "north korea uses github in diplomat cyber attacks as it work"
 source_urls:
   - "https://thehackernews.com/2025/08/north-korea-uses-github-in-diplomat.html"
 seo:
-  title: "North Korea Uses GitHub in Diplomat Cyber Attacks as IT Worker Scheme Hits 320+ Firms | Hash n Hedge'"
-  description: ""
+  title: "North Korea Uses GitHub in Diplomat Cyber Attacks as IT Worker Scheme Hits 320+ Firms | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

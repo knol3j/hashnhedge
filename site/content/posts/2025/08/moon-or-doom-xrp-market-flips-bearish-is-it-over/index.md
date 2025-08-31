@@ -5,9 +5,9 @@ category: "Markets"
 summary: ""
 slug: "moon-or-doom-xrp-market-flips-bearish-is-it-over"
 image: "/images/posts/dogecoin-and-xrp-are-bleeding-wheres-the-bottom.png"
-source_urls:
-  - "https://decrypt.co/336280/moon-doom-xrp-price-market-bearish-analysis"
-seo:
+source_urls: 
+  - "https: "//decrypt.co/336280/moon-doom-xrp-price-market-bearish-analysis""
+seo: 
   title: "Moon or Doom: XRP Market Flips Bearish - Is It Over? | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]

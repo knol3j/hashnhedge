@@ -1,14 +1,4 @@
 ﻿---
-title: "After successes like Severance and The Studio, Apple TV+ gets a price hike"
-date: "2025-08-21T17:34:17"
-category: "Markets"
-summary: ""
-slug: "after successes like severance and the studio apple tv gets "
-source_urls:
-  - "https://arstechnica.com/culture/2025/08/after-successes-like-severance-and-the-studio-apple-tv-gets-a-price-hike/"
-seo:
-  title: "After successes like Severance and The Studio, Apple TV+ gets a price hike | Hash n Hedge"
-  description: ""
-  keywords: ["news", "markets", "brief"]
+title: "After successes like Severance and The Studio, Apple TV+ gets a price hike"  date: "2025-08-21T17:34:17"  category: "Markets"  summary: ""  slug: "after successes like severance and the studio apple tv gets "  source_urls:    - "https://arstechnica.com/culture/2025/08/after-successes-like-severance-and-the-studio-apple-tv-gets-a-price-hike/"  seo:    title: "After successes like Severance and The Studio, Apple TV+ gets a price hike | Hash n Hedge"    description: ""    keywords: ["news", "markets", "brief"]
 ---
-**Headline** Apple TV+ Raises Prices Amid Streaming Growth  **Summary Meta Description** Apple TV+, the streaming service behind hits like Severance and The Studio, is increasing its prices amidst a growing market. This move comes as Apple continues to invest in exclusive content, raising questions about accessibility and the long-term sustainability of the service.  **Bullet Key Points**  ΓÇó Apple TV+ will raise its monthly price by $2, from $6.99 to $8.99 for individual subscribers ΓÇó The change affects both new and existing subscribers, with prices set to increase starting in September ΓÇó This marks the first price hike for Apple TV+, which launched in 2019  **Short Takeaways**  1. **Growing competition**: As more streaming services enter the market, companies like Apple are forced to adapt pricing strategies to stay competitive. 2. **Content investments**: Despite increasing prices, Apple will continue to invest heavily in exclusive content, highlighting a focus on quality over accessibility.  **Sources** https://arstechnica.com/culture/2025/08/after-successes-like-severance-and-the-studio-apple-tv-gets-a-price-hike/ 
+**Headline** Apple TV+ Raises Prices Amid Streaming Growth  **Summary Meta Description** Apple TV+, the streaming service behind hits like Severance and The Studio, is increasing its prices amidst a growing market. This move comes as Apple continues to invest in exclusive content, raising questions about accessibility and the long-term sustainability of the service.  **Bullet Key Points**  • Apple TV+ will raise its monthly price by $2, from $6.99 to $8.99 for individual subscribers • The change affects both new and existing subscribers, with prices set to increase starting in September • This marks the first price hike for Apple TV+, which launched in 2019  **Short Takeaways**  1. **Growing competition**: As more streaming services enter the market, companies like Apple are forced to adapt pricing strategies to stay competitive. 2. **Content investments**: Despite increasing prices, Apple will continue to invest heavily in exclusive content, highlighting a focus on quality over accessibility.  **Sources** https://arstechnica.com/culture/2025/08/after-successes-like-severance-and-the-studio-apple-tv-gets-a-price-hike/ 

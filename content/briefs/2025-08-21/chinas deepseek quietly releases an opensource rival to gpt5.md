@@ -1,14 +1,14 @@
 ﻿---
-title: "China’s DeepSeek quietly releases an open-source rival to GPT-5—optimized for Chinese chips and priced to undercut OpenAI"
-date: "2025-08-21T20:45:54"
+title: "China’s DeepSeek quietly releases an open-source rival to GPT-5—optimized for Chinese chips and priced to undercut OpenAI'
+date: '2025-08-21T20:45:54"
 category: "Markets"
 summary: ""
 slug: "chinas deepseek quietly releases an opensource rival to gpt5"
 source_urls:
   - "https://fortune.com/2025/08/21/china-deepseek-releases-open-source-v3-1-model-to-rival-openai-gpt-5/"
 seo:
-  title: "China’s DeepSeek quietly releases an open-source rival to GPT-5—optimized for Chinese chips and priced to undercut OpenAI | Hash n Hedge"
-  description: ""
+  title: "China’s DeepSeek quietly releases an open-source rival to GPT-5—optimized for Chinese chips and priced to undercut OpenAI | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 **Headline**: China Releases Open-Source AI Model to Rival GPT-5  **Summary Meta Description**: DeepSeek, a Chinese tech firm, has launched an open-source artificial intelligence model that rivals OpenAI's GPT-5. The V3.1 model is optimized for Chinese chips and priced lower than its competitor. This development marks China's growing efforts in AI research and deployment.  **Key Points**  * DeepSeek's V3.1 model is a rival to OpenAI's GPT-5, one of the most advanced language models * The model is optimized for use with Chinese-made chips, reducing reliance on foreign technology * DeepSeek aims to undercut OpenAI's pricing by making its model more affordable  **Takeaways**  1. China's push into AI research and development is gaining momentum, with companies like DeepSeek working to develop homegrown solutions. 2. The release of this open-source model highlights the growing trend of rival tech firms offering cost-effective alternatives to established players like OpenAI.  **Sources**:  https://fortune.com/2025/08/21/china-deepseek-releases-open-source-v3-1-model-to-rival-openai-gpt-5/ 

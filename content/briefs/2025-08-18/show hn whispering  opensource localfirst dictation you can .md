@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Show HN: Whispering – Open-source, local-first dictation you can trust'
 date: '2025-08-18'
 category: Markets

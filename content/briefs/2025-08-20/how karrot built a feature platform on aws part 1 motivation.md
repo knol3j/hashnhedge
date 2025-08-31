@@ -1,4 +1,4 @@
----
+﻿---
 title: 'How Karrot built a feature platform on AWS, Part 1: Motivation and feature
   serving'
 date: '2025-08-20'

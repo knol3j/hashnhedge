@@ -1,4 +1,4 @@
----
+﻿---
 title: Combining GenAI & Agentic AI to build scalable, autonomous systems
 date: '2025-08-20'
 category: Markets

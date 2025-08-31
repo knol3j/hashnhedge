@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "U.S. Treasury Seeks Public Input on Illicit Activity After GENIUS Act Signing'"
-date: "2025-08-20T15:29:31""
+title: "U.S. Treasury Seeks Public Input on Illicit Activity After GENIUS Act Signing''
+date: '2025-08-20T15:29:31""
 category: "Markets"
 summary: ""
 slug: "us treasury seeks public input on illicit activity after gen"
 source_urls:
   - "https://unchainedcrypto.com/u-s-treasury-seeks-public-input-on-illicit-activity-after-genius-act-signing/"
 seo:
-  title: "U.S. Treasury Seeks Public Input on Illicit Activity After GENIUS Act Signing | Hash n Hedge'"
-  description: ""
+  title: "U.S. Treasury Seeks Public Input on Illicit Activity After GENIUS Act Signing | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

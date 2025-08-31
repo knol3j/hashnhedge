@@ -1,4 +1,4 @@
----
+﻿---
 title: New GodRAT Trojan Targets Trading Firms Using Steganography and Gh0st RAT Code
 date: '2025-08-20'
 category: Markets

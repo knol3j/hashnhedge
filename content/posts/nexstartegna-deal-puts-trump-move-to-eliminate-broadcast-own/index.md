@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Nexstartegna deal puts trump move to eliminate broadcast own'' '
 date: '2025-08-19'
 category: Markets

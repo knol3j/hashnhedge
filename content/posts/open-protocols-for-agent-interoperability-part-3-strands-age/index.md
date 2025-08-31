@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Open Protocols for Agent Interoperability Part 3: Strands Agents & MCP'"
-date: "2025-08-20T15:34:04""
+title: "Open Protocols for Agent Interoperability Part 3: Strands Agents & MCP''
+date: '2025-08-20T15:34:04""
 category: "Markets"
 summary: ""
 slug: "open protocols for agent interoperability part 3 strands age"
 source_urls:
   - "https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-3-strands-agents-mcp/"
 seo:
-  title: "Open Protocols for Agent Interoperability Part 3: Strands Agents & MCP | Hash n Hedge'"
-  description: ""
+  title: "Open Protocols for Agent Interoperability Part 3: Strands Agents & MCP | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

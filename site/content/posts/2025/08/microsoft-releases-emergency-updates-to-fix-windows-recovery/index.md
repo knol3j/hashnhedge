@@ -1,18 +1,4 @@
 ﻿---
-title: Microsoft releases emergency updates to fix Windows recovery
-date: '2025-08-20'
-category: Markets
-summary: ''
-slug: microsoft releases emergency updates to fix windows recovery
-source_urls:
-- https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-recovery/
-seo:
-  title: Microsoft releases emergency updates to fix Windows recovery | Hash n Hedge
-  description: ''
-  keywords:
-  - news
-  - markets
-  - brief
+title: Microsoft releases emergency updates to fix Windows recovery  date: '2025-08-20'  category: Markets  summary: ''  slug: microsoft releases emergency updates to fix windows recovery  source_urls:  - https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-recovery/  seo:    title: Microsoft releases emergency updates to fix Windows recovery | Hash n Hedge    description: ''    keywords:    - news    - markets    - brief
 ---
-
-**Headline** Microsoft Releases Emergency Updates for Windows Recovery Issues  **Summary Meta Description** Microsoft has released emergency updates to address a critical issue affecting Windows recovery functionality. The fixes aim to resolve problems with System Restore, Backup and Restore, and other related features.  **Bullet Key Points**  ΓÇó Microsoft has released two out-of-band (OOB) security updates to fix the Windows recovery issues. ΓÇó The patches target Windows 10 versions 20H2 and later, as well as Windows Server 2022. ΓÇó Affected users may encounter errors when attempting to access System Restore or Backup and Restore features.  **Takeaways**  1. **Emergency Patch Release**: Microsoft's swift response underscores the severity of this issue, emphasizing the importance of timely updates in maintaining system reliability. 2. **System Functionality Impact**: The recovery issues can hinder user productivity, highlighting the need for stable core functionalities in operating systems.  **Sources** https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-recovery/ 
+**Headline** Microsoft Releases Emergency Updates for Windows Recovery Issues  **Summary Meta Description** Microsoft has released emergency updates to address a critical issue affecting Windows recovery functionality. The fixes aim to resolve problems with System Restore, Backup and Restore, and other related features.  **Bullet Key Points**  • Microsoft has released two out-of-band (OOB) security updates to fix the Windows recovery issues. • The patches target Windows 10 versions 20H2 and later, as well as Windows Server 2022. • Affected users may encounter errors when attempting to access System Restore or Backup and Restore features.  **Takeaways**  1. **Emergency Patch Release**: Microsoft's swift response underscores the severity of this issue, emphasizing the importance of timely updates in maintaining system reliability. 2. **System Functionality Impact**: The recovery issues can hinder user productivity, highlighting the need for stable core functionalities in operating systems.  **Sources** https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-recovery/ 

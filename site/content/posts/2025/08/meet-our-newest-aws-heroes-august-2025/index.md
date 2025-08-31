@@ -1,14 +1,4 @@
 ﻿---
-title: "Meet our newest AWS Heroes — August 2025"
-date: "2025-08-21T16:43:33"
-category: "Markets"
-summary: ""
-slug: "meet our newest aws heroes  august 2025"
-source_urls:
-  - "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-august-2025/"
-seo:
-  title: "Meet our newest AWS Heroes — August 2025 | Hash n Hedge"
-  description: ""
-  keywords: ["news", "markets", "brief"]
+title: "Meet our newest AWS Heroes -- August 2025"  date: "2025-08-21T16:43:33"  category: "Markets"  summary: ""  slug: "meet our newest aws heroes  august 2025"  source_urls:    - "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-august-2025/"  seo:    title: "Meet our newest AWS Heroes -- August 2025 | Hash n Hedge"    description: ""    keywords: ["news", "markets", "brief"]
 ---
-**Headline** AWS Announces New Cohort of Heroes for August 2025  **Summary Meta Description** Meet the newest additions to the prestigious AWS Heroes program, a group of passionate individuals recognized for their exceptional technical contributions and leadership. This diverse cohort brings expertise in AI, machine learning, serverless architectures, and security.  **Key Points**  ΓÇó The new cohort consists of individuals from various regions, highlighting the global reach of AWS' community. ΓÇó Their areas of specialization include AI and machine learning, serverless architectures, and security. ΓÇó These AWS Heroes are dedicated to sharing their knowledge with others within the community.  **Short Takeaways** AWS continues to foster a community-driven approach by recognizing technical leaders who contribute significantly. This diverse cohort reflects the company's commitment to embracing global expertise and promoting knowledge sharing.  The selection of these individuals highlights the value placed on collaboration and innovation within the AWS ecosystem. 
+**Headline** AWS Announces New Cohort of Heroes for August 2025  **Summary Meta Description** Meet the newest additions to the prestigious AWS Heroes program, a group of passionate individuals recognized for their exceptional technical contributions and leadership. This diverse cohort brings expertise in AI, machine learning, serverless architectures, and security.  **Key Points**  • The new cohort consists of individuals from various regions, highlighting the global reach of AWS' community. • Their areas of specialization include AI and machine learning, serverless architectures, and security. • These AWS Heroes are dedicated to sharing their knowledge with others within the community.  **Short Takeaways** AWS continues to foster a community-driven approach by recognizing technical leaders who contribute significantly. This diverse cohort reflects the company's commitment to embracing global expertise and promoting knowledge sharing.  The selection of these individuals highlights the value placed on collaboration and innovation within the AWS ecosystem. 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Accelerating on-device ML on Meta’s family of apps with ExecuTorch
 date: '2025-08-20'
 category: Markets

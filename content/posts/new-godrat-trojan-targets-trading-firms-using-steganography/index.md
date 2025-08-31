@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "New GodRAT Trojan Targets Trading Firms Using Steganography and Gh0st RAT Code'"
-date: "2025-08-20T14:42:42""
+title: "New GodRAT Trojan Targets Trading Firms Using Steganography and Gh0st RAT Code''
+date: '2025-08-20T14:42:42""
 category: "Markets"
 summary: ""
 slug: "new godrat trojan targets trading firms using steganography "
 source_urls:
   - "https://thehackernews.com/2025/08/new-godrat-trojan-targets-trading-firms.html"
 seo:
-  title: "New GodRAT Trojan Targets Trading Firms Using Steganography and Gh0st RAT Code | Hash n Hedge'"
-  description: ""
+  title: "New GodRAT Trojan Targets Trading Firms Using Steganography and Gh0st RAT Code | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

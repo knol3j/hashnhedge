@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Unauthorized largesse at taxpayer expense dissent from the'' '
 date: '2025-08-19'
 category: Markets

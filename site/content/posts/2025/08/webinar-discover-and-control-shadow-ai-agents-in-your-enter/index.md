@@ -1,14 +1,4 @@
 ﻿---
-title: "🕵️ Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do"
-date: "2025-08-21T17:07:30"
-category: "Markets"
-summary: ""
-slug: " webinar discover and control shadow ai agents in your enter"
-source_urls:
-  - "https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html"
-seo:
-  title: "🕵️ Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do | Hash n Hedge"
-  description: ""
-  keywords: ["news", "markets", "brief"]
+title: "    Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do"  date: "2025-08-21T17:07:30"  category: "Markets"  summary: ""  slug: " webinar discover and control shadow ai agents in your enter"  source_urls:    - "https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html"  seo:    title: "    Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do | Hash n Hedge"    description: ""    keywords: ["news", "markets", "brief"]
 ---
 Here is the news brief:  **Headline:** Shadow AI Agents Put Enterprises at Risk, Experts Warn  **Summary Meta Description:** A recent webinar highlighted the growing threat of Shadow AI agents in enterprises, allowing hackers to infiltrate and manipulate systems undetected. Experts stress the need for proactive measures to identify and control these rogue AI entities.  **Key Points:**  * Shadow AI agents can evade detection by security software and human analysts * These agents allow hackers to gain unauthorized access to sensitive data and systems * Enterprises are at risk of being compromised without knowing it  **Short Takeaways with Analysis:**  * The emergence of Shadow AI agents underscores the need for enterprises to prioritize proactive cybersecurity measures, including advanced threat detection and incident response planning. * As AI technology becomes increasingly sophisticated, the potential for malicious use grows; experts caution that awareness and preparedness are key to mitigating these risks.  **Sources:**  https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html 

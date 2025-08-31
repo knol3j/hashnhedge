@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Microsoft Fix Targets Attacks on SharePoint Zero-Day'"
-date: "2025-08-20T14:36:48""
+title: "Microsoft Fix Targets Attacks on SharePoint Zero-Day''
+date: '2025-08-20T14:36:48""
 category: "Markets"
 summary: ""
 slug: "microsoft fix targets attacks on sharepoint zeroday"
 source_urls:
   - "https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/"
 seo:
-  title: "Microsoft Fix Targets Attacks on SharePoint Zero-Day | Hash n Hedge'"
-  description: ""
+  title: "Microsoft Fix Targets Attacks on SharePoint Zero-Day | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

@@ -1,4 +1,4 @@
----
+﻿---
 title: Uncle Sam eyes slice of Intel in return for CHIPS Act cash
 date: '2025-08-20'
 category: Markets

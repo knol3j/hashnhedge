@@ -1,4 +1,4 @@
----
+﻿---
 title: 'GPT-5 in GitHub Copilot: How I built a game in 60 seconds'
 date: '2025-08-20'
 category: Markets

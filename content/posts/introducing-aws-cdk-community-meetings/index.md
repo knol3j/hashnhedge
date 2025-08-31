@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Introducing AWS CDK Community Meetings'"
-date: "2025-08-20T15:34:14""
+title: "Introducing AWS CDK Community Meetings''
+date: '2025-08-20T15:34:14""
 category: "Markets"
 summary: ""
 slug: "introducing aws cdk community meetings"
 source_urls:
   - "https://aws.amazon.com/blogs/opensource/introducing-aws-cdk-community-meetings/"
 seo:
-  title: "Introducing AWS CDK Community Meetings | Hash n Hedge'"
-  description: ""
+  title: "Introducing AWS CDK Community Meetings | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

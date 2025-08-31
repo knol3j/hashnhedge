@@ -1,4 +1,4 @@
----
+﻿---
 title: 'TextQuests: How Good are LLMs at Text-Based Video Games?'
 date: '2025-08-20'
 category: Markets

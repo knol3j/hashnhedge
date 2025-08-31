@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Joint Statement from CISA, FBI, DC3 and NSA on Potential Targeted Cyber Activity Against U.S. Critical Infrastructure by Iran'"
-date: "2025-08-20T14:49:37""
+title: "Joint Statement from CISA, FBI, DC3 and NSA on Potential Targeted Cyber Activity Against U.S. Critical Infrastructure by Iran''
+date: '2025-08-20T14:49:37""
 category: "Markets"
 summary: ""
 slug: "joint statement from cisa fbi dc3 and nsa on potential targe"
 source_urls:
   - "https://www.cisa.gov/news-events/news/joint-statement-cisa-fbi-dc3-and-nsa-potential-targeted-cyber-activity-against-us-critical"
 seo:
-  title: "Joint Statement from CISA, FBI, DC3 and NSA on Potential Targeted Cyber Activity Against U.S. Critical Infrastructure by Iran | Hash n Hedge'"
-  description: ""
+  title: "Joint Statement from CISA, FBI, DC3 and NSA on Potential Targeted Cyber Activity Against U.S. Critical Infrastructure by Iran | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title: "Apple announces an "Awe dropping" event on September 9 at 10AM PT at Apple Park, where the iPhone 17 lineup, new Apple Watch models, and more are expected (Juli Clover/MacRumors)"
+title: "Apple announces an 'Awe dropping' event on September 9 at 10AM PT at Apple Park, where the iPhone 17 lineup, new Apple Watch models, and more are expected (Juli Clover/MacRumors)"
 date: "2025-08-27T00:56:03"
 category: "Markets"
 summary: ""
@@ -7,7 +7,7 @@ slug: "apple announces an awe dropping event on september 9 at 10am"
 source_urls:
   - "http://www.techmeme.com/250826/p23#a250826p23"
 seo:
-  title: "Apple announces an "Awe dropping" event on September 9 at 10AM PT at Apple Park, where the iPhone 17 lineup, new Apple Watch models, and more are expected (Juli Clover/MacRumors) | Hash n Hedge"
+  title: "Apple announces an 'Awe dropping' event on September 9 at 10AM PT at Apple Park, where the iPhone 17 lineup, new Apple Watch models, and more are expected (Juli Clover/MacRumors) | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

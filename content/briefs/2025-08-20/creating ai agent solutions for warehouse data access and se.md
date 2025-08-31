@@ -1,4 +1,4 @@
----
+﻿---
 title: Creating AI agent solutions for warehouse data access and security
 date: '2025-08-20'
 category: Markets

@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "From the Bitcoin Jungle to the Sea, Let Lightning be Free!'"
-date: "2025-08-20T15:30:32""
+title: "From the Bitcoin Jungle to the Sea, Let Lightning be Free!''
+date: '2025-08-20T15:30:32""
 category: "Markets"
 summary: ""
 slug: "from the bitcoin jungle to the sea let lightning be free"
 source_urls:
   - "https://bitcoinmagazine.com/print/bitcoin-jungle-lightning-to-fiat-payments"
 seo:
-  title: "From the Bitcoin Jungle to the Sea, Let Lightning be Free! | Hash n Hedge'"
-  description: ""
+  title: "From the Bitcoin Jungle to the Sea, Let Lightning be Free! | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

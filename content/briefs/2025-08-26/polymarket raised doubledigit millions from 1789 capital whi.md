@@ -1,5 +1,5 @@
 ﻿---
-title: "Polymarket raised "double-digit millions" from 1789 Capital, which Donald Trump Jr. joined as a partner in 2024; Trump Jr. will join Polymarket's advisory board (Dan Primack/Axios)"
+title: "Polymarket raised 'double-digit millions' from 1789 Capital, which Donald Trump Jr. joined as a partner in 2024; Trump Jr. will join Polymarket's advisory board (Dan Primack/Axios)"
 date: "2025-08-27T00:50:32"
 category: "Markets"
 summary: ""
@@ -7,7 +7,7 @@ slug: "polymarket raised doubledigit millions from 1789 capital whi"
 source_urls:
   - "http://www.techmeme.com/250826/p25#a250826p25"
 seo:
-  title: "Polymarket raised "double-digit millions" from 1789 Capital, which Donald Trump Jr. joined as a partner in 2024; Trump Jr. will join Polymarket's advisory board (Dan Primack/Axios) | Hash n Hedge"
+  title: "Polymarket raised 'double-digit millions' from 1789 Capital, which Donald Trump Jr. joined as a partner in 2024; Trump Jr. will join Polymarket's advisory board (Dan Primack/Axios) | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Mitigating prompt injection attacks with a layered defense strategy'"
-date: "2025-08-20T14:44:56""
+title: "Mitigating prompt injection attacks with a layered defense strategy''
+date: '2025-08-20T14:44:56""
 category: "Markets"
 summary: ""
 slug: "mitigating prompt injection attacks with a layered defense s"
 source_urls:
   - "http://security.googleblog.com/2025/06/mitigating-prompt-injection-attacks.html"
 seo:
-  title: "Mitigating prompt injection attacks with a layered defense strategy | Hash n Hedge'"
-  description: ""
+  title: "Mitigating prompt injection attacks with a layered defense strategy | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

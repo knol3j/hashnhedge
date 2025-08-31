@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Who Got Arrested in the Raid on the XSS Crime Forum?'"
-date: "2025-08-20T14:35:33""
+title: "Who Got Arrested in the Raid on the XSS Crime Forum?''
+date: '2025-08-20T14:35:33""
 category: "Markets"
 summary: ""
 slug: "who got arrested in the raid on the xss crime forum"
 source_urls:
   - "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/"
 seo:
-  title: "Who Got Arrested in the Raid on the XSS Crime Forum? | Hash n Hedge'"
-  description: ""
+  title: "Who Got Arrested in the Raid on the XSS Crime Forum? | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

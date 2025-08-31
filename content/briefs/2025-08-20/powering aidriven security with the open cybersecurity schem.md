@@ -1,4 +1,4 @@
----
+﻿---
 title: Powering AI-Driven Security with the Open Cybersecurity Schema Framework
 date: '2025-08-20'
 category: Markets

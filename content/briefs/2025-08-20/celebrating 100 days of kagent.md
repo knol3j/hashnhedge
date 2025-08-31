@@ -1,4 +1,4 @@
----
+﻿---
 title: Celebrating 100 Days of Kagent
 date: '2025-08-20'
 category: Markets

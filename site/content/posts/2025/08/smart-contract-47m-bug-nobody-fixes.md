@@ -1,6 +1,6 @@
 ---
 title: "The $47 Million Smart Contract Bug That Nobody Wants to Fix"
-date: 2025-08-31T08:00:00Z
+date: "2025-08-31T08:00:00Z"
 categories: ["security", "crypto"]
 tags: ["smart contracts", "vulnerabilities", "defi", "code audit", "blockchain security"]
 description: "A critical vulnerability in popular DeFi protocols could drain $47 million, but fixing it would break backward compatibility. Welcome to the blockchain trilemma nobody talks about."
@@ -114,7 +114,7 @@ This situation perfectly encapsulates why mainstream adoption remains limited:
 
 ## The Meta-Problem
 
-The biggest issue isn't the vulnerability itself—it's that fixing vulnerabilities breaks the fundamental promise of blockchain immutability.
+The biggest issue isn't the vulnerability itself--it's that fixing vulnerabilities breaks the fundamental promise of blockchain immutability.
 
 If code can be changed when bugs are found, then "code is law" becomes "code is law until we find a bug, then governance is law, then code is law again, maybe."
 
@@ -142,7 +142,7 @@ If code can be changed when bugs are found, then "code is law" becomes "code is 
 
 ## The Bottom Line
 
-Blockchain security isn't a technical problem—it's a governance problem wrapped in a philosophy problem disguised as a technical problem.
+Blockchain security isn't a technical problem--it's a governance problem wrapped in a philosophy problem disguised as a technical problem.
 
 The protocols could fix this vulnerability in 48 hours if they wanted to. They don't want to because fixing it admits that "code is law" was marketing copy, not technical reality.
 

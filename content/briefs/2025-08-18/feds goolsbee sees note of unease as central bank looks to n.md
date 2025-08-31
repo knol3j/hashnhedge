@@ -1,4 +1,4 @@
----
+﻿---
 title: Fed's Goolsbee sees 'note of unease' as central bank looks to next interest
   rate move
 date: '2025-08-18'

@@ -1,4 +1,4 @@
----
+﻿---
 title: Japan pitches free trade zone linking it to Africa, India while extending $5.5
   billion loan
 date: '2025-08-20'

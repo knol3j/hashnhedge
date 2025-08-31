@@ -1,4 +1,4 @@
----
+﻿---
 title: Microsoft investigates outage impacting Copilot, Office.com
 date: '2025-08-20'
 category: Markets

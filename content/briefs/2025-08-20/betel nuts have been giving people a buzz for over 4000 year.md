@@ -1,4 +1,4 @@
----
+﻿---
 title: Betel nuts have been giving people a buzz for over 4,000 years
 date: '2025-08-20'
 category: Markets

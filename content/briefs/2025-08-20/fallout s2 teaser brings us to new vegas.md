@@ -1,4 +1,4 @@
----
+﻿---
 title: Fallout S2 teaser brings us to New Vegas
 date: '2025-08-20'
 category: Markets

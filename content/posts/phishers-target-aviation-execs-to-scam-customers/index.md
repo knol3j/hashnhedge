@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Phishers Target Aviation Execs to Scam Customers'"
-date: "2025-08-20T14:36:24""
+title: "Phishers Target Aviation Execs to Scam Customers''
+date: '2025-08-20T14:36:24""
 category: "Markets"
 summary: ""
 slug: "phishers target aviation execs to scam customers"
 source_urls:
   - "https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/"
 seo:
-  title: "Phishers Target Aviation Execs to Scam Customers | Hash n Hedge'"
-  description: ""
+  title: "Phishers Target Aviation Execs to Scam Customers | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

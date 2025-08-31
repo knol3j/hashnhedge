@@ -1,4 +1,4 @@
----
+﻿---
 title: 'I can only rely on me how do i protect myself from my parent'' '
 date: '2025-08-19'
 category: Markets

@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "Privacy Policy"
 description = "Hash & Hedge Privacy Policy - Learn how we collect, use, and protect your personal information. Updated for GDPR, CCPA, and Google AdSense compliance."
 date = "2025-08-30"

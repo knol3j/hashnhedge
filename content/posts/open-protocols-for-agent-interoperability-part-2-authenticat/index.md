@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Open Protocols for Agent Interoperability Part 2: Authentication on MCP'"
-date: "2025-08-20T15:34:09""
+title: "Open Protocols for Agent Interoperability Part 2: Authentication on MCP''
+date: '2025-08-20T15:34:09""
 category: "Markets"
 summary: ""
 slug: "open protocols for agent interoperability part 2 authenticat"
 source_urls:
   - "https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-2-authentication-on-mcp/"
 seo:
-  title: "Open Protocols for Agent Interoperability Part 2: Authentication on MCP | Hash n Hedge'"
-  description: ""
+  title: "Open Protocols for Agent Interoperability Part 2: Authentication on MCP | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

@@ -1,4 +1,4 @@
----
+﻿---
 title: Google unveils the Pixel Watch 4 in 41mm and 45mm sizes, with an Actua 360
   curved display and emergency satellite communication, starting at $349 from October
   9 (Aisha Malik/TechCrunch)

@@ -1,14 +1,4 @@
 ﻿---
-title: "Applicability vs. job displacement: further notes on our recent research on AI and occupations"
-date: "2025-08-21T17:31:20"
-category: "Markets"
-summary: ""
-slug: "applicability vs job displacement further notes on our recen"
-source_urls:
-  - "https://www.microsoft.com/en-us/research/blog/applicability-vs-job-displacement-further-notes-on-our-recent-research-on-ai-and-occupations/"
-seo:
-  title: "Applicability vs. job displacement: further notes on our recent research on AI and occupations | Hash n Hedge"
-  description: ""
-  keywords: ["news", "markets", "brief"]
+title: "Applicability vs. job displacement: further notes on our recent research on AI and occupations"  date: "2025-08-21T17:31:20"  category: "Markets"  summary: ""  slug: "applicability vs job displacement further notes on our recen"  source_urls:    - "https://www.microsoft.com/en-us/research/blog/applicability-vs-job-displacement-further-notes-on-our-recent-research-on-ai-and-occupations/"  seo:    title: "Applicability vs. job displacement: further notes on our recent research on AI and occupations | Hash n Hedge"    description: ""    keywords: ["news", "markets", "brief"]
 ---
 Here's the news brief:  **Headline** AI Research Warns of Occupational Shift, Not Mass Displacement  **Summary Meta Description** New research from Microsoft highlights a nuanced view on AI's impact on jobs. While AI may replace some tasks, it can also augment and create new roles, shifting the occupational landscape rather than leading to mass displacement.  **Key Points**  * AI is more likely to automate routine or repetitive tasks, freeing human workers for higher-value tasks. * New research suggests that 40% of occupations are at high risk of being automated, while 32% have a low risk. * AI can create new job opportunities in fields like data science and AI development.  **Takeaways**  1. **Automation vs. Displacement**: The distinction between automation and displacement is crucial. While AI may automate some tasks, it's unlikely to lead to mass displacement of workers. Instead, it will reshape the occupational landscape. 2. **Human-AI Collaboration**: As AI takes on routine tasks, human workers can focus on higher-value tasks that require creativity, empathy, and critical thinking.  **Sources** https://www.microsoft.com/en-us/research/blog/applicability-vs-job-displacement-further-notes-on-our-recent-research-on-ai-and-occupations/ 

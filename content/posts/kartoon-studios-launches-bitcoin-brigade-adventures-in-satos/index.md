@@ -1,8 +1,8 @@
----
+﻿---
 
 title: "Kartoon Studios Launches Ã¢â‚¬Å“BITCOIN BRIGADE: Adventures In Satoshi CityÃ¢â‚¬Â'
-"
-date: "2025-08-20T15:30:39"
+'
+date: '2025-08-20T15:30:39"
 "
 category: "Markets"
 summary: ""
@@ -11,8 +11,8 @@ source_urls:
   - "https://bitcoinmagazine.com/press-releases/kartoon-studios-launches-bitcoin-brigade-adventures-in-satoshi-city-a-new-animated-childrens-series-and-multi-platform-ecosystem-built-around-bitcoin-and-defi"
 seo:
   title: "Kartoon Studios Launches Ã¢â‚¬Å“BITCOIN BRIGADE: Adventures In Satoshi CityÃ¢â‚¬Â | Hash n Hedge'
-"
-  description: "
+'
+  description: '
 "
   keywords: ["news", "markets", "brief"]
 

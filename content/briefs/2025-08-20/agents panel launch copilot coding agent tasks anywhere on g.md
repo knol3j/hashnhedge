@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Agents panel: Launch Copilot coding agent tasks anywhere on GitHub'
 date: '2025-08-20'
 category: Markets

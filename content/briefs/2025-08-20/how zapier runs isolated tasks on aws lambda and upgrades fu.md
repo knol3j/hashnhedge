@@ -1,4 +1,4 @@
----
+﻿---
 title: How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale
 date: '2025-08-20'
 category: Markets

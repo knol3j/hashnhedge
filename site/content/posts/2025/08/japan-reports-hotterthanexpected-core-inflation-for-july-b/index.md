@@ -1,13 +1,13 @@
 ---
-title: "Japan reports hotter-than-expected core inflation for July — but lowest since March as rice prices ease"
+title: "Japan reports hotter-than-expected core inflation for July -- but lowest since March as rice prices ease"
 date: "2025-08-21T20:43:41"
 category: "Markets"
 summary: ""
 slug: "japan-reports-hotterthanexpected-core-inflation-for-july"
-source_urls:
-  - "https://www.cnbc.com/2025/08/22/japan-core-inflation-dips-to-lowest-since-march-as-rice-prices-cool-toyko-cpi-food-energy.html"
-seo:
-  title: "Japan reports hotter-than-expected core inflation for July — but lowest since March as rice prices ease | Hash & Hedge"
+source_urls: 
+  - "https: "//www.cnbc.com/2025/08/22/japan-core-inflation-dips-to-lowest-since-march-as-rice-prices-cool-toyko-cpi-food-energy.html""
+seo: 
+  title: "Japan reports hotter-than-expected core inflation for July -- but lowest since March as rice prices ease | Hash & Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

@@ -1,4 +1,4 @@
----
+﻿---
 title: Generate Images with Claude and Hugging Face
 date: '2025-08-20'
 category: Markets

@@ -1,14 +1,4 @@
 ﻿---
-title: "TextQuests: How Good are LLMs at Text-Based Video Games?"
-date: "2025-08-21T17:29:45"
-category: "Markets"
-summary: ""
-slug: "textquests how good are llms at textbased video games"
-source_urls:
-  - "https://huggingface.co/blog/textquests"
-seo:
-  title: "TextQuests: How Good are LLMs at Text-Based Video Games? | Hash n Hedge"
-  description: ""
-  keywords: ["news", "markets", "brief"]
+title: "TextQuests: How Good are LLMs at Text-Based Video Games?"  date: "2025-08-21T17:29:45"  category: "Markets"  summary: ""  slug: "textquests how good are llms at textbased video games"  source_urls:    - "https://huggingface.co/blog/textquests"  seo:    title: "TextQuests: How Good are LLMs at Text-Based Video Games? | Hash n Hedge"    description: ""    keywords: ["news", "markets", "brief"]
 ---
 **Headline:** "LLMs Falter in Text-Based Video Game Challenge"  **Summary Meta Description:** Researchers assess the capabilities of Large Language Models (LLMs) in text-based video games, revealing mixed results and areas for improvement. The study examines how well LLMs can play games like Zork and Adventure using natural language commands.  **Key Points:**  * LLMs struggled to understand game-specific terminology and nuances * Models performed better when provided with explicit game rules and objectives * Human players outperformed LLMs in complex scenarios, but not in simple ones  **Short Takeaways:**  1. The study highlights the limitations of LLMs in understanding context-dependent language, a crucial aspect of text-based games. 2. While LLMs have made significant progress in natural language processing, they still require improvement in areas like common sense and game-specific knowledge.  **Sources:** https://huggingface.co/blog/textquests 

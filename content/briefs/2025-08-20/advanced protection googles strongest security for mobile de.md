@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Advanced Protection: Google’s Strongest Security for Mobile Devices'
 date: '2025-08-20'
 category: Markets

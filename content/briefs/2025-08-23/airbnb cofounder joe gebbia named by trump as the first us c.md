@@ -1,5 +1,5 @@
 ﻿---
-title: "Airbnb co-founder Joe Gebbia, named by Trump as the first US chief design officer, says he wants to update federal websites to an "Apple Store-like experience" (Mike Allen/Axios)"
+title: "Airbnb co-founder Joe Gebbia, named by Trump as the first US chief design officer, says he wants to update federal websites to an 'Apple Store-like experience' (Mike Allen/Axios)"
 date: "2025-08-23T15:29:16"
 category: "Markets"
 summary: ""
@@ -7,7 +7,7 @@ slug: "airbnb cofounder joe gebbia named by trump as the first us c"
 source_urls:
   - "http://www.techmeme.com/250823/p13#a250823p13"
 seo:
-  title: "Airbnb co-founder Joe Gebbia, named by Trump as the first US chief design officer, says he wants to update federal websites to an "Apple Store-like experience" (Mike Allen/Axios) | Hash n Hedge"
+  title: "Airbnb co-founder Joe Gebbia, named by Trump as the first US chief design officer, says he wants to update federal websites to an 'Apple Store-like experience' (Mike Allen/Axios) | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

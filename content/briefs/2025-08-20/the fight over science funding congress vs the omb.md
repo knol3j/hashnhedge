@@ -1,4 +1,4 @@
----
+﻿---
 title: 'The fight over science funding: Congress vs. the OMB'
 date: '2025-08-20'
 category: Markets

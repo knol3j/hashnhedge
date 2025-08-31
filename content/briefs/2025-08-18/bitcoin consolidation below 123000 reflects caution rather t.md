@@ -1,4 +1,4 @@
----
+﻿---
 title: Bitcoin consolidation below $123,000 reflects caution rather than market weakness
 date: '2025-08-18'
 category: Markets

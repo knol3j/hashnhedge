@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Space industry frets as UKSA set for bureaucratic re-entry'"
-date: "2025-08-20T15:21:04""
+title: "Space industry frets as UKSA set for bureaucratic re-entry''
+date: '2025-08-20T15:21:04""
 category: "Markets"
 summary: ""
 slug: "space industry frets as uksa set for bureaucratic reentry"
 source_urls:
   - "https://go.theregister.com/feed/www.theregister.com/2025/08/20/uk_space_agency_dsit/"
 seo:
-  title: "Space industry frets as UKSA set for bureaucratic re-entry | Hash n Hedge'"
-  description: ""
+  title: "Space industry frets as UKSA set for bureaucratic re-entry | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

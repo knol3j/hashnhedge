@@ -1,4 +1,4 @@
----
+﻿---
 title: 'The Supply Chain Paradox: When “Hardened” Images Become a Vendor Lock-in Trap'
 date: '2025-08-20'
 category: Markets

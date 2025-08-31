@@ -1,14 +1,14 @@
 ﻿---
-title: "Post-privacy AI glasses claim to listen to your every word"
-date: "2025-08-20T20:58:44"
+title: "Post-privacy AI glasses claim to listen to your every word'
+date: '2025-08-20T20:58:44"
 category: "Markets"
 summary: ""
 slug: "postprivacy ai glasses claim to listen to your every word"
 source_urls:
   - "https://go.theregister.com/feed/www.theregister.com/2025/08/20/meta_glasses_hackers_new_ai_specs/"
 seo:
-  title: "Post-privacy AI glasses claim to listen to your every word | Hash n Hedge"
-  description: ""
+  title: "Post-privacy AI glasses claim to listen to your every word | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 **Headline** Meta's AI Glasses: Listening In on Every Conversation  **Summary Meta Description** Meta's latest smart glasses, designed by a Harvard duo who previously hacked their own smart specs to eavesdrop, promise to boost intelligence through 24/7 conversation listening and unsolicited feedback. The device raises concerns about constant surveillance and AI-enabled omniscience.  **Key Points**  * Meta's new smart glasses claim to enhance users' intelligence through continuous monitoring of conversations * The device is designed by a Harvard duo who previously modified their own Meta smart specs to eavesdrop on others * Critics warn that the technology could facilitate widespread surveillance and raise concerns about AI-enabled omniscience  **Short Takeaways**  1. **Raising Surveillance Concerns**: The development of AI-powered smart glasses raises questions about the extent to which individuals will be constantly monitored and their conversations scrutinized. 2. **Blurred Lines Between Intelligence and Intrusion**: The line between boosting intelligence through data collection and invading personal space is increasingly blurred, as exemplified by Meta's latest product.  **Sources** * https://go.theregister.com/feed/www.theregister.com/2025/08/20/meta_glasses_hackers_new_ai_specs/ 

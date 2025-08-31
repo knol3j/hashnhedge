@@ -1,14 +1,14 @@
 ﻿---
-title: "Bitcoin Miner Bitdeer Aims to Expand US Rig Manufacturing Amid Trump Tariff Headwinds"
-date: "2025-08-20T20:51:39"
+title: "Bitcoin Miner Bitdeer Aims to Expand US Rig Manufacturing Amid Trump Tariff Headwinds'
+date: '2025-08-20T20:51:39"
 category: "Markets"
 summary: ""
 slug: "bitcoin miner bitdeer aims to expand us rig manufacturing am"
 source_urls:
   - "https://decrypt.co/336145/bitcoin-miner-bitdeer-aims-to-expand-us-rig-manufacturing-amid-trump-tariff-headwinds"
 seo:
-  title: "Bitcoin Miner Bitdeer Aims to Expand US Rig Manufacturing Amid Trump Tariff Headwinds | Hash n Hedge"
-  description: ""
+  title: "Bitcoin Miner Bitdeer Aims to Expand US Rig Manufacturing Amid Trump Tariff Headwinds | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 **Headline** Bitdeer Expands US Manufacturing Amid Tariff Uncertainty  **Summary Meta Description** Bitcoin miner Bitdeer aims to increase its presence in the US market by expanding its rig manufacturing operations, despite ongoing trade tensions and tariffs imposed under former President Trump's administration. The Nasdaq-listed company is seeking to reduce reliance on imported equipment.  **Key Points**  ΓÇó Bitdeer plans to increase its US-based manufacturing capacity to meet growing demand for cryptocurrency mining equipment. ΓÇó Expansion aims to reduce reliance on imports from countries subject to tariffs, including China. ΓÇó Company cites benefits of domestic production, including reduced shipping costs and improved supply chain reliability.  **Takeaways with Analysis**  1. **Tariff uncertainty weighs on industry**: Bitdeer's decision to expand US manufacturing highlights the ongoing challenges faced by cryptocurrency mining companies due to trade tensions and tariffs imposed during the Trump administration. 2. **Domestic production gains traction**: By investing in US-based manufacturing, Bitdeer joins a growing number of companies seeking to reduce reliance on international supply chains and capitalize on domestic production benefits.  **Sources** https://decrypt.co/336145/bitcoin-miner-bitdeer-aims-to-expand-us-rig-manufacturing-amid-trump-tariff-headwinds 

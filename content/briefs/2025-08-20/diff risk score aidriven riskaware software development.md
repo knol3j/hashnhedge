@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Diff Risk Score: AI-driven risk-aware software development'
 date: '2025-08-20'
 category: Markets

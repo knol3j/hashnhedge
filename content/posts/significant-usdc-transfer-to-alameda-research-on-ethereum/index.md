@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Significant USDC Transfer to Alameda Research on Ethereum'"
-date: "2025-08-20T15:30:27""
+title: "Significant USDC Transfer to Alameda Research on Ethereum''
+date: '2025-08-20T15:30:27""
 category: "Markets"
 summary: ""
 slug: "significant usdc transfer to alameda research on ethereum"
 source_urls:
   - "https://okcoinacademy.wpcomstaging.com/en/2024/05/07/significant-usdc-transfer-to-alameda-research-on-ethereum"
 seo:
-  title: "Significant USDC Transfer to Alameda Research on Ethereum | Hash n Hedge'"
-  description: ""
+  title: "Significant USDC Transfer to Alameda Research on Ethereum | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

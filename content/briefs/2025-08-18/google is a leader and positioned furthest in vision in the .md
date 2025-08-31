@@ -1,4 +1,4 @@
----
+﻿---
 title: Google is a Leader and positioned furthest in vision in the 2025 Gartner® Magic
   Quadrant™ for Conversational AI Platforms
 date: '2025-08-18'

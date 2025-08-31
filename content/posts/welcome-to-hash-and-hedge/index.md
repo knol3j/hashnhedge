@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Welcome to hash and hedge'' '
 date: '2025-08-18'
 lastmod: '2025-08-18T18:01:30Z'

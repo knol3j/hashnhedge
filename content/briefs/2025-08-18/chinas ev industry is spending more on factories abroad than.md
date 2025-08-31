@@ -1,4 +1,4 @@
----
+﻿---
 title: China's EV industry is spending more on factories abroad than at home for the
   first time
 date: '2025-08-18'

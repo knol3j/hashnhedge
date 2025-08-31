@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Has the Bitcoin Price Bull Market Topped?'"
-date: "2025-08-20T15:31:04""
+title: "Has the Bitcoin Price Bull Market Topped?''
+date: '2025-08-20T15:31:04""
 category: "Markets"
 summary: ""
 slug: "has the bitcoin price bull market topped"
 source_urls:
   - "https://bitcoinmagazine.com/markets/has-the-bitcoin-price-bull-market-topped"
 seo:
-  title: "Has the Bitcoin Price Bull Market Topped? | Hash n Hedge'"
-  description: ""
+  title: "Has the Bitcoin Price Bull Market Topped? | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

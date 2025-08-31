@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Palo Alto NetworksÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ earnings beat sparks investor confidence
   in the cybersecurity industry'' '
 date: '2025-08-19'

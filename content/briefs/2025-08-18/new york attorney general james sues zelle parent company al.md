@@ -1,4 +1,4 @@
----
+﻿---
 title: New York Attorney General James sues Zelle parent company, alleging it enabled
   fraud
 date: '2025-08-18'

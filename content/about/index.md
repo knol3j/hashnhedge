@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "About Hash & Hedge"
 description = "Learn about Hash & Hedge, your premier destination for cryptocurrency, blockchain, and financial news. Discover our mission, team, and commitment to delivering accurate, timely market analysis."
 date = "2025-08-30"

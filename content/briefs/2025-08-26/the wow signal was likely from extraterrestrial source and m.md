@@ -1,5 +1,5 @@
 ﻿---
-title: "The "Wow!" signal was likely from extraterrestrial source, and more powerful"
+title: "The 'Wow!' signal was likely from extraterrestrial source, and more powerful"
 date: "2025-08-26T21:28:58"
 category: "Markets"
 summary: ""
@@ -7,7 +7,7 @@ slug: "the wow signal was likely from extraterrestrial source and m"
 source_urls:
   - "https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561"
 seo:
-  title: "The "Wow!" signal was likely from extraterrestrial source, and more powerful | Hash n Hedge"
+  title: "The 'Wow!' signal was likely from extraterrestrial source, and more powerful | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

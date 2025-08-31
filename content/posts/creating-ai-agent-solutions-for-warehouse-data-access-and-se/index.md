@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Creating AI agent solutions for warehouse data access and security'"
-date: "2025-08-20T15:33:00""
+title: "Creating AI agent solutions for warehouse data access and security''
+date: '2025-08-20T15:33:00""
 category: "Markets"
 summary: ""
 slug: "creating ai agent solutions for warehouse data access and se"
 source_urls:
   - "https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/"
 seo:
-  title: "Creating AI agent solutions for warehouse data access and security | Hash n Hedge'"
-  description: ""
+  title: "Creating AI agent solutions for warehouse data access and security | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

@@ -1,14 +1,14 @@
 ﻿---
-title: "Here’s the downside of index funds and ETFs"
-date: "2025-08-20T20:54:46"
+title: "Here’s the downside of index funds and ETFs'
+date: '2025-08-20T20:54:46"
 category: "Markets"
 summary: ""
 slug: "heres the downside of index funds and etfs"
 source_urls:
   - "https://www.marketwatch.com/story/heres-the-downside-of-index-funds-and-etfs-e4a08156?mod=mw_rss_topstories"
 seo:
-  title: "Here’s the downside of index funds and ETFs | Hash n Hedge"
-  description: ""
+  title: "Here’s the downside of index funds and ETFs | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 **Headline** Index Funds, ETFs Come with Hidden Fees  **Summary Meta Description** A recent study reveals that index funds and exchange-traded funds (ETFs) come with unintended consequences, including hidden fees that can eat into investment returns.  **Key Points**  * Index funds and ETFs are often seen as low-cost investments, but a new report highlights their potential drawbacks. * The funds' popularity has led to increased fees for investors, potentially offsetting the benefits of diversification. * A 2% expense ratio is common among index funds and ETFs, which can result in significant losses over time.  **Short Takeaways with Analysis**  1. **Hidden costs**: While index funds and ETFs are touted as cost-effective options, the fees associated with them can be substantial, eating into investors' returns. 2. **Misaligned incentives**: The growing popularity of these funds has created a market for higher fees, which may not align with investors' best interests.  **Sources** https://www.marketwatch.com/story/heres-the-downside-of-index-funds-and-etfs-e4a08156?mod=mw_rss_topstories 

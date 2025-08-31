@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Scammers Unleash Flood of Slick Online Gaming Sites'"
-date: "2025-08-20T14:35:58""
+title: "Scammers Unleash Flood of Slick Online Gaming Sites''
+date: '2025-08-20T14:35:58""
 category: "Markets"
 summary: ""
 slug: "scammers unleash flood of slick online gaming sites"
 source_urls:
   - "https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/"
 seo:
-  title: "Scammers Unleash Flood of Slick Online Gaming Sites | Hash n Hedge'"
-  description: ""
+  title: "Scammers Unleash Flood of Slick Online Gaming Sites | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

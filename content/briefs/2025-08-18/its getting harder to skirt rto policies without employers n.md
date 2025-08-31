@@ -1,4 +1,4 @@
----
+﻿---
 title: It’s getting harder to skirt RTO policies without employers noticing
 date: '2025-08-18'
 category: Markets

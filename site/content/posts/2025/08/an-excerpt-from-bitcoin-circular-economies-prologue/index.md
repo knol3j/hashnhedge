@@ -1,12 +1,6 @@
 ﻿---
-title: "An Excerpt From Bitcoin Circular Economies Prologue"
-date: "2025-08-31T03:37:41"
-category: "Tech"
-slug: "an-excerpt-from-bitcoin-circular-economies-prologue"
-image: "/images/posts/systemobject.jpg"
-tags: ["tech", "news"]
+title: "An Excerpt From Bitcoin Circular Economies Prologue" date: "2025-08-31T03:37:41" category: "Tech" slug: "an-excerpt-from-bitcoin-circular-economies-prologue" image: "/images/posts/systemobject.jpg" tags: ["tech", "news"]
 ---
-
 ---
 category: "Markets"
 date: "2025-08-19T18:43:10"

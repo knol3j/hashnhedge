@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Unveiling the DeFi landscape: A guide to protocols and platforms'
 date: '2025-08-20'
 category: Markets

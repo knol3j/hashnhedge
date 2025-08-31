@@ -1,4 +1,4 @@
----
+﻿---
 title: Building-Products Distributor QXO Launches Hostile Bid for Beacon
 date: '2025-08-18'
 category: Markets

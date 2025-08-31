@@ -1,12 +1,6 @@
 ﻿---
-title: "  Sec Announces George Botic To Serve As Acting Chair Of The"
-date: "2025-08-31T03:37:41"
-category: "Tech"
-slug: "  sec announces george botic to serve as acting chair of the"
-image: "/images/posts/systemobject.jpg"
-tags: ["tech", "news"]
+title: "  Sec Announces George Botic To Serve As Acting Chair Of The" date: "2025-08-31T03:37:41" category: "Tech" slug: "  sec announces george botic to serve as acting chair of the" image: "/images/posts/systemobject.jpg" tags: ["tech", "news"]
 ---
-
 ---
 title: 'SEC Announces George Botic to Serve as Acting Chair of the PCAOB'' '
 date: '2025-08-18'

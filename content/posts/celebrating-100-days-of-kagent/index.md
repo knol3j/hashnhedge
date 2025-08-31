@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Celebrating 100 Days of Kagent'"
-date: "2025-08-20T15:07:49""
+title: "Celebrating 100 Days of Kagent''
+date: '2025-08-20T15:07:49""
 category: "Markets"
 summary: ""
 slug: "celebrating 100 days of kagent"
 source_urls:
   - "https://www.cncf.io/blog/2025/08/19/celebrating-100-days-of-kagent/"
 seo:
-  title: "Celebrating 100 Days of Kagent | Hash n Hedge'"
-  description: ""
+  title: "Celebrating 100 Days of Kagent | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

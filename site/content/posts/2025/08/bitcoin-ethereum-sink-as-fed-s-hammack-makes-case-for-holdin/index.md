@@ -4,9 +4,9 @@ date: "2025-08-21T16:51:23"
 category: "Markets"
 summary: ""
 slug: "bitcoin ethereum sink as fed's hammack makes case for holdin"
-source_urls:
-  - "https://decrypt.co/336271/bitcoin-ethereum-sink-feds-hammack-case-holding-interest-rates"
-seo:
+source_urls: 
+  - "https: "//decrypt.co/336271/bitcoin-ethereum-sink-feds-hammack-case-holding-interest-rates""
+seo: 
   title: "Bitcoin, Ethereum Sink as Fed's Hammack Makes Case for Holding Interest Rates Steady | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]

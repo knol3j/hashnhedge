@@ -1,4 +1,4 @@
----
+﻿---
 title: Bullish market momentum fails to sway global fund managers toward crypto, survey
   shows
 date: '2025-08-18'

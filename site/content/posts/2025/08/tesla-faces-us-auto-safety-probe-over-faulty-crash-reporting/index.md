@@ -1,14 +1,4 @@
 ﻿---
-title: "Tesla faces U.S. auto safety probe over faulty crash reporting"
-date: "2025-08-21T16:58:44"
-category: "Markets"
-summary: ""
-slug: "tesla faces us auto safety probe over faulty crash reporting"
-source_urls:
-  - "https://www.cnbc.com/2025/08/21/tesla-musk-safety-probe-crash-report.html"
-seo:
-  title: "Tesla faces U.S. auto safety probe over faulty crash reporting | Hash n Hedge"
-  description: ""
-  keywords: ["news", "markets", "brief"]
+title: "Tesla faces U.S. auto safety probe over faulty crash reporting"  date: "2025-08-21T16:58:44"  category: "Markets"  summary: ""  slug: "tesla faces us auto safety probe over faulty crash reporting"  source_urls:    - "https://www.cnbc.com/2025/08/21/tesla-musk-safety-probe-crash-report.html"  seo:    title: "Tesla faces U.S. auto safety probe over faulty crash reporting | Hash n Hedge"    description: ""    keywords: ["news", "markets", "brief"]
 ---
 Here's the news brief:  **Headline:** Tesla Faces US Safety Probe Over Crash Reporting Issues  **Summary Meta Description:** The National Highway Traffic Safety Administration (NHTSA) is investigating Tesla over allegations of faulty crash reporting, which could impact the company's safety ratings and affect consumers' purchasing decisions.  **Key Points:**  * The NHTSA investigation focuses on Tesla's reporting of crashes involving its vehicles. * The agency has received complaints about inconsistencies in Tesla's crash data, including allegedly downplaying severity. * Tesla's CEO Elon Musk has faced criticism over his handling of safety concerns related to the company's Autopilot technology.  **Short Takeaways:**  1. This investigation adds to growing concerns about Tesla's safety record and oversight. While Tesla remains a leader in electric vehicle sales, its reputation for prioritizing innovation over regulation has been scrutinized. 2. As the NHTSA probe unfolds, consumers may want to reassess their trust in Tesla's claims of industry-leading safety features.  **Sources:** [https://www.cnbc.com/2025/08/21/tesla-musk-safety-probe-crash-report.html](https://www.cnbc.com/2025/08/21/tesla-musk-safety-probe-crash-report.html) 

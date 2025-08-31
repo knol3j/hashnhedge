@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "GPT-5 in GitHub Copilot: How I built a game in 60 seconds'"
-date: "2025-08-20T14:59:22""
+title: "GPT-5 in GitHub Copilot: How I built a game in 60 seconds''
+date: '2025-08-20T14:59:22""
 category: "Markets"
 summary: ""
 slug: "gpt5 in github copilot how i built a game in 60 seconds"
 source_urls:
   - "https://github.blog/ai-and-ml/generative-ai/gpt-5-in-github-copilot-how-i-built-a-game-in-60-seconds/"
 seo:
-  title: "GPT-5 in GitHub Copilot: How I built a game in 60 seconds | Hash n Hedge'"
-  description: ""
+  title: "GPT-5 in GitHub Copilot: How I built a game in 60 seconds | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

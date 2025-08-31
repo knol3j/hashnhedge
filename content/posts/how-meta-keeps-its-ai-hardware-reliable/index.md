@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "How Meta keeps its AI hardware reliable'"
-date: "2025-08-20T15:33:39""
+title: "How Meta keeps its AI hardware reliable''
+date: '2025-08-20T15:33:39""
 category: "Markets"
 summary: ""
 slug: "how meta keeps its ai hardware reliable"
 source_urls:
   - "https://engineering.fb.com/2025/07/22/data-infrastructure/how-meta-keeps-its-ai-hardware-reliable/"
 seo:
-  title: "How Meta keeps its AI hardware reliable | Hash n Hedge'"
-  description: ""
+  title: "How Meta keeps its AI hardware reliable | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

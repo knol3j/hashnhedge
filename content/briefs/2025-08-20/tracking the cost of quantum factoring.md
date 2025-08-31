@@ -1,4 +1,4 @@
----
+﻿---
 title: Tracking the Cost of Quantum Factoring
 date: '2025-08-20'
 category: Markets

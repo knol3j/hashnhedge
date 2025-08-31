@@ -1,4 +1,4 @@
----
+﻿---
 title: 'How Karrot built a feature platform on AWS, Part 2: Feature ingestion'
 date: '2025-08-20'
 category: Markets

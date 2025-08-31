@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Why we open sourced our MCP server, and what it means for you'"
-date: "2025-08-20T15:01:10""
+title: "Why we open sourced our MCP server, and what it means for you''
+date: '2025-08-20T15:01:10""
 category: "Markets"
 summary: ""
 slug: "why we open sourced our mcp server and what it means for you"
 source_urls:
   - "https://github.blog/open-source/maintainers/why-we-open-sourced-our-mcp-server-and-what-it-means-for-you/"
 seo:
-  title: "Why we open sourced our MCP server, and what it means for you | Hash n Hedge'"
-  description: ""
+  title: "Why we open sourced our MCP server, and what it means for you | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

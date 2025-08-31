@@ -1,4 +1,4 @@
----
+﻿---
 title: 'How restaurant chains are competing on instore vibes to win'' '
 date: '2025-08-19'
 category: Markets

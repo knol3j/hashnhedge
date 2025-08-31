@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Microsoft investigates outage impacting Copilot, Office.com'"
-date: "2025-08-20T14:37:55""
+title: "Microsoft investigates outage impacting Copilot, Office.com''
+date: '2025-08-20T14:37:55""
 category: "Markets"
 summary: ""
 slug: "microsoft investigates outage impacting copilot officecom"
 source_urls:
   - "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-impacting-copilot-officecom/"
 seo:
-  title: "Microsoft investigates outage impacting Copilot, Office.com | Hash n Hedge'"
-  description: ""
+  title: "Microsoft investigates outage impacting Copilot, Office.com | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

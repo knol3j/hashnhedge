@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Fried chips: UK''s nascent semi industry risks faltering'
 date: '2025-08-20'
 category: Markets

@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "DHS Launches Over $100 Million in Funding to Strengthen CommunitiesÃ¢â‚¬â„¢ Cyber Defenses'"
-date: "2025-08-20T14:48:19""
+title: "DHS Launches Over $100 Million in Funding to Strengthen CommunitiesÃ¢â‚¬â„¢ Cyber Defenses''
+date: '2025-08-20T14:48:19""
 category: "Markets"
 summary: ""
 slug: "dhs launches over 100 million in funding to strengthen commu"
 source_urls:
   - "https://www.cisa.gov/news-events/news/dhs-launches-over-100-million-funding-strengthen-communities-cyber-defenses"
 seo:
-  title: "DHS Launches Over $100 Million in Funding to Strengthen CommunitiesÃ¢â‚¬â„¢ Cyber Defenses | Hash n Hedge'"
-  description: ""
+  title: "DHS Launches Over $100 Million in Funding to Strengthen CommunitiesÃ¢â‚¬â„¢ Cyber Defenses | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

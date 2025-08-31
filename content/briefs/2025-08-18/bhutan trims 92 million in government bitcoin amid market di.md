@@ -1,4 +1,4 @@
----
+﻿---
 title: Bhutan trims $92 million in government Bitcoin amid market dip
 date: '2025-08-18'
 category: Markets

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'My stepmothers lawyer called us greedy for fighting for our'' '
 date: '2025-08-19'
 category: Markets

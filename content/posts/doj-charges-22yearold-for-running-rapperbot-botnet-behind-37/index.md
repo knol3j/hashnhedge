@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks'"
-date: "2025-08-20T14:41:49""
+title: "DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks''
+date: '2025-08-20T14:41:49""
 category: "Markets"
 summary: ""
 slug: "doj charges 22yearold for running rapperbot botnet behind 37"
 source_urls:
   - "https://thehackernews.com/2025/08/doj-charges-22-year-old-for-running.html"
 seo:
-  title: "DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks | Hash n Hedge'"
-  description: ""
+  title: "DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

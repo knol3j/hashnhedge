@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Combining GenAI & Agentic AI to build scalable, autonomous systems'"
-date: "2025-08-20T15:08:17""
+title: "Combining GenAI & Agentic AI to build scalable, autonomous systems''
+date: '2025-08-20T15:08:17""
 category: "Markets"
 summary: ""
 slug: "combining genai  agentic ai to build scalable autonomous sys"
 source_urls:
   - "https://www.cncf.io/blog/2025/08/18/combining-genai-agentic-ai-to-build-scalable-autonomous-systems/"
 seo:
-  title: "Combining GenAI & Agentic AI to build scalable, autonomous systems | Hash n Hedge'"
-  description: ""
+  title: "Combining GenAI & Agentic AI to build scalable, autonomous systems | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

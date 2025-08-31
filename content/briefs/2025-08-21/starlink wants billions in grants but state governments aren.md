@@ -1,14 +1,14 @@
 ﻿---
-title: "Starlink wants billions in grants, but state governments aren’t cooperating"
-date: "2025-08-21T17:35:20"
+title: "Starlink wants billions in grants, but state governments aren’t cooperating'
+date: '2025-08-21T17:35:20"
 category: "Markets"
 summary: ""
 slug: "starlink wants billions in grants but state governments aren"
 source_urls:
   - "https://arstechnica.com/tech-policy/2025/08/starlink-wants-billions-in-grants-but-state-governments-arent-cooperating/"
 seo:
-  title: "Starlink wants billions in grants, but state governments aren’t cooperating | Hash n Hedge"
-  description: ""
+  title: "Starlink wants billions in grants, but state governments aren’t cooperating | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 **Headline:** Starlink Faces Funding Roadblocks from State Governments  **Summary Meta Description:** SpaceX's Starlink initiative is seeking billions in grants to expand its satellite internet network, but state governments are proving reluctant to provide the necessary funding. The company's proposal has been met with resistance due to concerns over local infrastructure and regulatory compliance.  **Key Points:**  * Starlink is requesting billions of dollars in grants from various state governments to support its expansion plans * So far, many states have expressed hesitation or outright refusal to provide funding * Concerns over local infrastructure and regulatory compliance are cited as reasons for the resistance  **Takeaways:**  1. **State Governments Asserting Local Control**: The pushback against Starlink's funding requests highlights a growing trend of state governments asserting their authority over large-scale infrastructure projects. 2. **Regulatory Hurdles Ahead**: The complexities of satellite internet regulation, particularly at the state level, are likely to pose significant challenges for Starlink as it seeks to expand its network.  **Sources:** [https://arstechnica.com/tech-policy/2025/08/starlink-wants-billions-in-grants-but-state-governments-arent-cooperating/](https://arstechnica.com/tech-policy/2025/08/starlink-wants-billions-in-grants-but-state-governments-arent-cooperating/) 

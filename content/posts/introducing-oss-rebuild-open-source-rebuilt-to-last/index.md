@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Introducing OSS Rebuild: Open Source, Rebuilt to Last'"
-date: "2025-08-20T14:44:06""
+title: "Introducing OSS Rebuild: Open Source, Rebuilt to Last''
+date: '2025-08-20T14:44:06""
 category: "Markets"
 summary: ""
 slug: "introducing oss rebuild open source rebuilt to last"
 source_urls:
   - "http://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html"
 seo:
-  title: "Introducing OSS Rebuild: Open Source, Rebuilt to Last | Hash n Hedge'"
-  description: ""
+  title: "Introducing OSS Rebuild: Open Source, Rebuilt to Last | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

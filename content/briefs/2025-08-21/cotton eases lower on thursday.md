@@ -1,14 +1,14 @@
 ﻿---
-title: "Cotton Eases Lower on Thursday"
-date: "2025-08-21T20:45:28"
+title: "Cotton Eases Lower on Thursday'
+date: '2025-08-21T20:45:28"
 category: "Markets"
 summary: ""
 slug: "cotton eases lower on thursday"
 source_urls:
   - "https://www.nasdaq.com/articles/cotton-eases-lower-thursday"
 seo:
-  title: "Cotton Eases Lower on Thursday | Hash n Hedge"
-  description: ""
+  title: "Cotton Eases Lower on Thursday | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 Here is the news brief:  **Headline:** Cotton Prices Slip Lower Thursday  **Summary Meta Description:** Cotton futures decline by 10-20 points across most contracts on Thursday, as US dollar index rises and crude oil futures increase. Export Sales data shows strong demand for US cotton.  **Key Points:**  ΓÇó Cotton futures lose 10-20 points across most contracts. ΓÇó October contract down 75 points. ΓÇó US dollar index up $0.455 to $98.535. ΓÇó Crude oil futures rise by $0.27.  **Takeaways:**  * The decline in cotton prices may be attributed to the strengthening of the US dollar, making exports more expensive for foreign buyers. * Despite strong Export Sales data showing demand for US cotton, the price drop indicates that market sentiment is currently bearish on cotton.  **Sources:**  https://www.nasdaq.com/articles/cotton-eases-lower-thursday 

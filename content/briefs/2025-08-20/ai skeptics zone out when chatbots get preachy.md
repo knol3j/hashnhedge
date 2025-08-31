@@ -1,4 +1,4 @@
----
+﻿---
 title: AI skeptics zone out when chatbots get preachy
 date: '2025-08-20'
 category: Markets

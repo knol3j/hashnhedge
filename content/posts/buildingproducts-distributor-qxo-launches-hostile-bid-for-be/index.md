@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Buildingproducts distributor qxo launches hostile bid for be'' '
 date: '2025-08-19'
 category: Markets

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Sec permits inkind creations and redemptions for crypto et'' '
 date: '2025-08-19'
 category: Markets

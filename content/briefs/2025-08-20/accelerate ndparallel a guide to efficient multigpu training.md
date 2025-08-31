@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Accelerate ND-Parallel: A Guide to Efficient Multi-GPU Training'
 date: '2025-08-20'
 category: Markets

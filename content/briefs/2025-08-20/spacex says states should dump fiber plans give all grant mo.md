@@ -1,4 +1,4 @@
----
+﻿---
 title: SpaceX says states should dump fiber plans, give all grant money to Starlink
 date: '2025-08-20'
 category: Markets

@@ -1,4 +1,4 @@
----
+﻿---
 title: A practitioner's view on how Docker enables security by default and makes developers
   work better
 date: '2025-08-20'

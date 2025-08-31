@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Xinxing Xu bridges AI research and real-world impact at Microsoft Research Asia Ã¢â‚¬â€œ Singapore'"
-date: "2025-08-20T15:17:22""
+title: "Xinxing Xu bridges AI research and real-world impact at Microsoft Research Asia Ã¢â‚¬â€œ Singapore''
+date: '2025-08-20T15:17:22""
 category: "Markets"
 summary: ""
 slug: "xinxing xu bridges ai research and realworld impact at micro"
 source_urls:
   - "https://www.microsoft.com/en-us/research/blog/xinxing-xu-bridges-ai-research-and-real-world-impact-at-microsoft-research-asia-singapore/"
 seo:
-  title: "Xinxing Xu bridges AI research and real-world impact at Microsoft Research Asia Ã¢â‚¬â€œ Singapore | Hash n Hedge'"
-  description: ""
+  title: "Xinxing Xu bridges AI research and real-world impact at Microsoft Research Asia Ã¢â‚¬â€œ Singapore | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

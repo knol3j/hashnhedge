@@ -1,4 +1,4 @@
----
+﻿---
 title: Google removes support for physical SIM cards on the Pixel 10 series in the
   US, relying solely on eSIM; Apple removed it with the iPhone 14 series in the US
   (Ben Schoon/9to5Google)

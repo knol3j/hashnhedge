@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Announcing comprehensive sovereign solutions empowering European organizations'"
-date: "2025-08-20T15:32:23""
+title: "Announcing comprehensive sovereign solutions empowering European organizations''
+date: '2025-08-20T15:32:23""
 category: "Markets"
 summary: ""
 slug: "announcing comprehensive sovereign solutions empowering euro"
 source_urls:
   - "https://blogs.microsoft.com/blog/2025/06/16/announcing-comprehensive-sovereign-solutions-empowering-european-organizations/"
 seo:
-  title: "Announcing comprehensive sovereign solutions empowering European organizations | Hash n Hedge'"
-  description: ""
+  title: "Announcing comprehensive sovereign solutions empowering European organizations | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

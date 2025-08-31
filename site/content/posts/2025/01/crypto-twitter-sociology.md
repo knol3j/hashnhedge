@@ -24,12 +24,12 @@ This week's drama involved a major crypto influencer, a failed prediction, some 
 ### The Influencer Class
 They didn't exist ten years ago. Now they move markets with poorly researched threads and sell courses to people who can't afford them. They're not analysts or advisors - they're entertainers pretending to be experts while farming engagement for newsletter subscriptions.
 
-**The beautiful part:** Most of them are genuinely shocked when their predictions fail. They believed their own hype until reality provided the correction.
+**The beautiful part: "** Most of them are genuinely shocked when their predictions fail. They believed their own hype until reality provided the correction."
 
 ### The Reply Guys
 Professional comment farmers who build followings by being first to reply to every major account. They don't create content - they create the illusion of conversation while adding nothing of value.
 
-**Their strategy:** Agree with everything, add minimal insight, hope for followers.
+**Their strategy: "** Agree with everything, add minimal insight, hope for followers."
 
 ### The Contrarians
 Always wrong but never in doubt. If Bitcoin pumps, they predicted a crash. If it crashes, they saw it coming. They're right twice a decade but never admit they're wrong the other 98% of the time.
@@ -45,12 +45,12 @@ Fresh accounts with laser eyes and dreams of Lambos. They provide liquidity for 
 ### Phase 1: The Setup
 Someone with significant following makes a bold prediction or controversial statement. Could be price targets, regulatory outcomes, or technical analysis. Specifics matter less than confidence.
 
-**Critical element:** The prediction must be specific enough to be wrong but vague enough to allow wiggle room later.
+**Critical element: "** The prediction must be specific enough to be wrong but vague enough to allow wiggle room later."
 
 ### Phase 2: The Pile-On
 Followers amplify. Critics attack. Quote tweets multiply faster than COVID variants. Everyone has an opinion about someone else's opinion about an opinion.
 
-**The beautiful chaos:** Most participants don't understand the original topic but have strong feelings about it anyway.
+**The beautiful chaos: "** Most participants don't understand the original topic but have strong feelings about it anyway."
 
 ### Phase 3: The Reality Check
 Markets don't care about Twitter threads. Predictions fail. Technical analysis meets mathematical reality. The influencer is wrong in spectacular, public fashion.
@@ -68,17 +68,17 @@ Everyone forgets. New drama emerges. The cycle continues. Digital goldfish with 
 
 ### Why Smart People Say Stupid Things
 
-**Engagement Economics:** Controversial takes get more interaction than nuanced analysis. The algorithm rewards hot takes over accuracy.
+**Engagement Economics: "** Controversial takes get more interaction than nuanced analysis. The algorithm rewards hot takes over accuracy."
 
-**Parasocial Relationships:** Followers feel personal connections to influencers. This creates pressure to constantly provide content, even when there's nothing meaningful to say.
+**Parasocial Relationships: "** Followers feel personal connections to influencers. This creates pressure to constantly provide content, even when there's nothing meaningful to say."
 
-**Confirmation Bias Farming:** Influencers learn what their audience wants to hear and provide it consistently. Echo chambers generate revenue.
+**Confirmation Bias Farming: "** Influencers learn what their audience wants to hear and provide it consistently. Echo chambers generate revenue."
 
 ### The Prediction Trap
 
 Once you make public predictions, you're trapped. Being wrong publicly is painful. Being right publicly is addictive. The incentive structure encourages overconfidence and frequent prediction-making.
 
-**The result:** Markets full of people making predictions they have no business making for audiences who mistake confidence for competence.
+**The result: "** Markets full of people making predictions they have no business making for audiences who mistake confidence for competence."
 
 ## The Tribal Dynamics
 
@@ -86,7 +86,7 @@ Once you make public predictions, you're trapped. Being wrong publicly is painfu
 
 Bitcoin maxis treat crypto like a religion with one true coin. Everyone else treats it like a casino with multiple betting options. Neither group understands the other, both are partially right, and the arguments never end.
 
-**The beautiful irony:** Bitcoin maximalists are often the most toxic ambassadors for their own cause.
+**The beautiful irony: "** Bitcoin maximalists are often the most toxic ambassadors for their own cause."
 
 ### DeFi Degens vs. Traditional Finance
 
@@ -96,7 +96,7 @@ DeFi believers think they're rebuilding finance from first principles. TradFi pe
 
 Older crypto participants remember when Bitcoin was for buying drugs and avoiding government surveillance. Newer participants want number go up and institutional adoption.
 
-**The tension:** OG crypto values vs. mainstream acceptance. Cypherpunk ideals vs. Goldman Sachs integration.
+**The tension: "** OG crypto values vs. mainstream acceptance. Cypherpunk ideals vs. Goldman Sachs integration."
 
 ## What the Drama Actually Reveals
 
@@ -116,7 +116,7 @@ Crypto Twitter is high school with money. Follower counts determine social hiera
 
 Traditional financial media required credentials, institutions, and gatekeepers. Crypto Twitter requires only a good thread and timing.
 
-**The result:** More diverse voices but less quality control. Democratization includes democratizing misinformation.
+**The result: "** More diverse voices but less quality control. Democratization includes democratizing misinformation."
 
 ## The Economic Reality Behind the Theater
 
@@ -130,9 +130,9 @@ Influencers aren't selling analysis - they're selling attention. Their "insights
 
 - Newsletter subscriptions: $10-100/month
 - Trading courses: $500-5000
-- Private Discord access: $50-500/month  
-- Affiliate commissions: 2-15% of referral value
-- Speaking fees: $5,000-50,000 per event
+- Private Discord access: $50-500/month
+- Affiliate commissions: "2-15% of referral value"
+- Speaking fees: "$5,000-50,000 per event"
 
 **Being wrong publicly doesn't matter if you're profitable privately.**
 
@@ -148,7 +148,7 @@ Retail followers provide liquidity for influencer exits. The drama creates emoti
 
 Crypto started as an anti-establishment movement. Now it's establishment theater performed by people who learned finance from YouTube videos.
 
-**The transformation:** Revolutionary technology becomes speculative entertainment.
+**The transformation: "** Revolutionary technology becomes speculative entertainment."
 
 ### The Professionalization of Hype
 
@@ -184,7 +184,7 @@ Traditional finance is adopting crypto faster than crypto is adopting traditiona
 
 Crypto Twitter drama is simultaneously meaningless and essential. It doesn't predict markets, but it reveals human nature. It doesn't create value, but it distributes information. It's not sophisticated, but it's honest about its own chaos.
 
-**The beautiful truth:** In a world of corporate messaging and institutional PR, crypto Twitter's authentic stupidity is refreshingly human.
+**The beautiful truth: "** In a world of corporate messaging and institutional PR, crypto Twitter's authentic stupidity is refreshingly human."
 
 The drama will continue because humans will continue being human. The technology will evolve because mathematics doesn't care about social media. The markets will do whatever they want because they always have.
 
@@ -192,11 +192,11 @@ The drama will continue because humans will continue being human. The technology
 
 Crypto Twitter isn't unique - it's just the most visible example of how social media intersects with finance. Traditional stock markets have the same dynamics; they're just hidden behind institutional facades.
 
-**What crypto Twitter reveals:** Financial markets have always been social constructs driven by emotion, narrative, and tribal behavior. The blockchain just makes it transparent.
+**What crypto Twitter reveals: "** Financial markets have always been social constructs driven by emotion, narrative, and tribal behavior. The blockchain just makes it transparent."
 
 The drama is the feature, not the bug. It's how price discovery works in an attention economy. It's messy, chaotic, and occasionally destructive, but it's also more honest than the alternative.
 
-**Welcome to the future of finance: transparent, democratic, and completely insane.**
+**Welcome to the future of finance: "transparent, democratic, and completely insane.**"
 
 ---
 

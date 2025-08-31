@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "How MicrosoftÃ¢â‚¬â„¢s customers and partners accelerated AI Transformation in FY25 to innovate with purpose and shape their future success'"
-date: "2025-08-20T15:32:11""
+title: "How MicrosoftÃ¢â‚¬â„¢s customers and partners accelerated AI Transformation in FY25 to innovate with purpose and shape their future success''
+date: '2025-08-20T15:32:11""
 category: "Markets"
 summary: ""
 slug: "how microsofts customers and partners accelerated ai transfo"
 source_urls:
   - "https://blogs.microsoft.com/blog/2025/07/28/how-microsofts-customers-and-partners-accelerated-ai-transformation-in-fy25-to-innovate-with-purpose-and-shape-their-future-success/"
 seo:
-  title: "How MicrosoftÃ¢â‚¬â„¢s customers and partners accelerated AI Transformation in FY25 to innovate with purpose and shape their future success | Hash n Hedge'"
-  description: ""
+  title: "How MicrosoftÃ¢â‚¬â„¢s customers and partners accelerated AI Transformation in FY25 to innovate with purpose and shape their future success | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

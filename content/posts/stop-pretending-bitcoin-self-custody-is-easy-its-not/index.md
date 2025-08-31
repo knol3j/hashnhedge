@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Stop Pretending Bitcoin Self Custody Is Easy, ItÃ¢â‚¬â„¢s Not'"
-date: "2025-08-20T15:31:09""
+title: "Stop Pretending Bitcoin Self Custody Is Easy, ItÃ¢â‚¬â„¢s Not''
+date: '2025-08-20T15:31:09""
 category: "Markets"
 summary: ""
 slug: "stop pretending bitcoin self custody is easy its not"
 source_urls:
   - "https://bitcoinmagazine.com/technical/stop-pretending-bitcoin-self-custody-is-easy"
 seo:
-  title: "Stop Pretending Bitcoin Self Custody Is Easy, ItÃ¢â‚¬â„¢s Not | Hash n Hedge'"
-  description: ""
+  title: "Stop Pretending Bitcoin Self Custody Is Easy, ItÃ¢â‚¬â„¢s Not | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

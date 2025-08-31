@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Microsoft Build 2025: The age of AI agents and building the open agentic web'
 date: '2025-08-20'
 category: Markets

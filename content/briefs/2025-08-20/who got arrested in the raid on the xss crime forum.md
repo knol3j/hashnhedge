@@ -1,4 +1,4 @@
----
+﻿---
 title: Who Got Arrested in the Raid on the XSS Crime Forum?
 date: '2025-08-20'
 category: Markets

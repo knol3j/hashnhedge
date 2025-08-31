@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Shuttered local newspapers across Wyoming and South Dakota come back to life because of their big audience of 10,000'"
-date: "2025-08-20T15:31:58""
+title: "Shuttered local newspapers across Wyoming and South Dakota come back to life because of their big audience of 10,000''
+date: '2025-08-20T15:31:58""
 category: "Markets"
 summary: ""
 slug: "shuttered local newspapers across wyoming and south dakota c"
 source_urls:
   - "https://fortune.com/2025/08/20/shuttered-local-newspapers-south-dakota-wyoming-rescue/"
 seo:
-  title: "Shuttered local newspapers across Wyoming and South Dakota come back to life because of their big audience of 10,000 | Hash n Hedge'"
-  description: ""
+  title: "Shuttered local newspapers across Wyoming and South Dakota come back to life because of their big audience of 10,000 | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

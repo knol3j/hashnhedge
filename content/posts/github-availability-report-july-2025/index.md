@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "GitHub Availability Report: July 2025'"
-date: "2025-08-20T15:00:15""
+title: "GitHub Availability Report: July 2025''
+date: '2025-08-20T15:00:15""
 category: "Markets"
 summary: ""
 slug: "github availability report july 2025"
 source_urls:
   - "https://github.blog/news-insights/company-news/github-availability-report-july-2025/"
 seo:
-  title: "GitHub Availability Report: July 2025 | Hash n Hedge'"
-  description: ""
+  title: "GitHub Availability Report: July 2025 | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

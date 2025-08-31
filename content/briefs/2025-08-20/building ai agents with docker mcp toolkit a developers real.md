@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Building AI Agents with Docker MCP Toolkit: A Developer’s Real-World Setup'
 date: '2025-08-20'
 category: Markets

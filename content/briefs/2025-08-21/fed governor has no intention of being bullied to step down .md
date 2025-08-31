@@ -1,14 +1,14 @@
 ﻿---
-title: "Fed governor has ‘no intention of being bullied to step down’ by Trump"
-date: "2025-08-21T17:53:55"
+title: "Fed governor has ‘no intention of being bullied to step down’ by Trump'
+date: '2025-08-21T17:53:55"
 category: "Markets"
 summary: ""
 slug: "fed governor has no intention of being bullied to step down "
 source_urls:
   - "https://fortune.com/2025/08/21/fed-governor-lisa-cook-bullied-trump-mortgage-fraud/"
 seo:
-  title: "Fed governor has ‘no intention of being bullied to step down’ by Trump | Hash n Hedge"
-  description: ""
+  title: "Fed governor has ‘no intention of being bullied to step down’ by Trump | Hash n Hedge'
+  description: '"
   keywords: ["news", "markets", "brief"]
 ---
 Here is the news brief:  **Fed Governor Stands Firm Against Trump Pressure**  A recent report suggests that Federal Reserve Governor Lisa Cook has no intention of stepping down in response to pressure from President Trump. Cook's stance comes as she faces scrutiny over her handling of a mortgage fraud case.  **Summary:** Fed Governor Lisa Cook rejects allegations of impropriety, asserts independence from White House interference, and continues to serve despite mounting criticism.  **Key Points:**  ΓÇó Governor Cook denies any wrongdoing in the mortgage fraud case ΓÇó She maintains that her actions were within Federal Reserve guidelines ΓÇó The Governor faces renewed pressure from President Trump following recent controversy  **Takeaways:**  1. The standoff between Governor Cook and President Trump highlights the increasingly contentious relationship between government agencies and the White House. 2. The saga underscores the importance of maintaining independence in financial institutions, particularly during times of political tension.  **Sources:** Fortune.com, "Fed governor has 'no intention of being bullied to step down' by Trump" 

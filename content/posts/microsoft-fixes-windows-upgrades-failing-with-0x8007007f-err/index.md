@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Microsoft fixes Windows upgrades failing with 0x8007007F error'"
-date: "2025-08-20T14:39:07""
+title: "Microsoft fixes Windows upgrades failing with 0x8007007F error''
+date: '2025-08-20T14:39:07""
 category: "Markets"
 summary: ""
 slug: "microsoft fixes windows upgrades failing with 0x8007007f err"
 source_urls:
   - "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-upgrades-failing-with-0x8007007f-error/"
 seo:
-  title: "Microsoft fixes Windows upgrades failing with 0x8007007F error | Hash n Hedge'"
-  description: ""
+  title: "Microsoft fixes Windows upgrades failing with 0x8007007F error | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels'"
-date: "2025-08-20T15:13:38""
+title: "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels''
+date: '2025-08-20T15:13:38""
 category: "Markets"
 summary: ""
 slug: "from zero to gpu a guide to building and scaling productionr"
 source_urls:
   - "https://huggingface.co/blog/kernel-builder"
 seo:
-  title: "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels | Hash n Hedge'"
-  description: ""
+  title: "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

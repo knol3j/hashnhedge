@@ -1,4 +1,4 @@
----
+﻿---
 title: Why we open sourced our MCP server, and what it means for you
 date: '2025-08-20'
 category: Markets

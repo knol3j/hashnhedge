@@ -1,4 +1,4 @@
----
+﻿---
 title: Who Rugged Rogoff?
 date: '2025-08-20'
 category: Markets

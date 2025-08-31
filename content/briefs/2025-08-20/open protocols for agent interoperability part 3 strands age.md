@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Open Protocols for Agent Interoperability Part 3: Strands Agents & MCP'
 date: '2025-08-20'
 category: Markets

@@ -1,4 +1,4 @@
----
+﻿---
 title: The Weight of a Cell
 date: '2025-08-18'
 category: Markets

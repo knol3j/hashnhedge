@@ -1,4 +1,4 @@
----
+﻿---
 category: "Markets"
 date: "2025-08-19T18:26:16"
 "
@@ -13,8 +13,8 @@ seo:
 slug: "trump-vows-to-target-woke-museums-with-same-playbook-used-on"
 source_urls:
   - "https://www.cnbc.com/2025/08/19/trump-smithsonian-museum-college-woke.html"
-title: "Trump vows to target woke museums with same playbook used on"
+title: "Trump vows to target woke museums with same playbook used on'
 
 ---
 
-**Headline:** Trump Targets "Woke" Museums with Same Tactics Used at Elite Universities  **Meta Description:** Former President Donald Trump has announced plans to target museums he deems "woke," using a strategy that involves scrutiny and pressure. The move follows his previous efforts to address perceived liberal bias at institutions like Columbia and Harvard.  **Key Points:**  ÃƒÅ½Ã¢â‚¬Å“ÃƒÆ’Ã¢â‚¬Â¡ÃƒÆ’Ã‚Â³ Trump's statement comes as part of a broader effort to challenge what he sees as ideological biases in American culture. ÃƒÅ½Ã¢â‚¬Å“ÃƒÆ’Ã¢â‚¬Â¡ÃƒÆ’Ã‚Â³ Museums, including the Smithsonian Institution, have been criticized for their handling of historical exhibits and representation. ÃƒÅ½Ã¢â‚¬Å“ÃƒÆ’Ã¢â‚¬Â¡ÃƒÆ’Ã‚Â³ The former President has previously targeted universities like Columbia and Harvard, where he claims students are being indoctrinated with "woke" ideology.  **Short Takeaways:**  1. Trump's push against what he perceives as ideological bias in museums reflects a broader debate over the role of institutions in shaping public discourse. 2. Critics argue that such efforts could undermine the integrity of these institutions, while supporters see them as necessary to protect traditional values.  **Sources:** https://www.cnbc.com/2025/08/19/trump-smithsonian-museum-college-woke.html
+**Headline:** Trump Targets 'Woke" Museums with Same Tactics Used at Elite Universities  **Meta Description:** Former President Donald Trump has announced plans to target museums he deems "woke," using a strategy that involves scrutiny and pressure. The move follows his previous efforts to address perceived liberal bias at institutions like Columbia and Harvard.  **Key Points:**  ÃƒÅ½Ã¢â‚¬Å“ÃƒÆ’Ã¢â‚¬Â¡ÃƒÆ’Ã‚Â³ Trump's statement comes as part of a broader effort to challenge what he sees as ideological biases in American culture. ÃƒÅ½Ã¢â‚¬Å“ÃƒÆ’Ã¢â‚¬Â¡ÃƒÆ’Ã‚Â³ Museums, including the Smithsonian Institution, have been criticized for their handling of historical exhibits and representation. ÃƒÅ½Ã¢â‚¬Å“ÃƒÆ’Ã¢â‚¬Â¡ÃƒÆ’Ã‚Â³ The former President has previously targeted universities like Columbia and Harvard, where he claims students are being indoctrinated with "woke" ideology.  **Short Takeaways:**  1. Trump's push against what he perceives as ideological bias in museums reflects a broader debate over the role of institutions in shaping public discourse. 2. Critics argue that such efforts could undermine the integrity of these institutions, while supporters see them as necessary to protect traditional values.  **Sources:** https://www.cnbc.com/2025/08/19/trump-smithsonian-museum-college-woke.html

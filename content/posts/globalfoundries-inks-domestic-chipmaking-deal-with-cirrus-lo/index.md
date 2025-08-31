@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "GlobalFoundries inks domestic chipmaking deal with Cirrus Logic'"
-date: "2025-08-20T15:20:22""
+title: "GlobalFoundries inks domestic chipmaking deal with Cirrus Logic''
+date: '2025-08-20T15:20:22""
 category: "Markets"
 summary: ""
 slug: "globalfoundries inks domestic chipmaking deal with cirrus lo"
 source_urls:
   - "https://go.theregister.com/feed/www.theregister.com/2025/08/20/globalfoundries_cirrus/"
 seo:
-  title: "GlobalFoundries inks domestic chipmaking deal with Cirrus Logic | Hash n Hedge'"
-  description: ""
+  title: "GlobalFoundries inks domestic chipmaking deal with Cirrus Logic | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

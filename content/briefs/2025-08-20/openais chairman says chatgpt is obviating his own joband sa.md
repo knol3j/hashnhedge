@@ -1,4 +1,4 @@
----
+﻿---
 title: OpenAI’s chairman says ChatGPT is ‘obviating’ his own job—and says AI is like
   an ‘Iron Man suit’ for workers
 date: '2025-08-20'

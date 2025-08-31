@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Sec announces george botic to serve as acting chair of the'' '
 date: '2025-08-19'
 category: Markets

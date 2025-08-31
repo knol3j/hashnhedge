@@ -1,4 +1,4 @@
----
+﻿---
 title: Kubernetes v1.34 Sneak Peek
 date: '2025-08-20'
 category: Markets

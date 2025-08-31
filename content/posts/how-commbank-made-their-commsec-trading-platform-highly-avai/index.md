@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "How CommBank made their CommSec trading platform highly available and operationally resilient'"
-date: "2025-08-20T14:54:55""
+title: "How CommBank made their CommSec trading platform highly available and operationally resilient''
+date: '2025-08-20T14:54:55""
 category: "Markets"
 summary: ""
 slug: "how commbank made their commsec trading platform highly avai"
 source_urls:
   - "https://aws.amazon.com/blogs/architecture/how-commbank-made-their-commsec-trading-platform-highly-available-and-operationally-resilient/"
 seo:
-  title: "How CommBank made their CommSec trading platform highly available and operationally resilient | Hash n Hedge'"
-  description: ""
+  title: "How CommBank made their CommSec trading platform highly available and operationally resilient | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

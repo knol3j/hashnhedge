@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Diff Risk Score: AI-driven risk-aware software development'"
-date: "2025-08-20T15:33:12""
+title: "Diff Risk Score: AI-driven risk-aware software development''
+date: '2025-08-20T15:33:12""
 category: "Markets"
 summary: ""
 slug: "diff risk score aidriven riskaware software development"
 source_urls:
   - "https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/"
 seo:
-  title: "Diff Risk Score: AI-driven risk-aware software development | Hash n Hedge'"
-  description: ""
+  title: "Diff Risk Score: AI-driven risk-aware software development | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

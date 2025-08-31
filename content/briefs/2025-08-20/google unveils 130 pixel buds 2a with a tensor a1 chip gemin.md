@@ -1,4 +1,4 @@
----
+﻿---
 title: Google unveils $130 Pixel Buds 2A with a Tensor A1 chip, Gemini features, seven
   hours of battery life with ANC, and a replaceable battery, available October 9 (Victoria
   Song/The Verge)

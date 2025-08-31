@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Siemens Mendix SAML Module'"
-date: "2025-08-20T14:50:45""
+title: "Siemens Mendix SAML Module''
+date: '2025-08-20T14:50:45""
 category: "Markets"
 summary: ""
 slug: "siemens mendix saml module"
 source_urls:
   - "https://www.cisa.gov/news-events/ics-advisories/icsa-25-231-02"
 seo:
-  title: "Siemens Mendix SAML Module | Hash n Hedge'"
-  description: ""
+  title: "Siemens Mendix SAML Module | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

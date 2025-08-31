@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Drunken Bishop (2023)'' '
 date: '2025-08-19'
 category: Markets

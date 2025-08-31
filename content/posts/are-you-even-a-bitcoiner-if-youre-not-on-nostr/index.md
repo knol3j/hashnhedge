@@ -1,15 +1,15 @@
----
+﻿---
 
-title: "Are You Even a Bitcoiner If YouÃ¢â‚¬â„¢re Not on Nostr?'"
-date: "2025-08-20T15:30:50""
+title: "Are You Even a Bitcoiner If YouÃ¢â‚¬â„¢re Not on Nostr?''
+date: '2025-08-20T15:30:50""
 category: "Markets"
 summary: ""
 slug: "are you even a bitcoiner if youre not on nostr"
 source_urls:
   - "https://bitcoinmagazine.com/conference/a-bitcoiner-must-be-on-nostr"
 seo:
-  title: "Are You Even a Bitcoiner If YouÃ¢â‚¬â„¢re Not on Nostr? | Hash n Hedge'"
-  description: ""
+  title: "Are You Even a Bitcoiner If YouÃ¢â‚¬â„¢re Not on Nostr? | Hash n Hedge''
+  description: '"
   keywords: ["news", "markets", "brief"]
 
 ---

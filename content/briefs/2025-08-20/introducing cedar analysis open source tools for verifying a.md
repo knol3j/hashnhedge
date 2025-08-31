@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Introducing Cedar Analysis: Open Source Tools for Verifying Authorization
   Policies'
 date: '2025-08-20'
