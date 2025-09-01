@@ -20,8 +20,8 @@ relativeURLs = false
   keywords = ["cryptocurrency", "bitcoin", "ethereum", "finance", "investing", "defi", "trading", "financial advice"]
   logo = "/images/logo.svg"
   
-  # AdSense Configuration - Ready for Approval
-  googleAdsenseID = "ca-pub-XXXXXXXXXXXXX"  # Replace with actual AdSense ID when approved
+  # AdSense Configuration - ACTIVE
+  googleAdsenseID = "ca-pub-4626165154390205"  # Your verified AdSense ID
   enableAdsense = true
   
   # Analytics - Active GA4 Tracking
