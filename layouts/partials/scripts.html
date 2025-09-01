@@ -1,0 +1,66 @@
+<!-- Infinite Scroll for Newsroom Theme -->
+{{ if or .IsHome (eq .Kind "section") }}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var loading = false;
+    var currentPage = 1;
+    var totalPages = {{ .Paginator.TotalPages }};
+    
+    if (totalPages <= 1) return; // No pagination needed
+    
+    // Create loading indicator
+    var loadingDiv = document.createElement('div');
+    loadingDiv.id = 'infinite-loading';
+    loadingDiv.style.cssText = 'text-align:center;padding:2rem;display:none;';
+    loadingDiv.innerHTML = '<span style="color:#666;">Loading more stories...</span>';
+    
+    var articlesContainer = document.querySelector('main');
+    if (articlesContainer) {
+        articlesContainer.appendChild(loadingDiv);
+    }
+    
+    function loadMorePosts() {
+        if (loading || currentPage >= totalPages) return;
+        
+        loading = true;
+        currentPage++;
+        loadingDiv.style.display = 'block';
+        
+        fetch(window.location.pathname + 'page/' + currentPage + '/')
+            .then(response => response.text())
+            .then(html => {
+                var parser = new DOMParser();
+                var doc = parser.parseFromString(html, 'text/html');
+                var newArticles = doc.querySelectorAll('article');
+                var targetContainer = document.querySelector('main');
+                
+                newArticles.forEach(function(article) {
+                    if (targetContainer && loadingDiv.parentNode) {
+                        targetContainer.insertBefore(article.cloneNode(true), loadingDiv);
+                    }
+                });
+                
+                loading = false;
+                loadingDiv.style.display = 'none';
+                
+                if (currentPage >= totalPages) {
+                    loadingDiv.innerHTML = '<span style="color:#888;">You\'ve reached the end! 🎉</span>';
+                    loadingDiv.style.display = 'block';
+                }
+            })
+            .catch(error => {
+                console.error('Error loading more posts:', error);
+                loading = false;
+                loadingDiv.style.display = 'none';
+            });
+    }
+    
+    // Infinite scroll trigger
+    window.addEventListener('scroll', function() {
+        if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 800) {
+            loadMorePosts();
+        }
+    });
+});
+</script>
+{{ end }}
