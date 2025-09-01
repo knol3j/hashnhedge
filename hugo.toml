@@ -1,0 +1,72 @@
+baseURL = 'https://www.hashnhedge.com/'
+languageCode = 'en-us'
+title = 'Hash n Hedge'
+theme = 'newsroom'
+paginate = 10
+enableGitInfo = true
+
+[params]
+  author = "Hash n Hedge"
+  description = "Stay updated with the latest in tech, crypto, and business news"
+  defaultMode = "light"
+  
+  # Analytics
+  googleAnalytics = "G-XXXXXXXXXX"  # Replace with your GA4 ID
+  
+  # Social Media
+  twitter = "https://twitter.com/hashnhedge"
+  github = "https://github.com/knol3j/hashnhedge"
+  
+  # Enable features
+  enableEmoji = true
+  enableRobotsTXT = true
+  
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow raw HTML for ads
+
+[minify]
+  minifyOutput = true
+
+[permalinks]
+  posts = "/:year/:month/:slug/"
+
+# Menu Configuration
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Investing"
+  url = "/categories/investing/"
+  weight = 2
+
+[[menu.main]]
+  name = "Budgeting"
+  url = "/categories/budgeting/"
+  weight = 3
+
+[[menu.main]]
+  name = "Side Hustles"
+  url = "/categories/side-hustles/"
+  weight = 4
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 5

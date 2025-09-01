@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@aigne/example-mcp-github": "^1.16.32",
+    "@anaisbetts/mcp-installer": "^0.5.0",
+    "@tailwindcss/cli": "^4.1.12",
+    "mcp-agent": "^0.0.1",
+    "misp": "^0.1.1",
+    "tailwindcss": "^4.1.12"
+  }
+}

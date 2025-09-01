@@ -1,0 +1,31 @@
+<head>
+  <title>{{ with .Title }}{{ humanize . }} | {{ end }}{{ .Site.Title }}</title>
+  <meta charset='utf-8'>
+  {{- with site.Params.ga_verify }}
+  <meta name="google-site-verification" content="{{ . }}" />
+  {{- end }}
+  <meta name="viewport" content ="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  {{/* Enhanced SEO Meta Tags */}}
+  {{- with .Description }}
+  <meta name="description" content="{{ . }}">
+  {{- else }}
+  <meta name="description" content="{{ .Site.Params.description }}">
+  {{- end }}
+  
+  {{- with .Params.keywords }}
+  <meta name="keywords" content="{{ delimit . ", " }}">
+  {{- else }}
+  <meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">
+  {{- end }}
+  
+  {{/* AdSense Integration */}}
+  {{- partial "adsense-head" . }}
+  
+  {{/* Original theme partials */}}
+  {{- partialCached "analytics" . }}
+  {{- partial "opengraph" . }}
+  {{- partialCached "favicon" . }}
+  {{- partialCached "styles" . }}
+</head>

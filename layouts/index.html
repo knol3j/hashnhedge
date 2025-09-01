@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="homepage">
+    <section class="hero">
+        <h1>Build Wealth on Any Budget</h1>
+        <p>Smart financial strategies and investment insights for your journey to financial freedom</p>
+    </section>
+    
+    <section class="featured-posts">
+        <h2>Latest Financial Insights</h2>
+        {{ range first 6 (where .Site.RegularPages "Type" "posts") }}
+        <article class="article-card">
+            {{ if .Params.image }}
+            <a href="{{ .Permalink }}">
+                <img src="{{ .Params.image }}" alt="{{ .Title }}" class="article-image" loading="lazy">
+            </a>
+            {{ end }}
+            <h3><a href="{{ .Permalink }}" style="color: #2c3e50; text-decoration: none;">{{ .Title }}</a></h3>
+            <div class="article-meta">
+                {{ .Date.Format "January 2, 2006" }} | {{ .ReadingTime }} min read
+            </div>
+            <p>{{ .Summary }}</p>
+            <a href="{{ .Permalink }}" style="color: #3498db; font-weight: 600;">Continue Reading →</a>
+        </article>
+        {{ end }}
+    </section>
+</div>
+{{ end }}
