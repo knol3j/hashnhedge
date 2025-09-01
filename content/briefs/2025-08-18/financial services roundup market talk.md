@@ -1,7 +1,8 @@
 ---
 title: 'Financial Services Roundup: Market Talk'
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: financial services roundup market talk
 source_urls:

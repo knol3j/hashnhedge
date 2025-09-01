@@ -2,7 +2,8 @@
 title: 'Now available: Cloud HSM as an encryption key service for Workspace client-side
   encryption'
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: now available cloud hsm as an encryption key service for wor
 source_urls:

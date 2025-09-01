@@ -1,7 +1,8 @@
 ---
 title: It’s getting harder to skirt RTO policies without employers noticing
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: its getting harder to skirt rto policies without employers n
 source_urls:

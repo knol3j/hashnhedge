@@ -1,7 +1,8 @@
 ---
 title: Celebrating 10 years of Amazon Aurora innovation
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: celebrating 10 years of amazon aurora innovation
 source_urls:

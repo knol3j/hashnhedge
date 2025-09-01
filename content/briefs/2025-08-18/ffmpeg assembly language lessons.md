@@ -1,7 +1,8 @@
 ---
 title: FFmpeg Assembly Language Lessons
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: ffmpeg assembly language lessons
 source_urls:

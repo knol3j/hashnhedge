@@ -1,7 +1,8 @@
 ---
 title: 'Agent Factory: The new era of agentic AI—common use cases and design patterns'
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: 'agent factory the new era of agentic aicommon use cases and '
 source_urls:

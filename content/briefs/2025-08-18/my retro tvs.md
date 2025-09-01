@@ -1,7 +1,8 @@
 ---
 title: My Retro TVs
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: my retro tvs
 source_urls:

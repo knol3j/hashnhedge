@@ -1,7 +1,8 @@
 ---
 title: Top 10 AI Tools That Will Transform Your Content Creation in 2025
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: top 10 ai tools that will transform your content creation in
 source_urls:

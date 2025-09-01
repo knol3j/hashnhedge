@@ -2,7 +2,8 @@
 title: '  Staff Issues FAQs to Help Broker-Dealers Implement Financial Responsibility
   Requirements Related to U.S. Treasury Clearing '
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: '  staff issues faqs to help brokerdealers implement financia'
 source_urls:

@@ -2,7 +2,8 @@
 title: Bullish market momentum fails to sway global fund managers toward crypto, survey
   shows
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: bullish market momentum fails to sway global fund managers t
 source_urls:

@@ -1,7 +1,8 @@
 ---
 title: Monitor your databases on Compute Engine with Database Center
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: monitor your databases on compute engine with database cente
 source_urls:

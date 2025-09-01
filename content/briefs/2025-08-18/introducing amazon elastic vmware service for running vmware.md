@@ -2,7 +2,8 @@
 title: Introducing Amazon Elastic VMware Service for running VMware Cloud Foundation
   on AWS
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: introducing amazon elastic vmware service for running vmware
 source_urls:

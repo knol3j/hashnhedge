@@ -1,7 +1,8 @@
 ---
 title: Comex Gold, Silver Settle Lower
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: comex gold silver settle lower
 source_urls:

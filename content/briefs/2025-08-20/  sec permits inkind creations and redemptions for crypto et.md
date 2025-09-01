@@ -1,8 +1,9 @@
-﻿---
+---
 title: "  SEC Permits In-Kind Creations and Redemptions for Crypto ETPs
 "
 date: "2025-08-20T20:51:14"
-category: "Markets"
+category: "Markets"image: "/images/categories/default.svg"
+
 summary: ""
 slug: "  sec permits inkind creations and redemptions for crypto et"
 source_urls:

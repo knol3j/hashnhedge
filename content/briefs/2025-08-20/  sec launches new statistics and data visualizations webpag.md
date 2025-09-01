@@ -1,8 +1,9 @@
-﻿---
+---
 title: "  SEC Launches New Statistics and Data Visualizations Webpage
 "
 date: "2025-08-20T20:50:43"
-category: "Markets"
+category: "Markets"image: "/images/categories/default.svg"
+
 summary: ""
 slug: "  sec launches new statistics and data visualizations webpag"
 source_urls:

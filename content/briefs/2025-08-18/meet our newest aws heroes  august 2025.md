@@ -1,7 +1,8 @@
 ---
 title: Meet our newest AWS Heroes — August 2025
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: meet our newest aws heroes  august 2025
 source_urls:

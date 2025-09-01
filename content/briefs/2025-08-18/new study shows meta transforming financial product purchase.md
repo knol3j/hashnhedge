@@ -1,7 +1,8 @@
 ---
 title: New Study Shows Meta Transforming Financial Product Purchases in India
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: new study shows meta transforming financial product purchase
 source_urls:

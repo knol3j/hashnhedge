@@ -1,7 +1,8 @@
 ---
 title: 'Scalable AI starts with storage: Guide to model artifact strategies'
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: scalable ai starts with storage guide to model artifact stra
 source_urls:

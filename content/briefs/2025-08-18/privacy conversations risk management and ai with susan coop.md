@@ -2,7 +2,8 @@
 title: 'Privacy Conversations: Risk Management and AI With Susan Cooper and Bojana
   Belamy'
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: privacy conversations risk management and ai with susan coop
 source_urls:

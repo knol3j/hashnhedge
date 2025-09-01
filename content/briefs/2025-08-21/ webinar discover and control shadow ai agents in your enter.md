@@ -1,13 +1,14 @@
-﻿---
-title: "🕵️ Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do"
+---
+title: "??? Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do"
 date: "2025-08-21T17:07:30"
-category: "Markets"
+category: "Markets"image: "/images/categories/default.svg"
+
 summary: ""
 slug: " webinar discover and control shadow ai agents in your enter"
 source_urls:
   - "https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html"
 seo:
-  title: "🕵️ Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do | Hash n Hedge"
+  title: "??? Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do | Hash n Hedge"
   description: ""
   keywords: ["news", "markets", "brief"]
 ---

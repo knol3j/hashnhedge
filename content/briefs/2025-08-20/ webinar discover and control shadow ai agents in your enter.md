@@ -2,7 +2,8 @@
 title: '🕵️ Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before
   Hackers Do'
 date: '2025-08-20'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: ' webinar discover and control shadow ai agents in your enter'
 source_urls:

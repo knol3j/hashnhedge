@@ -2,7 +2,8 @@
 title: '  On the Road: SEC Crypto Task Force to Host a Series of Roundtables Across
   the U.S. '
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: '  on the road sec crypto task force to host a series of roun'
 source_urls:

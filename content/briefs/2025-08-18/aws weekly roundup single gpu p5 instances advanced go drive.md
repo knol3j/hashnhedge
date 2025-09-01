@@ -2,7 +2,8 @@
 title: 'AWS Weekly Roundup: Single GPU P5 instances, Advanced Go Driver, Amazon SageMaker
   HyperPod and more (August 18, 2025)'
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: aws weekly roundup single gpu p5 instances advanced go drive
 source_urls:

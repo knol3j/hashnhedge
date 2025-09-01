@@ -2,7 +2,8 @@
 title: '  SEC Creates Task Force to Tap Artificial Intelligence for Enhanced Innovation
   and Efficiency Across the Agency '
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: '  sec creates task force to tap artificial intelligence for '
 source_urls:

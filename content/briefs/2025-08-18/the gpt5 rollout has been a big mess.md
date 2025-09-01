@@ -1,7 +1,8 @@
 ---
 title: The GPT-5 rollout has been a big mess
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: the gpt5 rollout has been a big mess
 source_urls:

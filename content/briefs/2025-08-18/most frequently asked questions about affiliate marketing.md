@@ -1,7 +1,8 @@
 ---
 title: Most Frequently Asked Questions About Affiliate Marketing
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: most frequently asked questions about affiliate marketing
 source_urls:

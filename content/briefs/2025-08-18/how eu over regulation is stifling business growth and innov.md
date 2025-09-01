@@ -1,7 +1,8 @@
 ---
 title: How EU Over Regulation Is Stifling Business Growth and Innovation
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: how eu over regulation is stifling business growth and innov
 source_urls:

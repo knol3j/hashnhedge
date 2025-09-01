@@ -2,7 +2,8 @@
 title: 'Meta AI Meets African Fashion: Unveiling the First AI-Imagined Fashion Collection
   With I.N OFFICIAL at Africa Fashion Week London'
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: meta ai meets african fashion unveiling the first aiimagined
 source_urls:

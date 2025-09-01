@@ -2,7 +2,8 @@
 title: 'Introducing Azure Storage Discovery: Transform data management with storage
   insights'
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: introducing azure storage discovery transform data managemen
 source_urls:

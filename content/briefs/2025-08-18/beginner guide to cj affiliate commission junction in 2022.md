@@ -1,7 +1,8 @@
 ---
 title: Beginner Guide to CJ Affiliate (Commission Junction) in 2022
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: beginner guide to cj affiliate commission junction in 2022
 source_urls:

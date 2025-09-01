@@ -11,6 +11,7 @@ enableGitInfo = true
   author = "Hash n Hedge"
   description = "Stay updated with the latest in tech, crypto, and business news"
   defaultMode = "light"
+  logo = "/images/logo.svg"
   
   # Analytics
   googleAnalytics = "G-XXXXXXXXXX"  # Replace with your GA4 ID

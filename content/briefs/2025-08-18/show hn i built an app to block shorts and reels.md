@@ -1,7 +1,8 @@
 ---
 title: 'Show HN: I built an app to block Shorts and Reels'
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: show hn i built an app to block shorts and reels
 source_urls:

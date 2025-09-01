@@ -2,7 +2,8 @@
 title: Rural Texans continue push to regulate Bitcoin mining over noise, quality of
   life concerns
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: rural texans continue push to regulate bitcoin mining over n
 source_urls:

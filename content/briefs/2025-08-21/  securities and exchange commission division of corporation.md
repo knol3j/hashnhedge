@@ -1,8 +1,9 @@
-﻿---
+---
 title: "  Securities and Exchange Commission Division of Corporation Finance Issues Staff Statement on Certain Liquid Staking Activities
 "
 date: "2025-08-21T16:49:48"
-category: "Markets"
+category: "Markets"image: "/images/categories/default.svg"
+
 summary: ""
 slug: "  securities and exchange commission division of corporation"
 source_urls:

@@ -2,7 +2,8 @@
 title: 'Minimize AI hallucinations and deliver up to 99% verification accuracy with
   Automated Reasoning checks: Now available'
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: minimize ai hallucinations and deliver up to 99 verification
 source_urls:

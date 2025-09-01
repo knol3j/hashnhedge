@@ -1,7 +1,8 @@
 ---
 title: OpenAI open weight models now available on AWS
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: openai open weight models now available on aws
 source_urls:

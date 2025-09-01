@@ -1,7 +1,8 @@
 ---
 title: Asian powerhouses Japan and South Korea advance stablecoin regulatory efforts
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: asian powerhouses japan and south korea advance stablecoin r
 source_urls:

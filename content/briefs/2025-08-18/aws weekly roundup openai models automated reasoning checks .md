@@ -2,7 +2,8 @@
 title: 'AWS Weekly Roundup: OpenAI models, Automated Reasoning checks, Amazon EVS,
   and more (August 11, 2025)'
 date: '2025-08-18'
-category: Markets
+category: Marketsimage: "/images/categories/markets.svg"
+
 summary: ''
 slug: 'aws weekly roundup openai models automated reasoning checks '
 source_urls:
