@@ -1,9 +1,9 @@
----
+﻿---
 title: AWS named as a Leader in 2025 Gartner Magic Quadrant for Strategic Cloud Platform
   Services for 15 years in a row
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/aws named as a leader in 2025 gartner magic quadrant for str.jpg"
+image: "/images/generated/briefs/2025-08-18/aws named as a leader in 2025 gartner magic quadrant for str.svg"
 
 summary: ''
 slug: aws named as a leader in 2025 gartner magic quadrant for str

@@ -1,9 +1,9 @@
----
+﻿---
 title: Fed's Goolsbee sees 'note of unease' as central bank looks to next interest
   rate move
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/feds goolsbee sees note of unease as central bank looks to n.jpg"
+image: "/images/generated/briefs/2025-08-18/feds goolsbee sees note of unease as central bank looks to n.svg"
 
 summary: ''
 slug: feds goolsbee sees note of unease as central bank looks to n

@@ -1,10 +1,10 @@
----
+﻿---
 title: "DeFi 2025: The Rise of Real-World Asset Tokenization"
 date: 2025-01-15T16:00:00-07:00
 draft: false
 categories: ["defi", "tokenization"]
 tags: ["defi", "tokenization", "real world assets", "blockchain", "yield farming"]
-image: "/images/generated/posts/defi-rwa-tokenization.jpg"
+image: "/images/generated/posts/defi-rwa-tokenization.svg"
 description: "Explore how real-world asset tokenization is revolutionizing DeFi and creating new opportunities for yield generation in 2025."
 keywords: ["defi tokenization", "real world assets", "RWA tokens", "blockchain yield", "tokenized assets"]
 ---

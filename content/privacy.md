@@ -1,8 +1,9 @@
----
+﻿---
 title: "Privacy Policy"
 date: 2025-01-15T10:00:00-07:00
 draft: false
 type: "page"
+image: "/images/generated/privacy.svg"
 ---
 
 # Privacy Policy for Hash n Hedge

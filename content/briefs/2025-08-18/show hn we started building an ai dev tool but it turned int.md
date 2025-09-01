@@ -1,9 +1,9 @@
----
+﻿---
 title: 'Show HN: We started building an AI dev tool but it turned into a Sims-style
   game'
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/show hn we started building an ai dev tool but it turned int.jpg"
+image: "/images/generated/briefs/2025-08-18/show hn we started building an ai dev tool but it turned int.svg"
 
 summary: ''
 slug: show hn we started building an ai dev tool but it turned int

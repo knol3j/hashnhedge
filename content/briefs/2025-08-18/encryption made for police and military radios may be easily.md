@@ -1,8 +1,8 @@
----
+﻿---
 title: Encryption made for police and military radios may be easily cracked
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/encryption made for police and military radios may be easily.jpg"
+image: "/images/generated/briefs/2025-08-18/encryption made for police and military radios may be easily.svg"
 
 summary: ''
 slug: encryption made for police and military radios may be easily

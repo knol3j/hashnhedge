@@ -1,8 +1,8 @@
----
+﻿---
 title: My Retro TVs
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/my retro tvs.jpg"
+image: "/images/generated/briefs/2025-08-18/my retro tvs.svg"
 
 summary: ''
 slug: my retro tvs

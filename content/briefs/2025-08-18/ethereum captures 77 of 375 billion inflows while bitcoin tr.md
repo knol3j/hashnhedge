@@ -1,8 +1,8 @@
----
+﻿---
 title: Ethereum captures 77% of $3.75 billion inflows while Bitcoin trails behind
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/ethereum captures 77 of 375 billion inflows while bitcoin tr.jpg"
+image: "/images/generated/briefs/2025-08-18/ethereum captures 77 of 375 billion inflows while bitcoin tr.svg"
 
 summary: ''
 slug: ethereum captures 77 of 375 billion inflows while bitcoin tr

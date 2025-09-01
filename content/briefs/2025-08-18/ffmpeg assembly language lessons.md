@@ -1,8 +1,8 @@
----
+﻿---
 title: FFmpeg Assembly Language Lessons
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/ffmpeg assembly language lessons.jpg"
+image: "/images/generated/briefs/2025-08-18/ffmpeg assembly language lessons.svg"
 
 summary: ''
 slug: ffmpeg assembly language lessons

@@ -1,8 +1,8 @@
----
+﻿---
 title: 'LimeWire AI Studio Review 2023: Details, Pricing & Features'
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/limewire ai studio review 2023 details pricing  features.jpg"
+image: "/images/generated/briefs/2025-08-18/limewire ai studio review 2023 details pricing  features.svg"
 
 summary: ''
 slug: limewire ai studio review 2023 details pricing  features

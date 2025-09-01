@@ -1,8 +1,8 @@
----
+﻿---
 title: Monitor your databases on Compute Engine with Database Center
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/monitor your databases on compute engine with database cente.jpg"
+image: "/images/generated/briefs/2025-08-18/monitor your databases on compute engine with database cente.svg"
 
 summary: ''
 slug: monitor your databases on compute engine with database cente

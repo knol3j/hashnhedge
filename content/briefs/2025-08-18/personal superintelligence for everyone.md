@@ -1,8 +1,8 @@
----
+﻿---
 title: Personal Superintelligence for Everyone
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/personal superintelligence for everyone.jpg"
+image: "/images/generated/briefs/2025-08-18/personal superintelligence for everyone.svg"
 
 summary: ''
 slug: personal superintelligence for everyone

@@ -1,9 +1,9 @@
----
+﻿---
 title: "    Founder and Owner of Washington-Based Water Machine Manufacturer and Two Companies Charged in $275 Million Fraud Scheme
 "
 date: "2025-08-20T20:50:36"
 category: "Markets"
-image: "/images/generated/briefs/2025-08-20/    founder and owner of washingtonbased water machine manuf.jpg"
+image: "/images/generated/briefs/2025-08-20/    founder and owner of washingtonbased water machine manuf.svg"
 
 summary: ""
 slug: "    founder and owner of washingtonbased water machine manuf"

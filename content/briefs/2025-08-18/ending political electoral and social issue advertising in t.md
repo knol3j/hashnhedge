@@ -1,9 +1,9 @@
----
+﻿---
 title: Ending Political, Electoral and Social Issue Advertising in the EU in Response
   to Incoming European Regulation
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/ending political electoral and social issue advertising in t.jpg"
+image: "/images/generated/briefs/2025-08-18/ending political electoral and social issue advertising in t.svg"
 
 summary: ''
 slug: ending political electoral and social issue advertising in t

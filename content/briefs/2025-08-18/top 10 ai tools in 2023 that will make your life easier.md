@@ -1,8 +1,8 @@
----
+﻿---
 title: Top 10 AI Tools in 2023 That Will Make Your Life Easier
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/top 10 ai tools in 2023 that will make your life easier.jpg"
+image: "/images/generated/briefs/2025-08-18/top 10 ai tools in 2023 that will make your life easier.svg"
 
 summary: ''
 slug: top 10 ai tools in 2023 that will make your life easier

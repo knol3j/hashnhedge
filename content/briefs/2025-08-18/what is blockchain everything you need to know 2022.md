@@ -1,8 +1,8 @@
----
+﻿---
 title: 'What is Blockchain: Everything You Need to Know (2022)'
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/what is blockchain everything you need to know 2022.jpg"
+image: "/images/generated/briefs/2025-08-18/what is blockchain everything you need to know 2022.svg"
 
 summary: ''
 slug: what is blockchain everything you need to know 2022

@@ -1,9 +1,9 @@
----
+﻿---
 title: 'When ''invest like the 1%'' fails: How Yieldstreet''s real estate bets left
   customers with massive losses'
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/when invest like the 1 fails how yieldstreets real estate be.jpg"
+image: "/images/generated/briefs/2025-08-18/when invest like the 1 fails how yieldstreets real estate be.svg"
 
 summary: ''
 slug: when invest like the 1 fails how yieldstreets real estate be

@@ -1,0 +1,11 @@
+{{- if and site.Params.enableAdsense site.Params.googleAdsenseID }}
+{{- if not (in site.Params.googleAdsenseID "XXXXX") }}
+<!-- Google AdSense Auto Ads -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.Params.googleAdsenseID }}"
+     crossorigin="anonymous"></script>
+<script>
+  // Enable auto ads for maximum revenue
+  (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+{{- end }}
+{{- end }}

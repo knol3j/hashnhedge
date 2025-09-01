@@ -1,8 +1,8 @@
----
+﻿---
 title: DeepSeek Won't Sink U.S. AI Titans
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/deepseek wont sink us ai titans.jpg"
+image: "/images/generated/briefs/2025-08-18/deepseek wont sink us ai titans.svg"
 
 summary: ''
 slug: deepseek wont sink us ai titans

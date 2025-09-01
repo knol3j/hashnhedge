@@ -1,17 +1,17 @@
----
-title: Google is a Leader and positioned furthest in vision in the 2025 Gartner® Magic
-  Quadrant™ for Conversational AI Platforms
+﻿---
+title: Google is a Leader and positioned furthest in vision in the 2025 GartnerÂ® Magic
+  Quadrantâ„¢ for Conversational AI Platforms
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/google is a leader and positioned furthest in vision in the .jpg"
+image: "/images/generated/briefs/2025-08-18/google is a leader and positioned furthest in vision in the .svg"
 
 summary: ''
 slug: 'google is a leader and positioned furthest in vision in the '
 source_urls:
 - https://cloud.google.com/blog/products/ai-machine-learning/gartner-magic-quadrant-for-conversational-ai-platforms/
 seo:
-  title: Google is a Leader and positioned furthest in vision in the 2025 Gartner®
-    Magic Quadrant™ for Conversational AI Platforms | Hash n Hedge
+  title: Google is a Leader and positioned furthest in vision in the 2025 GartnerÂ®
+    Magic Quadrantâ„¢ for Conversational AI Platforms | Hash n Hedge
   description: ''
   keywords:
   - news

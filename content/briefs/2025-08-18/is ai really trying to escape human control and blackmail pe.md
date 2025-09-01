@@ -1,8 +1,8 @@
----
+﻿---
 title: Is AI really trying to escape human control and blackmail people?
 date: '2025-08-18'
 category: Markets
-image: "/images/generated/briefs/2025-08-18/is ai really trying to escape human control and blackmail pe.jpg"
+image: "/images/generated/briefs/2025-08-18/is ai really trying to escape human control and blackmail pe.svg"
 
 summary: ''
 slug: is ai really trying to escape human control and blackmail pe
