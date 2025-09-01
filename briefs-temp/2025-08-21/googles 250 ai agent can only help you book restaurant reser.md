@@ -1,0 +1,14 @@
+﻿---
+title: "Google's $250 AI agent can only help you book restaurant reservations"
+date: "2025-08-21T17:37:55"
+category: "Markets"
+summary: ""
+slug: "googles 250 ai agent can only help you book restaurant reser"
+source_urls:
+  - "https://go.theregister.com/feed/www.theregister.com/2025/08/21/google_ai_agent/"
+seo:
+  title: "Google's $250 AI agent can only help you book restaurant reservations | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+**Headline:** "Google's AI Agent: Reservation Only"  **Summary Meta Description:** "Google's new $250 AI agent offers limited assistance, only helping with restaurant reservations, despite being an all-AI search mode capable of more."  **Key Points:**  * Google introduced an all-AI search mode earlier this year * The feature now includes a $250 one-trick AI agent for booking restaurant reservations * The agent uses search history to make recommendations * This is the first service offered by the AI agent, with limitations on its capabilities  **Short Takeaways:**  1. Google's expensive AI agent focuses narrowly on booking restaurant reservations, failing to capitalize on its full potential. 2. This development highlights the ongoing challenge of making advanced technologies accessible and affordable for users.  **Sources:**  https://go.theregister.com/feed/www.theregister.com/2025/08/21/google_ai_agent/ 

@@ -1,0 +1,14 @@
+﻿---
+title: "Cotton Slipping Back on Thursday"
+date: "2025-08-21T20:45:42"
+category: "Markets"
+summary: ""
+slug: "cotton slipping back on thursday"
+source_urls:
+  - "https://www.nasdaq.com/articles/cotton-slipping-back-thursday"
+seo:
+  title: "Cotton Slipping Back on Thursday | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+**Headline** Cotton Prices Slide Amid Dollar Strength  **Summary Meta Description** "Cotton futures decline 15-23 points on Thursday as the US dollar index rises and crude oil prices increase. The US Department of Agriculture reports a significant export sale of cotton, but the market remains cautious."  **Key Points:**  * Cotton futures are down 15-23 points at midday * October contracts show a loss of 105 points * US dollar index gains $0.415 to $98.495 * Crude oil futures increase by $0.75  **Short Takeaways and Analysis:**  1. The strengthening US dollar is putting pressure on cotton prices, which are sensitive to currency fluctuations. 2. While the export sales data indicates strong demand for US cotton, the market's reaction suggests that investors are prioritizing short-term economic trends over long-term prospects.  **Sources** https://www.nasdaq.com/articles/cotton-slipping-back-thursday 

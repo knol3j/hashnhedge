@@ -1,0 +1,123 @@
+<script>
+(function() {
+    var loading = false;
+    var currentPage = 1;
+    var totalPages = {{ $.Paginator.TotalPages }};
+    var baseURL = {{ .Paginator.URL | absURL | jsonify }};
+    
+    function loadMorePosts() {
+        if (loading || currentPage >= totalPages) return;
+        
+        loading = true;
+        currentPage++;
+        
+        var loadingIndicator = document.getElementById('loading-indicator');
+        if (loadingIndicator) {
+            loadingIndicator.style.display = 'block';
+        }
+        
+        fetch(baseURL + 'page/' + currentPage + '/')
+            .then(response => response.text())
+            .then(html => {
+                var parser = new DOMParser();
+                var doc = parser.parseFromString(html, 'text/html');
+                var newPosts = doc.querySelectorAll('.post-item');
+                var container = document.querySelector('.posts-container');
+                
+                newPosts.forEach(function(post) {
+                    container.appendChild(post.cloneNode(true));
+                });
+                
+                loading = false;
+                if (loadingIndicator) {
+                    loadingIndicator.style.display = 'none';
+                }
+                
+                if (currentPage >= totalPages) {
+                    var endMessage = document.getElementById('end-message');
+                    if (endMessage) {
+                        endMessage.style.display = 'block';
+                    }
+                }
+            })
+            .catch(error => {
+                console.error('Error loading more posts:', error);
+                loading = false;
+                if (loadingIndicator) {
+                    loadingIndicator.style.display = 'none';
+                }
+            });
+    }
+    
+    // Infinite scroll trigger
+    window.addEventListener('scroll', function() {
+        if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 1000) {
+            loadMorePosts();
+        }
+    });
+})();
+</script>
+
+<style>
+#loading-indicator {
+    display: none;
+    text-align: center;
+    padding: 2rem;
+    font-size: 1.2rem;
+    color: #666;
+}
+
+#loading-indicator:after {
+    content: '.';
+    animation: dots 1.5s steps(5, end) infinite;
+}
+
+@keyframes dots {
+    0%, 20% {
+        content: '.';
+    }
+    40% {
+        content: '..';
+    }
+    60% {
+        content: '...';
+    }
+    80%, 100% {
+        content: '....';
+    }
+}
+
+#end-message {
+    display: none;
+    text-align: center;
+    padding: 2rem;
+    font-size: 1.1rem;
+    color: #888;
+    border-top: 1px solid #eee;
+    margin-top: 2rem;
+}
+
+.posts-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.post-item {
+    animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+</style>
+
+<div id="loading-indicator">Loading more stories</div>
+<div id="end-message">You've reached the end! 🎉</div>

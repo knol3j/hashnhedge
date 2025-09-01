@@ -1,0 +1,14 @@
+﻿---
+title: "Agent Factory: The new era of agentic AI—common use cases and design patterns"
+date: "2025-08-21T16:45:06"
+category: "Markets"
+summary: ""
+slug: "agent factory the new era of agentic aicommon use cases and "
+source_urls:
+  - "https://azure.microsoft.com/en-us/blog/agent-factory-the-new-era-of-agentic-ai-common-use-cases-and-design-patterns/"
+seo:
+  title: "Agent Factory: The new era of agentic AI—common use cases and design patterns | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+**Headline** AI Takes Center Stage with Agent Factory  **Summary Meta Description** Microsoft introduces Agent Factory, a new era of agentic AI that enables developers to build intelligent agents for various applications. This technology facilitates the creation of autonomous entities that can interact with users and environments. Understand common use cases and design patterns for Agent Factory.  **Key Points**  *   Agent Factory is an Azure-hosted service that allows developers to create, train, and deploy agentic AI models. *   The platform provides pre-built templates and tools for building intelligent agents across various domains. *   Common use cases include chatbots, virtual assistants, and recommendation systems. *   Design patterns are provided for integrating agents with user interfaces and data sources.  **Takeaways**  1.  **Increased Efficiency**: Agent Factory streamlines the development process of agentic AI models by providing pre-built templates and tools. 2.  **Broader Applicability**: This technology enables developers to create intelligent agents across various domains, from customer service to personal assistance.  **Sources** Azure Microsoft Blog: [https://azure.microsoft.com/en-us/blog/agent-factory-the-new-era-of-agentic-ai-common-use-cases-and-design-patterns/](https://azure.microsoft.com/en-us/blog/agent-factory-the-new-era-of-agentic-ai-common-use-cases-and-design-patterns/) 

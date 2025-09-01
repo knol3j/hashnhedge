@@ -1,0 +1,14 @@
+﻿---
+title: "A statistical analysis of Rotten Tomatoes"
+date: "2025-08-20T20:42:25"
+category: "Markets"
+summary: ""
+slug: "a statistical analysis of rotten tomatoes"
+source_urls:
+  - "https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable"
+seo:
+  title: "A statistical analysis of Rotten Tomatoes | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+**Headline** "Rotten Tomatoes' Reliability Under Scrutiny"  **Summary Meta Description** "A statistical analysis of Rotten Tomatoes reveals some concerning trends, sparking debate about the site's reliability. We explore the findings and what they mean for movie enthusiasts."  **Bullet Key Points**  * The average critic score on Rotten Tomatoes has decreased by 4% over the past decade. * The website's algorithm prioritizes fresh reviews from prominent critics, potentially skewing scores. * A significant number of movies with high audience scores have low critic scores, and vice versa.  **Short Takeaways with Analysis**  1. **Rotten Tomatoes' reliability is being questioned**: The site's methodology and algorithm are under scrutiny, raising concerns about the accuracy and fairness of its ratings system. 2. **Critic-audience score disparity persists**: Despite efforts to improve representation, a gap between critic and audience scores remains, highlighting ongoing issues with the website's algorithms.  **Sources** [www.statsignificant.com/p/is-rotten-tomatoes-still-reliable](http://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable) 

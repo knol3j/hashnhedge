@@ -1,0 +1,14 @@
+﻿---
+title: "How much energy does Google’s AI use? We did the math"
+date: "2025-08-21T16:48:01"
+category: "Markets"
+summary: ""
+slug: "how much energy does googles ai use we did the math"
+source_urls:
+  - "https://cloud.google.com/blog/products/infrastructure/measuring-the-environmental-impact-of-ai-inference/"
+seo:
+  title: "How much energy does Google’s AI use? We did the math | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+**Headline:** Google Reveals True Energy Footprint of AI Inference  **Summary Meta Description:** Google sheds light on the environmental impact of its AI model inference, revealing that each median Gemini App text-generation prompt consumes approximately 1.37 kW-hrs of energy, produces 0.85 kg CO2 emissions, and uses 3.5 liters of water.  **Key Findings:**  * Each median Gemini App text-generation prompt consumes around 1.37 kW-hrs of energy. * This results in approximately 0.85 kg CO2 emissions per prompt. * The process also uses about 3.5 liters of water per prompt. * Google attributes these efficiency gains to its full-stack approach, which includes custom-built hardware, optimized algorithms, and efficient model architectures.  **Industry-Wide Implications:** Google's findings aim to drive industry-wide progress toward more efficient AI development. By sharing their methodology and results, the tech giant seeks to encourage other companies to follow suit and reduce their own environmental impact. 

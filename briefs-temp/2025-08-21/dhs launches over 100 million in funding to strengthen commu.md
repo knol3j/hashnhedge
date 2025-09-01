@@ -1,0 +1,14 @@
+﻿---
+title: "DHS Launches Over $100 Million in Funding to Strengthen Communities’ Cyber Defenses"
+date: "2025-08-21T17:11:00"
+category: "Markets"
+summary: ""
+slug: "dhs launches over 100 million in funding to strengthen commu"
+source_urls:
+  - "https://www.cisa.gov/news-events/news/dhs-launches-over-100-million-funding-strengthen-communities-cyber-defenses"
+seo:
+  title: "DHS Launches Over $100 Million in Funding to Strengthen Communities’ Cyber Defenses | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+Here's the news brief:  **Headline** DHS Injects $100M+ into Community Cybersecurity  **Summary Meta Description** The Department of Homeland Security (DHS) has launched over $100 million in funding to bolster community cybersecurity defenses, targeting underserved areas and critical infrastructure. The initiative aims to strengthen the nation's overall cyber resilience.  **Key Points**  ΓÇó Funding will be allocated through the Infrastructure Investment and Jobs Act. ΓÇó Targeted communities include rural and urban areas with limited access to cybersecurity resources. ΓÇó $25 million is reserved for community-based projects. ΓÇó Additional funds focus on addressing vulnerabilities in critical infrastructure, such as power grids and healthcare systems.  **Short Takeaways**  The infusion of funds represents a significant investment in community-level cybersecurity, reflecting the growing recognition of local resilience's importance in national security. The initiative's emphasis on underserved areas acknowledges long-standing disparities in access to resources and expertise.  **Sources** [1] DHS Launches Over $100 Million in Funding to Strengthen Communities' Cyber Defenses - https://www.cisa.gov/news-events/news/dhs-launches-over-100-million-funding-strengthen-communities-cyber-defenses 

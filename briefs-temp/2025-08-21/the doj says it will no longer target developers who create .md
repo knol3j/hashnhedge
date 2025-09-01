@@ -1,0 +1,14 @@
+﻿---
+title: "The DOJ says it will no longer target developers who create decentralized crypto platforms without criminal intent, as part of a regulatory retreat on crypto (Chris Prentice/Reuters)"
+date: "2025-08-21T17:40:01"
+category: "Markets"
+summary: ""
+slug: "the doj says it will no longer target developers who create "
+source_urls:
+  - "http://www.techmeme.com/250821/p24#a250821p24"
+seo:
+  title: "The DOJ says it will no longer target developers who create decentralized crypto platforms without criminal intent, as part of a regulatory retreat on crypto (Chris Prentice/Reuters) | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+Here is the news brief:  **Headline**: DOJ Eases Crypto Regulation Focus on Intent, Not Platform Type  **Summary Meta Description**: In a shift in stance on cryptocurrency regulation, the US Department of Justice (DOJ) has announced that it will no longer target developers who create decentralized crypto platforms without evidence of criminal intent. This move aims to clarify regulatory boundaries and provide clarity for the industry.  **Key Points:**  ΓÇó The DOJ will focus on individual actions, not platform types ΓÇó Decentralized platforms are now treated as a neutral framework ΓÇó Developers can build on blockchains without fear of prosecution  **Short Takeaways with Light Analysis:**  1. This shift in regulatory stance reflects an evolving understanding of the decentralized nature of crypto platforms. 2. As the industry continues to grow, this clarification provides much-needed clarity for developers and investors.  **Sources:** http://www.techmeme.com/250821/p24#a250821p24 (Chris Prentice/Reuters) 

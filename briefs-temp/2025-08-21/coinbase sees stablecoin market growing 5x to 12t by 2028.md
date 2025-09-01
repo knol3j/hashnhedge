@@ -1,0 +1,14 @@
+﻿---
+title: "Coinbase sees stablecoin market growing 5x to $1.2T by 2028"
+date: "2025-08-21T16:37:06"
+category: "Markets"
+summary: ""
+slug: "coinbase sees stablecoin market growing 5x to 12t by 2028"
+source_urls:
+  - "https://cryptoslate.com/coinbase-sees-stablecoin-market-growing-5x-to-1-2t-by-2028/"
+seo:
+  title: "Coinbase sees stablecoin market growing 5x to $1.2T by 2028 | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+Here's the news brief:  **Headline** Coinbase Predicts Stablecoin Market Boom to $1.2T by 2028  **Summary Meta Description** A report from Coinbase forecasts a five-fold growth in the stablecoin market, reaching $1.2 trillion by 2028. The prediction is based on increasing adoption and institutional investment. As the digital asset space continues to evolve, stablecoins are becoming an essential tool for traders, investors, and institutions.  **Key Points**  ΓÇó Coinbase predicts the stablecoin market will grow from $200 billion to $1.2 trillion by 2028. ΓÇó This growth is driven by increasing adoption and institutional investment in stablecoins. ΓÇó Stablecoins are expected to play a critical role in the development of decentralized finance (DeFi) applications.  **Short Takeaways**  * The predicted growth of the stablecoin market highlights the growing importance of these digital assets for traders, investors, and institutions. As more entities turn to stablecoins for price stability and ease of use, their value is likely to increase. * Coinbase's prediction suggests that stablecoins will continue to play a central role in the development of DeFi applications, which are increasingly relying on stablecoins as a means of facilitating transactions and reducing volatility.  **Sources** Cryptoslate: https://cryptoslate.com/coinbase-sees-stablecoin-market-growing-5x-to-1-2t-by-2028/ 

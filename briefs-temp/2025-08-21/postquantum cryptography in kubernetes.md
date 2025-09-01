@@ -1,0 +1,14 @@
+﻿---
+title: "Post-Quantum Cryptography in Kubernetes"
+date: "2025-08-21T17:21:58"
+category: "Markets"
+summary: ""
+slug: "postquantum cryptography in kubernetes"
+source_urls:
+  - "https://kubernetes.io/blog/2025/07/18/pqc-in-k8s/"
+seo:
+  title: "Post-Quantum Cryptography in Kubernetes | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+**Headline** Kubernetes Quietly Enables Post-Quantum Cryptography by Default  **Summary Meta Description** The Kubernetes project has inadvertently enabled post-quantum cryptography (PQC) for TLS connections in its v1.33 release, thanks to the adoption of hybrid PQC algorithms like X25519MLKEM768 in Go 1.24. This shift aims to secure against quantum computer attacks, but awareness of potential pitfalls and limitations is crucial.  **Key Points:**  * Kubernetes v1.33 uses Go 1.24, which enables hybrid post-quantum key exchange (PQC) for TLS connections by default. * The adoption of PQC algorithms like X25519MLKEM768 in Go 1.24 has led to the use of hybrid PQC schemes in many TLS connections within Kubernetes v1.33. * Support for PQC digital signatures is still in its early stages and requires custom toolchains or libraries like Cloudflare's CIRCL. * Awareness of potential pitfalls, such as Go version mismatches leading to downgrades, is crucial for maintaining the long-term security of the platform.  **Short Takeaways:**  1.  Kubernetes v1.33 has inadvertently enabled post-quantum cryptography (PQC) for TLS connections in many instances due to its adoption of hybrid PQC algorithms like X25519MLKEM768. 2.  While this shift aims to secure against quantum computer attacks, there are still potential pitfalls and limitations that must be addressed, such as Go version mismatches leading to downgrades.  **Sources:** https://kubernetes.io/blog/2025/07/18/pqc-in-k8s/ https://blog.cloudflare.com/pq-2024/ https://tldr.fail/ 

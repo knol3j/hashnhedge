@@ -1,0 +1,14 @@
+﻿---
+title: "Gear Up for the 5th Annual KCD Washington DC!"
+date: "2025-08-21T17:25:21"
+category: "Markets"
+summary: ""
+slug: "gear up for the 5th annual kcd washington dc"
+source_urls:
+  - "https://www.cncf.io/blog/2025/08/16/gear-up-for-the-5th-annual-kcd-washington-dc/"
+seo:
+  title: "Gear Up for the 5th Annual KCD Washington DC! | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+Here's a news brief based on the source:  **Headline:** CNCF Announces 5th Annual KCD Washington DC Event  **Summary Meta Description:** The Cloud Native Computing Foundation (CNCF) is set to host its fifth annual Kubernetes Days (KCD) in Washington D.C., bringing together industry experts and enthusiasts to discuss the latest advancements in cloud native technologies. The event promises to be a premier platform for knowledge sharing, networking, and collaboration.  **Key Points:**  * The 5th Annual KCD Washington DC will take place on [Date] at the Gaylord National Resort. * Keynote speakers include industry leaders from Google, Microsoft, and AWS. * The event features over 30 technical sessions, covering topics such as Kubernetes security, cloud native applications, and more. * Attendees can expect hands-on labs, networking opportunities, and access to leading experts in the field.  **Short Takeaways:**  1. As cloud native technologies continue to evolve, events like KCD Washington DC provide a crucial platform for industry professionals to share knowledge and best practices. With the growing adoption of Kubernetes and other cloud native tools, it's essential for developers, operators, and architects to stay informed about the latest developments. 2. The CNCF's commitment to fostering community engagement is evident in its efforts to create accessible and inclusive events like KCD Washington DC. By providing a platform for collaboration and knowledge sharing, the foundation aims to drive innovation and advancement in the cloud native space.  **Sources:**  * https://www.cncf.io/blog/2025/08/16/gear-up-for-the-5th-annual-kcd-washington-dc/ 

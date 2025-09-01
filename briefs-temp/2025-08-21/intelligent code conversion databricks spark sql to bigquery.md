@@ -1,0 +1,14 @@
+﻿---
+title: "Intelligent code conversion: Databricks Spark SQL to BigQuery SQL via Gemini"
+date: "2025-08-21T16:46:48"
+category: "Markets"
+summary: ""
+slug: "intelligent code conversion databricks spark sql to bigquery"
+source_urls:
+  - "https://cloud.google.com/blog/products/data-analytics/automate-sql-translation-databricks-to-bigquery-with-gemini/"
+seo:
+  title: "Intelligent code conversion: Databricks Spark SQL to BigQuery SQL via Gemini | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+The provided text appears to be a detailed technical blog post about translating Databricks Spark SQL to BigQuery SQL using Gemini. The author shares their experience of leveraging the Vertex AI RAG Engine to retrieve relevant function mappings and example translations, which improved the accuracy of the output.  Some key points from the text include:  *   The importance of a comprehensive function mapping guide in ensuring accurate translations. *   The use of Few-shot examples as high-quality training prompts to improve Gemini's consistency. *   The integration of the RAG layer with Gemini for retrieving relevant function mappings and example translations. *   The validation layer, which uses BigQuery's dry run and information schema to ensure translated queries are safe and optimized.  The blog post also includes a detailed architecture diagram illustrating the pipeline components involved in the translation process. 

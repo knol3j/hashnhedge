@@ -1,0 +1,14 @@
+﻿---
+title: "Bitcoin Investor Loses $91 Million to Social Engineering Scam: ZachXBT"
+date: "2025-08-21T20:42:21"
+category: "Markets"
+summary: ""
+slug: "bitcoin investor loses 91 million to social engineering scam"
+source_urls:
+  - "https://decrypt.co/336279/bitcoin-investor-loses-91-million-to-social-engineering-scam-zachxbt"
+seo:
+  title: "Bitcoin Investor Loses $91 Million to Social Engineering Scam: ZachXBT | Hash n Hedge"
+  description: ""
+  keywords: ["news", "markets", "brief"]
+---
+**Headline** Bitcoin Investor Falls Victim to $91M Scam  **Summary Meta Description** A Bitcoin investor has lost $91 million in a social engineering scam, highlighting the growing threat of phishing attacks in the cryptocurrency space. The incident was uncovered by on-chain sleuth ZachXBT, who revealed how the scam unfolded.  **Key Points**  * A Bitcoin investor lost $91 million to a social engineering scam * The scammer tricked the victim into sending large sums of bitcoin through various tactics * On-chain sleuth ZachXBT uncovered the incident and provided details on how it occurred * This case highlights the growing threat of phishing attacks in the cryptocurrency space  **Takeaways**  1. Social engineering scams are becoming increasingly sophisticated, with scammers using various tactics to trick victims into sending large sums of cryptocurrency. 2. The incident serves as a reminder for investors to exercise caution when interacting with unknown individuals or entities, and to remain vigilant against phishing attempts.  **Sources** * https://decrypt.co/336279/bitcoin-investor-loses-91-million-to-social-engineering-scam-zachxbt 

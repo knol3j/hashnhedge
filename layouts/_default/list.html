@@ -1,0 +1,34 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    
+    <div class="posts-container">
+        {{ $paginator := .Paginate .Pages 20 }}
+        {{ range $paginator.Pages }}
+        <article class="post-item">
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <div class="post-meta">
+                <time>{{ .Date.Format "January 2, 2006" }}</time>
+                {{ if .Params.categories }}
+                <span class="categories">
+                    {{ range .Params.categories }}
+                    <a href="/categories/{{ . | urlize }}/">{{ . }}</a>
+                    {{ end }}
+                </span>
+                {{ end }}
+            </div>
+            {{ if .Summary }}
+            <div class="summary">
+                {{ .Summary | truncate 200 }}
+                <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+            </div>
+            {{ end }}
+        </article>
+        {{ end }}
+    </div>
+    
+    {{ if gt $paginator.TotalPages 1 }}
+        {{ partial "infinite-scroll.html" . }}
+    {{ end }}
+</div>
+{{ end }}
