@@ -1,9 +1,9 @@
-﻿---
+---
 title: "Terms of Service"
 date: 2025-01-15T10:00:00-07:00
 draft: false
 type: "page"
-image: "/images/generated/terms.svg"
+image: "/images/generated/posts/content/terms.svg"
 ---
 
 # Terms of Service

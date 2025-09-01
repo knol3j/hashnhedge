@@ -1,0 +1,69 @@
+{{ $iso8601 := .Date.Format "2006-01-02T15:04:05-07:00" }}
+{{ $publisherLogo := "/images/logo.svg" | absURL }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "{{ .Title }}",
+  "image": [
+    "{{ if .Params.image }}{{ .Params.image | absURL }}{{ else }}{{ "/images/default-cover.svg" | absURL }}{{ end }}"
+  ],
+  "datePublished": "{{ $iso8601 }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ if .Params.author }}{{ .Params.author }}{{ else }}Hash & Hedge Team{{ end }}",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ $publisherLogo }}"
+    }
+  },
+  "description": "{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{ end }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    },
+    {{ if .Parent }}
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Parent.Title }}",
+      "item": "{{ .Parent.Permalink }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+    {{ else }}
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+    {{ end }}
+  ]
+}
+</script>

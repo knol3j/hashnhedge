@@ -4,7 +4,7 @@ date: 2025-01-21T10:30:00-07:00
 draft: false
 categories: ["crypto", "investing", "guides"]
 tags: ["crypto trading", "investment strategy", "passive income", "financial freedom", "beginner guide"]
-image: "/images/posts/500-to-50k-crypto.jpg"
+image: "/images/generated/posts/posts/500-to-50k-crypto-guide.svg"
 description: "Real story and exact strategy of turning $500 into $50,000 in crypto. Learn the methods, tools, and mindset needed for successful crypto investing."
 keywords: ["crypto success story", "how to invest in crypto", "crypto for beginners", "make money with cryptocurrency", "crypto investment strategy", "turn 500 into 50000"]
 author: "Hash & Hedge Team"

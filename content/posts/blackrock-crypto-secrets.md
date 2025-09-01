@@ -4,7 +4,7 @@ date: 2025-01-21T11:00:00-07:00
 draft: false
 categories: ["crypto", "markets", "analysis"]
 tags: ["blackrock", "bitcoin etf", "institutional investing", "crypto news", "market analysis"]
-image: "/images/posts/blackrock-crypto-secrets.jpg"
+image: "/images/generated/posts/posts/blackrock-crypto-secrets.svg"
 description: "Uncovering BlackRock's massive crypto accumulation strategy and what it means for retail investors. The $10 trillion giant's moves could reshape crypto forever."
 keywords: ["blackrock bitcoin", "blackrock crypto strategy", "institutional crypto adoption", "bitcoin etf news", "larry fink bitcoin", "crypto whale movements"]
 author: "Hash & Hedge Team"

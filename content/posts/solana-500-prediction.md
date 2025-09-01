@@ -4,7 +4,7 @@ date: 2025-01-21T09:00:00-07:00
 draft: false
 categories: ["crypto", "analysis", "markets"]
 tags: ["solana", "SOL", "altcoins", "defi", "crypto investing", "price prediction"]
-image: "/images/posts/solana-500-prediction.jpg"
+image: "/images/generated/posts/posts/solana-500-prediction.svg"
 description: "Solana breaks through resistance with record TVL and transaction volume. Technical analysis shows path to $500 as institutional adoption accelerates."
 keywords: ["solana price prediction", "SOL price 2025", "solana vs ethereum", "best altcoins 2025", "crypto investment", "SOL technical analysis"]
 author: "Hash & Hedge Team"
