@@ -2,7 +2,8 @@
 title: The AI-powered shift to “living games:” Meet the customers and partners leveling
   up the ways we play
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/the aipowered shift to living games meet the customers and p.jpg"
 
 summary: ''
 slug: the aipowered shift to living games meet the customers and p

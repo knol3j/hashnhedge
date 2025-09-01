@@ -1,7 +1,8 @@
 ---
 title: New Instagram Features to Help You Connect
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/new instagram features to help you connect.jpg"
 
 summary: ''
 slug: new instagram features to help you connect

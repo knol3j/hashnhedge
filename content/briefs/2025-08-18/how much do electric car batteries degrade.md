@@ -1,7 +1,8 @@
 ---
 title: How much do electric car batteries degrade?
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/how much do electric car batteries degrade.jpg"
 
 summary: ''
 slug: how much do electric car batteries degrade

@@ -1,7 +1,8 @@
 ---
 title: Why it’s a mistake to ask chatbots about their mistakes
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/why its a mistake to ask chatbots about their mistakes.jpg"
 
 summary: ''
 slug: why its a mistake to ask chatbots about their mistakes

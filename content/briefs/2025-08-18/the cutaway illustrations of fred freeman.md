@@ -1,7 +1,8 @@
 ---
 title: The Cutaway Illustrations of Fred Freeman
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/the cutaway illustrations of fred freeman.jpg"
 
 summary: ''
 slug: the cutaway illustrations of fred freeman

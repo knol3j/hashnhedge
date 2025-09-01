@@ -7,7 +7,7 @@ description: Learn how to start your investment journey with just $100. Discover
   best micro-investing apps, fractional shares, and strategies for building wealth
   on a budget.
 draft: false
-image: /images/investing-100-dollars.svg
+image: "/images/generated/posts/investing-100-dollars.jpg"
 keywords:
 - how to invest 100 dollars
 - micro investing

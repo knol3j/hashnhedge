@@ -1,7 +1,8 @@
 ---
 title: System.Object[]
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/systemobject.jpg"
 
 summary: ''
 slug: systemobject

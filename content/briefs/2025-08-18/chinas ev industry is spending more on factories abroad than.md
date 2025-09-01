@@ -2,7 +2,8 @@
 title: China's EV industry is spending more on factories abroad than at home for the
   first time
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/chinas ev industry is spending more on factories abroad than.jpg"
 
 summary: ''
 slug: chinas ev industry is spending more on factories abroad than

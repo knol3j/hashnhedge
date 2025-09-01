@@ -1,7 +1,8 @@
 ---
 title: 'Anna''s Archive: An Update from the Team'
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/annas archive an update from the team.jpg"
 
 summary: ''
 slug: annas archive an update from the team

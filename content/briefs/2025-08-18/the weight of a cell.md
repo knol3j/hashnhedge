@@ -1,7 +1,8 @@
 ---
 title: The Weight of a Cell
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/the weight of a cell.jpg"
 
 summary: ''
 slug: the weight of a cell

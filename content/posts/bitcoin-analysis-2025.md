@@ -4,7 +4,7 @@ date: 2025-01-15T14:00:00-07:00
 draft: false
 categories: ["crypto", "analysis"]
 tags: ["bitcoin", "price analysis", "market trends", "crypto investing"]
-image: "/images/bitcoin-analysis-2025.svg"
+image: "/images/generated/posts/bitcoin-analysis-2025.jpg"
 description: "Deep dive into Bitcoin's current price action and what the key $118K resistance level means for the rest of 2025."
 keywords: ["bitcoin price", "crypto analysis", "bitcoin 2025", "cryptocurrency investing", "BTC price prediction"]
 ---

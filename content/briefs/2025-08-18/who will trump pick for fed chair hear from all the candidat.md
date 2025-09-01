@@ -2,7 +2,8 @@
 title: Who will Trump pick for Fed chair? Hear from all the candidates in their own
   words
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/who will trump pick for fed chair hear from all the candidat.jpg"
 
 summary: ''
 slug: who will trump pick for fed chair hear from all the candidat

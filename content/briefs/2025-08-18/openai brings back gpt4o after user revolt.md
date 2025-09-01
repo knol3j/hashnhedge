@@ -1,7 +1,8 @@
 ---
 title: OpenAI brings back GPT-4o after user revolt
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/openai brings back gpt4o after user revolt.jpg"
 
 summary: ''
 slug: openai brings back gpt4o after user revolt

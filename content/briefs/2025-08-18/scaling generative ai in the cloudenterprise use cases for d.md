@@ -2,7 +2,8 @@
 title: Scaling generative AI in the cloud: Enterprise use cases for driving secure
   innovation 
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/scaling generative ai in the cloudenterprise use cases for d.jpg"
 
 summary: ''
 slug: scaling generative ai in the cloudenterprise use cases for d

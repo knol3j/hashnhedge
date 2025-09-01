@@ -1,7 +1,8 @@
 ---
 title: 'OpenAI’s open‑source model: gpt‑oss on Azure AI Foundry and Windows AI Foundry '
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/openais opensource model gptoss on azure ai foundry and wind.jpg"
 
 summary: ''
 slug: openais opensource model gptoss on azure ai foundry and wind

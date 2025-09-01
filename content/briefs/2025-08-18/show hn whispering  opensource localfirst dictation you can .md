@@ -1,7 +1,8 @@
 ---
 title: 'Show HN: Whispering – Open-source, local-first dictation you can trust'
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/show hn whispering  opensource localfirst dictation you can .jpg"
 
 summary: ''
 slug: 'show hn whispering  opensource localfirst dictation you can '

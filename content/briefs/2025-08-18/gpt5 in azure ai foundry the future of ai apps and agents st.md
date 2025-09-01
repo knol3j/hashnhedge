@@ -1,7 +1,8 @@
 ---
 title: 'GPT-5 in Azure AI Foundry: The future of AI apps and agents starts here'
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/gpt5 in azure ai foundry the future of ai apps and agents st.jpg"
 
 summary: ''
 slug: gpt5 in azure ai foundry the future of ai apps and agents st

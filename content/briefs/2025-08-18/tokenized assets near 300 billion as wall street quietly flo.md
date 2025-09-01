@@ -1,7 +1,8 @@
 ---
 title: Tokenized assets near $300 billion as Wall Street quietly floods on chain
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/tokenized assets near 300 billion as wall street quietly flo.jpg"
 
 summary: ''
 slug: tokenized assets near 300 billion as wall street quietly flo

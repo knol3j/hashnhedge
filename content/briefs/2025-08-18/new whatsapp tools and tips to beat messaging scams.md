@@ -1,7 +1,8 @@
 ---
 title: New WhatsApp Tools and Tips to Beat Messaging Scams
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/new whatsapp tools and tips to beat messaging scams.jpg"
 
 summary: ''
 slug: new whatsapp tools and tips to beat messaging scams

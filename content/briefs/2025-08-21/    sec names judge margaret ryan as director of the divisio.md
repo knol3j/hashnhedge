@@ -2,7 +2,8 @@
 title: "    SEC Names Judge Margaret Ryan as Director of the Division of Enforcement
 "
 date: "2025-08-21T16:48:46"
-category: "Markets"image: "/images/categories/default.svg"
+category: "Markets"
+image: "/images/generated/briefs/2025-08-21/    sec names judge margaret ryan as director of the divisio.jpg"
 
 summary: ""
 slug: "    sec names judge margaret ryan as director of the divisio"

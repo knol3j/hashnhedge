@@ -1,7 +1,8 @@
 ---
 title: 'Project Flash update: Advancing Azure Virtual Machine availability monitoring'
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/project flash update advancing azure virtual machine availab.jpg"
 
 summary: ''
 slug: project flash update advancing azure virtual machine availab

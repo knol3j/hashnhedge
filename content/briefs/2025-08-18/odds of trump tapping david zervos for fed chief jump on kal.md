@@ -2,7 +2,8 @@
 title: Odds of Trump tapping David Zervos for Fed chief jump on Kalshi after CNBC
   report
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/odds of trump tapping david zervos for fed chief jump on kal.jpg"
 
 summary: ''
 slug: odds of trump tapping david zervos for fed chief jump on kal

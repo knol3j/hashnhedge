@@ -1,7 +1,8 @@
 ---
 title: 🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?
 date: '2025-08-20'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-20/ filbench  can llms understand and generate filipino.jpg"
 
 summary: ''
 slug: ' filbench  can llms understand and generate filipino'

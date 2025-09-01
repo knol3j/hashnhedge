@@ -18,6 +18,7 @@ relativeURLs = false
   description = "Discover smart financial strategies, crypto insights, and money-saving tips for building wealth on any budget"
   author = "Hash & Hedge Team"
   keywords = ["cryptocurrency", "bitcoin", "ethereum", "finance", "investing", "defi", "trading", "financial advice"]
+  logo = "/images/logo.svg"
   
   # AdSense Configuration - Ready for Approval
   googleAdsenseID = "ca-pub-XXXXXXXXXXXXX"  # Replace with actual AdSense ID when approved

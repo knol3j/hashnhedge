@@ -1,7 +1,8 @@
 ---
 title: Microsoft is a Leader in the 2025 Gartner® Magic Quadrant™ for Container Management
 date: '2025-08-18'
-category: Marketsimage: "/images/categories/markets.svg"
+category: Markets
+image: "/images/generated/briefs/2025-08-18/microsoft is a leader in the 2025 gartner magic quadrant for.jpg"
 
 summary: ''
 slug: microsoft is a leader in the 2025 gartner magic quadrant for
