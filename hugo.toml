@@ -34,7 +34,7 @@ enableGitInfo = true
   series = "series"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
   
 [markup]
   [markup.goldmark]
