@@ -120,6 +120,42 @@ a:hover {
   filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));
 }
 
+/* Theme-aware logo switching */
+.logo-light {
+  display: block;
+}
+
+.logo-dark {
+  display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .logo-light {
+    display: none;
+  }
+  
+  .logo-dark {
+    display: block;
+  }
+}
+
+/* Dark mode toggle override */
+[data-mode="dark"] .logo-light {
+  display: none;
+}
+
+[data-mode="dark"] .logo-dark {
+  display: block;
+}
+
+[data-mode="lit"] .logo-light {
+  display: block;
+}
+
+[data-mode="lit"] .logo-dark {
+  display: none;
+}
+
 /* Article Cards */
 article, .post, .post-card, .list-item, .summary {
   background: var(--card-bg);

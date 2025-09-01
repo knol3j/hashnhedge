@@ -5,7 +5,8 @@
   <nav class="nav-menu">
     <a href={{ absURL "" }} class="nav-brand nav_item">
       {{- if and $logo (ne $logo "") }}
-        <img src="{{ $logo }}" alt="{{ $logoText }}"  width="130px" />
+        <img src="/images/logo.svg" alt="{{ $logoText }}" width="130px" class="logo-light" />
+        <img src="/images/logo2.svg" alt="{{ $logoText }}" width="130px" class="logo-dark" />
       {{- else }}
         {{ $title }}
       {{- end -}}
