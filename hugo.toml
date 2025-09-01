@@ -2,8 +2,10 @@ baseURL = 'https://www.hashnhedge.com/'
 languageCode = 'en-us'
 title = 'Hash n Hedge'
 theme = 'newsroom'
-paginate = 10
 enableGitInfo = true
+
+[pagination]
+  pagerSize = 10
 
 [params]
   author = "Hash n Hedge"

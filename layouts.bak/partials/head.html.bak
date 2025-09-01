@@ -16,7 +16,7 @@
   
   {{- with .Params.keywords }}
   <meta name="keywords" content="{{ delimit . ", " }}">
-  {{- else }}
+  {{- else if .Site.Params.keywords }}
   <meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">
   {{- end }}
   
