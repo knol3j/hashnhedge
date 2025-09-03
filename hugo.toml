@@ -47,6 +47,18 @@ enableGitInfo = true
 
 [outputs]
   home = ["HTML", "RSS"]
+  page = ["HTML", "AMP"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+
+[outputFormats]
+  [outputFormats.AMP]
+    mediaType = "text/html"
+    path = "amp"
+    isPlainText = false
+    permalinkable = true
+    rel = "amphtml"
   
 [markup]
   [markup.goldmark]

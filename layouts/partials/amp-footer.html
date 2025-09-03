@@ -1,0 +1,11 @@
+<footer>
+    <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
+    <p style="font-size: 0.9rem; font-style: italic;">
+        {{ .Site.Params.description }}
+    </p>
+    <div style="margin-top: 1rem;">
+        <a href="{{ .Site.BaseURL }}" style="color: #F5E6D3; margin: 0 0.5rem;">Home</a>
+        <a href="{{ .Site.BaseURL }}about/" style="color: #F5E6D3; margin: 0 0.5rem;">About</a>
+        <a href="{{ .Site.BaseURL }}sitemap.xml" style="color: #F5E6D3; margin: 0 0.5rem;">Sitemap</a>
+    </div>
+</footer>

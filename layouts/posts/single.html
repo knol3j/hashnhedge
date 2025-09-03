@@ -1,4 +1,8 @@
 {{ define "main" }}
+{{- /* AMP Version Link */ -}}
+{{ if not hugo.IsServer }}
+<link rel="amphtml" href="{{ .Permalink }}amp/">
+{{ end }}
 <article class="post-single">
   <header class="post-header">
     <h1 class="post-title">{{ .Title }}</h1>

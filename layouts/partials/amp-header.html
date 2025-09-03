@@ -1,0 +1,14 @@
+<header>
+    <a href="{{ .Site.BaseURL }}" style="text-decoration: none;">
+        <div style="font-size: 1.5rem; font-weight: bold; color: #F5E6D3;">
+            {{ .Site.Title }}
+        </div>
+    </a>
+    <nav style="margin-top: 0.5rem;">
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}" style="color: #F5E6D3; margin: 0 0.5rem; text-decoration: none;">
+            {{ .Name }}
+        </a>
+        {{ end }}
+    </nav>
+</header>
