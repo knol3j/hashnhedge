@@ -1,0 +1,248 @@
+/* Hash n Hedge Brand Identity - Based on New Visual Identity */
+
+:root {
+    /* Primary Brand Colors from Posters */
+    --brand-red: #DC143C;
+    --brand-black: #1a1a1a;
+    --brand-cream: #F5E6D3;
+    --brand-beige: #E8D4B0;
+    
+    /* Gradient Colors from Logo */
+    --gradient-yellow: #FFFF00;
+    --gradient-green-light: #00FF88;
+    --gradient-green: #00CC66;
+    --gradient-cyan: #00FFCC;
+    
+    /* Typography Colors */
+    --text-primary: var(--brand-black);
+    --text-secondary: #444444;
+    --text-accent: var(--brand-red);
+    
+    /* Background Colors */
+    --bg-primary: var(--brand-cream);
+    --bg-secondary: white;
+    --bg-dark: var(--brand-black);
+}
+
+/* Logo Gradient Effect */
+.site-logo {
+    background: linear-gradient(135deg, 
+        var(--gradient-yellow) 0%, 
+        var(--gradient-green-light) 50%, 
+        var(--gradient-cyan) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: bold;
+}
+
+/* Revolutionary/Poster Style Headers */
+.hero-section {
+    background-color: var(--brand-cream);
+    position: relative;
+    overflow: hidden;
+}
+
+.hero-title {
+    font-family: 'Impact', 'Arial Black', sans-serif;
+    text-transform: uppercase;
+    color: var(--brand-red);
+    text-shadow: 3px 3px 0 var(--brand-black);
+    letter-spacing: 2px;
+}
+
+/* Raised Fist Power Symbol */
+.power-symbol {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-image: url('/images/fist-icon.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    margin: 0 10px;
+}
+
+/* Vintage Poster Effect for Featured Articles */
+.featured-post {
+    background: var(--brand-cream);
+    border: 5px solid var(--brand-black);
+    box-shadow: 
+        8px 8px 0 rgba(220, 20, 60, 0.3),
+        16px 16px 0 rgba(220, 20, 60, 0.1);
+    position: relative;
+}
+
+.featured-post::before {
+    content: '';
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    right: -5px;
+    bottom: -5px;
+    background: repeating-linear-gradient(
+        45deg,
+        var(--brand-red),
+        var(--brand-red) 10px,
+        var(--brand-black) 10px,
+        var(--brand-black) 20px
+    );
+    z-index: -1;
+    opacity: 0.1;
+}
+
+/* Navigation with Brand Colors */
+.main-nav {
+    background: var(--brand-black);
+    border-bottom: 4px solid var(--brand-red);
+}
+
+.nav-link {
+    color: var(--brand-cream);
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+    color: var(--gradient-green-light);
+    text-shadow: 0 0 10px var(--gradient-cyan);
+}
+
+/* Category Badges with Revolutionary Style */
+.category-badge {
+    background: var(--brand-red);
+    color: var(--brand-cream);
+    padding: 5px 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: inline-block;
+    position: relative;
+    clip-path: polygon(0 0, 100% 0, 95% 100%, 5% 100%);
+}
+
+/* Article Cards with Poster Aesthetic */
+.article-card {
+    background: white;
+    border: 3px solid var(--brand-black);
+    transition: transform 0.3s ease;
+}
+
+.article-card:hover {
+    transform: rotate(-1deg) scale(1.02);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}
+
+/* Hash & Hedge Typography */
+.brand-text {
+    font-family: 'Impact', 'Bebas Neue', 'Arial Black', sans-serif;
+}
+
+.tagline {
+    font-style: italic;
+    color: var(--text-secondary);
+    border-left: 4px solid var(--brand-red);
+    padding-left: 15px;
+    margin: 20px 0;
+}
+
+/* Call-to-Action Buttons */
+.cta-button {
+    background: var(--brand-red);
+    color: var(--brand-cream);
+    padding: 15px 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 3px solid var(--brand-black);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.cta-button:hover {
+    background: var(--brand-black);
+    color: var(--gradient-green-light);
+    transform: scale(1.05);
+}
+
+/* Smoke/Joint Effect for Special Elements */
+.smoke-effect {
+    position: relative;
+}
+
+.smoke-effect::after {
+    content: '~';
+    position: absolute;
+    top: -10px;
+    right: -20px;
+    font-size: 30px;
+    color: rgba(128, 128, 128, 0.5);
+    animation: smoke 3s infinite;
+}
+
+@keyframes smoke {
+    0% { transform: translateY(0) rotate(0deg); opacity: 0.5; }
+    50% { transform: translateY(-20px) rotate(180deg); opacity: 0.8; }
+    100% { transform: translateY(-40px) rotate(360deg); opacity: 0; }
+}
+
+/* Google AdSense Styling */
+.ad-container {
+    margin: 30px auto;
+    padding: 20px;
+    background-color: var(--brand-cream);
+    border: 2px dashed var(--brand-red);
+    border-radius: 8px;
+    text-align: center;
+    max-width: 100%;
+    position: relative;
+}
+
+.ad-container::before {
+    content: 'SPONSORED CONTENT';
+    position: absolute;
+    top: -12px;
+    left: 20px;
+    background: white;
+    padding: 2px 10px;
+    font-size: 11px;
+    font-weight: bold;
+    color: var(--text-secondary);
+    letter-spacing: 1px;
+}
+
+.in-article-ad {
+    margin: 40px auto;
+    clear: both;
+}
+
+.post-footer-ad {
+    margin: 40px 0 20px 0;
+    padding-top: 20px;
+    border-top: 2px solid var(--brand-red);
+}
+
+/* Ensure ads are responsive */
+.adsbygoogle {
+    display: block !important;
+    width: 100% !important;
+    height: auto !important;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 2rem;
+        text-shadow: 2px 2px 0 var(--brand-black);
+    }
+    
+    .featured-post {
+        box-shadow: 
+            4px 4px 0 rgba(220, 20, 60, 0.3);
+    }
+    
+    .ad-container {
+        margin: 20px auto;
+        padding: 15px;
+    }
+}

@@ -9,15 +9,23 @@ enableGitInfo = true
 
 [params]
   author = "Hash n Hedge"
-  description = "Stay updated with the latest in tech, crypto, and business news"
+  description = "Life in the grey makes you appreciate color in everything - Revolutionary insights on crypto, finance, and culture"
   defaultMode = "light"
-  logo = "/images/logo.svg"
+  logo = "/images/hashnhedge-gradient-logo.svg"
+  logoDark = "/images/hashnhedge-gradient-logo.svg"
+  favicon = "/images/hashnhedge-icon.svg"
+  
+  # Brand Identity
+  brandColors = true
+  posterStyle = true
+  revolutionaryTheme = true
   
   # Infinite Scroll Settings
   infiniteScrollEnabled = true
   
-  # Analytics
+  # Analytics & Monetization
   googleAnalytics = "G-XXXXXXXXXX"  # Replace with your GA4 ID
+  googleAdsense = "ca-pub-4626165154390205"  # Your AdSense Publisher ID
   
   # Social Media
   twitter = "https://twitter.com/hashnhedge"

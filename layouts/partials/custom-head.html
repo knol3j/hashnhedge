@@ -1,0 +1,38 @@
+{{- /* Google AdSense */ -}}
+{{ partial "adsense-header.html" . }}
+
+{{- /* Brand Identity CSS */ -}}
+{{ $brandCSS := resources.Get "css/brand-identity.css" | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $brandCSS.Permalink }}" integrity="{{ $brandCSS.Data.Integrity }}">
+
+{{- /* Custom Fonts for Revolutionary Theme */ -}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@400;700&display=swap" rel="stylesheet">
+
+{{- /* Meta tags for brand identity */ -}}
+<meta name="theme-color" content="#DC143C">
+<meta property="og:image" content="{{ .Site.BaseURL }}images/hashnhedge-poster-1.jpg">
+<meta property="og:image:alt" content="Hash & Hedge - Revolutionary Financial Insights">
+
+{{- /* Custom favicon setup */ -}}
+<link rel="icon" type="image/svg+xml" href="/images/hashnhedge-icon.svg">
+<link rel="apple-touch-icon" href="/images/hashnhedge-icon.png">
+
+<style>
+    /* Quick inline overrides for newsroom theme */
+    :root {
+        --primary: #DC143C;
+        --dark: #1a1a1a;
+        --light: #F5E6D3;
+    }
+    
+    body {
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    h1, h2, h3 {
+        font-family: 'Bebas Neue', Impact, sans-serif;
+        text-transform: uppercase;
+    }
+</style>
