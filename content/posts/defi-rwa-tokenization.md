@@ -4,7 +4,7 @@ date: 2025-01-15T16:00:00-07:00
 draft: false
 categories: ["defi", "tokenization"]
 tags: ["defi", "tokenization", "real world assets", "blockchain", "yield farming"]
-image: "/images/generated/posts/posts/defi-rwa-tokenization.svg"
+image: "/images/generated/posts/defi-rwa-tokenization.svg"
 description: "Explore how real-world asset tokenization is revolutionizing DeFi and creating new opportunities for yield generation in 2025."
 keywords: ["defi tokenization", "real world assets", "RWA tokens", "blockchain yield", "tokenized assets"]
 ---
@@ -75,3 +75,10 @@ Key growth drivers include:
 Real-world asset tokenization represents the bridge between traditional finance and DeFi, offering investors exposure to stable, yield-generating assets while maintaining the benefits of blockchain technology.
 
 *Always conduct thorough research and consider your risk tolerance before investing in DeFi protocols.*
+
+
+## Related Articles
+
+- [Read more about trading](/posts/altcoin-season-playbook-2025/)
+- [Read more about trading](/posts/bitcoin-etf-approval-2025/)
+

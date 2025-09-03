@@ -7,12 +7,12 @@ param(
     [switch]$GenerateNew = $true
 )
 
-Write-Host "🚀 Hash & Hedge Content Enhancement Starting..." -ForegroundColor Cyan
+Write-Host "[START] Hash and Hedge Content Enhancement Starting..." -ForegroundColor Cyan
 
 # Ensure image directory exists
 if (!(Test-Path $ImagePath)) {
     New-Item -ItemType Directory -Path $ImagePath -Force | Out-Null
-    Write-Host "✓ Created image directory" -ForegroundColor Green
+    Write-Host "[OK] Created image directory" -ForegroundColor Green
 }
 
 # High-value crypto/finance topics for new content
@@ -70,13 +70,13 @@ function Get-UnsplashImage {
             return "/images/posts/$filename.jpg"
         }
     } catch {
-        Write-Host "  ⚠ Could not fetch image for $query" -ForegroundColor Yellow
+        Write-Host "  [WARNING] Could not fetch image for $query" -ForegroundColor Yellow
     }
     return "/images/default-hero.jpg"
 }
 
 # Process existing posts without images
-Write-Host "`n📝 Processing existing posts..." -ForegroundColor Yellow
+Write-Host "`n[PROCESS] Processing existing posts..." -ForegroundColor Yellow
 $posts = Get-ChildItem -Path $ContentPath -Filter "*.md" -File -Recurse
 $processed = 0
 
@@ -102,11 +102,11 @@ foreach ($post in $posts) {
     }
 }
 
-Write-Host "✓ Processed $processed posts with new images" -ForegroundColor Green
+Write-Host "[OK] Processed $processed posts with new images" -ForegroundColor Green
 
 # Generate new high-value content
 if ($GenerateNew) {
-    Write-Host "`n🎯 Generating new high-value content..." -ForegroundColor Yellow
+    Write-Host "`n[CREATE] Generating new high-value content..." -ForegroundColor Yellow
     
     foreach ($topic in $newTopics) {
         $postPath = Join-Path $ContentPath "$($topic.slug).md"
@@ -124,7 +124,7 @@ title: "$($topic.title)"
 date: $(Get-Date -Format "yyyy-MM-ddTHH:mm:ss-05:00")
 draft: false
 categories: ["$($topic.category)"]
-tags: [$($topic.keywords -split ", " | ForEach-Object { "`"$_`"" } | Join-String -Separator ", ")]
+tags: [$($topic.keywords -split ", " | ForEach-Object { "`"$_`"" } -join ", ")]
 image: "$imageUrl"
 description: "Comprehensive guide on $($topic.title.ToLower()). Learn proven strategies and expert insights."
 author: "Hash & Hedge Team"
@@ -232,8 +232,8 @@ $($topic.title) offers genuine opportunities for those who approach it strategic
         }
     }
     
-    Write-Host "✓ Generated $($newTopics.Count) new content pieces" -ForegroundColor Green
+    Write-Host "[OK] Generated $($newTopics.Count) new content pieces" -ForegroundColor Green
 }
 
-Write-Host "`n✅ Content enhancement complete!" -ForegroundColor Green
-Write-Host "📊 Next: Run SEO optimization..." -ForegroundColor Cyan
+Write-Host "`n[SUCCESS] Content enhancement complete!" -ForegroundColor Green
+Write-Host "[NEXT] Next: Run SEO optimization..." -ForegroundColor Cyan

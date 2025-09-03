@@ -5,7 +5,7 @@ param(
     [string]$SitePath = "C:\Users\gnul\hashnhedge"
 )
 
-Write-Host "🔍 Hash & Hedge SEO Optimization Starting..." -ForegroundColor Cyan
+Write-Host "[SEARCH] Hash and Hedge SEO Optimization Starting..." -ForegroundColor Cyan
 
 # Create robots.txt for optimal crawling
 $robotsContent = @"
@@ -30,7 +30,7 @@ Crawl-delay: 10
 "@
 
 Set-Content -Path "$SitePath\static\robots.txt" -Value $robotsContent
-Write-Host "✓ Created optimized robots.txt" -ForegroundColor Green
+Write-Host "[OK] Created optimized robots.txt" -ForegroundColor Green
 
 # Create structured data for rich snippets
 $structuredDataTemplate = @'
@@ -101,7 +101,7 @@ $structuredDataTemplate = @'
 '@
 
 Set-Content -Path "$SitePath\layouts\partials\structured-data.html" -Value $structuredDataTemplate
-Write-Host "✓ Created structured data templates" -ForegroundColor Green
+Write-Host "[OK] Created structured data templates" -ForegroundColor Green
 
 # Generate XML sitemap configuration
 $sitemapConfig = @"
@@ -113,10 +113,10 @@ $sitemapConfig = @"
 "@
 
 Add-Content -Path "$SitePath\config.toml" -Value "`n$sitemapConfig"
-Write-Host "✓ Configured XML sitemap generation" -ForegroundColor Green
+Write-Host "[OK] Configured XML sitemap generation" -ForegroundColor Green
 
 # Create internal linking script
-Write-Host "📎 Building internal link structure..." -ForegroundColor Yellow
+Write-Host "[LINK] Building internal link structure..." -ForegroundColor Yellow
 
 $internalLinkingScript = @'
 # Internal Linking Optimizer
@@ -165,6 +165,6 @@ foreach ($post in $posts) {
 '@
 
 Set-Content -Path "$SitePath\optimize-internal-links.ps1" -Value $internalLinkingScript
-Write-Host "✓ Created internal linking optimizer" -ForegroundColor Green
+Write-Host "[OK] Created internal linking optimizer" -ForegroundColor Green
 
-Write-Host "`n✅ SEO optimization complete!" -ForegroundColor Green
+Write-Host "`n[SUCCESS] SEO optimization complete!" -ForegroundColor Green

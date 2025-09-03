@@ -91,3 +91,9 @@ relativeURLs = false
 # Permalinks
 [permalinks]
   posts = "/:year/:month/:title/"
+
+# Sitemap configuration
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5

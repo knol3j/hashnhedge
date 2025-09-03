@@ -7,7 +7,7 @@ description: Learn how to start your investment journey with just $100. Discover
   best micro-investing apps, fractional shares, and strategies for building wealth
   on a budget.
 draft: false
-image: "/images/generated/posts/posts/investing-100-dollars.svg"
+image: "/images/generated/posts/investing-100-dollars.svg"
 keywords:
 - how to invest 100 dollars
 - micro investing
@@ -82,3 +82,10 @@ If you invest $100 today and add just $50 monthly with 8% annual returns:
 - Year 20: $29,646
 
 Start your investment journey today. Your future self will thank you.
+
+
+## Related Articles
+
+- [Read more about trading](/posts/altcoin-season-playbook-2025/)
+- [Read more about trading](/posts/bitcoin-etf-approval-2025/)
+

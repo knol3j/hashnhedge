@@ -9,8 +9,8 @@ description: Oliver Perry reveals how traditional finance institutions are quiet
   positioning for the DeFi revolution and why 2025 marks the inflection point.
 draft: false
 featured: true
-featured_image: /images/defi-institutional-revolution/hero.webp
-image: /images/generated/posts/posts/defi-institutional-revolution.svg
+featured_image: "/images/generated/posts/defi-institutional-revolution.svg"
+image: "/images/generated/posts/defi-institutional-revolution.svg"
 image_alt: 'DeFi''s Institutional Revolution: The Trillion Dollar Opportunity - oliver-perry,
   defi, institutional'
 image_source: pexels
@@ -331,3 +331,9 @@ The choice, and the opportunity, is yours.
 - Twitter: @OliverPerryHH
 - Telegram: @HashHedgeElite
 - Email: oliver@hashnhedge.com
+
+## Related Articles
+
+- [Read more about trading](/posts/altcoin-season-playbook-2025/)
+- [Read more about trading](/posts/bitcoin-etf-approval-2025/)
+

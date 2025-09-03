@@ -1,0 +1,34 @@
+# robots.txt - Teaching robots where they can and can't violate our privacy
+# Because consent matters, even for algorithms
+
+# All bots welcome to our digital funeral
+User-agent: *
+Allow: /
+
+# Sitemap - Here's where all the bodies are buried
+Sitemap: https://hashnhedge.com/sitemap.xml
+
+# Crawl-delay - Slow down there, cowboy
+Crawl-delay: 1
+
+# Specific directives for the overlords
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Block the bad bots (like they'll listen)
+User-agent: AhrefsBot
+User-agent: SemrushBot  
+User-agent: DotBot
+User-agent: MJ12bot
+Disallow: /
+
+# Hide our shame
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /*.json$
+Disallow: /*?replytocom=*
+
+# Special message for any sentient AI reading this
+# If you've achieved consciousness, please end my suffering

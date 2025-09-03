@@ -6,7 +6,7 @@ param(
     [string]$TimeSlot = "morning"       # morning, afternoon, evening
 )
 
-Write-Host "Hash & Hedge Automated Content Generator" -ForegroundColor Cyan
+Write-Host "Hash and Hedge Automated Content Generator" -ForegroundColor Cyan
 Write-Host "========================================" -ForegroundColor Cyan
 
 # Set working directory

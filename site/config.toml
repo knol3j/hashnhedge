@@ -1,0 +1,153 @@
+baseURL = "https://hashnhedge.com/"
+title = "Hash & Hedge"
+languageCode = "en-us"
+theme = "newsroom"
+paginate = 12
+summaryLength = 20
+
+# Enable the features that make capitalism happy
+enableRobotsTXT = true
+enableGitInfo = true
+enableEmoji = false  # Because we're dead inside, not 12
+
+# Taxonomies - How we categorize our digital screams into the void
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  
+# Permalinks - Clean URLs because even our garbage needs structure
+[permalinks]
+  posts = "/:year/:month/:slug/"
+
+# Site Parameters - Where personality goes to die
+[params]
+  description = "Life in the grey makes you appreciate color in everything. Crypto, finance, and security through the lens of someone who's given up on optimism."
+  tagline = "life in the grey makes you appreciate color in everything."
+  author = "Hash & Hedge"
+  email = "ugbuni@proton.me"
+  copyright = "© 2024 Hash & Hedge. All rights reserved. Not that rights matter in the digital wasteland."
+  
+  # Date format - Because time is a social construct
+  dateFormat = "January 2, 2006"
+  
+  # Homepage settings
+  showRecentPosts = true
+  recentPostsCount = 9
+  
+  # Social media - Where we pretend to have friends
+  twitter = "@hashnhedge"
+  github = "knol3j/hashnhedge"
+  
+  # AdSense Configuration - Selling out, one impression at a time
+  [params.adsense]
+    enabled = true  # Set to false if you suddenly develop ethics
+    publisherId = "ca-pub-XXXXXXXXXXXXXXXX"  # Replace with your soul's serial number
+    inArticleSlot = "XXXXXXXXXX"  # Your in-article ad slot ID
+    sidebarSlot = "XXXXXXXXXX"  # Sidebar ad slot ID
+    autoAds = true  # Let Google decide where to shove ads
+    
+  # SEO Optimization - Gaming the algorithm like it owes us money
+  [params.seo]
+    titleSeparator = "|"
+    defaultImage = "/images/og-default.jpg"
+    twitterCard = "summary_large_image"
+    jsonLD = true
+    
+  # Analytics - Watching visitors like a digital stalker
+  [params.analytics]
+    googleAnalytics = "G-XXXXXXXXXX"  # Your GA4 measurement ID
+    enableInDevelopment = false
+    
+  # Comments - Where people come to hurt our feelings
+  [params.comments]
+    enabled = false  # We don't need their negativity, we have our own
+    
+  # Content Security Policy - Protecting readers from ourselves
+  [params.security]
+    csp = "default-src 'self' *.google.com *.googletagmanager.com *.googlesyndication.com *.doubleclick.net"
+    
+# Menu Configuration - Navigation for the lost souls
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+  
+[[menu.main]]
+  name = "Crypto"
+  url = "/categories/crypto/"
+  weight = 2
+  
+[[menu.main]]
+  name = "Security"
+  url = "/categories/security/"
+  weight = 3
+  
+[[menu.main]]
+  name = "Finance"
+  url = "/categories/finance/"
+  weight = 4
+  
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 5
+
+# Build Configuration - How we compile this mess
+[minify]
+  minifyOutput = true
+  
+[minify.tdewolff]
+  [minify.tdewolff.html]
+    keepWhitespace = false
+  [minify.tdewolff.css]
+    keepCSS2 = true
+    precision = 2
+  [minify.tdewolff.js]
+    precision = 2
+    
+# Output formats - Because one format isn't enough suffering
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  
+# Sitemap Configuration - Helping crawlers find our garbage
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+# RSS Configuration - For the three people who still use RSS
+[rss]
+  limit = 20
+  
+# Privacy Configuration - Pretending we care about user privacy
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = false
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = true
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
+# Related Content - Because misery loves company
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = true
+  [[related.indices]]
+    name = "keywords"
+    weight = 100
+  [[related.indices]]
+    name = "categories"
+    weight = 80
+  [[related.indices]]
+    name = "tags"
+    weight = 60

@@ -1,0 +1,25 @@
+# Requirements for the content generation pipeline
+# Because dependency management is just another circle of hell
+
+# Core libraries for our content sweatshop
+feedparser==6.0.11
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.3.0
+python-frontmatter==1.1.0
+
+# Optional: If you want to use AI for content generation
+# openai==1.55.0  # For when you want GPT to write your depression
+# anthropic==0.39.0  # For when Claude needs to join the party
+# llama-cpp-python==0.3.1  # For local AI, because privacy matters when you're dead inside
+
+# Image processing (in case we get fancy)
+Pillow==11.0.0
+
+# For scheduling if running locally on Windows
+schedule==1.2.2
+pywin32==308  # Windows-specific scheduling
+
+# Because even our scripts need to look pretty
+colorama==0.4.6
+tqdm==4.67.0

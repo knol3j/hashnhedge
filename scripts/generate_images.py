@@ -183,7 +183,7 @@ def process_content_files(content_dir, output_dir):
             img_path = img_output_dir / image_name
             img.save(img_path, 'JPEG', quality=85, optimize=True)
             
-            print(f"✓ Generated image for: {title[:50]}...")
+            print(f"[OK] Generated image for: {title[:50]}...")
             processed += 1
             
             # Update the markdown file to use the generated image
@@ -211,7 +211,7 @@ def process_content_files(content_dir, output_dir):
                 
         except Exception as e:
             errors.append(f"Error processing {md_file}: {str(e)}")
-            print(f"✗ Error processing {md_file.name}: {str(e)}")
+            print(f"[ERROR] Error processing {md_file.name}: {str(e)}")
     
     print(f"\n{'='*50}")
     print(f"Processed {processed} files")
