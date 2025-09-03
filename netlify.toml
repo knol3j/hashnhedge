@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo --gc --minify"
+  command = "git submodule update --init --recursive && hugo --gc --minify"
 
 [build.environment]
   HUGO_VERSION = "0.148.2"
@@ -39,13 +39,13 @@
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+  command = "git submodule update --init --recursive && hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
   HUGO_ENV = "staging"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  command = "git submodule update --init --recursive && hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
   HUGO_ENV = "staging"
