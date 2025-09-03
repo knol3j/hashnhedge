@@ -12,4 +12,9 @@
   {{- partial "opengraph" . }}
   {{- partialCached "favicon" . }}
   {{- partialCached "styles" . }}
+  
+  {{- if .Site.Params.infiniteScrollEnabled -}}
+  {{ $infiniteScrollCSS := resources.Get "css/infinite-scroll.css" | resources.Minify | resources.Fingerprint "sha512" }}
+  <link rel="stylesheet" href="{{ $infiniteScrollCSS.Permalink }}">
+  {{- end -}}
 </head>

@@ -5,7 +5,7 @@ draft: false
 author: "Oliver Perry"
 categories: ["editorial", "analysis", "opinion"]
 tags: ["oliver-perry", "bitcoin", "halving", "market-analysis"]
-image: "/images/generated/posts/bitcoin-halving-2025-analysis.jpg"
+image: "/images/generated/posts/posts/bitcoin-halving-2025-analysis.svg"
 description: "Oliver Perry's expert analysis on Bitcoin halving cycles and long-term price dynamics - diving deep into market patterns and future predictions."
 keywords: ["Oliver Perry", "Bitcoin halving", "crypto editorial", "market analysis", "BTC price prediction"]
 featured: true

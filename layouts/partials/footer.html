@@ -5,3 +5,8 @@
 {{ $scriptPath := "js/index.js" }}
 {{ $scripts := resources.Get $scriptPath | resources.ExecuteAsTemplate $scriptPath . | resources.Minify | resources.Fingerprint "sha512" }}
 <script src="{{ $scripts.Permalink }}"></script>
+
+{{- if .Site.Params.infiniteScrollEnabled -}}
+{{ $infiniteScroll := resources.Get "js/infinite-scroll.js" | resources.Minify | resources.Fingerprint "sha512" }}
+<script src="{{ $infiniteScroll.Permalink }}" defer></script>
+{{- end -}}

@@ -13,6 +13,9 @@ enableGitInfo = true
   defaultMode = "light"
   logo = "/images/logo.svg"
   
+  # Infinite Scroll Settings
+  infiniteScrollEnabled = true
+  
   # Analytics
   googleAnalytics = "G-XXXXXXXXXX"  # Replace with your GA4 ID
   

@@ -1,0 +1,77 @@
+/* Infinite Scroll Styles */
+
+/* Loading indicator styles */
+.infinite-scroll-loader {
+  text-align: center;
+  padding: 2rem;
+  margin: 2rem auto;
+  display: none;
+}
+
+/* Show loader when loading */
+.loading-more .infinite-scroll-loader {
+  display: block;
+}
+
+/* Loader spinner animation */
+.loader-spinner {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* Hide pagination when infinite scroll is active */
+body.infinite-scroll-active .pager {
+  display: none !important;
+}
+
+/* Loader content styling */
+.loader-content {
+  display: inline-block;
+  color: var(--text, #666);
+}
+
+.loader-content svg {
+  width: 40px;
+  height: 40px;
+  margin: 0 auto 1rem;
+  display: block;
+}
+
+.loader-content p {
+  margin: 0;
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+/* Smooth animation for newly loaded posts */
+.article.fade-in {
+  animation: fadeInUp 0.5s ease;
+}
+
+.archive_item.fade-in {
+  animation: fadeInUp 0.5s ease;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* End of content message */
+.infinite-scroll-end {
+  text-align: center;
+  padding: 2rem;
+  color: var(--text, #666);
+  font-size: 0.9rem;
+  opacity: 0.7;
+}

@@ -5,7 +5,7 @@ draft: false
 author: "Oliver Perry"
 categories: ["editorial", "analysis", "altcoins"]
 tags: ["oliver-perry", "altcoins", "trading", "100x"]
-image: "/images/generated/posts/altcoin-season-playbook-2025.jpg"
+image: "/images/generated/posts/posts/altcoin-season-playbook-2025.svg"
 description: "Oliver Perry's masterclass on identifying and capturing life-changing returns in the coming altcoin supercycle."
 keywords: ["altcoin season", "100x crypto", "Oliver Perry", "altcoin trading", "crypto gems"]
 featured: true

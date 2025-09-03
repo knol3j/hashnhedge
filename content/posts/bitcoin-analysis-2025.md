@@ -1,12 +1,26 @@
+---
+featured_image: /images/bitcoin-analysis-2025/hero.webp
+image_alt: ''
+image_source: pexels
+images:
+- /images/bitcoin-analysis-2025/hero.webp
+- /images/bitcoin-analysis-2025/thumb.webp
+---
+
 ﻿---
 title: "Bitcoin Price Analysis: What the $118K Level Means for 2025"
 date: 2025-01-15T14:00:00-07:00
 draft: false
 categories: ["crypto", "analysis"]
 tags: ["bitcoin", "price analysis", "market trends", "crypto investing"]
-image: "/images/generated/posts/bitcoin-analysis-2025.svg"
 description: "Deep dive into Bitcoin's current price action and what the key $118K resistance level means for the rest of 2025."
 keywords: ["bitcoin price", "crypto analysis", "bitcoin 2025", "cryptocurrency investing", "BTC price prediction"]
+featured_image: /images/bitcoin-analysis-2025/hero.webp
+images:
+- /images/bitcoin-analysis-2025/hero.webp
+- /images/bitcoin-analysis-2025/thumb.webp
+image_alt: 'Bitcoin price analysis chart showing $118K resistance level'
+image_source: pixabay
 ---
 
 Bitcoin's journey through 2025 has been nothing short of remarkable. As we examine the current price action around the critical $118K level, several key factors are shaping the cryptocurrency's trajectory.

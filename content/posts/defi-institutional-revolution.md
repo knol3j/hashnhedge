@@ -1,16 +1,35 @@
 ---
-title: "DeFi's Institutional Revolution: The Trillion Dollar Opportunity" 
-date: 2025-01-31T12:00:00-07:00
+author: Oliver Perry
+categories:
+- editorial
+- analysis
+- defi
+date: 2025-01-31 12:00:00-07:00
+description: Oliver Perry reveals how traditional finance institutions are quietly
+  positioning for the DeFi revolution and why 2025 marks the inflection point.
 draft: false
-author: "Oliver Perry"
-categories: ["editorial", "analysis", "defi"]
-tags: ["oliver-perry", "defi", "institutional", "tradfi"]
-image: "/images/generated/posts/defi-institutional-revolution.jpg"
-description: "Oliver Perry reveals how traditional finance institutions are quietly positioning for the DeFi revolution and why 2025 marks the inflection point."
-keywords: ["DeFi institutional adoption", "decentralized finance", "Oliver Perry", "crypto analysis"]
 featured: true
-toc: true
+featured_image: /images/defi-institutional-revolution/hero.webp
+image: /images/generated/posts/posts/defi-institutional-revolution.svg
+image_alt: 'DeFi''s Institutional Revolution: The Trillion Dollar Opportunity - oliver-perry,
+  defi, institutional'
+image_source: pexels
+images:
+- /images/defi-institutional-revolution/hero.webp
+- /images/defi-institutional-revolution/thumb.webp
+keywords:
+- DeFi institutional adoption
+- decentralized finance
+- Oliver Perry
+- crypto analysis
 readingTime: 10
+tags:
+- oliver-perry
+- defi
+- institutional
+- tradfi
+title: 'DeFi''s Institutional Revolution: The Trillion Dollar Opportunity'
+toc: true
 ---
 
 # DeFi's Institutional Revolution: The Trillion Dollar Opportunity
