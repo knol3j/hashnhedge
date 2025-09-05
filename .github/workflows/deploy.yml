@@ -22,10 +22,11 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
-      - name: Checkout code
+      - name: Checkout code WITHOUT submodules
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          submodules: false  # CRITICAL: Explicitly disable submodule processing
       
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -33,17 +34,23 @@ jobs:
           hugo-version: '0.148.2'
           extended: true
       
-      - name: Install Newsroom theme
+      - name: Verify theme installation
         run: |
-          if [ ! -d "site/themes/newsroom" ]; then
+          echo "Verifying Newsroom theme presence..."
+          if [ -d "site/themes/newsroom/layouts" ]; then
+            echo "✓ Theme confirmed: $(ls -la site/themes/newsroom/ | wc -l) files"
+          else
+            echo "✗ Theme missing - emergency installation"
             git clone https://github.com/onweru/newsroom.git site/themes/newsroom
+            rm -rf site/themes/newsroom/.git
           fi
-          rm -rf site/themes/newsroom/.git
       
       - name: Build with Hugo
         run: |
           cd site
-          hugo --gc --minify --destination ../public
+          echo "Building site with Hugo..."
+          hugo --gc --minify --destination ../public --verbose
+          echo "Build complete: $(find ../public -type f | wc -l) files generated"
       
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
