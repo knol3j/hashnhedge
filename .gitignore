@@ -1,24 +1,87 @@
-# Hugo default output directory
-/public/
-/resources/_gen/
-
-# Hugo build lock file
+# Hugo build output
+public/
+resources/_gen/
 .hugo_build.lock
+
+# Test builds
+test-public/
+validation-test/
+
+# Theme Git directories (CRITICAL - prevents submodule conflicts)
+site/themes/*/.git
+site/themes/*/.gitignore
+site/themes/*/.github
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build artifacts
+dist/
+build/
+*.exe
+*.dll
+*.so
+*.dylib
 
 # Temporary files
 *.tmp
-*.log
+*.temp
+*.bak
+*.backup
+*.old
+~$*
 
-# OS files
-.DS_Store
-Thumbs.db
-desktop.ini
+# Archives
+*.zip
+*.tar.gz
+*.rar
 
-# Editor directories and files
-.idea/
-.vscode/
-*.swp
-*.swo
-
-# Local backups
-static_images_backup/
+# Security
+*.key
+*.pem
+*.p12
+*.pfx

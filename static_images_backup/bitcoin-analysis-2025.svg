@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#1a202c"/>
+  <rect x="40" y="40" width="1120" height="550" fill="#2d3748" rx="8"/>
+  <text x="600" y="260" font-family="Arial, sans-serif" font-size="32" fill="#ffffff" text-anchor="middle" font-weight="bold">Hash &amp; Hedge</text>
+  <text x="600" y="320" font-family="Arial, sans-serif" font-size="20" fill="#a0aec0" text-anchor="middle">Bitcoin Price Analysis</text>
+  <text x="600" y="360" font-family="Arial, sans-serif" font-size="18" fill="#a0aec0" text-anchor="middle">What the $118K Level Means for 2025</text>
+  <circle cx="600" cy="450" r="30" fill="#f59e0b"/>
+  <text x="600" y="460" font-family="Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle">₿</text>
+  <!-- Price chart mockup -->
+  <polyline points="200,500 300,480 400,460 500,440 600,420 700,400 800,380 900,360 1000,340" stroke="#10b981" stroke-width="3" fill="none"/>
+</svg>
