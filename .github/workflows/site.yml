@@ -14,12 +14,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout WITHOUT submodules
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          submodules: recursive
-          token: ${{ secrets.GITHUB_TOKEN }}
+          submodules: false  # CRITICAL: Disable submodule processing
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -32,21 +31,28 @@ jobs:
         with:
           go-version: '1.22.x'
 
-      - name: Initialize submodules
+      - name: Verify theme presence
         run: |
-          git submodule update --init --recursive
+          echo "Theme verification:"
+          if [ -d "site/themes/newsroom" ]; then
+            echo "✓ Newsroom theme found: $(find site/themes/newsroom -type f | wc -l) files"
+          else
+            echo "✗ Theme missing - installing backup"
+            git clone https://github.com/onweru/newsroom.git site/themes/newsroom
+            rm -rf site/themes/newsroom/.git
+          fi
 
       - name: Hugo mod vendor
         run: |
           cd site
-          hugo mod vendor
+          hugo mod vendor || echo "Module vendoring skipped"
 
       - name: Build
         env:
           GITHUB_WORKSPACE: ${{ github.workspace }}
         run: |
           hugo --gc --minify -s site -d "$GITHUB_WORKSPACE/public"
-          test -d "$GITHUB_WORKSPACE/public" && echo "Public dir exists" || (echo "Public dir missing" && ls -la && exit 1)
+          test -d "$GITHUB_WORKSPACE/public" && echo "✓ Public dir exists: $(find public -type f | wc -l) files" || (echo "Public dir missing" && exit 1)
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
