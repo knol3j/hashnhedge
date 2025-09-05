@@ -1,0 +1,65 @@
+name: Build and Deploy (Pages)
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          submodules: recursive
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.148.2'
+          extended: true
+
+      - name: Install Go (for Hugo Modules)
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22.x'
+
+      - name: Initialize submodules
+        run: |
+          git submodule update --init --recursive
+
+      - name: Hugo mod vendor
+        run: |
+          cd site
+          hugo mod vendor
+
+      - name: Build
+        env:
+          GITHUB_WORKSPACE: ${{ github.workspace }}
+        run: |
+          hugo --gc --minify -s site -d "$GITHUB_WORKSPACE/public"
+          test -d "$GITHUB_WORKSPACE/public" && echo "Public dir exists" || (echo "Public dir missing" && ls -la && exit 1)
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

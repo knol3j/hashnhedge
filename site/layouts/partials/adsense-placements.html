@@ -1,0 +1,44 @@
+<!-- In-Article Ad Placement (Strategic Revenue Optimization) -->
+{{ if and .Site.Params.googleAdsenseID .Site.Params.showAds (.IsPage) }}
+<div class="ad-container ad-in-article">
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="{{ .Site.Params.googleAdsenseID }}"
+       data-ad-slot="9876543210"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+{{ end }}
+
+<!-- Sidebar Ad Placement -->
+{{ if and .Site.Params.googleAdsenseID .Site.Params.showAds }}
+<div class="ad-container ad-sidebar">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="{{ .Site.Params.googleAdsenseID }}"
+       data-ad-slot="5555555555"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+{{ end }}
+
+<!-- Footer Ad Placement -->
+{{ if and .Site.Params.googleAdsenseID .Site.Params.showAds }}
+<div class="ad-container ad-footer">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="{{ .Site.Params.googleAdsenseID }}"
+       data-ad-slot="1111111111"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+{{ end }}
