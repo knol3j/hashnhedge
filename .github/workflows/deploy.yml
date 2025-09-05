@@ -33,27 +33,17 @@ jobs:
           hugo-version: '0.148.2'
           extended: true
       
-      - name: Verify and Install Newsroom theme
+      - name: Install Newsroom theme
         run: |
-          echo "Checking theme installation..."
-          if [ ! -d "site/themes/newsroom/layouts" ]; then
-            echo "Theme missing, installing..."
+          if [ ! -d "site/themes/newsroom" ]; then
             git clone https://github.com/onweru/newsroom.git site/themes/newsroom
-            rm -rf site/themes/newsroom/.git
-          else
-            echo "✓ Theme already present"
           fi
-          echo "Theme structure:"
-          ls -la site/themes/newsroom/
+          rm -rf site/themes/newsroom/.git
       
       - name: Build with Hugo
         run: |
           cd site
-          echo "Starting Hugo build..."
-          hugo --gc --minify --destination ../public --verbose
-          echo "Build complete. Verifying output..."
-          ls -la ../public/
-          echo "Total files generated: $(find ../public -type f | wc -l)"
+          hugo --gc --minify --destination ../public
       
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
