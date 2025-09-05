@@ -1,0 +1,101 @@
+name: Scheduled Jekyll Post Publisher
+
+on:
+  schedule:
+    # 9 AM UTC
+    - cron: "0 9 * * *"
+    # 12 PM UTC
+    - cron: "0 12 * * *"
+    # 5 PM UTC
+    - cron: "0 17 * * *"
+  workflow_dispatch:
+    inputs:
+      post_count:
+        description: Number of posts to generate (default 1)
+        required: false
+        default: "1"
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Generate Jekyll posts
+        env:
+          POST_COUNT: ${{ github.event.inputs.post_count || '1' }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p _posts
+          COUNT=${POST_COUNT:-1}
+          echo "Generating $COUNT post(s)"
+
+          for i in $(seq 1 "$COUNT"); do
+            DATE=$(date -u +"%Y-%m-%d")
+            TIME=$(date -u +"%H%M%S")
+            NOW=$(date -u +"%Y-%m-%d %H:%M:%S +0000")
+            SLUG="daily-brief-${DATE}-${TIME}-${RANDOM}"
+            FILE="_posts/${DATE}-${SLUG}.md"
+
+            cat > "$FILE" << 'EOF'
+---
+layout: post
+categories: ["news"]
+tags: ["brief", "daily"]
+summary: "Automated daily brief."
+image: "/images/default-hero.svg"
+---
+
+## Headlines
+
+- TODO: Add top headline 1
+- TODO: Add top headline 2
+- TODO: Add top headline 3
+
+## Market Snapshot
+
+- TODO: BTC / ETH / Major indexes quick changes.
+
+## Notables
+
+- TODO: Key items worth a deeper dive.
+EOF
+
+            # patch dynamic fields (title/date) at the top
+            # Insert title and date after the first '---'
+            sed -i "1a title: Daily Brief — $(date -u +'%b %d, %Y %H:%M UTC')" "$FILE"
+            sed -i "2a date: $NOW" "$FILE"
+
+            echo "Created $FILE"
+          done
+
+      - name: Commit and push if changes
+        shell: bash
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            HOUR=$(date -u +%H)
+            case $HOUR in
+              09) TIME_LABEL="Morning" ;;
+              12) TIME_LABEL="Noon" ;;
+              17) TIME_LABEL="Evening" ;;
+              *) TIME_LABEL="Manual" ;;
+            esac
+            git commit -m "feat(content): $TIME_LABEL Jekyll brief(s) - $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+
