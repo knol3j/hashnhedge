@@ -1,0 +1,48 @@
+title: Hash & Hedge
+description: Cryptocurrency, finance, and security insights for smart investors
+url: https://hashnhedge.com
+baseurl: ""
+
+# Theme
+# Using the GitHub Pages-supported minima theme
+# If you decide to use a remote theme later, replace `theme` with `remote_theme`
+# and add `jekyll-remote-theme` to plugins
+theme: minima
+
+# Preserve prior Hugo-style post URLs: /posts/YYYY/MM/slug/
+collections:
+  posts:
+    output: true
+    permalink: /posts/:year/:month/:title/
+
+# Build settings
+markdown: kramdown
+timezone: UTC
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  # - jekyll-remote-theme   # only needed if you set `remote_theme`
+
+# Exclude Hugo and tooling directories from the Jekyll build
+exclude:
+  - site
+  - pipeline
+  - .github
+  - node_modules
+  - package.json
+  - package-lock.json
+  - yarn.lock
+  - README*.md
+  - SECURITY.md
+  - *.ps1
+
+# Defaults for posts
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
