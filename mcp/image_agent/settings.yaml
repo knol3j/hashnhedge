@@ -1,0 +1,48 @@
+# HashNHedge Image Agent Settings
+project_root: C:\Users\gnul\hashnhedge
+content_dir: content
+static_images_dir: static\images
+download_dir: mcp\image_agent\.cache\downloads
+metadata_dir: data
+
+# Provider priority (will use Openverse if no API keys configured)
+provider_priority: 
+  - openverse
+  - pixabay
+  - pexels
+  - unsplash
+
+# Image requirements
+min_width: 1200
+min_height: 675
+
+# Output targets
+targets:
+  hero:
+    width: 1600
+    height: 900
+    format: webp
+    quality: 85
+  thumb:
+    width: 640
+    height: 360
+    format: webp
+    quality: 80
+
+# Rate limits (requests per hour)
+rate_limits:
+  unsplash: 45
+  pexels: 150
+  pixabay: 4500
+  openverse: 1000
+
+# Behavior settings
+respect_robots: true
+overwrite_existing: false
+auto_fallback_openverse: true
+
+# SEO Settings
+seo:
+  alt_text_max_length: 125
+  include_site_name: true
+  site_name: "HashNHedge"

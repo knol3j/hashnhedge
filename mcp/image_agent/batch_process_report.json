@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-09-02T14:05:44.813932",
+  "stats": {
+    "total_posts": 114,
+    "posts_without_images": 1,
+    "images_added": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "posts_processed": [
+    "C:\\Users\\gnul\\hashnhedge\\content\\briefs\\2025-08-18\\systemobject.md"
+  ]
+}

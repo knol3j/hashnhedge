@@ -1,0 +1,7 @@
+{
+  "name": "hashnhedge-image-agent",
+  "version": "0.1.0",
+  "description": "MCP server that finds and manages copyright-compliant images for Hugo posts",
+  "author": "HashNHedge",
+  "license": "MIT"
+}

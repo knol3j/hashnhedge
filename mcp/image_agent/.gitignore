@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Environment and secrets
+.env
+*.env.local
+*.env.production
+
+# Cache and temporary files
+.cache/
+*.tmp
+*.temp
+
+# Logs
+logs/
+*.log
+
+# Downloaded images cache
+downloads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
