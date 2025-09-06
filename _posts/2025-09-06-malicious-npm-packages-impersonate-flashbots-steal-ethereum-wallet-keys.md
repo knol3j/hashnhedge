@@ -1,7 +1,7 @@
 ---
 categories:
 - security
-date: 2025-09-06 17:14:14 +0000
+date: 2025-09-06 23:42:17 +0000
 image: /images/posts/malicious-npm-packages-impersonate-flashbots-steal-ethereum--105c6a52.jpg
 layout: post
 source_url: https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html
