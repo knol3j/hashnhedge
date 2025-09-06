@@ -7,15 +7,34 @@ theme = "newsroom"
   pagerSize = 12
 
 [params]
+  description = "Cryptocurrency, finance, and security insights for smart investors"
   author = "Hash & Hedge"
-  description = "Cryptocurrency, finance, and security insights"
+  tagline = "life in the grey makes you appreciate color in everything"
   
-  # AdSense
+  # Site features
+  shareInFooter = true
+  scrollToTop = true
+  enableSidebar = true
+  showRelated = true
+  
+  # Images
+  logo = "/images/logo.png"
+  favicon = "/favicon.ico"
+  defaultImage = "/images/default-hero.jpg"
+  
+  # AdSense Configuration
   googleAdsenseID = "ca-pub-4626165154390205"
-  enableAdsense = true
+  adsenseSlot = "1234567890"
+  showAds = true
   
-  # Analytics
+  # Google Analytics
   ga_analytics = "G-4BD4Z2JKW3"
+  
+  # SEO
+  keywords = "cryptocurrency, bitcoin, finance, investing, security, blockchain, defi, trading"
+  ogImage = "/images/og-default.jpg"
+  twitterCard = "summary_large_image"
+  twitterHandle = "@hashnhedge"
 
 [[menu.main]]
   name = "Home"
@@ -27,13 +46,17 @@ theme = "newsroom"
   url = "/categories/crypto/"
   weight = 2
 
+[[menu.main]]
+  name = "Finance"
+  url = "/categories/finance/"
+  weight = 3
+
 [taxonomies]
   category = "categories"
   tag = "tags"
 
 [outputs]
   home = ["HTML", "RSS"]
-  section = ["HTML", "RSS"]
 
 [markup.goldmark.renderer]
   unsafe = true

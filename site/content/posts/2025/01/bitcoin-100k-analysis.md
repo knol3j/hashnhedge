@@ -5,7 +5,7 @@ draft: false
 categories: ["crypto", "markets"]
 tags: ["bitcoin", "cryptocurrency", "investing", "portfolio"]
 summary: "Bitcoin's historic breakthrough past $100,000 marks a pivotal moment in cryptocurrency adoption. Here's what smart investors need to know about positioning their portfolios."
-image: "/images/posts/bitcoin-100k.jpg"
+image: "/images/posts/bitcoin-100k.svg"
 author: "Hash & Hedge Team"
 ---
 
