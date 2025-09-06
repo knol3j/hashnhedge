@@ -2,32 +2,20 @@ baseURL = "https://hashnhedge.com/"
 title = "Hash & Hedge"
 languageCode = "en-us"
 theme = "newsroom"
-paginate = 12
-summaryLength = 25
 
-enableRobotsTXT = true
-canonifyURLs = true
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-  section = ["HTML", "RSS"]
+[pagination]
+  pagerSize = 12
 
 [params]
   author = "Hash & Hedge"
-  description = "Cryptocurrency, finance, and security insights. Smart financial strategies for building wealth."
-  tagline = "Life in the grey makes you appreciate color in everything"
+  description = "Cryptocurrency, finance, and security insights"
   
-  # AdSense - READY FOR MONETIZATION
+  # AdSense
   googleAdsenseID = "ca-pub-4626165154390205"
   enableAdsense = true
-  adsenseAutoAds = true
   
-  # Google Analytics 4
+  # Analytics
   ga_analytics = "G-4BD4Z2JKW3"
-  
-  # Social
-  twitter = "hashnhedge"
-  github = "knol3j/hashnhedge"
 
 [[menu.main]]
   name = "Home"
@@ -39,26 +27,13 @@ canonifyURLs = true
   url = "/categories/crypto/"
   weight = 2
 
-[[menu.main]]
-  name = "Finance"
-  url = "/categories/finance/"
-  weight = 3
-
-[[menu.main]]
-  name = "Security"
-  url = "/categories/security/"
-  weight = 4
-
 [taxonomies]
   category = "categories"
   tag = "tags"
 
-[permalinks]
-  posts = "/:year/:month/:slug/"
-
-[sitemap]
-  changefreq = "daily"
-  filename = "sitemap.xml"
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
 
 [markup.goldmark.renderer]
   unsafe = true

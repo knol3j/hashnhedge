@@ -1,1 +1,3 @@
-User-agent: *
+﻿User-agent: *
+Allow: /
+Sitemap: https://hashnhedge.com/sitemap.xml
