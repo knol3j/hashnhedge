@@ -1,16 +1,39 @@
-﻿baseURL = "https://hashnhedge.com/"
+baseURL = "https://hashnhedge.com/"
 title = "Hash & Hedge"
 languageCode = "en-us"
-theme = "newsroom"
-paginate = 12
+theme = ""
 
+# Pagination settings
+[pagination]
+  pagerSize = 12
+
+# Enable essential features
+enableRobotsTXT = true
+canonifyURLs = true
+
+# Output formats
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+# Site Parameters
 [params]
   author = "Hash & Hedge"
-  description = "Cryptocurrency and finance insights"
+  description = "Cryptocurrency, finance, and security insights through the lens of culture and craft"
+  tagline = "Life in the grey makes you appreciate color in everything"
+  
+  # AdSense Configuration
   googleAdsenseID = "ca-pub-4626165154390205"
   enableAdsense = true
+  
+  # Google Analytics 4
   ga_analytics = "G-4BD4Z2JKW3"
+  
+  # Social
+  twitter = "hashnhedge"
+  github = "knol3j/hashnhedge"
 
+# Navigation Menu
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -21,10 +44,33 @@ paginate = 12
   url = "/categories/crypto/"
   weight = 2
 
+[[menu.main]]
+  name = "Finance"
+  url = "/categories/finance/"
+  weight = 3
+
+[[menu.main]]
+  name = "Markets"
+  url = "/categories/markets/"
+  weight = 4
+
+# Taxonomies
 [taxonomies]
   category = "categories"
   tag = "tags"
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-  section = ["HTML", "RSS"]
+# Permalinks
+[permalinks]
+  posts = "/:year/:month/:slug/"
+
+# Markup settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Sitemap
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
