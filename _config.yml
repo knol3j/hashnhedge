@@ -34,9 +34,9 @@ exclude:
   - package.json
   - package-lock.json
   - yarn.lock
-  - README*.md
+  - "README*.md"
   - SECURITY.md
-  - *.ps1
+  - "*.ps1"
 
 # Defaults for posts
 defaults:
