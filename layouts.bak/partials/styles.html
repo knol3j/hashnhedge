@@ -1,4 +1,0 @@
-{{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed") }}
-
-{{ $style := resources.Get "sass/main.scss" | toCSS $options | fingerprint }}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous">

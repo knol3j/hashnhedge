@@ -4,9 +4,9 @@
   "private": true,
   "description": "Hash n Hedge - Tech, crypto, and business news site",
   "scripts": {
-    "build": "hugo --gc --minify",
-    "dev": "hugo server -D",
-    "clean": "rm -rf public resources"
+    "build": "bundle exec jekyll build",
+    "dev": "bundle exec jekyll serve --livereload",
+    "clean": "bundle exec jekyll clean"
   },
   "dependencies": {
     "@aigne/example-mcp-github": "^1.16.32",

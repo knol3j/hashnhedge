@@ -175,7 +175,7 @@ def build_content(story: Dict, short_summary: str) -> str:
 
 
 def create_post_from_story(story: Dict) -> Optional[Path]:
-    now = dt.datetime.utcnow()
+    now = dt.datetime.now(dt.UTC)
     date_str = now.strftime("%Y-%m-%d")
     ts_str = now.strftime("%Y-%m-%d %H:%M:%S +0000")
     slug = slugify(story["title"]) or f"post-{now.strftime('%H%M%S')}"

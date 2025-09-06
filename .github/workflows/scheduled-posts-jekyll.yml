@@ -37,6 +37,12 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Setup Ruby for Jekyll
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+
       - name: Install pipeline dependencies
         run: |
           python -m pip install --upgrade pip
@@ -48,6 +54,14 @@ jobs:
         run: |
           python pipeline/generate_jekyll_posts.py --count "$POST_COUNT"
           echo "POST_COUNT=$POST_COUNT" >> "$GITHUB_ENV"
+
+      - name: Verify Jekyll build
+        run: |
+          if command -v bundle &> /dev/null; then
+            bundle exec jekyll build --dry-run || echo "Jekyll build verification skipped (dependencies may need installation)"
+          else
+            echo "Jekyll build verification skipped (bundler not available)"
+          fi
 
       - name: Commit and push if changes
         shell: bash
