@@ -47,6 +47,7 @@ jobs:
           POST_COUNT: ${{ github.event.inputs.post_count || '3' }}
         run: |
           python pipeline/generate_jekyll_posts.py --count "$POST_COUNT"
+          echo "POST_COUNT=$POST_COUNT" >> "$GITHUB_ENV"
 
       - name: Commit and push if changes
         shell: bash
