@@ -11,9 +11,9 @@ on:
   workflow_dispatch:
     inputs:
       post_count:
-        description: Number of posts to generate (default 1)
+        description: Number of posts to generate (default 3)
         required: false
-        default: "1"
+        default: "3"
 
 permissions:
   contents: write
@@ -32,54 +32,21 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Generate Jekyll posts
-        env:
-          POST_COUNT: ${{ github.event.inputs.post_count || '1' }}
-        shell: bash
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install pipeline dependencies
         run: |
-          set -euo pipefail
-          mkdir -p _posts
-          COUNT=${POST_COUNT:-1}
-          echo "Generating $COUNT post(s)"
+          python -m pip install --upgrade pip
+          if [ -f pipeline/requirements.txt ]; then pip install -r pipeline/requirements.txt; fi
 
-          for i in $(seq 1 "$COUNT"); do
-            DATE=$(date -u +"%Y-%m-%d")
-            TIME=$(date -u +"%H%M%S")
-            NOW=$(date -u +"%Y-%m-%d %H:%M:%S +0000")
-            SLUG="daily-brief-${DATE}-${TIME}-${RANDOM}"
-            FILE="_posts/${DATE}-${SLUG}.md"
-
-            cat > "$FILE" << 'EOF'
----
-layout: post
-categories: ["news"]
-tags: ["brief", "daily"]
-summary: "Automated daily brief."
-image: "/images/default-hero.svg"
----
-
-## Headlines
-
-- TODO: Add top headline 1
-- TODO: Add top headline 2
-- TODO: Add top headline 3
-
-## Market Snapshot
-
-- TODO: BTC / ETH / Major indexes quick changes.
-
-## Notables
-
-- TODO: Key items worth a deeper dive.
-EOF
-
-            # patch dynamic fields (title/date) at the top
-            # Insert title and date after the first '---'
-            sed -i "1a title: Daily Brief — $(date -u +'%b %d, %Y %H:%M UTC')" "$FILE"
-            sed -i "2a date: $NOW" "$FILE"
-
-            echo "Created $FILE"
-          done
+      - name: Generate curated Jekyll posts
+        env:
+          POST_COUNT: ${{ github.event.inputs.post_count || '3' }}
+        run: |
+          python pipeline/generate_jekyll_posts.py --count "$POST_COUNT"
 
       - name: Commit and push if changes
         shell: bash
@@ -93,7 +60,7 @@ EOF
               17) TIME_LABEL="Evening" ;;
               *) TIME_LABEL="Manual" ;;
             esac
-            git commit -m "feat(content): $TIME_LABEL Jekyll brief(s) - $(date -u +%Y-%m-%d)"
+            git commit -m "feat(content): $TIME_LABEL curated posts (x${{ env.POST_COUNT }}) - $(date -u +%Y-%m-%d)"
             git push
           else
             echo "No changes to commit"
