@@ -18,7 +18,7 @@ Pillow==11.0.0
 
 # For scheduling if running locally on Windows
 schedule==1.2.2
-pywin32==308  # Windows-specific scheduling
+pywin32==308; platform_system == "Windows"  # Windows-specific scheduling (skip on Linux/macOS)
 
 # Because even our scripts need to look pretty
 colorama==0.4.6
