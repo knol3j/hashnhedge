@@ -1,4 +1,4 @@
-﻿baseURL = "https://hashnhedge.com/"
+baseURL = "https://hashnhedge.com/"
 title = "Hash & Hedge"
 languageCode = "en-us"
 theme = "newsroom"
@@ -43,6 +43,11 @@ canonifyURLs = true
   name = "Finance"
   url = "/categories/finance/"
   weight = 3
+
+[[menu.main]]
+  name = "Security"
+  url = "/categories/security/"
+  weight = 4
 
 [taxonomies]
   category = "categories"

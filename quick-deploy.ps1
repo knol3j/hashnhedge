@@ -1,24 +1,19 @@
-# Hash & Hedge Site Deployment Script
-Write-Host "Starting Hash & Hedge deployment..." -ForegroundColor Cyan
+#!/usr/bin/env pwsh
+# Hash & Hedge - Quick Deploy
 
-Set-Location "C:\Users\gnul\hashnhedge"
+$rootPath = "C:\Users\gnul\hashnhedge"
+$sitePath = "$rootPath\site"
 
-# Build the site
-Write-Host "Building site with Hugo..." -ForegroundColor Yellow
-hugo --gc --minify --baseURL "https://hashnhedge.com"
+Write-Host "Building and deploying Hash & Hedge..." -ForegroundColor Cyan
 
-# Check if build succeeded
-if ($LASTEXITCODE -eq 0) {
-    Write-Host "Build successful!" -ForegroundColor Green
-    
-    # Git operations
-    Write-Host "Deploying to GitHub..." -ForegroundColor Yellow
-    git add -A
-    git commit -m "Update: new content, images, and SEO optimizations"
-    git push origin main --force
-    
-    Write-Host "Deployment complete!" -ForegroundColor Green
-    Write-Host "Visit https://hashnhedge.com to see your site" -ForegroundColor Cyan
-} else {
-    Write-Host "Build failed - please check for errors" -ForegroundColor Red
-}
+# Build
+Set-Location $sitePath
+hugo --gc --minify --cleanDestinationDir
+
+# Deploy
+Set-Location $rootPath
+git add -A
+git commit -m "deploy: Site update"
+git push origin main --force
+
+Write-Host "Done! Visit https://hashnhedge.com" -ForegroundColor Green
