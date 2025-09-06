@@ -1,7 +1,7 @@
 ---
 categories:
 - crypto
-date: 2025-09-06 05:08:17 +0000
+date: 2025-09-06 09:14:27 +0000
 image: /images/default-hero.svg
 layout: post
 source_url: https://cryptonews.com/news/sec-announces-international-fraud-task-force-targeting-pump-and-dump-schemes/
