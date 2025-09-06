@@ -86,7 +86,7 @@ jobs:
             await github.rest.actions.createWorkflowDispatch({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              workflow_id: 'site.yml',
+              workflow_id: 'hugo.yml',
               ref: 'main'
             })
 
