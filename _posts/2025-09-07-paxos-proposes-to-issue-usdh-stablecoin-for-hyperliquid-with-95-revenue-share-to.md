@@ -1,7 +1,7 @@
 ---
 categories:
 - crypto
-date: 2025-09-07 12:18:47 +0000
+date: 2025-09-07 17:17:44 +0000
 image: /images/default-hero.svg
 layout: post
 source_url: https://cryptonews.com/news/paxos-proposes-to-issue-usdh-stablecoin-for-hyperliquid-with-95-revenue-share-to-hype-buyback/
