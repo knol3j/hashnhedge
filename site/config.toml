@@ -1,0 +1,102 @@
+baseURL = 'https://hashnhedge.com/'
+languageCode = 'en-us'
+title = 'Hash & Hedge - Smart Financial Insights'
+theme = 'newsroom'
+summaryLength = 25
+canonifyURLs = true
+relativeURLs = false
+
+# Pagination settings
+[pagination]
+  pagerSize = 12
+
+# Enable RSS and JSON feeds
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+
+# Google Analytics and AdSense
+[params]
+  description = "Discover smart financial strategies, crypto insights, and money-saving tips for building wealth on any budget"
+  author = "Hash & Hedge Team"
+  keywords = ["cryptocurrency", "bitcoin", "ethereum", "finance", "investing", "defi", "trading", "financial advice"]
+  logo = "/images/logo.svg"
+  
+  # AdSense Configuration - ACTIVE
+  googleAdsenseID = "ca-pub-4626165154390205"  # Your verified AdSense ID
+  enableAdsense = true
+  
+  # Analytics - Active GA4 Tracking
+  ga_analytics = "G-4BD4Z2JKW3"  # Your GA4 Measurement ID - Analytics Active!
+  
+  # Social links
+  twitter = "hashnhedge"
+  github = "knol3j"
+  
+  # Site features
+  showDate = true
+  showTags = true
+  showSummary = true
+  showReadingTime = true
+  
+  # Newsroom theme specific settings
+  homeIntroTitle = "Hash & Hedge"
+  homeIntroContent = "Professional cryptocurrency and finance news, analysis, and insights for smart investors"
+  
+  # SEO enhancements
+  enableOpenGraph = true
+  enableTwitterCards = true
+  enableSchema = true
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Market News"
+  url = "/categories/markets/"
+  weight = 2
+
+[[menu.main]]
+  name = "Analysis"
+  url = "/categories/analysis/"
+  weight = 3
+
+[[menu.main]]
+  name = "DeFi"
+  url = "/tags/defi/"
+  weight = 4
+
+[[menu.main]]
+  name = "Privacy Policy"
+  url = "/privacy/"
+  weight = 10
+
+[[menu.main]]
+  name = "Terms of Service"
+  url = "/terms/"
+  weight = 11
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  coin = "coins"
+
+# Permalinks
+[permalinks]
+  posts = "/:year/:month/:title/"
+
+# Sitemap configuration
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
