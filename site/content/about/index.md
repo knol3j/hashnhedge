@@ -75,7 +75,6 @@ Stay connected for real-time updates and exclusive insights:
 
 - **Twitter**: [@hashnhedge](https://twitter.com/hashnhedge) - Breaking news and market commentary
 - **LinkedIn**: [Hash & Hedge](https://linkedin.com/company/hash-and-hedge) - Professional insights and industry analysis
-- **Telegram**: [@hashnhedge](https://t.me/hashnhedge) - Instant market alerts and community discussion
 - **YouTube**: [Hash & Hedge Channel](https://youtube.com/hashnhedge) - Video analysis and market discussions
 
 ---

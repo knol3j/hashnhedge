@@ -69,7 +69,7 @@
 3. Social Signals:
    - Reddit: r/cryptocurrency, r/bitcoin, r/defi
    - Twitter/X: Build to 1000 followers
-   - Telegram: Create channel
+   - Newsletter: Email subscription system
 
 ## MONETIZATION ACCELERATION
 
@@ -121,7 +121,7 @@
 2. **Social Media** (Immediate)
    - Twitter: 5 posts/day
    - Reddit: 2 valuable contributions/day
-   - Telegram: Daily market updates
+   - Newsletter: Daily market updates via email
    
 3. **Crypto Forums** (Week 1)
    - BitcoinTalk signature
@@ -210,7 +210,7 @@
 - [ ] Build 10 backlinks
 - [ ] Reach 500 daily visitors
 - [ ] Set up affiliate accounts
-- [ ] Create Telegram channel
+- [ ] Set up email newsletter system
 - [ ] Guest post outreach
 
 ### This Month:
