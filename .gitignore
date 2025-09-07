@@ -1,87 +1,47 @@
-# Hugo build output
-public/
-resources/_gen/
+# Hugo
+/public/
+/resources/_gen/
 .hugo_build.lock
 
-# Test builds
-test-public/
-validation-test/
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# Theme Git directories (CRITICAL - prevents submodule conflicts)
-site/themes/*/.git
-site/themes/*/.gitignore
-site/themes/*/.github
-
-# OS generated files
+# OS
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
 
-# Editor directories and files
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
-*~
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
-
-# Environment files
-.env
-.env.local
-.env.production
-
-# Logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
 
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
-.Python
-env/
+.venv/
 venv/
-.venv
+ENV/
 
-# Node
-node_modules/
-npm-debug.log
-yarn-error.log
+# Ruby/Jekyll
+vendor/
+.bundle/
+.jekyll-cache/
+.jekyll-metadata
 
-# Build artifacts
-dist/
-build/
-*.exe
-*.dll
-*.so
-*.dylib
+# Logs
+*.log
+logs/
+
+# Local env files
+.env
+.env.local
 
 # Temporary files
 *.tmp
 *.temp
-*.bak
-*.backup
-*.old
-~$*
-
-# Archives
-*.zip
-*.tar.gz
-*.rar
-
-# Security
-*.key
-*.pem
-*.p12
-*.pfx
+fix-duplicate-frontmatter.py
