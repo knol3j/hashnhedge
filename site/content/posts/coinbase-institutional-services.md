@@ -3,7 +3,7 @@ title: "Coinbase Launches New Institutional Services"
 date: "2025-08-11T00:00:00"
 category: "Markets"
 summary: "Latest developments and analysis in the markets space with expert insights and market trends."
-image: "/images/posts/coinbase-institutional-services.svg"
+image: "/images/posts/coinbase-institutional-services.jpg"
 seo:
   title: "Coinbase Launches New Institutional Services | Hash & Hedge"
   description: "Expert analysis on coinbase launches new institutional services with market insights and trends"

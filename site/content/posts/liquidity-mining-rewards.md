@@ -3,7 +3,7 @@ title: "Liquidity Mining Rewards Optimization"
 date: "2025-07-23T00:00:00"
 category: "DeFi"
 summary: "Latest developments and analysis in the defi space with expert insights and market trends."
-image: "/images/posts/liquidity-mining-rewards.svg"
+image: "/images/posts/liquidity-mining-rewards.jpg"
 seo:
   title: "Liquidity Mining Rewards Optimization | Hash & Hedge"
   description: "Expert analysis on liquidity mining rewards optimization with market insights and trends"

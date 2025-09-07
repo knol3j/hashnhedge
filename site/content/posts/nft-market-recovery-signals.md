@@ -3,7 +3,7 @@ title: "NFT Market Shows Strong Recovery Signals"
 date: "2025-08-20T00:00:00"
 category: "Markets"
 summary: "Latest developments and analysis in the markets space with expert insights and market trends."
-image: "/images/posts/nft-market-recovery-signals.svg"
+image: "/images/posts/nft-market-recovery-signals.jpg"
 seo:
   title: "NFT Market Shows Strong Recovery Signals | Hash & Hedge"
   description: "Expert analysis on nft market shows strong recovery signals with market insights and trends"

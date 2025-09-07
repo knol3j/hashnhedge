@@ -3,7 +3,7 @@ title: "Automated Market Makers Innovation"
 date: "2025-07-21T00:00:00"
 category: "Technology"
 summary: "Latest developments and analysis in the technology space with expert insights and market trends."
-image: "/images/posts/automated-market-makers.svg"
+image: "/images/posts/automated-market-makers.jpg"
 seo:
   title: "Automated Market Makers Innovation | Hash & Hedge"
   description: "Expert analysis on automated market makers innovation with market insights and trends"

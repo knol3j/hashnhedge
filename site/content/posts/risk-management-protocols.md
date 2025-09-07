@@ -3,7 +3,7 @@ title: "Risk Management Protocols Launch"
 date: "2025-07-11T00:00:00"
 category: "Security"
 summary: "Latest developments and analysis in the security space with expert insights and market trends."
-image: "/images/posts/risk-management-protocols.svg"
+image: "/images/posts/risk-management-protocols.jpg"
 seo:
   title: "Risk Management Protocols Launch | Hash & Hedge"
   description: "Expert analysis on risk management protocols launch with market insights and trends"

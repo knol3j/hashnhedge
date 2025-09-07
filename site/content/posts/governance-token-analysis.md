@@ -3,7 +3,7 @@ title: "Governance Token Analysis and Trends"
 date: "2025-07-22T00:00:00"
 category: "Governance"
 summary: "Latest developments and analysis in the governance space with expert insights and market trends."
-image: "/images/posts/governance-token-analysis.svg"
+image: "/images/posts/governance-token-analysis.jpg"
 seo:
   title: "Governance Token Analysis and Trends | Hash & Hedge"
   description: "Expert analysis on governance token analysis and trends with market insights and trends"

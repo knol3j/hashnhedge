@@ -3,7 +3,7 @@ title: "Audit and Security Standards Update"
 date: "2025-07-08T00:00:00"
 category: "Security"
 summary: "Latest developments and analysis in the security space with expert insights and market trends."
-image: "/images/posts/audit-security-standards.svg"
+image: "/images/posts/audit-security-standards.jpg"
 seo:
   title: "Audit and Security Standards Update | Hash & Hedge"
   description: "Expert analysis on audit and security standards update with market insights and trends"

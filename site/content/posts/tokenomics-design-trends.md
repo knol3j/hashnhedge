@@ -3,7 +3,7 @@ title: "Tokenomics Design Trends for 2025"
 date: "2025-07-28T00:00:00"
 category: "Economics"
 summary: "Latest developments and analysis in the economics space with expert insights and market trends."
-image: "/images/posts/tokenomics-design-trends.svg"
+image: "/images/posts/tokenomics-design-trends.jpg"
 seo:
   title: "Tokenomics Design Trends for 2025 | Hash & Hedge"
   description: "Expert analysis on tokenomics design trends for 2025 with market insights and trends"

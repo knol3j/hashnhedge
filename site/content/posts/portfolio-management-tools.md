@@ -3,7 +3,7 @@ title: "Portfolio Management Tools Update"
 date: "2025-07-12T00:00:00"
 category: "Tools"
 summary: "Latest developments and analysis in the tools space with expert insights and market trends."
-image: "/images/posts/portfolio-management-tools.svg"
+image: "/images/posts/portfolio-management-tools.jpg"
 seo:
   title: "Portfolio Management Tools Update | Hash & Hedge"
   description: "Expert analysis on portfolio management tools update with market insights and trends"

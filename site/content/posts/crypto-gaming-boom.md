@@ -3,7 +3,7 @@ title: "Crypto Gaming Industry Experiences Boom"
 date: "2025-08-02T00:00:00"
 category: "Gaming"
 summary: "Latest developments and analysis in the gaming space with expert insights and market trends."
-image: "/images/posts/crypto-gaming-boom.svg"
+image: "/images/posts/crypto-gaming-boom.jpg"
 seo:
   title: "Crypto Gaming Industry Experiences Boom | Hash & Hedge"
   description: "Expert analysis on crypto gaming industry experiences boom with market insights and trends"

@@ -3,7 +3,7 @@ title: "Flash Loan Arbitrage Opportunities"
 date: "2025-07-20T00:00:00"
 category: "Trading"
 summary: "Latest developments and analysis in the trading space with expert insights and market trends."
-image: "/images/posts/flash-loan-arbitrage.svg"
+image: "/images/posts/flash-loan-arbitrage.jpg"
 seo:
   title: "Flash Loan Arbitrage Opportunities | Hash & Hedge"
   description: "Expert analysis on flash loan arbitrage opportunities with market insights and trends"

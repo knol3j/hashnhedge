@@ -3,7 +3,7 @@ title: "Binance Enhances Regulatory Compliance Framework"
 date: "2025-08-12T00:00:00"
 category: "Markets"
 summary: "Latest developments and analysis in the markets space with expert insights and market trends."
-image: "/images/posts/binance-regulatory-compliance.svg"
+image: "/images/posts/binance-regulatory-compliance.jpg"
 seo:
   title: "Binance Enhances Regulatory Compliance Framework | Hash & Hedge"
   description: "Expert analysis on binance enhances regulatory compliance framework with market insights and trends"

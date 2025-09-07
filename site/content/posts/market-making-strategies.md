@@ -3,7 +3,7 @@ title: "Market Making Strategies for 2025"
 date: "2025-07-13T00:00:00"
 category: "Trading"
 summary: "Latest developments and analysis in the trading space with expert insights and market trends."
-image: "/images/posts/market-making-strategies.svg"
+image: "/images/posts/market-making-strategies.jpg"
 seo:
   title: "Market Making Strategies for 2025 | Hash & Hedge"
   description: "Expert analysis on market making strategies for 2025 with market insights and trends"

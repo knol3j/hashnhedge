@@ -3,7 +3,7 @@ title: "Synthetic Assets Platform Launches"
 date: "2025-07-24T00:00:00"
 category: "DeFi"
 summary: "Latest developments and analysis in the defi space with expert insights and market trends."
-image: "/images/posts/synthetic-assets-platform.svg"
+image: "/images/posts/synthetic-assets-platform.jpg"
 seo:
   title: "Synthetic Assets Platform Launches | Hash & Hedge"
   description: "Expert analysis on synthetic assets platform launches with market insights and trends"

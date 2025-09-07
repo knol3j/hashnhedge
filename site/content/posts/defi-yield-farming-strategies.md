@@ -3,7 +3,7 @@ title: "Top DeFi Yield Farming Strategies for 2025"
 date: "2025-08-21T00:00:00"
 category: "DeFi"
 summary: "Latest developments and analysis in the defi space with expert insights and market trends."
-image: "/images/posts/defi-yield-farming-strategies.svg"
+image: "/images/posts/defi-yield-farming-strategies.jpg"
 seo:
   title: "Top DeFi Yield Farming Strategies for 2025 | Hash & Hedge"
   description: "Expert analysis on top defi yield farming strategies for 2025 with market insights and trends"

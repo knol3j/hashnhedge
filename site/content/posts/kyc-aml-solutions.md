@@ -3,7 +3,7 @@ title: "KYC/AML Solutions for DeFi"
 date: "2025-07-09T00:00:00"
 category: "Compliance"
 summary: "Latest developments and analysis in the compliance space with expert insights and market trends."
-image: "/images/posts/kyc-aml-solutions.svg"
+image: "/images/posts/kyc-aml-solutions.jpg"
 seo:
   title: "KYC/AML Solutions for DeFi | Hash & Hedge"
   description: "Expert analysis on kyc/aml solutions for defi with market insights and trends"

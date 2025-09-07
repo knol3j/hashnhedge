@@ -3,7 +3,7 @@ title: "Institutional Bitcoin Buying Reaches ATH"
 date: "2025-08-01T00:00:00"
 category: "Markets"
 summary: "Latest developments and analysis in the markets space with expert insights and market trends."
-image: "/images/posts/institutional-bitcoin-buying.svg"
+image: "/images/posts/institutional-bitcoin-buying.jpg"
 seo:
   title: "Institutional Bitcoin Buying Reaches ATH | Hash & Hedge"
   description: "Expert analysis on institutional bitcoin buying reaches ath with market insights and trends"

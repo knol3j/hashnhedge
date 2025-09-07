@@ -3,7 +3,7 @@ title: "Quantum-Resistant Cryptography Development"
 date: "2025-07-29T00:00:00"
 category: "Security"
 summary: "Latest developments and analysis in the security space with expert insights and market trends."
-image: "/images/posts/quantum-resistance-crypto.svg"
+image: "/images/posts/quantum-resistance-crypto.jpg"
 seo:
   title: "Quantum-Resistant Cryptography Development | Hash & Hedge"
   description: "Expert analysis on quantum-resistant cryptography development with market insights and trends"

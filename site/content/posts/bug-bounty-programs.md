@@ -3,7 +3,7 @@ title: "Bug Bounty Programs Expansion"
 date: "2025-07-07T00:00:00"
 category: "Security"
 summary: "Latest developments and analysis in the security space with expert insights and market trends."
-image: "/images/posts/bug-bounty-programs.svg"
+image: "/images/posts/bug-bounty-programs.jpg"
 seo:
   title: "Bug Bounty Programs Expansion | Hash & Hedge"
   description: "Expert analysis on bug bounty programs expansion with market insights and trends"

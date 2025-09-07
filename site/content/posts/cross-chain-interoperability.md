@@ -3,7 +3,7 @@ title: "Cross-Chain Interoperability Solutions Launch"
 date: "2025-07-30T00:00:00"
 category: "Technology"
 summary: "Latest developments and analysis in the technology space with expert insights and market trends."
-image: "/images/posts/cross-chain-interoperability.svg"
+image: "/images/posts/cross-chain-interoperability.jpg"
 seo:
   title: "Cross-Chain Interoperability Solutions Launch | Hash & Hedge"
   description: "Expert analysis on cross-chain interoperability solutions launch with market insights and trends"

@@ -3,7 +3,7 @@ title: "Cardano Smart Contracts Get Major Upgrade"
 date: "2025-08-18T00:00:00"
 category: "Crypto"
 summary: "Latest developments and analysis in the crypto space with expert insights and market trends."
-image: "/images/posts/cardano-smart-contracts-upgrade.svg"
+image: "/images/posts/cardano-smart-contracts-upgrade.jpg"
 seo:
   title: "Cardano Smart Contracts Get Major Upgrade | Hash & Hedge"
   description: "Expert analysis on cardano smart contracts get major upgrade with market insights and trends"

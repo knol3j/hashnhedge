@@ -3,7 +3,7 @@ title: "Layer 2 Solutions See Massive Adoption Growth"
 date: "2025-08-05T00:00:00"
 category: "Technology"
 summary: "Latest developments and analysis in the technology space with expert insights and market trends."
-image: "/images/posts/layer-2-adoption-growth.svg"
+image: "/images/posts/layer-2-adoption-growth.jpg"
 seo:
   title: "Layer 2 Solutions See Massive Adoption Growth | Hash & Hedge"
   description: "Expert analysis on layer 2 solutions see massive adoption growth with market insights and trends"

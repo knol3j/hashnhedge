@@ -3,7 +3,7 @@ title: "Options Trading Platforms Launch"
 date: "2025-07-17T00:00:00"
 category: "Trading"
 summary: "Latest developments and analysis in the trading space with expert insights and market trends."
-image: "/images/posts/options-trading-platforms.svg"
+image: "/images/posts/options-trading-platforms.jpg"
 seo:
   title: "Options Trading Platforms Launch | Hash & Hedge"
   description: "Expert analysis on options trading platforms launch with market insights and trends"

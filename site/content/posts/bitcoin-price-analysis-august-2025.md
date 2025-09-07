@@ -3,7 +3,7 @@ title: "Bitcoin Price Analysis: Market Trends in August 2025"
 date: "2025-08-23T00:00:00"
 category: "Crypto"
 summary: "Latest developments and analysis in the crypto space with expert insights and market trends."
-image: "/images/posts/bitcoin-price-analysis-august-2025.svg"
+image: "/images/posts/bitcoin-price-analysis-august-2025.jpg"
 seo:
   title: "Bitcoin Price Analysis: Market Trends in August 2025 | Hash & Hedge"
   description: "Expert analysis on bitcoin price analysis: market trends in august 2025 with market insights and trends"

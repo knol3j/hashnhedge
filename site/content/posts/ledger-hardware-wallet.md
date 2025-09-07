@@ -3,7 +3,7 @@ title: "Ledger Releases Next-Gen Hardware Wallet"
 date: "2025-08-09T00:00:00"
 category: "Security"
 summary: "Latest developments and analysis in the security space with expert insights and market trends."
-image: "/images/posts/ledger-hardware-wallet.svg"
+image: "/images/posts/ledger-hardware-wallet.jpg"
 seo:
   title: "Ledger Releases Next-Gen Hardware Wallet | Hash & Hedge"
   description: "Expert analysis on ledger releases next-gen hardware wallet with market insights and trends"

@@ -3,7 +3,7 @@ title: "Compound Lending Rates Hit New Highs"
 date: "2025-08-14T00:00:00"
 category: "DeFi"
 summary: "Latest developments and analysis in the defi space with expert insights and market trends."
-image: "/images/posts/compound-lending-rates.svg"
+image: "/images/posts/compound-lending-rates.jpg"
 seo:
   title: "Compound Lending Rates Hit New Highs | Hash & Hedge"
   description: "Expert analysis on compound lending rates hit new highs with market insights and trends"

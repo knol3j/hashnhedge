@@ -3,7 +3,7 @@ title: "AAVE Flash Loans Reach Record Volume"
 date: "2025-08-13T00:00:00"
 category: "DeFi"
 summary: "Latest developments and analysis in the defi space with expert insights and market trends."
-image: "/images/posts/aave-flash-loans-record.svg"
+image: "/images/posts/aave-flash-loans-record.jpg"
 seo:
   title: "AAVE Flash Loans Reach Record Volume | Hash & Hedge"
   description: "Expert analysis on aave flash loans reach record volume with market insights and trends"

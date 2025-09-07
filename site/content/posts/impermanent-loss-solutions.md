@@ -3,7 +3,7 @@ title: "Solutions for Impermanent Loss"
 date: "2025-07-19T00:00:00"
 category: "DeFi"
 summary: "Latest developments and analysis in the defi space with expert insights and market trends."
-image: "/images/posts/impermanent-loss-solutions.svg"
+image: "/images/posts/impermanent-loss-solutions.jpg"
 seo:
   title: "Solutions for Impermanent Loss | Hash & Hedge"
   description: "Expert analysis on solutions for impermanent loss with market insights and trends"

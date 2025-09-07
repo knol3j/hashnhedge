@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Coins on Hash &amp; Hedge - Smart Financial Insights</title>
-    <link>http://localhost:1319/coins/</link>
-    <description>Recent content in Coins on Hash &amp; Hedge - Smart Financial Insights</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1319/coins/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Coins on Hash &amp; Hedge - Smart Financial Insights</title><link>https://hashnhedge.com/coins/</link><description>Recent content in Coins on Hash &amp; Hedge - Smart Financial Insights</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://hashnhedge.com/coins/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

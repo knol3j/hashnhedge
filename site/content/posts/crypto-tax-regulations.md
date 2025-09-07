@@ -3,7 +3,7 @@ title: "New Crypto Tax Regulations Take Effect"
 date: "2025-08-08T00:00:00"
 category: "Regulation"
 summary: "Latest developments and analysis in the regulation space with expert insights and market trends."
-image: "/images/posts/crypto-tax-regulations.svg"
+image: "/images/posts/crypto-tax-regulations.jpg"
 seo:
   title: "New Crypto Tax Regulations Take Effect | Hash & Hedge"
   description: "Expert analysis on new crypto tax regulations take effect with market insights and trends"

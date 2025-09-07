@@ -3,7 +3,7 @@ title: "Blockchain Analytics Tools Launch"
 date: "2025-07-05T00:00:00"
 category: "Analytics"
 summary: "Latest developments and analysis in the analytics space with expert insights and market trends."
-image: "/images/posts/blockchain-analytics-tools.svg"
+image: "/images/posts/blockchain-analytics-tools.jpg"
 seo:
   title: "Blockchain Analytics Tools Launch | Hash & Hedge"
   description: "Expert analysis on blockchain analytics tools launch with market insights and trends"

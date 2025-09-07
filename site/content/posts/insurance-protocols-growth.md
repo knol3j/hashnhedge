@@ -3,7 +3,7 @@ title: "Crypto Insurance Protocols See Growth"
 date: "2025-07-26T00:00:00"
 category: "Insurance"
 summary: "Latest developments and analysis in the insurance space with expert insights and market trends."
-image: "/images/posts/insurance-protocols-growth.svg"
+image: "/images/posts/insurance-protocols-growth.jpg"
 seo:
   title: "Crypto Insurance Protocols See Growth | Hash & Hedge"
   description: "Expert analysis on crypto insurance protocols see growth with market insights and trends"

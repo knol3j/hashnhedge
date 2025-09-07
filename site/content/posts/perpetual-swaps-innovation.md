@@ -3,7 +3,7 @@ title: "Perpetual Swaps See Innovation"
 date: "2025-07-16T00:00:00"
 category: "Trading"
 summary: "Latest developments and analysis in the trading space with expert insights and market trends."
-image: "/images/posts/perpetual-swaps-innovation.svg"
+image: "/images/posts/perpetual-swaps-innovation.jpg"
 seo:
   title: "Perpetual Swaps See Innovation | Hash & Hedge"
   description: "Expert analysis on perpetual swaps see innovation with market insights and trends"

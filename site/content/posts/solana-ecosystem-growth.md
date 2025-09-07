@@ -3,7 +3,7 @@ title: "Solana Ecosystem Experiences Unprecedented Growth"
 date: "2025-08-19T00:00:00"
 category: "Crypto"
 summary: "Latest developments and analysis in the crypto space with expert insights and market trends."
-image: "/images/posts/solana-ecosystem-growth.svg"
+image: "/images/posts/solana-ecosystem-growth.jpg"
 seo:
   title: "Solana Ecosystem Experiences Unprecedented Growth | Hash & Hedge"
   description: "Expert analysis on solana ecosystem experiences unprecedented growth with market insights and trends"

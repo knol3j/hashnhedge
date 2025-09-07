@@ -3,7 +3,7 @@ title: "Margin Trading Safety Improvements"
 date: "2025-07-15T00:00:00"
 category: "Trading"
 summary: "Latest developments and analysis in the trading space with expert insights and market trends."
-image: "/images/posts/margin-trading-safety.svg"
+image: "/images/posts/margin-trading-safety.jpg"
 seo:
   title: "Margin Trading Safety Improvements | Hash & Hedge"
   description: "Expert analysis on margin trading safety improvements with market insights and trends"

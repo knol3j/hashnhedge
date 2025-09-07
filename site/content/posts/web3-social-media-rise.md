@@ -3,7 +3,7 @@ title: "Web3 Social Media Platforms Gain Traction"
 date: "2025-08-04T00:00:00"
 category: "Social"
 summary: "Latest developments and analysis in the social space with expert insights and market trends."
-image: "/images/posts/web3-social-media-rise.svg"
+image: "/images/posts/web3-social-media-rise.jpg"
 seo:
   title: "Web3 Social Media Platforms Gain Traction | Hash & Hedge"
   description: "Expert analysis on web3 social media platforms gain traction with market insights and trends"

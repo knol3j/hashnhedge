@@ -3,7 +3,7 @@ title: "Central Bank Digital Currency Pilots Expand"
 date: "2025-08-07T00:00:00"
 category: "Regulation"
 summary: "Latest developments and analysis in the regulation space with expert insights and market trends."
-image: "/images/posts/central-bank-digital-currency.svg"
+image: "/images/posts/central-bank-digital-currency.jpg"
 seo:
   title: "Central Bank Digital Currency Pilots Expand | Hash & Hedge"
   description: "Expert analysis on central bank digital currency pilots expand with market insights and trends"

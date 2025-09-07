@@ -3,7 +3,7 @@ title: "Ethereum 2.0 Staking Rewards See Major Update"
 date: "2025-08-22T00:00:00"
 category: "Crypto"
 summary: "Latest developments and analysis in the crypto space with expert insights and market trends."
-image: "/images/posts/ethereum-2-staking-rewards-update.svg"
+image: "/images/posts/ethereum-2-staking-rewards-update.jpg"
 seo:
   title: "Ethereum 2.0 Staking Rewards See Major Update | Hash & Hedge"
   description: "Expert analysis on ethereum 2.0 staking rewards see major update with market insights and trends"

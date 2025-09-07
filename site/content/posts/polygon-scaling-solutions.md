@@ -3,7 +3,7 @@ title: "Polygon Introduces New Scaling Solutions"
 date: "2025-08-17T00:00:00"
 category: "Technology"
 summary: "Latest developments and analysis in the technology space with expert insights and market trends."
-image: "/images/posts/polygon-scaling-solutions.svg"
+image: "/images/posts/polygon-scaling-solutions.jpg"
 seo:
   title: "Polygon Introduces New Scaling Solutions | Hash & Hedge"
   description: "Expert analysis on polygon introduces new scaling solutions with market insights and trends"

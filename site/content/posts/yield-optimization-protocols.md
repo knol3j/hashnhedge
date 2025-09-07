@@ -3,7 +3,7 @@ title: "New Yield Optimization Protocols Launch"
 date: "2025-07-27T00:00:00"
 category: "DeFi"
 summary: "Latest developments and analysis in the defi space with expert insights and market trends."
-image: "/images/posts/yield-optimization-protocols.svg"
+image: "/images/posts/yield-optimization-protocols.jpg"
 seo:
   title: "New Yield Optimization Protocols Launch | Hash & Hedge"
   description: "Expert analysis on new yield optimization protocols launch with market insights and trends"

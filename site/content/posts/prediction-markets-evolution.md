@@ -3,7 +3,7 @@ title: "Prediction Markets Evolution and Trends"
 date: "2025-07-25T00:00:00"
 category: "Markets"
 summary: "Latest developments and analysis in the markets space with expert insights and market trends."
-image: "/images/posts/prediction-markets-evolution.svg"
+image: "/images/posts/prediction-markets-evolution.jpg"
 seo:
   title: "Prediction Markets Evolution and Trends | Hash & Hedge"
   description: "Expert analysis on prediction markets evolution and trends with market insights and trends"

@@ -3,7 +3,7 @@ title: "Stablecoin Market Reaches $150 Billion"
 date: "2025-08-06T00:00:00"
 category: "Markets"
 summary: "Latest developments and analysis in the markets space with expert insights and market trends."
-image: "/images/posts/stablecoin-market-analysis.svg"
+image: "/images/posts/stablecoin-market-analysis.jpg"
 seo:
   title: "Stablecoin Market Reaches $150 Billion | Hash & Hedge"
   description: "Expert analysis on stablecoin market reaches $150 billion with market insights and trends"

@@ -3,7 +3,7 @@ title: "Energy-Efficient Mining Technologies Emerge"
 date: "2025-07-31T00:00:00"
 category: "Mining"
 summary: "Latest developments and analysis in the mining space with expert insights and market trends."
-image: "/images/posts/energy-efficient-mining.svg"
+image: "/images/posts/energy-efficient-mining.jpg"
 seo:
   title: "Energy-Efficient Mining Technologies Emerge | Hash & Hedge"
   description: "Expert analysis on energy-efficient mining technologies emerge with market insights and trends"

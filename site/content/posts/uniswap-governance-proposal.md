@@ -3,7 +3,7 @@ title: "Uniswap Governance Passes Important Proposal"
 date: "2025-08-15T00:00:00"
 category: "DeFi"
 summary: "Latest developments and analysis in the defi space with expert insights and market trends."
-image: "/images/posts/uniswap-governance-proposal.svg"
+image: "/images/posts/uniswap-governance-proposal.jpg"
 seo:
   title: "Uniswap Governance Passes Important Proposal | Hash & Hedge"
   description: "Expert analysis on uniswap governance passes important proposal with market insights and trends"

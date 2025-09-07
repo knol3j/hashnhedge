@@ -3,7 +3,7 @@ title: "Algorithmic Trading Bots Evolution"
 date: "2025-07-14T00:00:00"
 category: "Technology"
 summary: "Latest developments and analysis in the technology space with expert insights and market trends."
-image: "/images/posts/algorithmic-trading-bots.svg"
+image: "/images/posts/algorithmic-trading-bots.jpg"
 seo:
   title: "Algorithmic Trading Bots Evolution | Hash & Hedge"
   description: "Expert analysis on algorithmic trading bots evolution with market insights and trends"

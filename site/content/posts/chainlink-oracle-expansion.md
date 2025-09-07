@@ -3,7 +3,7 @@ title: "Chainlink Expands Oracle Network Globally"
 date: "2025-08-16T00:00:00"
 category: "Technology"
 summary: "Latest developments and analysis in the technology space with expert insights and market trends."
-image: "/images/posts/chainlink-oracle-expansion.svg"
+image: "/images/posts/chainlink-oracle-expansion.jpg"
 seo:
   title: "Chainlink Expands Oracle Network Globally | Hash & Hedge"
   description: "Expert analysis on chainlink expands oracle network globally with market insights and trends"

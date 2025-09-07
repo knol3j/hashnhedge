@@ -3,7 +3,7 @@ title: "Compliance Automation Tools"
 date: "2025-07-10T00:00:00"
 category: "Regulation"
 summary: "Latest developments and analysis in the regulation space with expert insights and market trends."
-image: "/images/posts/compliance-automation-tools.svg"
+image: "/images/posts/compliance-automation-tools.jpg"
 seo:
   title: "Compliance Automation Tools | Hash & Hedge"
   description: "Expert analysis on compliance automation tools with market insights and trends"

@@ -3,7 +3,7 @@ title: "MetaMask Mobile Gets Security Enhancement"
 date: "2025-08-10T00:00:00"
 category: "Technology"
 summary: "Latest developments and analysis in the technology space with expert insights and market trends."
-image: "/images/posts/metamask-mobile-update.svg"
+image: "/images/posts/metamask-mobile-update.jpg"
 seo:
   title: "MetaMask Mobile Gets Security Enhancement | Hash & Hedge"
   description: "Expert analysis on metamask mobile gets security enhancement with market insights and trends"

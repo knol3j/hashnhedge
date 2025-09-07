@@ -3,7 +3,7 @@ title: "DAO Governance Models Evolution in 2025"
 date: "2025-08-03T00:00:00"
 category: "Governance"
 summary: "Latest developments and analysis in the governance space with expert insights and market trends."
-image: "/images/posts/dao-governance-trends.svg"
+image: "/images/posts/dao-governance-trends.jpg"
 seo:
   title: "DAO Governance Models Evolution in 2025 | Hash & Hedge"
   description: "Expert analysis on dao governance models evolution in 2025 with market insights and trends"
