@@ -8,6 +8,9 @@
         </div>
     </section>
 
+    <!-- AdSense Banner After Hero -->
+    {{ partial "adsense-display" (dict "adFormat" "rectangle") }}
+
     <!-- Posts Section -->
     <section class="posts-section">
         <div class="container">
@@ -20,28 +23,35 @@
                  data-total-pages="{{ .Paginator.TotalPages }}"
                  data-has-next="{{ .Paginator.HasNext }}">
                 
-                {{ range .Paginator.Pages }}
+                {{ range $index, $post := .Paginator.Pages }}
                 <article class="post-item loaded">
                     <div class="post-card">
-                        {{ if .Params.image }}
+                        {{ if $post.Params.image }}
                         <div class="post-image">
-                            <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
-                            <div class="post-category">{{ .Params.category | default "News" }}</div>
+                            <img src="{{ $post.Params.image }}" alt="{{ $post.Title }}" loading="lazy">
+                            <div class="post-category">{{ $post.Params.category | default "News" }}</div>
                         </div>
                         {{ end }}
                         
                         <div class="post-content">
                             <h3 class="post-title">
-                                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                <a href="{{ $post.Permalink }}">{{ $post.Title }}</a>
                             </h3>
-                            <p class="post-summary">{{ .Summary }}</p>
+                            <p class="post-summary">{{ $post.Summary }}</p>
                             <div class="post-meta">
-                                <span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>
-                                <span class="post-reading-time">{{ .ReadingTime }} min read</span>
+                                <span class="post-date">{{ $post.Date.Format "Jan 2, 2006" }}</span>
+                                <span class="post-reading-time">{{ $post.ReadingTime }} min read</span>
                             </div>
                         </div>
                     </div>
                 </article>
+                
+                <!-- AdSense Ad Every 6 Posts -->
+                {{ if and (gt $index 0) (eq (mod (add $index 1) 6) 0) }}
+                <div class="ad-container post-item loaded">
+                    {{ partial "adsense-display" (dict "adFormat" "rectangle") }}
+                </div>
+                {{ end }}
                 {{ end }}
             </div>
 
@@ -53,6 +63,9 @@
                 </div>
             </noscript>
             {{ end }}
+
+            <!-- AdSense Footer Ad -->
+            {{ partial "adsense-display" (dict "adFormat" "horizontal") }}
         </div>
     </section>
 </div>

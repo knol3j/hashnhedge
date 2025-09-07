@@ -7,7 +7,7 @@
   "posts": [
     {
       "title": "Posts",
-      "url": "http://localhost:1313/posts/",
+      "url": "http://localhost:1314/posts/",
       "date": "2025-08-23T00:00:00Z",
       "summary": "",
       "image": "/images/default-cover.svg",

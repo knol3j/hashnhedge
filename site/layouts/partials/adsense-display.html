@@ -1,0 +1,16 @@
+{{- if site.Params.enableAdsense -}}
+{{- with site.Params.googleAdsenseID -}}
+<!-- Responsive Display Ad -->
+<div class="adsense-container" style="text-align: center; margin: 20px 0;">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="{{ . }}"
+       data-ad-slot="{{ $.adSlot | default "auto" }}"
+       data-ad-format="{{ $.adFormat | default "auto" }}"
+       data-full-width-responsive="true"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+{{- end -}}
+{{- end -}}

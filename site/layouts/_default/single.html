@@ -1,0 +1,152 @@
+{{ define "main" }}
+<article class="single-post">
+  <div class="container">
+    <div class="post-header">
+      <h1 class="post-title">{{ .Title }}</h1>
+      <div class="post-meta">
+        <span class="post-date">{{ .Date.Format "January 2, 2006" }}</span>
+        {{ if .Params.category }}
+        <span class="post-category">{{ .Params.category }}</span>
+        {{ end }}
+        <span class="post-reading-time">{{ .ReadingTime }} min read</span>
+      </div>
+    </div>
+
+    {{ if .Params.image }}
+    <div class="post-featured-image">
+      <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+    </div>
+    {{ end }}
+
+    <!-- AdSense Ad After Header -->
+    {{ partial "adsense-display" (dict "adFormat" "rectangle") }}
+
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+
+    <!-- AdSense Ad After Content -->
+    {{ partial "adsense-display" (dict "adFormat" "horizontal") }}
+
+    <div class="post-footer">
+      {{ if .Params.tags }}
+      <div class="post-tags">
+        <strong>Tags:</strong>
+        {{ range .Params.tags }}
+        <span class="tag">{{ . }}</span>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</article>
+
+<style>
+.single-post {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.post-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.post-title {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  line-height: 1.2;
+  color: #333;
+}
+
+.post-meta {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.post-category {
+  background: #667eea;
+  color: white;
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-weight: 600;
+}
+
+.post-featured-image {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.post-featured-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.post-content {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #444;
+}
+
+.post-content h2 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.post-content h3 {
+  margin-top: 30px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.post-content p {
+  margin-bottom: 20px;
+}
+
+.post-content ul, .post-content ol {
+  margin-bottom: 20px;
+  padding-left: 30px;
+}
+
+.post-content li {
+  margin-bottom: 8px;
+}
+
+.post-tags {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid #eee;
+}
+
+.tag {
+  background: #f8f9fa;
+  padding: 4px 8px;
+  border-radius: 4px;
+  margin-right: 8px;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+  .post-title {
+    font-size: 2rem;
+  }
+  
+  .post-meta {
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .single-post {
+    padding: 15px;
+  }
+}
+</style>
+{{ end }}
