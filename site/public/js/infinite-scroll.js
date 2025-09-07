@@ -117,9 +117,15 @@ class InfiniteScroll {
     renderPosts(posts) {
         const fragment = document.createDocumentFragment();
         
-        posts.forEach(post => {
+        posts.forEach((post, index) => {
             const postElement = this.createPostElement(post);
             fragment.appendChild(postElement);
+            
+            // Add ad every 6 posts in infinite scroll
+            if ((index + 1) % 6 === 0 && index < posts.length - 1) {
+                const adElement = this.createAdElement();
+                fragment.appendChild(adElement);
+            }
         });
         
         this.postsContainer.appendChild(fragment);
@@ -131,6 +137,14 @@ class InfiniteScroll {
                 post.classList.add('loaded');
             }, index * 50);
         });
+        
+        // Initialize AdSense ads for newly loaded content
+        if (typeof adsbygoogle !== 'undefined') {
+            const newAds = this.postsContainer.querySelectorAll('.adsbygoogle:not([data-adsbygoogle-status])');
+            newAds.forEach(ad => {
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            });
+        }
     }
 
     createPostElement(post) {
@@ -164,6 +178,23 @@ class InfiniteScroll {
         `;
         
         return article;
+    }
+
+    createAdElement() {
+        const adContainer = document.createElement('div');
+        adContainer.className = 'ad-container post-item loaded';
+        adContainer.innerHTML = `
+            <div class="adsense-container" style="text-align: center; margin: 20px 0;">
+                <ins class="adsbygoogle"
+                     style="display:block"
+                     data-ad-client="ca-pub-4626165154390205"
+                     data-ad-slot="auto"
+                     data-ad-format="auto"
+                     data-full-width-responsive="true"></ins>
+            </div>
+        `;
+        
+        return adContainer;
     }
 
     showLoading() {
