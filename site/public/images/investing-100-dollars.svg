@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#1a202c"/>
+  <rect x="40" y="40" width="1120" height="550" fill="#2d3748" rx="8"/>
+  <text x="600" y="280" font-family="Arial, sans-serif" font-size="32" fill="#ffffff" text-anchor="middle" font-weight="bold">Hash &amp; Hedge</text>
+  <text x="600" y="340" font-family="Arial, sans-serif" font-size="24" fill="#a0aec0" text-anchor="middle">How to Start Investing with Just $100</text>
+  <circle cx="600" cy="450" r="30" fill="#10b981"/>
+  <text x="600" y="460" font-family="Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle">$</text>
+</svg>

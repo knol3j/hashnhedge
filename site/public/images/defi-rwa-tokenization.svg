@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#1a202c"/>
+  <rect x="40" y="40" width="1120" height="550" fill="#2d3748" rx="8"/>
+  <text x="600" y="240" font-family="Arial, sans-serif" font-size="32" fill="#ffffff" text-anchor="middle" font-weight="bold">Hash &amp; Hedge</text>
+  <text x="600" y="300" font-family="Arial, sans-serif" font-size="22" fill="#a0aec0" text-anchor="middle">DeFi 2025</text>
+  <text x="600" y="340" font-family="Arial, sans-serif" font-size="18" fill="#a0aec0" text-anchor="middle">The Rise of Real-World Asset Tokenization</text>
+  <circle cx="500" cy="450" r="25" fill="#8b5cf6"/>
+  <circle cx="600" cy="450" r="25" fill="#06b6d4"/>
+  <circle cx="700" cy="450" r="25" fill="#10b981"/>
+  <text x="500" y="460" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">🏠</text>
+  <text x="600" y="460" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">🥇</text>
+  <text x="700" y="460" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">📈</text>
+</svg>

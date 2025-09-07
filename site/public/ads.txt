@@ -1,0 +1,7 @@
+# ads.txt for hashnhedge.com
+# Google AdSense
+google.com, pub-4626165154390205, DIRECT, f08c47fec0942fa0
+
+# AdSense Publisher ID: pub-4626165154390205
+# This file helps prevent ad fraud and ensures ad revenue goes to the right publisher
+# Keep this file at the root of your domain: https://hashnhedge.com/ads.txt
