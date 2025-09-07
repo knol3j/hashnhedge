@@ -1,10 +1,16 @@
 {{ define "main" }}
 <div class="home-container">
-    <!-- Hero Section -->
+    <!-- Hero Section with Hedgehog Mascot -->
     <section class="hero-section">
         <div class="hero-content">
-            <h1>{{ .Site.Params.homeIntroTitle | default "Hash & Hedge" }}</h1>
-            <p>{{ .Site.Params.homeIntroContent | default "Professional cryptocurrency and finance news, analysis, and insights for smart investors" }}</p>
+            <div class="mascot-container">
+                <img src="/images/mascot/grok_image_xjeavb4.jpg" alt="CryptoHedgey - Hash & Hedge Mascot" class="floating-mascot">
+            </div>
+            <h1>{{ .Site.Params.homeIntroTitle | default "Hash & Hedge 🦔" }}</h1>
+            <p>{{ .Site.Params.homeIntroContent | default "Where our spiky little mascot helps you navigate the prickly world of cryptocurrency and finance with smart, sharp insights" }}</p>
+            <div class="hedgehog-quote">
+                <p><em>"In crypto, like in nature, it pays to be spiky when the market gets rough!" - CryptoHedgey</em></p>
+            </div>
         </div>
     </section>
 
@@ -112,10 +118,12 @@ window.hashHedgeInfiniteScroll = {
 .hero-section {
     text-align: center;
     padding: 60px 0;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #00FF80 0%, #00B359 50%, #FFFF00 100%);
     color: white;
     margin-bottom: 40px;
     border-radius: 10px;
+    position: relative;
+    overflow: hidden;
 }
 
 .hero-content h1 {
@@ -128,7 +136,49 @@ window.hashHedgeInfiniteScroll = {
     font-size: 1.2rem;
     opacity: 0.9;
     max-width: 600px;
-    margin: 0 auto;
+    margin: 0 auto 20px auto;
+}
+
+/* Hedgehog Mascot Styles */
+.mascot-container {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    z-index: 10;
+}
+
+.floating-mascot {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid rgba(255, 255, 255, 0.3);
+    animation: float 3s ease-in-out infinite;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+.hedgehog-quote {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 15px;
+    margin-top: 20px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.hedgehog-quote p {
+    margin: 0;
+    font-size: 1rem;
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.9);
 }
 
 .posts-section h2 {
@@ -261,6 +311,22 @@ window.hashHedgeInfiniteScroll = {
     
     .hero-section {
         padding: 40px 20px;
+    }
+    
+    /* Mobile hedgehog adjustments */
+    .mascot-container {
+        position: static;
+        margin-bottom: 20px;
+    }
+    
+    .floating-mascot {
+        width: 80px;
+        height: 80px;
+    }
+    
+    .hedgehog-quote {
+        font-size: 0.9rem;
+        padding: 12px;
     }
 }
 </style>

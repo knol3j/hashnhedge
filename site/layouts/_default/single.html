@@ -25,6 +25,9 @@
       {{ .Content }}
     </div>
 
+    <!-- Hedgehog Personality Element -->
+    {{ partial "hedgehog-personality" . }}
+
     <!-- AdSense Ad After Content -->
     {{ partial "adsense-display" (dict "adFormat" "horizontal") }}
 

@@ -1,0 +1,80 @@
+<footer class="footer wrap pale">
+  <div class="footer-content">
+    <div class="footer-branding">
+      <p>&copy;&nbsp;<span class="year"></span>&nbsp;{{ site.Title }} 🦔</p>
+      <p class="hedgehog-tagline">Sharp insights for smart investors</p>
+    </div>
+    <div class="footer-mascot">
+      <img src="/images/mascot/grok_image_xjeavb4.jpg" alt="CryptoHedgey" class="footer-hedgehog">
+    </div>
+  </div>
+  <p class="attribution upcase">Powered by CryptoHedgey & the Hash & Hedge Team</p>
+</footer>
+
+<style>
+.footer {
+  background: linear-gradient(135deg, #00B359 0%, #00FF80 100%);
+  color: white;
+  padding: 30px 20px;
+  margin-top: 50px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-branding p {
+  margin: 5px 0;
+}
+
+.hedgehog-tagline {
+  font-style: italic;
+  opacity: 0.9;
+  font-size: 0.9rem;
+}
+
+.footer-hedgehog {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  animation: spin 10s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.attribution {
+  text-align: center;
+  margin-top: 20px;
+  opacity: 0.8;
+  font-size: 0.8rem;
+}
+
+@media (max-width: 768px) {
+  .footer-content {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .footer-hedgehog {
+    width: 50px;
+    height: 50px;
+    margin-top: 15px;
+  }
+}
+</style>
+
+{{ $scriptPath := "js/index.js" }}
+{{ $scripts := resources.Get $scriptPath | resources.ExecuteAsTemplate $scriptPath . | resources.Minify | resources.Fingerprint "sha512" }}
+<script src="{{ $scripts.Permalink }}"></script>

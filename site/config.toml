@@ -21,7 +21,7 @@ relativeURLs = false
   description = "Discover smart financial strategies, crypto insights, and money-saving tips for building wealth on any budget"
   author = "Hash & Hedge Team"
   keywords = ["cryptocurrency", "bitcoin", "ethereum", "finance", "investing", "defi", "trading", "financial advice"]
-  logo = "/images/logo.svg"
+  logo = "/images/hedgehog-logo.svg"
   
   # AdSense Configuration - ACTIVE
   googleAdsenseID = "ca-pub-4626165154390205"  # Your verified AdSense ID
@@ -40,9 +40,9 @@ relativeURLs = false
   showSummary = true
   showReadingTime = true
   
-  # Newsroom theme specific settings
-  homeIntroTitle = "Hash & Hedge"
-  homeIntroContent = "Professional cryptocurrency and finance news, analysis, and insights for smart investors"
+  # Newsroom theme specific settings with hedgehog personality
+  homeIntroTitle = "Hash & Hedge 🦔"
+  homeIntroContent = "Where our spiky little mascot helps you navigate the prickly world of cryptocurrency and finance with smart, sharp insights"
   
   # SEO enhancements
   enableOpenGraph = true
