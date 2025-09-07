@@ -1,4 +1,11 @@
 {{ define "main" }}
+<!-- AMP Auto Ads -->
+{{ if site.Params.enableAdsense }}
+<amp-auto-ads type="adsense"
+              data-ad-client="{{ site.Params.googleAdsenseID }}">
+</amp-auto-ads>
+{{ end }}
+
 <article class="single-post">
   <div class="container">
     <div class="post-header">
