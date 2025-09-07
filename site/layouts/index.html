@@ -64,6 +64,16 @@
             </noscript>
             {{ end }}
 
+            <!-- Loading Indicator for Infinite Scroll -->
+            <div id="loading-indicator" style="display: none; text-align: center; padding: 2rem;">
+                <div class="loading-spinner">📚 Loading more stories...</div>
+            </div>
+
+            <!-- End Indicator for Infinite Scroll -->
+            <div id="end-indicator" style="display: none; text-align: center; padding: 2rem; color: #666;">
+                <p>🎉 You've explored all stories! Thanks for reading Hash & Hedge.</p>
+            </div>
+
             <!-- AdSense Footer Ad -->
             {{ partial "adsense-display" (dict "adFormat" "horizontal") }}
         </div>
@@ -71,6 +81,25 @@
 </div>
 
 <!-- Include Infinite Scroll Script -->
+<script>
+// Configure infinite scroll with posts data
+window.hashHedgeInfiniteScroll = {
+  currentPage: 1,
+  postsPerPage: 12,
+  totalPosts: {{ len .Site.RegularPages }},
+  allPostsData: [
+    {{- range $index, $post := .Site.RegularPages }}
+    {
+      title: {{ $post.Title | jsonify }},
+      permalink: {{ $post.Permalink | jsonify }},
+      summary: {{ $post.Summary | jsonify }},
+      date: {{ $post.Date.Format "Jan 2, 2006" | jsonify }},
+      image: {{ ($post.Params.image | default "/images/default-cover.svg") | jsonify }}
+    }{{ if ne $index (sub (len $.Site.RegularPages) 1) }},{{ end }}
+    {{- end }}
+  ]
+};
+</script>
 <script src="/js/infinite-scroll.js"></script>
 
 <style>

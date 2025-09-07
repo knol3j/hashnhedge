@@ -1,297 +1,214 @@
 /**
- * Infinite Scroll Implementation for Hash & Hedge
- * Loads 20 posts at a time with smooth scrolling experience
+ * Hash & Hedge Infinite Scroll
+ * Smoothly loads more posts as user scrolls
  */
 
-class InfiniteScroll {
-    constructor() {
-        this.currentPage = 1;
-        this.totalPages = 1;
-        this.loading = false;
-        this.hasNextPage = true;
-        this.baseURL = '';
-        
-        this.init();
-    }
-
-    init() {
-        this.postsContainer = document.getElementById('posts-container');
-        this.loadingIndicator = document.getElementById('loading-indicator');
-        
-        if (!this.postsContainer) {
-            console.warn('Posts container not found');
-            return;
+class HashHedgeInfiniteScroll {
+  constructor() {
+    this.config = window.hashHedgeInfiniteScroll || {};
+    this.postsContainer = document.getElementById('posts-container');
+    this.loadingIndicator = document.getElementById('loading-indicator');
+    this.endIndicator = document.getElementById('end-indicator');
+    
+    this.currentPage = this.config.currentPage || 1;
+    this.postsPerPage = this.config.postsPerPage || 12;
+    this.totalPosts = this.config.totalPosts || 0;
+    this.allPosts = this.config.allPostsData || [];
+    this.loading = false;
+    
+    this.init();
+  }
+  
+  init() {
+    // Set up scroll listener
+    window.addEventListener('scroll', this.throttle(this.handleScroll.bind(this), 250));
+    
+    // Set up intersection observer for better performance
+    this.setupIntersectionObserver();
+    
+    console.log(`🚀 Hash & Hedge Infinite Scroll initialized with ${this.totalPosts} posts`);
+  }
+  
+  setupIntersectionObserver() {
+    // Create a sentinel element to trigger loading
+    this.sentinel = document.createElement('div');
+    this.sentinel.id = 'scroll-sentinel';
+    this.sentinel.style.height = '10px';
+    this.sentinel.style.margin = '0';
+    
+    // Insert sentinel before loading indicator
+    this.loadingIndicator.parentNode.insertBefore(this.sentinel, this.loadingIndicator);
+    
+    // Set up intersection observer
+    this.observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting && !this.loading) {
+          this.loadMorePosts();
         }
-
-        this.setupScrollListener();
-        this.setupLoadingIndicator();
-        
-        // Get initial page info from data attributes
-        const initialPageData = this.postsContainer.dataset;
-        if (initialPageData.currentPage) {
-            this.currentPage = parseInt(initialPageData.currentPage);
-        }
-        if (initialPageData.totalPages) {
-            this.totalPages = parseInt(initialPageData.totalPages);
-        }
-        if (initialPageData.hasNext) {
-            this.hasNextPage = initialPageData.hasNext === 'true';
-        }
+      });
+    }, {
+      rootMargin: '100px' // Trigger 100px before the sentinel comes into view
+    });
+    
+    this.observer.observe(this.sentinel);
+  }
+  
+  handleScroll() {
+    // Fallback scroll handler (in case intersection observer isn't supported)
+    if (this.loading) return;
+    
+    const scrollTop = window.pageYOffset;
+    const windowHeight = window.innerHeight;
+    const documentHeight = document.documentElement.scrollHeight;
+    
+    // Trigger when user is 200px from bottom
+    if (scrollTop + windowHeight >= documentHeight - 200) {
+      this.loadMorePosts();
     }
-
-    setupLoadingIndicator() {
-        if (!this.loadingIndicator) {
-            this.loadingIndicator = document.createElement('div');
-            this.loadingIndicator.id = 'loading-indicator';
-            this.loadingIndicator.className = 'loading-indicator hidden';
-            this.loadingIndicator.innerHTML = `
-                <div class="loading-spinner">
-                    <div class="spinner"></div>
-                    <p>Loading more stories...</p>
-                </div>
-            `;
-            document.body.appendChild(this.loadingIndicator);
-        }
+  }
+  
+  async loadMorePosts() {
+    if (this.loading) return;
+    
+    const startIndex = this.currentPage * this.postsPerPage;
+    const endIndex = startIndex + this.postsPerPage;
+    
+    // Check if we have more posts to load
+    if (startIndex >= this.totalPosts) {
+      this.showEndIndicator();
+      return;
     }
-
-    setupScrollListener() {
-        let throttleTimeout = null;
-        
-        window.addEventListener('scroll', () => {
-            if (throttleTimeout) return;
-            
-            throttleTimeout = setTimeout(() => {
-                throttleTimeout = null;
-                this.handleScroll();
-            }, 100);
-        });
+    
+    this.loading = true;
+    this.showLoadingIndicator();
+    
+    try {
+      // Get next batch of posts
+      const nextPosts = this.allPosts.slice(startIndex, endIndex);
+      
+      // Simulate network delay for smooth UX (remove in production if desired)
+      await this.delay(300);
+      
+      // Render new posts
+      this.renderPosts(nextPosts, startIndex);
+      
+      // Update state
+      this.currentPage++;
+      
+      console.log(`📚 Loaded page ${this.currentPage}, showing ${endIndex} of ${this.totalPosts} posts`);
+      
+    } catch (error) {
+      console.error('❌ Error loading posts:', error);
+      this.showErrorMessage();
+    } finally {
+      this.loading = false;
+      this.hideLoadingIndicator();
     }
-
-    handleScroll() {
-        if (this.loading || !this.hasNextPage) return;
-
-        const scrollHeight = document.documentElement.scrollHeight;
-        const scrollTop = document.documentElement.scrollTop;
-        const clientHeight = document.documentElement.clientHeight;
-        
-        // Load more when user is 200px from bottom
-        if (scrollTop + clientHeight >= scrollHeight - 200) {
-            this.loadMorePosts();
-        }
+  }
+  
+  renderPosts(posts, startIndex) {
+    const fragment = document.createDocumentFragment();
+    
+    posts.forEach((post, index) => {
+      const postElement = this.createPostElement(post, startIndex + index);
+      fragment.appendChild(postElement);
+    });
+    
+    // Add posts to container with staggered animation
+    this.postsContainer.appendChild(fragment);
+    
+    // Trigger animations
+    setTimeout(() => {
+      const newPosts = this.postsContainer.querySelectorAll('.article.new-post');
+      newPosts.forEach((post, index) => {
+        post.style.setProperty('--post-index', index);
+        post.classList.add('animate');
+      });
+    }, 50);
+  }
+  
+  createPostElement(post, index) {
+    const article = document.createElement('article');
+    article.className = 'article mb-2 new-post';
+    article.setAttribute('data-post-id', index);
+    
+    article.innerHTML = `
+      <a href="${post.permalink}">
+        <div class="article_thumb" style="background-image: url(${post.image})"></div>
+        <div class="article_meta">
+          <time class="post_date">${post.date}</time>
+          <h3 class="article_title">${post.title}</h3>
+          <div class="article_excerpt">
+            <p>${post.summary}</p>
+          </div>
+        </div>
+      </a>
+    `;
+    
+    return article;
+  }
+  
+  showLoadingIndicator() {
+    this.loadingIndicator.style.display = 'block';
+  }
+  
+  hideLoadingIndicator() {
+    this.loadingIndicator.style.display = 'none';
+  }
+  
+  showEndIndicator() {
+    this.hideLoadingIndicator();
+    this.endIndicator.style.display = 'block';
+    
+    // Update end indicator text with final count
+    const endText = this.endIndicator.querySelector('p');
+    if (endText) {
+      endText.innerHTML = `🎉 You've explored all ${this.totalPosts} stories! Thanks for reading Hash & Hedge.`;
     }
-
-    async loadMorePosts() {
-        if (this.loading || !this.hasNextPage) return;
-        
-        this.loading = true;
-        this.showLoading();
-        
-        try {
-            const nextPage = this.currentPage + 1;
-            const response = await fetch(`/page/${nextPage}/index.json`);
-            
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            
-            const data = await response.json();
-            
-            if (data.posts && data.posts.length > 0) {
-                this.renderPosts(data.posts);
-                this.currentPage = data.page;
-                this.hasNextPage = data.hasNext;
-                this.totalPages = data.totalPages;
-            } else {
-                this.hasNextPage = false;
-            }
-            
-        } catch (error) {
-            console.error('Error loading more posts:', error);
-            this.showError();
-        } finally {
-            this.loading = false;
-            this.hideLoading();
-        }
+    
+    // Disconnect observer since we're done
+    if (this.observer) {
+      this.observer.disconnect();
     }
-
-    renderPosts(posts) {
-        const fragment = document.createDocumentFragment();
-        
-        posts.forEach((post, index) => {
-            const postElement = this.createPostElement(post);
-            fragment.appendChild(postElement);
-            
-            // Add ad every 6 posts in infinite scroll
-            if ((index + 1) % 6 === 0 && index < posts.length - 1) {
-                const adElement = this.createAdElement();
-                fragment.appendChild(adElement);
-            }
-        });
-        
-        this.postsContainer.appendChild(fragment);
-        
-        // Fade in animation
-        const newPosts = this.postsContainer.querySelectorAll('.post-item:not(.loaded)');
-        newPosts.forEach((post, index) => {
-            setTimeout(() => {
-                post.classList.add('loaded');
-            }, index * 50);
-        });
-        
-        // Initialize AdSense ads for newly loaded content
-        if (typeof adsbygoogle !== 'undefined') {
-            const newAds = this.postsContainer.querySelectorAll('.adsbygoogle:not([data-adsbygoogle-status])');
-            newAds.forEach(ad => {
-                (adsbygoogle = window.adsbygoogle || []).push({});
-            });
-        }
+  }
+  
+  showErrorMessage() {
+    const errorDiv = document.createElement('div');
+    errorDiv.className = 'error-message';
+    errorDiv.style.cssText = 'text-align: center; padding: 2rem; color: #e74c3c;';
+    errorDiv.innerHTML = `
+      <p>❌ Oops! Something went wrong loading more posts.</p>
+      <button onclick="location.reload()" style="background: #663399; color: white; border: none; padding: 0.5rem 1rem; border-radius: 4px; cursor: pointer;">
+        Try Again
+      </button>
+    `;
+    
+    this.loadingIndicator.parentNode.insertBefore(errorDiv, this.loadingIndicator);
+  }
+  
+  // Utility functions
+  throttle(func, limit) {
+    let inThrottle;
+    return function() {
+      const args = arguments;
+      const context = this;
+      if (!inThrottle) {
+        func.apply(context, args);
+        inThrottle = true;
+        setTimeout(() => inThrottle = false, limit);
+      }
     }
-
-    createPostElement(post) {
-        const article = document.createElement('article');
-        article.className = 'post-item';
-        
-        const readingTime = post.readingTime > 1 ? `${post.readingTime} min read` : '1 min read';
-        const postDate = new Date(post.date).toLocaleDateString('en-US', {
-            year: 'numeric',
-            month: 'short',
-            day: 'numeric'
-        });
-        
-        article.innerHTML = `
-            <div class="post-card">
-                <div class="post-image">
-                    <img src="${post.image}" alt="${post.title}" loading="lazy">
-                    <div class="post-category">${post.category}</div>
-                </div>
-                <div class="post-content">
-                    <h2 class="post-title">
-                        <a href="${post.url}">${post.title}</a>
-                    </h2>
-                    <p class="post-summary">${post.summary}</p>
-                    <div class="post-meta">
-                        <span class="post-date">${postDate}</span>
-                        <span class="post-reading-time">${readingTime}</span>
-                    </div>
-                </div>
-            </div>
-        `;
-        
-        return article;
-    }
-
-    createAdElement() {
-        const adContainer = document.createElement('div');
-        adContainer.className = 'ad-container post-item loaded';
-        adContainer.innerHTML = `
-            <div class="adsense-container" style="text-align: center; margin: 20px 0;">
-                <ins class="adsbygoogle"
-                     style="display:block"
-                     data-ad-client="ca-pub-4626165154390205"
-                     data-ad-slot="auto"
-                     data-ad-format="auto"
-                     data-full-width-responsive="true"></ins>
-            </div>
-        `;
-        
-        return adContainer;
-    }
-
-    showLoading() {
-        if (this.loadingIndicator) {
-            this.loadingIndicator.classList.remove('hidden');
-        }
-    }
-
-    hideLoading() {
-        if (this.loadingIndicator) {
-            this.loadingIndicator.classList.add('hidden');
-        }
-    }
-
-    showError() {
-        const errorMsg = document.createElement('div');
-        errorMsg.className = 'load-error';
-        errorMsg.innerHTML = `
-            <p>Unable to load more posts. <button onclick="location.reload()">Refresh page</button></p>
-        `;
-        this.postsContainer.appendChild(errorMsg);
-    }
+  }
+  
+  delay(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+  }
 }
 
-// Initialize when DOM is loaded
+// Initialize when DOM is ready
 document.addEventListener('DOMContentLoaded', () => {
-    new InfiniteScroll();
+  new HashHedgeInfiniteScroll();
 });
 
-// Add CSS for loading animations
-const style = document.createElement('style');
-style.textContent = `
-    .loading-indicator {
-        position: fixed;
-        bottom: 20px;
-        left: 50%;
-        transform: translateX(-50%);
-        background: rgba(0, 0, 0, 0.8);
-        color: white;
-        padding: 15px 25px;
-        border-radius: 25px;
-        z-index: 1000;
-        transition: opacity 0.3s ease;
-    }
-    
-    .loading-indicator.hidden {
-        opacity: 0;
-        pointer-events: none;
-    }
-    
-    .loading-spinner {
-        display: flex;
-        align-items: center;
-        gap: 10px;
-    }
-    
-    .spinner {
-        width: 20px;
-        height: 20px;
-        border: 2px solid #ffffff33;
-        border-top: 2px solid #ffffff;
-        border-radius: 50%;
-        animation: spin 1s linear infinite;
-    }
-    
-    @keyframes spin {
-        0% { transform: rotate(0deg); }
-        100% { transform: rotate(360deg); }
-    }
-    
-    .post-item {
-        opacity: 0;
-        transform: translateY(20px);
-        transition: all 0.5s ease;
-    }
-    
-    .post-item.loaded {
-        opacity: 1;
-        transform: translateY(0);
-    }
-    
-    .load-error {
-        text-align: center;
-        padding: 20px;
-        background: #f8f9fa;
-        margin: 20px 0;
-        border-radius: 8px;
-    }
-    
-    .load-error button {
-        background: #007bff;
-        color: white;
-        border: none;
-        padding: 8px 16px;
-        border-radius: 4px;
-        cursor: pointer;
-        margin-left: 10px;
-    }
-`;
-document.head.appendChild(style);
+// Add smooth scroll behavior for better UX
+document.documentElement.style.scrollBehavior = 'smooth';
