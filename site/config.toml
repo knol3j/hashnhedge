@@ -6,15 +6,15 @@ summaryLength = 25
 canonifyURLs = true
 relativeURLs = false
 
-# Pagination settings
+# Pagination settings - Infinite scroll with 20 posts per page
 [pagination]
-  pagerSize = 12
+  pagerSize = 20
 
-# Enable RSS and JSON feeds
+# Enable RSS and JSON feeds - Add JSON for infinite scroll API
 [outputs]
-  home = ["HTML", "RSS"]
-  page = ["HTML"]
-  section = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "JSON"]
+  section = ["HTML", "RSS", "JSON"]
 
 # Google Analytics and AdSense
 [params]

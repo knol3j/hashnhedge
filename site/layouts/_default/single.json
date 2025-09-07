@@ -1,0 +1,11 @@
+{
+  "title": {{ .Title | jsonify }},
+  "url": {{ .Permalink | jsonify }},
+  "date": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+  "summary": {{ .Summary | jsonify }},
+  "content": {{ .Content | jsonify }},
+  "image": {{ if .Params.image }}{{ .Params.image | jsonify }}{{ else }}"/images/default-cover.svg"{{ end }},
+  "category": {{ if .Params.category }}{{ .Params.category | jsonify }}{{ else }}"News"{{ end }},
+  "readingTime": {{ .ReadingTime }},
+  "wordCount": {{ .WordCount }}
+}

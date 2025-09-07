@@ -1,0 +1,19 @@
+{
+  "page": 1,
+  "totalPages": 1,
+  "totalPosts": 1,
+  "hasNext": false,
+  "nextURL": null,
+  "posts": [
+    {
+      "title": "Posts",
+      "url": "http://localhost:1313/posts/",
+      "date": "2025-08-23T00:00:00Z",
+      "summary": "",
+      "image": "/images/default-cover.svg",
+      "category": "News",
+      "readingTime": 0,
+      "wordCount": 0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{{- $pages := .Pages -}}
+{{- $paginator := .Paginate $pages 20 -}}
+{
+  "page": {{ $paginator.PageNumber }},
+  "totalPages": {{ $paginator.TotalPages }},
+  "totalPosts": {{ len .Pages }},
+  "hasNext": {{ $paginator.HasNext }},
+  "nextURL": {{ if $paginator.HasNext }}"{{ $paginator.Next.URL }}"{{ else }}null{{ end }},
+  "posts": [
+    {{- range $index, $post := $paginator.Pages -}}
+    {{- if $index }},{{ end }}
+    {
+      "title": {{ $post.Title | jsonify }},
+      "url": {{ $post.Permalink | jsonify }},
+      "date": {{ $post.Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+      "summary": {{ $post.Summary | jsonify }},
+      "image": {{ if $post.Params.image }}{{ $post.Params.image | jsonify }}{{ else }}"/images/default-cover.svg"{{ end }},
+      "category": {{ if $post.Params.category }}{{ $post.Params.category | jsonify }}{{ else }}"News"{{ end }},
+      "readingTime": {{ $post.ReadingTime }},
+      "wordCount": {{ $post.WordCount }}
+    }
+    {{- end }}
+  ]
+}
