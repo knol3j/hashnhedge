@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Main logo symbol -->
+  <g transform="translate(400, 200)">
+    <!-- Central N with stylized bars -->
+    <g stroke="none">
+      <!-- Left side bars (yellow to green gradient) -->
+      <rect x="-120" y="40" width="20" height="80" fill="url(#gradient1)" rx="10"/>
+      <rect x="-90" y="20" width="20" height="120" fill="url(#gradient1)" rx="10"/>
+      <rect x="-60" y="0" width="20" height="160" fill="url(#gradient1)" rx="10"/>
+      
+      <!-- Right side bars (green to cyan gradient) -->
+      <rect x="40" y="0" width="20" height="160" fill="url(#gradient2)" rx="10"/>
+      <rect x="70" y="20" width="20" height="120" fill="url(#gradient2)" rx="10"/>
+      <rect x="100" y="40" width="20" height="80" fill="url(#gradient2)" rx="10"/>
+      
+      <!-- Central diagonal stroke (N) -->
+      <path d="M-30 160 L30 0" stroke="url(#gradient3)" stroke-width="30" stroke-linecap="round"/>
+      
+      <!-- Additional accent bars -->
+      <circle cx="-140" cy="80" r="8" fill="url(#gradient1)"/>
+      <circle cx="120" cy="80" r="8" fill="url(#gradient2)"/>
+    </g>
+  </g>
+  
+  <!-- Text: HASH&HEDGE -->
+  <g transform="translate(400, 420)" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold">
+    <!-- HASH -->
+    <text x="-120" y="0" font-size="48" fill="url(#textGradient1)">HASH</text>
+    <!-- & symbol -->
+    <text x="0" y="0" font-size="54" fill="#00B359">&amp;</text>
+    <!-- HEDGE -->
+    <text x="120" y="0" font-size="48" fill="url(#textGradient2)">HEDGE</text>
+  </g>
+  
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="gradient1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00FF80;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="gradient2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00FF80;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00CED1;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00FF80;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00CED1;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="textGradient1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00FF80;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="textGradient2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00FF80;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00CED1;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

@@ -21,7 +21,7 @@ relativeURLs = false
   description = "Discover smart financial strategies, crypto insights, and money-saving tips for building wealth on any budget"
   author = "Hash & Hedge Team"
   keywords = ["cryptocurrency", "bitcoin", "ethereum", "finance", "investing", "defi", "trading", "financial advice"]
-  logo = "/images/hedgehog-logo.svg"
+  logo = "/images/hash-hedge-main-logo.svg"
   
   # AdSense Configuration - ACTIVE
   googleAdsenseID = "ca-pub-4626165154390205"  # Your verified AdSense ID
@@ -40,9 +40,9 @@ relativeURLs = false
   showSummary = true
   showReadingTime = true
   
-  # Newsroom theme specific settings with hedgehog personality
-  homeIntroTitle = "Hash & Hedge 🦔"
-  homeIntroContent = "Where our spiky little mascot helps you navigate the prickly world of cryptocurrency and finance with smart, sharp insights"
+  # Newsroom theme specific settings with professional brand focus
+  homeIntroTitle = "Hash & Hedge"
+  homeIntroContent = "Smart financial insights for the crypto era. Join CryptoHedgey, our spiky mascot, as we navigate the complex world of cryptocurrency and finance with sharp analysis and practical advice"
   
   # SEO enhancements
   enableOpenGraph = true
@@ -75,15 +75,31 @@ relativeURLs = false
   url = "/tags/defi/"
   weight = 4
 
-[[menu.main]]
-  name = "Privacy Policy"
-  url = "/privacy/"
-  weight = 10
+# Footer menu for secondary pages
+[[menu.footer]]
+  name = "About"
+  url = "/about/"
+  weight = 1
 
-[[menu.main]]
+[[menu.footer]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 2
+
+[[menu.footer]]
+  name = "Advertise"
+  url = "/advertise/"
+  weight = 3
+
+[[menu.footer]]
   name = "Terms of Service"
   url = "/terms/"
-  weight = 11
+  weight = 4
+
+[[menu.footer]]
+  name = "Privacy Policy"
+  url = "/privacy/"
+  weight = 5
 
 # Taxonomies
 [taxonomies]
