@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d3748;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="48" font-weight="bold" 
+        fill="#ffffff" text-anchor="middle" dominant-baseline="middle">
+    Hash &amp; Hedge
+  </text>
+  <text x="50%" y="60%" font-family="Arial, sans-serif" font-size="24" 
+        fill="#cbd5e0" text-anchor="middle" dominant-baseline="middle">
+    Uniswap Governance Passes Important Proposal
+  </text>
+  <circle cx="100" cy="530" r="30" fill="#38b2ac"/>
+  <text x="100" y="540" font-family="Arial, sans-serif" font-size="20" font-weight="bold" 
+        fill="#ffffff" text-anchor="middle">🦔</text>
+</svg>

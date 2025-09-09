@@ -137,9 +137,6 @@ relativeURLs = false
   enableReferrerPolicy = true
 
 # Advanced markup configuration
-[markup.goldmark.renderer]
-  unsafe = true
-  hardWraps = false
 
 [markup.highlight]
   style = "github"

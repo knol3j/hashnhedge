@@ -1,4 +1,5 @@
 {{- $structuredData := dict -}}
+{{- $websiteData := dict -}}
 
 {{- if .IsHome -}}
     {{- $structuredData = dict 
@@ -23,7 +24,7 @@
         )
     -}}
     
-    {{- $websiteData := dict
+    {{- $websiteData = dict
         "@context" "https://schema.org"
         "@type" "WebSite"
         "name" .Site.Title
@@ -101,6 +102,21 @@
     {{- end -}}
 
 {{- else if .IsSection -}}
+    {{- $blogPosts := slice -}}
+    {{- range (.Paginator.Pages | first 10) -}}
+        {{- $blogPost := dict
+            "@type" "BlogPosting"
+            "headline" .Title
+            "url" .Permalink
+            "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+            "author" (dict
+                "@type" "Person"
+                "name" ($.Site.Params.author | default "Hash & Hedge Team")
+            )
+        -}}
+        {{- $blogPosts = $blogPosts | append $blogPost -}}
+    {{- end -}}
+    
     {{- $structuredData = dict
         "@context" "https://schema.org"
         "@type" "Blog"
@@ -115,22 +131,8 @@
                 "url" (printf "%s%s" .Site.BaseURL (.Site.Params.logo | default "/images/logo.png"))
             )
         )
-        "blogPost" (slice)
+        "blogPost" $blogPosts
     -}}
-    
-    {{- range (.Paginator.Pages | first 10) -}}
-        {{- $blogPost := dict
-            "@type" "BlogPosting"
-            "headline" .Title
-            "url" .Permalink
-            "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
-            "author" (dict
-                "@type" "Person"
-                "name" ($.Site.Params.author | default "Hash & Hedge Team")
-            )
-        -}}
-        {{- $structuredData = merge $structuredData (dict "blogPost" (append $structuredData.blogPost $blogPost)) -}}
-    {{- end -}}
 {{- end -}}
 
 {{- if $structuredData -}}
@@ -139,11 +141,13 @@
 </script>
 {{- end -}}
 
-{{- if .IsHome -}}
+{{- if and .IsHome $websiteData -}}
 <script type="application/ld+json">
 {{ $websiteData | jsonify | safeJS }}
 </script>
+{{- end -}}
 
+{{- if .IsHome -}}
 <!-- Breadcrumb structured data for homepage -->
 <script type="application/ld+json">
 {
@@ -159,7 +163,7 @@
     ]
 }
 </script>
-{{- else if not .IsHome -}}
+{{- else -}}
 <!-- Breadcrumb structured data -->
 <script type="application/ld+json">
 {

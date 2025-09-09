@@ -1,0 +1,70 @@
+{{- $title := site.Title }}
+{{- $logoText := printf "%s %s" $title (T "logo") }}
+{{- $logo := trim site.Params.logo " " }}
+<header class="nav">
+  <nav class="nav-menu">
+    <a href={{ absURL "" }} class="nav-brand nav_item">
+      {{- if and $logo (ne $logo "") }}
+        <img src="{{ $logo }}" alt="{{ $logoText }}"  width="130px" />
+      {{- else }}
+        {{ $title }}
+      {{- end -}}
+    </a>
+    <div class="nav_bar-wrap">
+      <div class="nav_bar"></div>
+    </div>
+    <!-- Hamburger Menu Button -->
+    <div class="hamburger-menu-btn">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </nav>
+</header>
+
+<style>
+.hamburger-menu-btn {
+  display: block;
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 30px;
+  height: 24px;
+  cursor: pointer;
+  z-index: 1001;
+}
+
+.hamburger-menu-btn span {
+  display: block;
+  width: 100%;
+  height: 3px;
+  background-color: var(--dark);
+  margin-bottom: 5px;
+  transition: all 0.3s ease;
+}
+
+body.menu-open .hamburger-menu-btn span:nth-child(1) {
+  transform: rotate(45deg) translateY(11px);
+}
+
+body.menu-open .hamburger-menu-btn span:nth-child(2) {
+  opacity: 0;
+}
+
+body.menu-open .hamburger-menu-btn span:nth-child(3) {
+  transform: rotate(-45deg) translateY(-11px);
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const hamburgerBtn = document.querySelector('.hamburger-menu-btn');
+  const body = document.body;
+  
+  if (hamburgerBtn) {
+    hamburgerBtn.addEventListener('click', function() {
+      body.classList.toggle('menu-open');
+    });
+  }
+});
+</script>

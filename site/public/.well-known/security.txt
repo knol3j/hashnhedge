@@ -1,0 +1,15 @@
+# Security Policy for Hash & Hedge
+# Updated: 2025-09-09
+
+Contact: mailto:security@hashnhedge.com
+Contact: https://hashnhedge.com/contact/
+Expires: 2026-09-09T00:52:29.669939Z
+Preferred-Languages: en
+Canonical: https://hashnhedge.com/.well-known/security.txt
+Policy: https://hashnhedge.com/security-policy/
+
+# PGP Key (if available)
+# Encryption: https://keys.openpgp.org/search?q=security@hashnhedge.com
+
+# Please report security vulnerabilities responsibly
+# We appreciate responsible disclosure and will respond within 48 hours

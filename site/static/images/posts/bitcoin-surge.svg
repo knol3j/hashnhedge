@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a2332;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d3748;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bitcoin" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f7931a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff6b00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="arrow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00ff80;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00b359;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="800" height="400" fill="url(#bg)"/>
+  
+  <!-- Bitcoin Symbol -->
+  <circle cx="300" cy="200" r="60" fill="url(#bitcoin)" opacity="0.9"/>
+  <text x="300" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white">₿</text>
+  
+  <!-- Surge Arrow -->
+  <path d="M420 300 L580 140 L550 170 L580 140 L550 110" stroke="url(#arrow)" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Chart Lines -->
+  <polyline points="100,320 200,300 300,250 400,180 500,120 600,80 700,60" fill="none" stroke="url(#arrow)" stroke-width="4"/>
+  
+  <!-- Title -->
+  <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="white">Bitcoin Breaks Resistance</text>
+  
+  <!-- Hash & Hedge branding -->
+  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#888">Hash & Hedge</text>
+</svg>

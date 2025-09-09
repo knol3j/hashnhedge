@@ -139,7 +139,7 @@
     
     <!-- Theme CSS -->
     {{ $options := dict "transpiler" "libsass" "targetPath" "css/style.css" }}
-    {{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options | resources.Minify | resources.Fingerprint }}
+    {{ $style := resources.Get "sass/main.sass" | css.Sass $options | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
     
     <!-- Critical CSS inlined -->

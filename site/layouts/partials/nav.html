@@ -1,0 +1,122 @@
+<div class="nav-drop">
+  <div class="nav-body">
+    {{- range site.Menus.main }}
+      <a href="{{ .URL }}" class="nav_item">{{ .Name }}</a>
+    {{- end }}
+    
+    <div class="nav-divider"></div>
+    
+    {{- range site.Menus.footer }}
+      <a href="{{ .URL }}" class="nav_item nav_footer">{{ .Name }}</a>
+    {{- end }}
+    
+    <div class="nav-close"></div>
+    {{- partialCached "mode" . }}
+  </div>
+</div>
+
+<!-- Hamburger Menu Sidebar -->
+<div class="hamburger-menu-overlay"></div>
+<div class="hamburger-menu">
+  <div class="hamburger-menu-content">
+    <h3>More</h3>
+    {{- range site.Menus.footer }}
+      <a href="{{ .URL }}" class="hamburger-menu-item">{{ .Name }}</a>
+    {{- end }}
+  </div>
+</div>
+
+{{- partialCached "header" . }}
+
+<style>
+.nav-divider {
+  height: 1px;
+  background-color: rgba(0,0,0,0.1);
+  margin: 20px 0;
+  width: 100%;
+}
+
+.nav_footer {
+  font-size: 0.9em;
+  opacity: 0.8;
+}
+
+.hamburger-menu-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5);
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+  z-index: 999;
+}
+
+.hamburger-menu {
+  position: fixed;
+  top: 0;
+  right: -300px;
+  width: 280px;
+  height: 100%;
+  background-color: var(--light);
+  box-shadow: -2px 0 10px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+  z-index: 1000;
+  overflow-y: auto;
+}
+
+body.menu-open .hamburger-menu-overlay {
+  opacity: 1;
+  visibility: visible;
+}
+
+body.menu-open .hamburger-menu {
+  right: 0;
+}
+
+.hamburger-menu-content {
+  padding: 80px 30px 30px;
+}
+
+.hamburger-menu-content h3 {
+  margin-bottom: 20px;
+  color: var(--dark);
+}
+
+.hamburger-menu-item {
+  display: block;
+  padding: 12px 0;
+  color: var(--dark);
+  text-decoration: none;
+  font-size: 16px;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  transition: all 0.2s ease;
+}
+
+.hamburger-menu-item:hover {
+  color: var(--theme);
+  padding-left: 10px;
+}
+
+/* Hide footer links in main nav on mobile */
+@media (max-width: 768px) {
+  .nav_footer {
+    display: none;
+  }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const overlay = document.querySelector('.hamburger-menu-overlay');
+  const body = document.body;
+  
+  if (overlay) {
+    overlay.addEventListener('click', function() {
+      body.classList.remove('menu-open');
+    });
+  }
+});
+</script>
