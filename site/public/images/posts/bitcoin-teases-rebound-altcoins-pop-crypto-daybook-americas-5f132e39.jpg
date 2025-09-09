@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a202c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d3748;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bitcoin" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f7931a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff6b00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="green" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00ff80;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00b359;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="altcoin1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#627eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4c6ef5;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="altcoin2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9c88ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="800" height="400" fill="url(#bg)"/>
+  
+  <!-- Bitcoin Symbol with rebound arrow -->
+  <circle cx="150" cy="200" r="50" fill="url(#bitcoin)" opacity="0.9"/>
+  <text x="150" y="213" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white">₿</text>
+  
+  <!-- Rebound Arrow -->
+  <path d="M220 220 Q270 250 320 200 Q350 170 380 180" stroke="url(#green)" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M365 175 L380 180 L375 195" stroke="url(#green)" stroke-width="4" fill="none" stroke-linecap="round"/>
+  
+  <!-- "TEASES" text -->
+  <text x="280" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="url(#green)">TEASES</text>
+  <text x="280" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="white">REBOUND</text>
+  
+  <!-- Altcoins Popping -->
+  <circle cx="500" cy="120" r="30" fill="url(#altcoin1)" opacity="0.8"/>
+  <text x="500" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">ETH</text>
+  
+  <circle cx="580" cy="100" r="25" fill="url(#altcoin2)" opacity="0.8"/>
+  <text x="580" y="107" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">ADA</text>
+  
+  <circle cx="650" cy="130" r="28" fill="url(#green)" opacity="0.8"/>
+  <text x="650" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">SOL</text>
+  
+  <!-- Pop effects -->
+  <path d="M485 105 L505 85 M515 105 L495 85 M500 90 L500 110 M490 100 L510 100" stroke="url(#green)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M565 85 L585 65 M595 85 L575 65 M580 70 L580 90 M570 80 L590 80" stroke="url(#green)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M635 115 L655 95 M665 115 L645 95 M650 100 L650 120 M640 110 L660 110" stroke="url(#green)" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Main Title -->
+  <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white">ALTCOINS</text>
+  <text x="550" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="url(#green)">POP!</text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#ccc">Crypto Daybook Americas</text>
+  
+  <!-- Chart Line -->
+  <polyline points="100,340 200,320 300,300 400,280 500,260 600,240 700,220" fill="none" stroke="url(#green)" stroke-width="3" opacity="0.7"/>
+  
+  <!-- Hash & Hedge branding -->
+  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#888">Hash & Hedge</text>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a202c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d3748;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bitcoin" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f7931a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff6b00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffb347;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="green" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00ff80;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00b359;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="800" height="400" fill="url(#bg)"/>
+  
+  <!-- Solo Miner (Computer/Rig) -->
+  <rect x="80" y="120" width="120" height="80" fill="#333" rx="8" stroke="url(#green)" stroke-width="3"/>
+  <rect x="90" y="130" width="100" height="60" fill="#000" rx="4"/>
+  <text x="140" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="url(#green)">SOLO</text>
+  <text x="140" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="url(#green)">MINER</text>
+  
+  <!-- Mining waves/activity -->
+  <path d="M220 140 Q250 120 280 140 Q310 160 340 140" stroke="url(#bitcoin)" stroke-width="3" fill="none" opacity="0.7"/>
+  <path d="M220 160 Q250 140 280 160 Q310 180 340 160" stroke="url(#bitcoin)" stroke-width="3" fill="none" opacity="0.5"/>
+  <path d="M220 180 Q250 160 280 180 Q310 200 340 180" stroke="url(#bitcoin)" stroke-width="3" fill="none" opacity="0.3"/>
+  
+  <!-- Bitcoin Block -->
+  <rect x="360" y="120" width="100" height="80" fill="url(#bitcoin)" opacity="0.9" rx="8"/>
+  <text x="410" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">BLOCK</text>
+  <text x="410" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">913,632</text>
+  <text x="410" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">FOUND!</text>
+  
+  <!-- Lucky Star -->
+  <path d="M410 90 L415 105 L430 105 L418 115 L423 130 L410 120 L397 130 L402 115 L390 105 L405 105 Z" fill="url(#gold)" opacity="0.9"/>
+  
+  <!-- Reward Arrow -->
+  <path d="M480 160 L550 160" stroke="url(#green)" stroke-width="6" fill="none"/>
+  <path d="M535 150 L550 160 L535 170" stroke="url(#green)" stroke-width="4" fill="none"/>
+  
+  <!-- Reward Display -->
+  <rect x="570" y="100" width="180" height="120" fill="url(#green)" opacity="0.8" rx="12"/>
+  <text x="660" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">JACKPOT!</text>
+  <text x="660" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white">3.13 BTC</text>
+  <text x="660" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">$347K</text>
+  <text x="660" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">USD VALUE</text>
+  
+  <!-- Title -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white">SOLO MINER GETS LUCKY</text>
+  
+  <!-- Statistics -->
+  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#ccc">Second independent mining success this month</text>
+  <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#999">Extremely rare achievement in Bitcoin mining</text>
+  
+  <!-- Celebration particles -->
+  <circle cx="100" cy="80" r="3" fill="url(#gold)" opacity="0.8"/>
+  <circle cx="700" cy="70" r="4" fill="url(#gold)" opacity="0.6"/>
+  <circle cx="150" cy="60" r="2" fill="url(#gold)" opacity="0.9"/>
+  <circle cx="650" cy="50" r="3" fill="url(#gold)" opacity="0.7"/>
+  <circle cx="200" cy="90" r="2" fill="url(#gold)" opacity="0.8"/>
+  <circle cx="600" cy="80" r="3" fill="url(#gold)" opacity="0.6"/>
+  
+  <!-- Hash & Hedge branding -->
+  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#888">Hash & Hedge</text>
+</svg>
