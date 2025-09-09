@@ -1,14 +1,25 @@
 ---
-title: "Cardano Smart Contracts Get Major Upgrade"
-date: "2025-08-18T00:00:00"
-category: "Crypto"
-summary: "Latest developments and analysis in the crypto space with expert insights and market trends."
-image: "/images/posts/cardano-smart-contracts-upgrade.jpg"
+category: Crypto
+date: '2025-08-18T00:00:00'
+image: /images/posts/cardano-smart-contracts-upgrade.jpg
 seo:
-  title: "Cardano Smart Contracts Get Major Upgrade | Hash & Hedge"
-  description: "Expert analysis on cardano smart contracts get major upgrade with market insights and trends"
-  keywords: ["crypto", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on cardano smart contracts get major upgrade with market
+    insights and trends
+  keywords:
+  - crypto
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/cardano-smart-contracts-upgrade.jpg
+  og_type: article
+  title: Cardano Smart Contracts Get Major Upgrade | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/cardano-smart-contracts-upgrade.jpg
+summary: Latest developments and analysis in the crypto space with expert insights
+  and market trends.
+title: Cardano Smart Contracts Get Major Upgrade
 ---
+
 I just crawled through the cardano smart contracts get major upgrade data and sweet Jesus, it's like watching evolution happen in real time. These beautiful bastards aren't just latest developments and analysis in the crypto space with expert insights and market trends.—they're building cathedrals out of code.
 
 

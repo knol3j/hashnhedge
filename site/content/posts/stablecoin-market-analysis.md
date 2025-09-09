@@ -1,14 +1,25 @@
 ---
-title: "Stablecoin Market Reaches $150 Billion"
-date: "2025-08-06T00:00:00"
-category: "Markets"
-summary: "Latest developments and analysis in the markets space with expert insights and market trends."
-image: "/images/posts/stablecoin-market-analysis.jpg"
+category: Markets
+date: '2025-08-06T00:00:00'
+image: /images/posts/stablecoin-market-analysis.jpg
 seo:
-  title: "Stablecoin Market Reaches $150 Billion | Hash & Hedge"
-  description: "Expert analysis on stablecoin market reaches $150 billion with market insights and trends"
-  keywords: ["markets", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on stablecoin market reaches $150 billion with market
+    insights and trends
+  keywords:
+  - markets
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/stablecoin-market-analysis.jpg
+  og_type: article
+  title: Stablecoin Market Reaches $150 Billion | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/stablecoin-market-analysis.jpg
+summary: Latest developments and analysis in the markets space with expert insights
+  and market trends.
+title: Stablecoin Market Reaches $150 Billion
 ---
+
 I just crawled through the stablecoin market reaches $150 billion data and sweet Jesus, it's beautiful and terrifying. These these digital cowboys aren't just latest developments and analysis in the markets space with expert insights and market trends.—they're rewriting the entire fucking rulebook.
 
 

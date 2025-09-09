@@ -1,14 +1,25 @@
 ---
-title: "Smart Contract Verification Tools"
-date: "2025-07-06T00:00:00"
-category: "Security"
-summary: "Latest developments and analysis in the security space with expert insights and market trends."
-image: "/images/posts/smart-contract-verification.jpg"
+category: Security
+date: '2025-07-06T00:00:00'
+image: /images/posts/smart-contract-verification.jpg
 seo:
-  title: "Smart Contract Verification Tools | Hash & Hedge"
-  description: "Expert analysis on smart contract verification tools with market insights and trends"
-  keywords: ["security", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on smart contract verification tools with market insights
+    and trends
+  keywords:
+  - security
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/smart-contract-verification.jpg
+  og_type: article
+  title: Smart Contract Verification Tools | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/smart-contract-verification.jpg
+summary: Latest developments and analysis in the security space with expert insights
+  and market trends.
+title: Smart Contract Verification Tools
 ---
+
 Sweet merciful fuck, the smart contract verification tools situation has me more wired than a central banker during a currency collapse. These beautiful madmen are latest developments and analysis in the security space with expert insights and market trends..
 
 

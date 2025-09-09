@@ -1,14 +1,25 @@
 ---
-title: "Compliance Automation Tools"
-date: "2025-07-10T00:00:00"
-category: "Regulation"
-summary: "Latest developments and analysis in the regulation space with expert insights and market trends."
-image: "/images/posts/compliance-automation-tools.jpg"
+category: Regulation
+date: '2025-07-10T00:00:00'
+image: /images/posts/compliance-automation-tools.jpg
 seo:
-  title: "Compliance Automation Tools | Hash & Hedge"
-  description: "Expert analysis on compliance automation tools with market insights and trends"
-  keywords: ["regulation", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on compliance automation tools with market insights
+    and trends
+  keywords:
+  - regulation
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/compliance-automation-tools.jpg
+  og_type: article
+  title: Compliance Automation Tools | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/compliance-automation-tools.jpg
+summary: Latest developments and analysis in the regulation space with expert insights
+  and market trends.
+title: Compliance Automation Tools
 ---
+
 Here's what gets me harder than Chinese algebra about compliance automation tools: beautiful bastards have figured out how to turn chaos into profit. Latest developments and analysis in the regulation space with expert insights and market trends.
 
 

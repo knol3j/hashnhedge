@@ -1,0 +1,214 @@
+{{- $structuredData := dict -}}
+
+{{- if .IsHome -}}
+    {{- $structuredData = dict 
+        "@context" "https://schema.org"
+        "@type" "Organization"
+        "name" .Site.Title
+        "description" .Site.Params.description
+        "url" .Site.BaseURL
+        "logo" (printf "%s%s" .Site.BaseURL (.Site.Params.logo | default "/images/logo.png"))
+        "sameAs" (slice
+            (printf "https://twitter.com/%s" (.Site.Params.twitter | default "hashnhedge"))
+            (printf "https://github.com/%s" (.Site.Params.github | default "hashnhedge"))
+        )
+        "founder" (dict
+            "@type" "Person"
+            "name" (.Site.Params.author | default "Hash & Hedge Team")
+        )
+        "contactPoint" (dict
+            "@type" "ContactPoint"
+            "contactType" "Customer Service"
+            "email" "contact@hashnhedge.com"
+        )
+    -}}
+    
+    {{- $websiteData := dict
+        "@context" "https://schema.org"
+        "@type" "WebSite"
+        "name" .Site.Title
+        "description" .Site.Params.description
+        "url" .Site.BaseURL
+        "publisher" (dict
+            "@type" "Organization"
+            "name" .Site.Title
+            "logo" (dict
+                "@type" "ImageObject"
+                "url" (printf "%s%s" .Site.BaseURL (.Site.Params.logo | default "/images/logo.png"))
+            )
+        )
+        "potentialAction" (dict
+            "@type" "SearchAction"
+            "target" (printf "%s/search?q={search_term_string}" .Site.BaseURL)
+            "query-input" "required name=search_term_string"
+        )
+    -}}
+
+{{- else if .IsPage -}}
+    {{- $authorData := dict
+        "@type" "Person"
+        "name" (.Site.Params.author | default "Hash & Hedge Team")
+        "url" .Site.BaseURL
+    -}}
+    
+    {{- $publisherData := dict
+        "@type" "Organization"
+        "name" .Site.Title
+        "logo" (dict
+            "@type" "ImageObject"
+            "url" (printf "%s%s" .Site.BaseURL (.Site.Params.logo | default "/images/logo.png"))
+            "width" 512
+            "height" 512
+        )
+    -}}
+    
+    {{- $imageData := dict -}}
+    {{- if .Params.image -}}
+        {{- $imageData = dict
+            "@type" "ImageObject"
+            "url" (printf "%s%s" .Site.BaseURL .Params.image)
+            "width" 1200
+            "height" 630
+        -}}
+    {{- end -}}
+    
+    {{- $structuredData = dict
+        "@context" "https://schema.org"
+        "@type" "NewsArticle"
+        "headline" .Title
+        "description" (.Params.seo.description | default .Summary | default (.Site.Params.description))
+        "url" .Permalink
+        "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+        "dateModified" ((.Lastmod | default .Date).Format "2006-01-02T15:04:05Z07:00")
+        "author" $authorData
+        "publisher" $publisherData
+        "mainEntityOfPage" (dict
+            "@type" "WebPage"
+            "@id" .Permalink
+        )
+    -}}
+    
+    {{- if $imageData -}}
+        {{- $structuredData = merge $structuredData (dict "image" $imageData) -}}
+    {{- end -}}
+    
+    {{- if .Params.tags -}}
+        {{- $structuredData = merge $structuredData (dict "keywords" (delimit .Params.tags ", ")) -}}
+    {{- end -}}
+    
+    {{- if .Params.categories -}}
+        {{- $structuredData = merge $structuredData (dict "articleSection" (index .Params.categories 0)) -}}
+    {{- end -}}
+
+{{- else if .IsSection -}}
+    {{- $structuredData = dict
+        "@context" "https://schema.org"
+        "@type" "Blog"
+        "name" (printf "%s - %s" .Title .Site.Title)
+        "description" (.Description | default (printf "%s section of %s" .Title .Site.Title))
+        "url" .Permalink
+        "publisher" (dict
+            "@type" "Organization"
+            "name" .Site.Title
+            "logo" (dict
+                "@type" "ImageObject"
+                "url" (printf "%s%s" .Site.BaseURL (.Site.Params.logo | default "/images/logo.png"))
+            )
+        )
+        "blogPost" (slice)
+    -}}
+    
+    {{- range (.Paginator.Pages | first 10) -}}
+        {{- $blogPost := dict
+            "@type" "BlogPosting"
+            "headline" .Title
+            "url" .Permalink
+            "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+            "author" (dict
+                "@type" "Person"
+                "name" ($.Site.Params.author | default "Hash & Hedge Team")
+            )
+        -}}
+        {{- $structuredData = merge $structuredData (dict "blogPost" (append $structuredData.blogPost $blogPost)) -}}
+    {{- end -}}
+{{- end -}}
+
+{{- if $structuredData -}}
+<script type="application/ld+json">
+{{ $structuredData | jsonify | safeJS }}
+</script>
+{{- end -}}
+
+{{- if .IsHome -}}
+<script type="application/ld+json">
+{{ $websiteData | jsonify | safeJS }}
+</script>
+
+<!-- Breadcrumb structured data for homepage -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "{{ .Site.BaseURL }}"
+        }
+    ]
+}
+</script>
+{{- else if not .IsHome -}}
+<!-- Breadcrumb structured data -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "{{ .Site.BaseURL }}"
+        }
+        {{- if .Section -}},
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "{{ .Section | title }}",
+            "item": "{{ .Site.BaseURL }}/{{ .Section }}/"
+        }
+        {{- end -}}
+        {{- if .IsPage -}},
+        {
+            "@type": "ListItem",
+            "position": {{ if .Section }}3{{ else }}2{{ end }},
+            "name": "{{ .Title }}",
+            "item": "{{ .Permalink }}"
+        }
+        {{- end -}}
+    ]
+}
+</script>
+{{- end -}}
+
+<!-- FAQ Schema for crypto-related pages -->
+{{- if and .IsPage (in .Params.tags "faq") -}}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is {{ .Title }}?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "{{ .Params.seo.description | default .Summary | plainify | truncate 300 }}"
+            }
+        }
+    ]
+}
+</script>
+{{- end -}}

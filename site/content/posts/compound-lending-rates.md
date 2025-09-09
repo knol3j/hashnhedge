@@ -1,14 +1,25 @@
 ---
-title: "Compound Lending Rates Hit New Highs"
-date: "2025-08-14T00:00:00"
-category: "DeFi"
-summary: "Latest developments and analysis in the defi space with expert insights and market trends."
-image: "/images/posts/compound-lending-rates.jpg"
+category: DeFi
+date: '2025-08-14T00:00:00'
+image: /images/posts/compound-lending-rates.jpg
 seo:
-  title: "Compound Lending Rates Hit New Highs | Hash & Hedge"
-  description: "Expert analysis on compound lending rates hit new highs with market insights and trends"
-  keywords: ["defi", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on compound lending rates hit new highs with market
+    insights and trends
+  keywords:
+  - defi
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/compound-lending-rates.jpg
+  og_type: article
+  title: Compound Lending Rates Hit New Highs | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/compound-lending-rates.jpg
+summary: Latest developments and analysis in the defi space with expert insights and
+  market trends.
+title: Compound Lending Rates Hit New Highs
 ---
+
 Sweet merciful fuck, the compound lending rates hit new highs situation has me more wired than a central banker during a currency collapse. These these digital cowboys are latest developments and analysis in the defi space with expert insights and market trends..
 
 

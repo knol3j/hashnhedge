@@ -1,14 +1,25 @@
 ---
-title: "Layer 2 Solutions See Massive Adoption Growth"
-date: "2025-08-05T00:00:00"
-category: "Technology"
-summary: "Latest developments and analysis in the technology space with expert insights and market trends."
-image: "/images/posts/layer-2-adoption-growth.jpg"
+category: Technology
+date: '2025-08-05T00:00:00'
+image: /images/posts/layer-2-adoption-growth.jpg
 seo:
-  title: "Layer 2 Solutions See Massive Adoption Growth | Hash & Hedge"
-  description: "Expert analysis on layer 2 solutions see massive adoption growth with market insights and trends"
-  keywords: ["technology", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on layer 2 solutions see massive adoption growth with
+    market insights and trends
+  keywords:
+  - technology
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/layer-2-adoption-growth.jpg
+  og_type: article
+  title: Layer 2 Solutions See Massive Adoption Growth | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/layer-2-adoption-growth.jpg
+summary: Latest developments and analysis in the technology space with expert insights
+  and market trends.
+title: Layer 2 Solutions See Massive Adoption Growth
 ---
+
 Sweet merciful fuck, the layer 2 solutions see massive adoption growth situation has me more wired than a hedge fund manager on election night. These beautiful madmen are latest developments and analysis in the technology space with expert insights and market trends..
 
 

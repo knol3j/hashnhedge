@@ -100,3 +100,71 @@ relativeURLs = false
   changefreq = 'daily'
   filename = 'sitemap.xml'
   priority = 0.5
+# Advanced SEO Configuration
+[params.seo]
+  enableJSONLD = true
+  enableOpenGraph = true
+  enableTwitterCards = true
+  enableRobotsTXT = true
+  enableSitemap = true
+
+# Social Media and Verification
+[params.verification]
+  google = ""  # Add Google Search Console verification code
+  bing = ""    # Add Bing Webmaster Tools verification code
+  yandex = ""  # Add Yandex Webmaster verification code
+
+# Performance and Security Headers
+[params.security]
+  enableCSP = true
+  enableHSTS = true
+  enableReferrerPolicy = true
+
+# Advanced markup configuration
+[markup.goldmark.renderer]
+  unsafe = true
+  hardWraps = false
+
+[markup.highlight]
+  style = "github"
+  lineNos = false
+  codeFences = true
+  guessSyntax = true
+  hl_Lines = ""
+  lineNumbersInTable = true
+  noClasses = false
+  tabWidth = 4
+
+# Related content for better internal linking
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+  
+  [[related.indices]]
+    name = "keywords"
+    weight = 100
+  
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+  
+  [[related.indices]]
+    name = "categories"
+    weight = 60
+  
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
+# Image processing for optimization
+[imaging]
+  resampleFilter = "lanczos"
+  quality = 85
+  anchor = "smart"
+
+[imaging.exif]
+  includeFields = ""
+  excludeFields = "GPS|Exif|IPTC|IFD|Photoshop"
+  disableDate = false
+  disableLatLong = true

@@ -1,14 +1,25 @@
 ---
-title: "Market Making Strategies for 2025"
-date: "2025-07-13T00:00:00"
-category: "Trading"
-summary: "Latest developments and analysis in the trading space with expert insights and market trends."
-image: "/images/posts/market-making-strategies.jpg"
+category: Trading
+date: '2025-07-13T00:00:00'
+image: /images/posts/market-making-strategies.jpg
 seo:
-  title: "Market Making Strategies for 2025 | Hash & Hedge"
-  description: "Expert analysis on market making strategies for 2025 with market insights and trends"
-  keywords: ["trading", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on market making strategies for 2025 with market insights
+    and trends
+  keywords:
+  - trading
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/market-making-strategies.jpg
+  og_type: article
+  title: Market Making Strategies for 2025 | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/market-making-strategies.jpg
+summary: Latest developments and analysis in the trading space with expert insights
+  and market trends.
+title: Market Making Strategies for 2025
 ---
+
 Sweet merciful fuck, the market making strategies for 2025 situation has me more wired than a hedge fund manager on election night. These digital alchemists are latest developments and analysis in the trading space with expert insights and market trends..
 
 

@@ -1,0 +1,29 @@
+{
+  "name": "Hash & Hedge - Crypto & Finance Insights",
+  "short_name": "Hash & Hedge",
+  "description": "Smart financial strategies, crypto insights, and money-saving tips for building wealth",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a202c",
+  "theme_color": "#38b2ac",
+  "orientation": "portrait-primary",
+  "categories": [
+    "finance",
+    "news",
+    "education"
+  ],
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,14 +1,25 @@
 ---
-title: "Institutional Bitcoin Buying Reaches ATH"
-date: "2025-08-01T00:00:00"
-category: "Markets"
-summary: "Latest developments and analysis in the markets space with expert insights and market trends."
-image: "/images/posts/institutional-bitcoin-buying.jpg"
+category: Markets
+date: '2025-08-01T00:00:00'
+image: /images/posts/institutional-bitcoin-buying.jpg
 seo:
-  title: "Institutional Bitcoin Buying Reaches ATH | Hash & Hedge"
-  description: "Expert analysis on institutional bitcoin buying reaches ath with market insights and trends"
-  keywords: ["markets", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on institutional bitcoin buying reaches ath with market
+    insights and trends
+  keywords:
+  - markets
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/institutional-bitcoin-buying.jpg
+  og_type: article
+  title: Institutional Bitcoin Buying Reaches ATH | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/institutional-bitcoin-buying.jpg
+summary: Latest developments and analysis in the markets space with expert insights
+  and market trends.
+title: Institutional Bitcoin Buying Reaches ATH
 ---
+
 I just crawled through the institutional bitcoin buying reaches ath data and sweet Jesus, it's beautiful and terrifying. These these digital cowboys aren't just latest developments and analysis in the markets space with expert insights and market trends.—they're rewriting the entire fucking rulebook.
 
 

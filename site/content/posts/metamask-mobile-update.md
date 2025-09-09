@@ -1,14 +1,25 @@
 ---
-title: "MetaMask Mobile Gets Security Enhancement"
-date: "2025-08-10T00:00:00"
-category: "Technology"
-summary: "Latest developments and analysis in the technology space with expert insights and market trends."
-image: "/images/posts/metamask-mobile-update.jpg"
+category: Technology
+date: '2025-08-10T00:00:00'
+image: /images/posts/metamask-mobile-update.jpg
 seo:
-  title: "MetaMask Mobile Gets Security Enhancement | Hash & Hedge"
-  description: "Expert analysis on metamask mobile gets security enhancement with market insights and trends"
-  keywords: ["technology", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on metamask mobile gets security enhancement with market
+    insights and trends
+  keywords:
+  - technology
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/metamask-mobile-update.jpg
+  og_type: article
+  title: MetaMask Mobile Gets Security Enhancement | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/metamask-mobile-update.jpg
+summary: Latest developments and analysis in the technology space with expert insights
+  and market trends.
+title: MetaMask Mobile Gets Security Enhancement
 ---
+
 Here's what gets me harder than Chinese algebra about metamask mobile gets security enhancement: beautiful bastards have figured out how to turn chaos into profit. Latest developments and analysis in the technology space with expert insights and market trends.
 
 

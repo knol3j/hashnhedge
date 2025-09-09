@@ -1,14 +1,25 @@
 ---
-title: "Crypto Insurance Protocols See Growth"
-date: "2025-07-26T00:00:00"
-category: "Insurance"
-summary: "Latest developments and analysis in the insurance space with expert insights and market trends."
-image: "/images/posts/insurance-protocols-growth.jpg"
+category: Insurance
+date: '2025-07-26T00:00:00'
+image: /images/posts/insurance-protocols-growth.jpg
 seo:
-  title: "Crypto Insurance Protocols See Growth | Hash & Hedge"
-  description: "Expert analysis on crypto insurance protocols see growth with market insights and trends"
-  keywords: ["insurance", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on crypto insurance protocols see growth with market
+    insights and trends
+  keywords:
+  - insurance
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/insurance-protocols-growth.jpg
+  og_type: article
+  title: Crypto Insurance Protocols See Growth | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/insurance-protocols-growth.jpg
+summary: Latest developments and analysis in the insurance space with expert insights
+  and market trends.
+title: Crypto Insurance Protocols See Growth
 ---
+
 Sweet merciful fuck, the crypto insurance protocols see growth situation has me more wired than a central banker during a currency collapse. These beautiful madmen are latest developments and analysis in the insurance space with expert insights and market trends..
 
 

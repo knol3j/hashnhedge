@@ -1,15 +1,158 @@
+{{- $title := .Title -}}
+{{- $description := .Description -}}
+{{- if .IsHome -}}
+    {{- $title = .Site.Title -}}
+    {{- $description = .Site.Params.description -}}
+{{- else if .IsPage -}}
+    {{- $title = printf "%s | %s" .Title .Site.Title -}}
+    {{- if .Params.seo.description -}}
+        {{- $description = .Params.seo.description -}}
+    {{- else if .Summary -}}
+        {{- $description = .Summary -}}
+    {{- else -}}
+        {{- $description = printf "%s - %s" .Title .Site.Params.description -}}
+    {{- end -}}
+{{- end -}}
+
 <head>
-  <title>{{ with .Title }}{{ humanize . }} | {{ end }}{{ .Site.Title }}</title>
-  <meta charset='utf-8'>
-  {{- with site.Params.ga_verify }}
-  <meta name="google-site-verification" content="{{ . }}" />
-  {{- end }}
-  <meta name="viewport" content ="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  
-  {{- partialCached "analytics" . }}
-  {{- partial "adsense" . }}
-  {{- partial "opengraph" . }}
-  {{- partialCached "favicon" . }}
-  {{- partialCached "styles" . }}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    
+    <!-- Primary Meta Tags -->
+    <title>{{ $title }}</title>
+    <meta name="title" content="{{ $title }}">
+    <meta name="description" content="{{ $description }}">
+    
+    <!-- Canonical URL -->
+    {{ if .Params.seo.canonical }}
+    <link rel="canonical" href="{{ .Params.seo.canonical }}">
+    {{ else }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{ end }}
+    
+    <!-- Keywords -->
+    {{ if .Params.seo.keywords }}
+    <meta name="keywords" content="{{ delimit .Params.seo.keywords ", " }}">
+    {{ end }}
+    
+    <!-- Author and Publisher -->
+    <meta name="author" content="{{ .Site.Params.author | default "Hash & Hedge Team" }}">
+    <meta name="publisher" content="Hash & Hedge">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="{{ .Params.seo.og_type | default "website" }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:title" content="{{ $title }}">
+    <meta property="og:description" content="{{ $description }}">
+    {{ if .Params.image }}
+    <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.image }}">
+    {{ else }}
+    <meta property="og:image" content="{{ .Site.BaseURL }}/images/default-hero.svg">
+    {{ end }}
+    <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    {{ if .IsPage }}
+    <meta property="article:author" content="{{ .Site.Params.author | default "Hash & Hedge Team" }}">
+    <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+    {{ if .Lastmod }}
+    <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+    {{ end }}
+    {{ range .Params.tags }}
+    <meta property="article:tag" content="{{ . }}">
+    {{ end }}
+    {{ range .Params.categories }}
+    <meta property="article:section" content="{{ . }}">
+    {{ end }}
+    {{ end }}
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="{{ .Params.seo.twitter_card | default "summary_large_image" }}">
+    <meta property="twitter:url" content="{{ .Permalink }}">
+    <meta property="twitter:title" content="{{ $title }}">
+    <meta property="twitter:description" content="{{ $description }}">
+    {{ if .Params.image }}
+    <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.image }}">
+    {{ else }}
+    <meta property="twitter:image" content="{{ .Site.BaseURL }}/images/default-hero.svg">
+    {{ end }}
+    {{ if .Site.Params.twitter }}
+    <meta property="twitter:site" content="@{{ .Site.Params.twitter }}">
+    <meta property="twitter:creator" content="@{{ .Site.Params.twitter }}">
+    {{ end }}
+    
+    <!-- AdSense Verification -->
+    {{ if .Site.Params.googleAdsenseID }}
+    <meta name="google-adsense-account" content="{{ .Site.Params.googleAdsenseID }}">
+    {{ end }}
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- RSS Feeds -->
+    {{ range .AlternativeOutputFormats -}}
+        {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+    
+    <!-- Preconnect to external domains for performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com">
+    
+    <!-- DNS Prefetch -->
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+    
+    <!-- Structured Data -->
+    {{ partial "structured-data.html" . }}
+    
+    <!-- Google Analytics -->
+    {{ if .Site.Params.ga_analytics }}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.ga_analytics }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ .Site.Params.ga_analytics }}', {
+            anonymize_ip: true,
+            cookie_flags: 'secure;samesite=lax',
+            allow_google_signals: false,
+            allow_ad_personalization_signals: false
+        });
+    </script>
+    {{ end }}
+    
+    <!-- AdSense -->
+    {{ if and .Site.Params.enableAdsense .Site.Params.googleAdsenseID }}
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.googleAdsenseID }}"
+            crossorigin="anonymous"></script>
+    {{ end }}
+    
+    <!-- Theme CSS -->
+    {{ $options := dict "transpiler" "libsass" "targetPath" "css/style.css" }}
+    {{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+    
+    <!-- Critical CSS inlined -->
+    <style>
+        /* Critical above-the-fold CSS */
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 0; }
+        .header { background: #1a202c; color: white; padding: 1rem 0; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 1rem; }
+        .loading { opacity: 0; animation: fadeIn 0.3s ease-in-out forwards; }
+        @keyframes fadeIn { to { opacity: 1; } }
+    </style>
+    
+    <!-- Defer non-critical CSS -->
+    <link rel="preload" href="/css/components.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/css/components.css"></noscript>
 </head>

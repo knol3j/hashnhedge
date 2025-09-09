@@ -1,14 +1,25 @@
 ---
-title: "Uniswap Governance Passes Important Proposal"
-date: "2025-08-15T00:00:00"
-category: "DeFi"
-summary: "Latest developments and analysis in the defi space with expert insights and market trends."
-image: "/images/posts/uniswap-governance-proposal.jpg"
+category: DeFi
+date: '2025-08-15T00:00:00'
+image: /images/posts/uniswap-governance-proposal.jpg
 seo:
-  title: "Uniswap Governance Passes Important Proposal | Hash & Hedge"
-  description: "Expert analysis on uniswap governance passes important proposal with market insights and trends"
-  keywords: ["defi", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on uniswap governance passes important proposal with
+    market insights and trends
+  keywords:
+  - defi
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/uniswap-governance-proposal.jpg
+  og_type: article
+  title: Uniswap Governance Passes Important Proposal | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/uniswap-governance-proposal.jpg
+summary: Latest developments and analysis in the defi space with expert insights and
+  market trends.
+title: Uniswap Governance Passes Important Proposal
 ---
+
 Here's what gets me harder than Chinese algebra about uniswap governance passes important proposal: beautiful madmen have figured out how to make beautiful music from market mayhem. Latest developments and analysis in the defi space with expert insights and market trends.
 
 

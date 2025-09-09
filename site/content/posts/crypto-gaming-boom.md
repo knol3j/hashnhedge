@@ -1,14 +1,25 @@
 ---
-title: "Crypto Gaming Industry Experiences Boom"
-date: "2025-08-02T00:00:00"
-category: "Gaming"
-summary: "Latest developments and analysis in the gaming space with expert insights and market trends."
-image: "/images/posts/crypto-gaming-boom.jpg"
+category: Gaming
+date: '2025-08-02T00:00:00'
+image: /images/posts/crypto-gaming-boom.jpg
 seo:
-  title: "Crypto Gaming Industry Experiences Boom | Hash & Hedge"
-  description: "Expert analysis on crypto gaming industry experiences boom with market insights and trends"
-  keywords: ["gaming", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on crypto gaming industry experiences boom with market
+    insights and trends
+  keywords:
+  - gaming
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/crypto-gaming-boom.jpg
+  og_type: article
+  title: Crypto Gaming Industry Experiences Boom | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/crypto-gaming-boom.jpg
+summary: Latest developments and analysis in the gaming space with expert insights
+  and market trends.
+title: Crypto Gaming Industry Experiences Boom
 ---
+
 Here's what gets me harder than Chinese algebra about crypto gaming industry experiences boom: beautiful bastards have figured out how to find zen in the space between greed and terror. Latest developments and analysis in the gaming space with expert insights and market trends.
 
 

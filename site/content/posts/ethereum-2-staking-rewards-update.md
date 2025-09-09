@@ -1,14 +1,25 @@
 ---
-title: "Ethereum 2.0 Staking Rewards See Major Update"
-date: "2025-08-22T00:00:00"
-category: "Crypto"
-summary: "Latest developments and analysis in the crypto space with expert insights and market trends."
-image: "/images/posts/ethereum-2-staking-rewards-update.jpg"
+category: Crypto
+date: '2025-08-22T00:00:00'
+image: /images/posts/ethereum-2-staking-rewards-update.jpg
 seo:
-  title: "Ethereum 2.0 Staking Rewards See Major Update | Hash & Hedge"
-  description: "Expert analysis on ethereum 2.0 staking rewards see major update with market insights and trends"
-  keywords: ["crypto", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on ethereum 2.0 staking rewards see major update with
+    market insights and trends
+  keywords:
+  - crypto
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/ethereum-2-staking-rewards-update.jpg
+  og_type: article
+  title: Ethereum 2.0 Staking Rewards See Major Update | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/ethereum-2-staking-rewards-update.jpg
+summary: Latest developments and analysis in the crypto space with expert insights
+  and market trends.
+title: Ethereum 2.0 Staking Rewards See Major Update
 ---
+
 Sweet merciful fuck, the ethereum 2.0 staking rewards see major update situation has me more wired than a central banker during a currency collapse. These digital alchemists are latest developments and analysis in the crypto space with expert insights and market trends..
 
 

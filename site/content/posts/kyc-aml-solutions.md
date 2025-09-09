@@ -1,14 +1,25 @@
 ---
-title: "KYC/AML Solutions for DeFi"
-date: "2025-07-09T00:00:00"
-category: "Compliance"
-summary: "Latest developments and analysis in the compliance space with expert insights and market trends."
-image: "/images/posts/kyc-aml-solutions.jpg"
+category: Compliance
+date: '2025-07-09T00:00:00'
+image: /images/posts/kyc-aml-solutions.jpg
 seo:
-  title: "KYC/AML Solutions for DeFi | Hash & Hedge"
-  description: "Expert analysis on kyc/aml solutions for defi with market insights and trends"
-  keywords: ["compliance", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on kyc/aml solutions for defi with market insights
+    and trends
+  keywords:
+  - compliance
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/kyc-aml-solutions.jpg
+  og_type: article
+  title: KYC/AML Solutions for DeFi | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/kyc-aml-solutions.jpg
+summary: Latest developments and analysis in the compliance space with expert insights
+  and market trends.
+title: KYC/AML Solutions for DeFi
 ---
+
 Here's what gets me harder than Chinese algebra about kyc/aml solutions for defi: beautiful bastards have figured out how to make beautiful music from market mayhem. Latest developments and analysis in the compliance space with expert insights and market trends.
 
 

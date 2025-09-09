@@ -1,14 +1,25 @@
 ---
-title: "Portfolio Management Tools Update"
-date: "2025-07-12T00:00:00"
-category: "Tools"
-summary: "Latest developments and analysis in the tools space with expert insights and market trends."
-image: "/images/posts/portfolio-management-tools.jpg"
+category: Tools
+date: '2025-07-12T00:00:00'
+image: /images/posts/portfolio-management-tools.jpg
 seo:
-  title: "Portfolio Management Tools Update | Hash & Hedge"
-  description: "Expert analysis on portfolio management tools update with market insights and trends"
-  keywords: ["tools", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on portfolio management tools update with market insights
+    and trends
+  keywords:
+  - tools
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/portfolio-management-tools.jpg
+  og_type: article
+  title: Portfolio Management Tools Update | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/portfolio-management-tools.jpg
+summary: Latest developments and analysis in the tools space with expert insights
+  and market trends.
+title: Portfolio Management Tools Update
 ---
+
 I just crawled through the portfolio management tools update data and sweet Jesus, it's chaos with perfect mathematical precision. These these crypto prophets aren't just latest developments and analysis in the tools space with expert insights and market trends.—they're building cathedrals out of code.
 
 

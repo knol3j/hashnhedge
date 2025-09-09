@@ -1,14 +1,25 @@
 ---
-title: "Solutions for Impermanent Loss"
-date: "2025-07-19T00:00:00"
-category: "DeFi"
-summary: "Latest developments and analysis in the defi space with expert insights and market trends."
-image: "/images/posts/impermanent-loss-solutions.jpg"
+category: DeFi
+date: '2025-07-19T00:00:00'
+image: /images/posts/impermanent-loss-solutions.jpg
 seo:
-  title: "Solutions for Impermanent Loss | Hash & Hedge"
-  description: "Expert analysis on solutions for impermanent loss with market insights and trends"
-  keywords: ["defi", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on solutions for impermanent loss with market insights
+    and trends
+  keywords:
+  - defi
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/impermanent-loss-solutions.jpg
+  og_type: article
+  title: Solutions for Impermanent Loss | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/impermanent-loss-solutions.jpg
+summary: Latest developments and analysis in the defi space with expert insights and
+  market trends.
+title: Solutions for Impermanent Loss
 ---
+
 Here's what gets me harder than Chinese algebra about solutions for impermanent loss: magnificent degenerates have figured out how to find zen in the space between greed and terror. Latest developments and analysis in the defi space with expert insights and market trends.
 
 

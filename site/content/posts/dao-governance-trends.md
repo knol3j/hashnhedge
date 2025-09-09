@@ -1,14 +1,25 @@
 ---
-title: "DAO Governance Models Evolution in 2025"
-date: "2025-08-03T00:00:00"
-category: "Governance"
-summary: "Latest developments and analysis in the governance space with expert insights and market trends."
-image: "/images/posts/dao-governance-trends.jpg"
+category: Governance
+date: '2025-08-03T00:00:00'
+image: /images/posts/dao-governance-trends.jpg
 seo:
-  title: "DAO Governance Models Evolution in 2025 | Hash & Hedge"
-  description: "Expert analysis on dao governance models evolution in 2025 with market insights and trends"
-  keywords: ["governance", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on dao governance models evolution in 2025 with market
+    insights and trends
+  keywords:
+  - governance
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/dao-governance-trends.jpg
+  og_type: article
+  title: DAO Governance Models Evolution in 2025 | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/dao-governance-trends.jpg
+summary: Latest developments and analysis in the governance space with expert insights
+  and market trends.
+title: DAO Governance Models Evolution in 2025
 ---
+
 Christ almighty, I just dove headfirst into dao governance models evolution in 2025 and I feel like I've been drinking from the fountain of financial absurdity. Digital Alchemists are rewriting the rules of money itself.
 
 

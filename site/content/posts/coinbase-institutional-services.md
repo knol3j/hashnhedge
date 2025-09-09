@@ -1,14 +1,25 @@
 ---
-title: "Coinbase Launches New Institutional Services"
-date: "2025-08-11T00:00:00"
-category: "Markets"
-summary: "Latest developments and analysis in the markets space with expert insights and market trends."
-image: "/images/posts/coinbase-institutional-services.jpg"
+category: Markets
+date: '2025-08-11T00:00:00'
+image: /images/posts/coinbase-institutional-services.jpg
 seo:
-  title: "Coinbase Launches New Institutional Services | Hash & Hedge"
-  description: "Expert analysis on coinbase launches new institutional services with market insights and trends"
-  keywords: ["markets", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on coinbase launches new institutional services with
+    market insights and trends
+  keywords:
+  - markets
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/coinbase-institutional-services.jpg
+  og_type: article
+  title: Coinbase Launches New Institutional Services | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/coinbase-institutional-services.jpg
+summary: Latest developments and analysis in the markets space with expert insights
+  and market trends.
+title: Coinbase Launches New Institutional Services
 ---
+
 Sweet merciful fuck, the coinbase launches new institutional services situation has me more wired than a central banker during a currency collapse. These beautiful madmen are latest developments and analysis in the markets space with expert insights and market trends..
 
 

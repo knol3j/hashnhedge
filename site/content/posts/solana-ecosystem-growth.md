@@ -1,14 +1,25 @@
 ---
-title: "Solana Ecosystem Experiences Unprecedented Growth"
-date: "2025-08-19T00:00:00"
-category: "Crypto"
-summary: "Latest developments and analysis in the crypto space with expert insights and market trends."
-image: "/images/posts/solana-ecosystem-growth.jpg"
+category: Crypto
+date: '2025-08-19T00:00:00'
+image: /images/posts/solana-ecosystem-growth.jpg
 seo:
-  title: "Solana Ecosystem Experiences Unprecedented Growth | Hash & Hedge"
-  description: "Expert analysis on solana ecosystem experiences unprecedented growth with market insights and trends"
-  keywords: ["crypto", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on solana ecosystem experiences unprecedented growth
+    with market insights and trends
+  keywords:
+  - crypto
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/solana-ecosystem-growth.jpg
+  og_type: article
+  title: Solana Ecosystem Experiences Unprecedented Growth | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/solana-ecosystem-growth.jpg
+summary: Latest developments and analysis in the crypto space with expert insights
+  and market trends.
+title: Solana Ecosystem Experiences Unprecedented Growth
 ---
+
 Sweet merciful fuck, the solana ecosystem experiences unprecedented growth situation has me more wired than a central banker during a currency collapse. These these crypto prophets are latest developments and analysis in the crypto space with expert insights and market trends..
 
 

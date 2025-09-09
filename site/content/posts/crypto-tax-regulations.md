@@ -1,14 +1,25 @@
 ---
-title: "New Crypto Tax Regulations Take Effect"
-date: "2025-08-08T00:00:00"
-category: "Regulation"
-summary: "Latest developments and analysis in the regulation space with expert insights and market trends."
-image: "/images/posts/crypto-tax-regulations.jpg"
+category: Regulation
+date: '2025-08-08T00:00:00'
+image: /images/posts/crypto-tax-regulations.jpg
 seo:
-  title: "New Crypto Tax Regulations Take Effect | Hash & Hedge"
-  description: "Expert analysis on new crypto tax regulations take effect with market insights and trends"
-  keywords: ["regulation", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on new crypto tax regulations take effect with market
+    insights and trends
+  keywords:
+  - regulation
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/crypto-tax-regulations.jpg
+  og_type: article
+  title: New Crypto Tax Regulations Take Effect | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/crypto-tax-regulations.jpg
+summary: Latest developments and analysis in the regulation space with expert insights
+  and market trends.
+title: New Crypto Tax Regulations Take Effect
 ---
+
 Sweet merciful fuck, the new crypto tax regulations take effect situation has me more wired than a central banker during a currency collapse. These these crypto prophets are latest developments and analysis in the regulation space with expert insights and market trends..
 
 

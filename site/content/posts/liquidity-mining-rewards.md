@@ -1,14 +1,25 @@
 ---
-title: "Liquidity Mining Rewards Optimization"
-date: "2025-07-23T00:00:00"
-category: "DeFi"
-summary: "Latest developments and analysis in the defi space with expert insights and market trends."
-image: "/images/posts/liquidity-mining-rewards.jpg"
+category: DeFi
+date: '2025-07-23T00:00:00'
+image: /images/posts/liquidity-mining-rewards.jpg
 seo:
-  title: "Liquidity Mining Rewards Optimization | Hash & Hedge"
-  description: "Expert analysis on liquidity mining rewards optimization with market insights and trends"
-  keywords: ["defi", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on liquidity mining rewards optimization with market
+    insights and trends
+  keywords:
+  - defi
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/liquidity-mining-rewards.jpg
+  og_type: article
+  title: Liquidity Mining Rewards Optimization | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/liquidity-mining-rewards.jpg
+summary: Latest developments and analysis in the defi space with expert insights and
+  market trends.
+title: Liquidity Mining Rewards Optimization
 ---
+
 Christ almighty, I just dove headfirst into liquidity mining rewards optimization and I feel like I've been drinking from the fountain of financial absurdity. These Crypto Prophets are dancing on the grave of traditional finance.
 
 

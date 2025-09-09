@@ -1,14 +1,25 @@
 ---
-title: "Automated Market Makers Innovation"
-date: "2025-07-21T00:00:00"
-category: "Technology"
-summary: "Latest developments and analysis in the technology space with expert insights and market trends."
-image: "/images/posts/automated-market-makers.jpg"
+category: Technology
+date: '2025-07-21T00:00:00'
+image: /images/posts/automated-market-makers.jpg
 seo:
-  title: "Automated Market Makers Innovation | Hash & Hedge"
-  description: "Expert analysis on automated market makers innovation with market insights and trends"
-  keywords: ["technology", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on automated market makers innovation with market insights
+    and trends
+  keywords:
+  - technology
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/automated-market-makers.jpg
+  og_type: article
+  title: Automated Market Makers Innovation | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/automated-market-makers.jpg
+summary: Latest developments and analysis in the technology space with expert insights
+  and market trends.
+title: Automated Market Makers Innovation
 ---
+
 I just crawled through the automated market makers innovation data and sweet Jesus, it's beautiful and terrifying. These beautiful bastards aren't just latest developments and analysis in the technology space with expert insights and market trends.—they're rewriting the entire fucking rulebook.
 
 

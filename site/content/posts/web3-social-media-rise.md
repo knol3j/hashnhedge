@@ -1,14 +1,25 @@
 ---
-title: "Web3 Social Media Platforms Gain Traction"
-date: "2025-08-04T00:00:00"
-category: "Social"
-summary: "Latest developments and analysis in the social space with expert insights and market trends."
-image: "/images/posts/web3-social-media-rise.jpg"
+category: Social
+date: '2025-08-04T00:00:00'
+image: /images/posts/web3-social-media-rise.jpg
 seo:
-  title: "Web3 Social Media Platforms Gain Traction | Hash & Hedge"
-  description: "Expert analysis on web3 social media platforms gain traction with market insights and trends"
-  keywords: ["social", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on web3 social media platforms gain traction with market
+    insights and trends
+  keywords:
+  - social
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/web3-social-media-rise.jpg
+  og_type: article
+  title: Web3 Social Media Platforms Gain Traction | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/web3-social-media-rise.jpg
+summary: Latest developments and analysis in the social space with expert insights
+  and market trends.
+title: Web3 Social Media Platforms Gain Traction
 ---
+
 Christ almighty, I just dove headfirst into web3 social media platforms gain traction and I feel like I've been mainlining pure digital chaos. Beautiful Madmen are building tomorrow while today burns.
 
 

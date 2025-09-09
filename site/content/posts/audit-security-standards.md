@@ -1,14 +1,25 @@
 ---
-title: "Audit and Security Standards Update"
-date: "2025-07-08T00:00:00"
-category: "Security"
-summary: "Latest developments and analysis in the security space with expert insights and market trends."
-image: "/images/posts/audit-security-standards.jpg"
+category: Security
+date: '2025-07-08T00:00:00'
+image: /images/posts/audit-security-standards.jpg
 seo:
-  title: "Audit and Security Standards Update | Hash & Hedge"
-  description: "Expert analysis on audit and security standards update with market insights and trends"
-  keywords: ["security", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on audit and security standards update with market
+    insights and trends
+  keywords:
+  - security
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/audit-security-standards.jpg
+  og_type: article
+  title: Audit and Security Standards Update | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/audit-security-standards.jpg
+summary: Latest developments and analysis in the security space with expert insights
+  and market trends.
+title: Audit and Security Standards Update
 ---
+
 I just crawled through the audit and security standards update data and sweet Jesus, it's chaos with perfect mathematical precision. These digital alchemists aren't just latest developments and analysis in the security space with expert insights and market trends.—they're rewriting the entire fucking rulebook.
 
 

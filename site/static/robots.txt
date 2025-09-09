@@ -1,4 +1,44 @@
+# Hash & Hedge - Robots.txt
+# Updated: 2025-09-09
+
 User-agent: *
 Allow: /
-Sitemap: https://hashnhedge.com/sitemap.xml
+Disallow: /admin/
+Disallow: /api/
+Disallow: /search?*
+Disallow: /*.json$
+Disallow: /*?utm_*
+Disallow: /*?ref=*
+Disallow: /*?source=*
 
+# Allow important crawlers full access
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# Block aggressive crawlers
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+# Sitemaps
+Sitemap: https://hashnhedge.com/sitemap.xml
+Sitemap: https://hashnhedge.com/news-sitemap.xml
+
+# Host
+Host: https://hashnhedge.com

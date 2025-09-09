@@ -1,14 +1,25 @@
 ---
-title: "Prediction Markets Evolution and Trends"
-date: "2025-07-25T00:00:00"
-category: "Markets"
-summary: "Latest developments and analysis in the markets space with expert insights and market trends."
-image: "/images/posts/prediction-markets-evolution.jpg"
+category: Markets
+date: '2025-07-25T00:00:00'
+image: /images/posts/prediction-markets-evolution.jpg
 seo:
-  title: "Prediction Markets Evolution and Trends | Hash & Hedge"
-  description: "Expert analysis on prediction markets evolution and trends with market insights and trends"
-  keywords: ["markets", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on prediction markets evolution and trends with market
+    insights and trends
+  keywords:
+  - markets
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/prediction-markets-evolution.jpg
+  og_type: article
+  title: Prediction Markets Evolution and Trends | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/prediction-markets-evolution.jpg
+summary: Latest developments and analysis in the markets space with expert insights
+  and market trends.
+title: Prediction Markets Evolution and Trends
 ---
+
 Here's what gets me harder than Chinese algebra about prediction markets evolution and trends: these crypto prophets have figured out how to make beautiful music from market mayhem. Latest developments and analysis in the markets space with expert insights and market trends.
 
 

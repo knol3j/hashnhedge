@@ -1,14 +1,25 @@
 ---
-title: "Governance Token Analysis and Trends"
-date: "2025-07-22T00:00:00"
-category: "Governance"
-summary: "Latest developments and analysis in the governance space with expert insights and market trends."
-image: "/images/posts/governance-token-analysis.jpg"
+category: Governance
+date: '2025-07-22T00:00:00'
+image: /images/posts/governance-token-analysis.jpg
 seo:
-  title: "Governance Token Analysis and Trends | Hash & Hedge"
-  description: "Expert analysis on governance token analysis and trends with market insights and trends"
-  keywords: ["governance", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on governance token analysis and trends with market
+    insights and trends
+  keywords:
+  - governance
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/governance-token-analysis.jpg
+  og_type: article
+  title: Governance Token Analysis and Trends | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/governance-token-analysis.jpg
+summary: Latest developments and analysis in the governance space with expert insights
+  and market trends.
+title: Governance Token Analysis and Trends
 ---
+
 Sweet merciful fuck, the governance token analysis  trends situation has me more wired than a central banker during a currency collapse. These beautiful bastards are latest developments and analysis in the governance space with expert insights and market trends..
 
 

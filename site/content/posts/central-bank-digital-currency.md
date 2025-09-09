@@ -1,14 +1,25 @@
 ---
-title: "Central Bank Digital Currency Pilots Expand"
-date: "2025-08-07T00:00:00"
-category: "Regulation"
-summary: "Latest developments and analysis in the regulation space with expert insights and market trends."
-image: "/images/posts/central-bank-digital-currency.jpg"
+category: Regulation
+date: '2025-08-07T00:00:00'
+image: /images/posts/central-bank-digital-currency.jpg
 seo:
-  title: "Central Bank Digital Currency Pilots Expand | Hash & Hedge"
-  description: "Expert analysis on central bank digital currency pilots expand with market insights and trends"
-  keywords: ["regulation", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on central bank digital currency pilots expand with
+    market insights and trends
+  keywords:
+  - regulation
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/central-bank-digital-currency.jpg
+  og_type: article
+  title: Central Bank Digital Currency Pilots Expand | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/central-bank-digital-currency.jpg
+summary: Latest developments and analysis in the regulation space with expert insights
+  and market trends.
+title: Central Bank Digital Currency Pilots Expand
 ---
+
 I just crawled through the central bank digital currency pilots expand data and sweet Jesus, it's chaos with perfect mathematical precision. These these crypto prophets aren't just latest developments and analysis in the regulation space with expert insights and market trends.—they're rewriting the entire fucking rulebook.
 
 

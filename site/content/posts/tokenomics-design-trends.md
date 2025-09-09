@@ -1,14 +1,25 @@
 ---
-title: "Tokenomics Design Trends for 2025"
-date: "2025-07-28T00:00:00"
-category: "Economics"
-summary: "Latest developments and analysis in the economics space with expert insights and market trends."
-image: "/images/posts/tokenomics-design-trends.jpg"
+category: Economics
+date: '2025-07-28T00:00:00'
+image: /images/posts/tokenomics-design-trends.jpg
 seo:
-  title: "Tokenomics Design Trends for 2025 | Hash & Hedge"
-  description: "Expert analysis on tokenomics design trends for 2025 with market insights and trends"
-  keywords: ["economics", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on tokenomics design trends for 2025 with market insights
+    and trends
+  keywords:
+  - economics
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/tokenomics-design-trends.jpg
+  og_type: article
+  title: Tokenomics Design Trends for 2025 | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/tokenomics-design-trends.jpg
+summary: Latest developments and analysis in the economics space with expert insights
+  and market trends.
+title: Tokenomics Design Trends for 2025
 ---
+
 Sweet merciful fuck, the tokenomics design trends for 2025 situation has me more wired than a day trader with insider information. These beautiful madmen are latest developments and analysis in the economics space with expert insights and market trends..
 
 

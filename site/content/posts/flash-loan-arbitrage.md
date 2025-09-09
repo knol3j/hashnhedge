@@ -1,14 +1,25 @@
 ---
-title: "Flash Loan Arbitrage Opportunities"
-date: "2025-07-20T00:00:00"
-category: "Trading"
-summary: "Latest developments and analysis in the trading space with expert insights and market trends."
-image: "/images/posts/flash-loan-arbitrage.jpg"
+category: Trading
+date: '2025-07-20T00:00:00'
+image: /images/posts/flash-loan-arbitrage.jpg
 seo:
-  title: "Flash Loan Arbitrage Opportunities | Hash & Hedge"
-  description: "Expert analysis on flash loan arbitrage opportunities with market insights and trends"
-  keywords: ["trading", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on flash loan arbitrage opportunities with market insights
+    and trends
+  keywords:
+  - trading
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/flash-loan-arbitrage.jpg
+  og_type: article
+  title: Flash Loan Arbitrage Opportunities | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/flash-loan-arbitrage.jpg
+summary: Latest developments and analysis in the trading space with expert insights
+  and market trends.
+title: Flash Loan Arbitrage Opportunities
 ---
+
 Here's what gets me harder than Chinese algebra about flash loan arbitrage opportunities: these crypto prophets have figured out how to turn chaos into profit. Latest developments and analysis in the trading space with expert insights and market trends.
 
 

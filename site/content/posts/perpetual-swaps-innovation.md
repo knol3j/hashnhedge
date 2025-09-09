@@ -1,14 +1,25 @@
 ---
-title: "Perpetual Swaps See Innovation"
-date: "2025-07-16T00:00:00"
-category: "Trading"
-summary: "Latest developments and analysis in the trading space with expert insights and market trends."
-image: "/images/posts/perpetual-swaps-innovation.jpg"
+category: Trading
+date: '2025-07-16T00:00:00'
+image: /images/posts/perpetual-swaps-innovation.jpg
 seo:
-  title: "Perpetual Swaps See Innovation | Hash & Hedge"
-  description: "Expert analysis on perpetual swaps see innovation with market insights and trends"
-  keywords: ["trading", "cryptocurrency", "blockchain", "analysis"]
+  description: Expert analysis on perpetual swaps see innovation with market insights
+    and trends
+  keywords:
+  - trading
+  - cryptocurrency
+  - blockchain
+  - analysis
+  og_image: /images/posts/perpetual-swaps-innovation.jpg
+  og_type: article
+  title: Perpetual Swaps See Innovation | Hash & Hedge
+  twitter_card: summary_large_image
+  twitter_image: /images/posts/perpetual-swaps-innovation.jpg
+summary: Latest developments and analysis in the trading space with expert insights
+  and market trends.
+title: Perpetual Swaps See Innovation
 ---
+
 Sweet merciful fuck, the perpetual swaps see innovation situation has me more wired than a central banker during a currency collapse. These these crypto prophets are latest developments and analysis in the trading space with expert insights and market trends..
 
 
