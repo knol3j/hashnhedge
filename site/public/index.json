@@ -1,1 +1,69 @@
-{"page":1,"totalPages":1,"totalPosts":6,"hasNext":false,"nextURL":null,"posts":[{"title":"Posts","url":"https://hashnhedge.com/posts/","date":"2025-09-09T17:21:11Z","summary":"","image":"/images/default-cover.svg","category":"News","readingTime":0,"wordCount":0},{"title":"Advertise With Us","url":"https://hashnhedge.com/advertise/","date":"2025-08-31T00:00:00Z","summary":"\u003ch1 id=\"advertise-on-hashnhedge\"\u003eAdvertise on HashNHedge\u003c/h1\u003e\n\u003cp\u003eReach a highly engaged audience of cryptocurrency enthusiasts, traders, developers, and financial technology professionals.\u003c/p\u003e\n\u003ch2 id=\"-our-audience\"\u003e📊 Our Audience\u003c/h2\u003e\n\u003ch3 id=\"demographics\"\u003eDemographics\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eAge:\u003c/strong\u003e 65% aged 25-44\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eGender:\u003c/strong\u003e 72% male, 28% female\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eLocation:\u003c/strong\u003e Global reach with focus on US, UK, EU, and Asia\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eEducation:\u003c/strong\u003e 78% college-educated or higher\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eIncome:\u003c/strong\u003e Above-average disposable income\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"interests\"\u003eInterests\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eCryptocurrency trading and investment\u003c/li\u003e\n\u003cli\u003eBlockchain technology\u003c/li\u003e\n\u003cli\u003eDeFi protocols\u003c/li\u003e\n\u003cli\u003eCybersecurity\u003c/li\u003e\n\u003cli\u003eFinancial markets\u003c/li\u003e\n\u003cli\u003eTechnology innovation\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"-advertising-options\"\u003e🎯 Advertising Options\u003c/h2\u003e\n\u003ch3 id=\"1-display-advertising-google-adsense\"\u003e1. Display Advertising (Google AdSense)\u003c/h3\u003e\n\u003cp\u003eOur site uses Google AdSense for programmatic display advertising:\u003c/p\u003e","image":"/images/default-cover.svg","category":"News","readingTime":2,"wordCount":381},{"title":"Contact Us","url":"https://hashnhedge.com/contact/","date":"2025-08-31T00:00:00Z","summary":"\u003ch1 id=\"contact-hashnhedge\"\u003eContact HashNHedge\u003c/h1\u003e\n\u003cp\u003eWe value your feedback, questions, and partnership opportunities. Whether you\u0026rsquo;re a reader with insights to share, a potential advertiser, or someone interested in collaboration, we\u0026rsquo;d love to hear from you.\u003c/p\u003e","image":"/images/default-cover.svg","category":"News","readingTime":2,"wordCount":224},{"title":"Terms of Service","url":"https://hashnhedge.com/terms/","date":"2025-08-31T00:00:00Z","summary":"\u003ch1 id=\"terms-of-service\"\u003eTerms of Service\u003c/h1\u003e\n\u003cp\u003e\u003cem\u003eEffective Date: August 31, 2025\u003c/em\u003e\u003c/p\u003e\n\u003ch2 id=\"1-agreement-to-terms\"\u003e1. Agreement to Terms\u003c/h2\u003e\n\u003cp\u003eBy accessing or using HashNHedge (\u0026ldquo;we,\u0026rdquo; \u0026ldquo;our,\u0026rdquo; or \u0026ldquo;us\u0026rdquo;), you agree to be bound by these Terms of Service and all applicable laws and regulations. If you disagree with any part of these terms, you may not access the website.\u003c/p\u003e","image":"/images/default-cover.svg","category":"News","readingTime":3,"wordCount":525},{"title":"About Hash \u0026 Hedge","url":"https://hashnhedge.com/about/","date":"2025-08-30T00:00:00Z","summary":"\u003ch1 id=\"about-hash--hedge\"\u003eAbout Hash \u0026amp; Hedge\u003c/h1\u003e\n\u003ch2 id=\"your-premier-source-for-financial-intelligence\"\u003eYour Premier Source for Financial Intelligence\u003c/h2\u003e\n\u003cp\u003eHash \u0026amp; Hedge stands at the intersection of traditional finance and emerging digital assets, delivering comprehensive coverage that empowers investors, traders, and financial professionals to make informed decisions in an rapidly evolving market landscape.\u003c/p\u003e","image":"/images/default-cover.svg","category":"News","readingTime":3,"wordCount":435},{"title":"Privacy Policy","url":"https://hashnhedge.com/privacy/","date":"2025-08-30T00:00:00Z","summary":"\u003ch1 id=\"privacy-policy\"\u003ePrivacy Policy\u003c/h1\u003e\n\u003cp\u003e\u003cstrong\u003eEffective Date\u003c/strong\u003e: August 30, 2025\u003cbr\u003e\n\u003cstrong\u003eLast Updated\u003c/strong\u003e: August 30, 2025\u003c/p\u003e\n\u003ch2 id=\"introduction\"\u003eIntroduction\u003c/h2\u003e\n\u003cp\u003eAt Hash \u0026amp; Hedge (\u0026ldquo;we,\u0026rdquo; \u0026ldquo;our,\u0026rdquo; or \u0026ldquo;us\u0026rdquo;), we respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, share, and safeguard your information when you visit our website hashnhedge.com (the \u0026ldquo;Service\u0026rdquo;).\u003c/p\u003e","image":"/images/default-cover.svg","category":"News","readingTime":4,"wordCount":704}]}
+{
+  "page": 1,
+  "totalPages": 1,
+  "totalPosts": 6,
+  "hasNext": false,
+  "nextURL": null,
+  "posts": [
+    {
+      "title": "Posts",
+      "url": "http://localhost:1318/posts/",
+      "date": "2025-09-09T17:21:11Z",
+      "summary": "",
+      "image": "/images/default-cover.svg",
+      "category": "News",
+      "readingTime": 0,
+      "wordCount": 0
+    },
+    {
+      "title": "Advertise With Us",
+      "url": "http://localhost:1318/advertise/",
+      "date": "2025-08-31T00:00:00Z",
+      "summary": "\u003ch1 id=\"advertise-on-hashnhedge\"\u003eAdvertise on HashNHedge\u003c/h1\u003e\n\u003cp\u003eReach a highly engaged audience of cryptocurrency enthusiasts, traders, developers, and financial technology professionals.\u003c/p\u003e\n\u003ch2 id=\"-our-audience\"\u003e📊 Our Audience\u003c/h2\u003e\n\u003ch3 id=\"demographics\"\u003eDemographics\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eAge:\u003c/strong\u003e 65% aged 25-44\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eGender:\u003c/strong\u003e 72% male, 28% female\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eLocation:\u003c/strong\u003e Global reach with focus on US, UK, EU, and Asia\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eEducation:\u003c/strong\u003e 78% college-educated or higher\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eIncome:\u003c/strong\u003e Above-average disposable income\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"interests\"\u003eInterests\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eCryptocurrency trading and investment\u003c/li\u003e\n\u003cli\u003eBlockchain technology\u003c/li\u003e\n\u003cli\u003eDeFi protocols\u003c/li\u003e\n\u003cli\u003eCybersecurity\u003c/li\u003e\n\u003cli\u003eFinancial markets\u003c/li\u003e\n\u003cli\u003eTechnology innovation\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"-advertising-options\"\u003e🎯 Advertising Options\u003c/h2\u003e\n\u003ch3 id=\"1-display-advertising-google-adsense\"\u003e1. Display Advertising (Google AdSense)\u003c/h3\u003e\n\u003cp\u003eOur site uses Google AdSense for programmatic display advertising:\u003c/p\u003e",
+      "image": "/images/default-cover.svg",
+      "category": "News",
+      "readingTime": 2,
+      "wordCount": 381
+    },
+    {
+      "title": "Contact Us",
+      "url": "http://localhost:1318/contact/",
+      "date": "2025-08-31T00:00:00Z",
+      "summary": "\u003ch1 id=\"contact-hashnhedge\"\u003eContact HashNHedge\u003c/h1\u003e\n\u003cp\u003eWe value your feedback, questions, and partnership opportunities. Whether you\u0026rsquo;re a reader with insights to share, a potential advertiser, or someone interested in collaboration, we\u0026rsquo;d love to hear from you.\u003c/p\u003e",
+      "image": "/images/default-cover.svg",
+      "category": "News",
+      "readingTime": 2,
+      "wordCount": 224
+    },
+    {
+      "title": "Terms of Service",
+      "url": "http://localhost:1318/terms/",
+      "date": "2025-08-31T00:00:00Z",
+      "summary": "\u003ch1 id=\"terms-of-service\"\u003eTerms of Service\u003c/h1\u003e\n\u003cp\u003e\u003cem\u003eEffective Date: August 31, 2025\u003c/em\u003e\u003c/p\u003e\n\u003ch2 id=\"1-agreement-to-terms\"\u003e1. Agreement to Terms\u003c/h2\u003e\n\u003cp\u003eBy accessing or using HashNHedge (\u0026ldquo;we,\u0026rdquo; \u0026ldquo;our,\u0026rdquo; or \u0026ldquo;us\u0026rdquo;), you agree to be bound by these Terms of Service and all applicable laws and regulations. If you disagree with any part of these terms, you may not access the website.\u003c/p\u003e",
+      "image": "/images/default-cover.svg",
+      "category": "News",
+      "readingTime": 3,
+      "wordCount": 525
+    },
+    {
+      "title": "About Hash \u0026 Hedge",
+      "url": "http://localhost:1318/about/",
+      "date": "2025-08-30T00:00:00Z",
+      "summary": "\u003ch1 id=\"about-hash--hedge\"\u003eAbout Hash \u0026amp; Hedge\u003c/h1\u003e\n\u003ch2 id=\"your-premier-source-for-financial-intelligence\"\u003eYour Premier Source for Financial Intelligence\u003c/h2\u003e\n\u003cp\u003eHash \u0026amp; Hedge stands at the intersection of traditional finance and emerging digital assets, delivering comprehensive coverage that empowers investors, traders, and financial professionals to make informed decisions in an rapidly evolving market landscape.\u003c/p\u003e",
+      "image": "/images/default-cover.svg",
+      "category": "News",
+      "readingTime": 3,
+      "wordCount": 435
+    },
+    {
+      "title": "Privacy Policy",
+      "url": "http://localhost:1318/privacy/",
+      "date": "2025-08-30T00:00:00Z",
+      "summary": "\u003ch1 id=\"privacy-policy\"\u003ePrivacy Policy\u003c/h1\u003e\n\u003cp\u003e\u003cstrong\u003eEffective Date\u003c/strong\u003e: August 30, 2025\u003cbr\u003e\n\u003cstrong\u003eLast Updated\u003c/strong\u003e: August 30, 2025\u003c/p\u003e\n\u003ch2 id=\"introduction\"\u003eIntroduction\u003c/h2\u003e\n\u003cp\u003eAt Hash \u0026amp; Hedge (\u0026ldquo;we,\u0026rdquo; \u0026ldquo;our,\u0026rdquo; or \u0026ldquo;us\u0026rdquo;), we respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, share, and safeguard your information when you visit our website hashnhedge.com (the \u0026ldquo;Service\u0026rdquo;).\u003c/p\u003e",
+      "image": "/images/default-cover.svg",
+      "category": "News",
+      "readingTime": 4,
+      "wordCount": 704
+    }
+  ]
+}

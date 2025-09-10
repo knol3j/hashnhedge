@@ -1,1 +1,49 @@
-{"page":5,"totalPages":5,"totalPosts":84,"hasNext":false,"nextURL":null,"posts":[{"title":"Crypto Tax Guide 2025: How to Legally Minimize Your Tax Bill","url":"https://hashnhedge.com/2025/01/crypto-tax-guide-2025-how-to-legally-minimize-your-tax-bill/","date":"2025-01-04T16:00:00-05:00","summary":"Essential crypto tax strategies that saved investors $2.3 billion in 2024. Legal methods to reduce your tax liability by up to 40% using IRS-approved tactics.","image":"/images/posts/crypto-tax-guide.svg","category":"News","readingTime":1,"wordCount":61},{"title":"DeFi Yield Farming 2025: The $180 Billion Opportunity Most Are Missing","url":"https://hashnhedge.com/2025/01/defi-yield-farming-2025-the-180-billion-opportunity-most-are-missing/","date":"2025-01-04T14:00:00-05:00","summary":"Complete guide to DeFi yield farming strategies generating 15-200% APY in 2025. From beginner-safe stablecoin farms to advanced delta-neutral strategies.","image":"/images/posts/defi-yield-farming-2025.svg","category":"News","readingTime":1,"wordCount":107},{"title":"Ethereum's Layer 2 Revolution: The Complete Guide to Scaling Solutions in 2025","url":"https://hashnhedge.com/2025/01/ethereums-layer-2-revolution-the-complete-guide-to-scaling-solutions-in-2025/","date":"2025-01-04T09:00:00-05:00","summary":"Deep dive into Ethereum\u0026rsquo;s scaling ecosystem: comparing Optimism, Arbitrum, zkSync, and Polygon. Transaction costs dropped 99%, but which L2 should you actually","image":"/images/posts/ethereum-l2-scaling.svg","category":"News","readingTime":3,"wordCount":616},{"title":"Bitcoin Breaks $100K: What This Means for Your Portfolio","url":"https://hashnhedge.com/2025/01/bitcoin-breaks-100k-what-this-means-for-your-portfolio/","date":"2025-01-03T10:00:00-05:00","summary":"Bitcoin\u0026rsquo;s historic breakthrough past $100,000 marks a pivotal moment in cryptocurrency adoption. Here\u0026rsquo;s what smart investors need to know about positioning thei","image":"/images/posts/bitcoin-100k.svg","category":"News","readingTime":3,"wordCount":467}]}
+{
+  "page": 5,
+  "totalPages": 5,
+  "totalPosts": 84,
+  "hasNext": false,
+  "nextURL": null,
+  "posts": [
+    {
+      "title": "Crypto Tax Guide 2025: How to Legally Minimize Your Tax Bill",
+      "url": "http://localhost:1318/2025/01/crypto-tax-guide-2025-how-to-legally-minimize-your-tax-bill/",
+      "date": "2025-01-04T16:00:00-05:00",
+      "summary": "Essential crypto tax strategies that saved investors $2.3 billion in 2024. Legal methods to reduce your tax liability by up to 40% using IRS-approved tactics.",
+      "image": "/images/posts/crypto-tax-guide.svg",
+      "category": "News",
+      "readingTime": 1,
+      "wordCount": 61
+    },
+    {
+      "title": "DeFi Yield Farming 2025: The $180 Billion Opportunity Most Are Missing",
+      "url": "http://localhost:1318/2025/01/defi-yield-farming-2025-the-180-billion-opportunity-most-are-missing/",
+      "date": "2025-01-04T14:00:00-05:00",
+      "summary": "Complete guide to DeFi yield farming strategies generating 15-200% APY in 2025. From beginner-safe stablecoin farms to advanced delta-neutral strategies.",
+      "image": "/images/posts/defi-yield-farming-2025.svg",
+      "category": "News",
+      "readingTime": 1,
+      "wordCount": 107
+    },
+    {
+      "title": "Ethereum's Layer 2 Revolution: The Complete Guide to Scaling Solutions in 2025",
+      "url": "http://localhost:1318/2025/01/ethereums-layer-2-revolution-the-complete-guide-to-scaling-solutions-in-2025/",
+      "date": "2025-01-04T09:00:00-05:00",
+      "summary": "Deep dive into Ethereum\u0026rsquo;s scaling ecosystem: comparing Optimism, Arbitrum, zkSync, and Polygon. Transaction costs dropped 99%, but which L2 should you actually",
+      "image": "/images/posts/ethereum-l2-scaling.svg",
+      "category": "News",
+      "readingTime": 3,
+      "wordCount": 616
+    },
+    {
+      "title": "Bitcoin Breaks $100K: What This Means for Your Portfolio",
+      "url": "http://localhost:1318/2025/01/bitcoin-breaks-100k-what-this-means-for-your-portfolio/",
+      "date": "2025-01-03T10:00:00-05:00",
+      "summary": "Bitcoin\u0026rsquo;s historic breakthrough past $100,000 marks a pivotal moment in cryptocurrency adoption. Here\u0026rsquo;s what smart investors need to know about positioning thei",
+      "image": "/images/posts/bitcoin-100k.svg",
+      "category": "News",
+      "readingTime": 3,
+      "wordCount": 467
+    }
+  ]
+}

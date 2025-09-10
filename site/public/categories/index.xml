@@ -1,11 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Hash &amp; Hedge - Smart Financial Insights</title><link>https://hashnhedge.com/categories/</link><description>Recent content in Categories on Hash &amp; Hedge - Smart Financial Insights</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 09 Sep 2025 17:21:11 +0000</lastBuildDate><atom:link href="https://hashnhedge.com/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Crypto News &amp; Analysis</title><link>https://hashnhedge.com/categories/crypto/</link><pubDate>Tue, 09 Sep 2025 17:21:11 +0000</pubDate><guid>https://hashnhedge.com/categories/crypto/</guid><description>&lt;h1 id="crypto-news--analysis">Crypto News &amp;amp; Analysis&lt;/h1>
-&lt;p>Stay updated with the latest crypto news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p></description></item><item><title>Security News &amp; Analysis</title><link>https://hashnhedge.com/categories/security/</link><pubDate>Mon, 08 Sep 2025 17:40:24 +0000</pubDate><guid>https://hashnhedge.com/categories/security/</guid><description>&lt;h1 id="security-news--analysis">Security News &amp;amp; Analysis&lt;/h1>
-&lt;p>Stay updated with the latest security news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p></description></item><item><title>Markets News &amp; Analysis</title><link>https://hashnhedge.com/categories/markets/</link><pubDate>Fri, 05 Sep 2025 19:51:44 -0500</pubDate><guid>https://hashnhedge.com/categories/markets/</guid><description>&lt;h1 id="markets-news--analysis">Markets News &amp;amp; Analysis&lt;/h1>
-&lt;p>Stay updated with the latest markets news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p></description></item><item><title>Exchanges News &amp; Analysis</title><link>https://hashnhedge.com/categories/exchanges/</link><pubDate>Sun, 05 Jan 2025 10:00:00 -0500</pubDate><guid>https://hashnhedge.com/categories/exchanges/</guid><description>&lt;h1 id="exchanges-news--analysis">Exchanges News &amp;amp; Analysis&lt;/h1>
-&lt;p>Stay updated with the latest exchanges news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p></description></item><item><title>Trading News &amp; Analysis</title><link>https://hashnhedge.com/categories/trading/</link><pubDate>Sun, 05 Jan 2025 10:00:00 -0500</pubDate><guid>https://hashnhedge.com/categories/trading/</guid><description>&lt;h1 id="trading-news--analysis">Trading News &amp;amp; Analysis&lt;/h1>
-&lt;p>Stay updated with the latest trading news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p></description></item><item><title>Finance News &amp; Analysis</title><link>https://hashnhedge.com/categories/finance/</link><pubDate>Sat, 04 Jan 2025 16:00:00 -0500</pubDate><guid>https://hashnhedge.com/categories/finance/</guid><description>&lt;h1 id="finance-news--analysis">Finance News &amp;amp; Analysis&lt;/h1>
-&lt;p>Stay updated with the latest finance news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p></description></item><item><title>Tax News &amp; Analysis</title><link>https://hashnhedge.com/categories/tax/</link><pubDate>Sat, 04 Jan 2025 16:00:00 -0500</pubDate><guid>https://hashnhedge.com/categories/tax/</guid><description>&lt;h1 id="tax-news--analysis">Tax News &amp;amp; Analysis&lt;/h1>
-&lt;p>Stay updated with the latest tax news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p></description></item><item><title>Defi News &amp; Analysis</title><link>https://hashnhedge.com/categories/defi/</link><pubDate>Sat, 04 Jan 2025 14:00:00 -0500</pubDate><guid>https://hashnhedge.com/categories/defi/</guid><description>&lt;h1 id="defi-news--analysis">Defi News &amp;amp; Analysis&lt;/h1>
-&lt;p>Stay updated with the latest defi news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p></description></item><item><title>Ethereum News &amp; Analysis</title><link>https://hashnhedge.com/categories/ethereum/</link><pubDate>Sat, 04 Jan 2025 09:00:00 -0500</pubDate><guid>https://hashnhedge.com/categories/ethereum/</guid><description>&lt;h1 id="ethereum-news--analysis">Ethereum News &amp;amp; Analysis&lt;/h1>
-&lt;p>Stay updated with the latest ethereum news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p></description></item><item><title>Technology News &amp; Analysis</title><link>https://hashnhedge.com/categories/technology/</link><pubDate>Sat, 04 Jan 2025 09:00:00 -0500</pubDate><guid>https://hashnhedge.com/categories/technology/</guid><description>&lt;h1 id="technology-news--analysis">Technology News &amp;amp; Analysis&lt;/h1>
-&lt;p>Stay updated with the latest technology news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hash &amp; Hedge - Smart Financial Insights</title>
+    <link>http://localhost:1318/categories/</link>
+    <description>Recent content in Categories on Hash &amp; Hedge - Smart Financial Insights</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Sep 2025 17:21:11 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1318/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crypto News &amp; Analysis</title>
+      <link>http://localhost:1318/categories/crypto/</link>
+      <pubDate>Tue, 09 Sep 2025 17:21:11 +0000</pubDate>
+      <guid>http://localhost:1318/categories/crypto/</guid>
+      <description>&lt;h1 id=&#34;crypto-news--analysis&#34;&gt;Crypto News &amp;amp; Analysis&lt;/h1&gt;&#xA;&lt;p&gt;Stay updated with the latest crypto news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security News &amp; Analysis</title>
+      <link>http://localhost:1318/categories/security/</link>
+      <pubDate>Mon, 08 Sep 2025 17:40:24 +0000</pubDate>
+      <guid>http://localhost:1318/categories/security/</guid>
+      <description>&lt;h1 id=&#34;security-news--analysis&#34;&gt;Security News &amp;amp; Analysis&lt;/h1&gt;&#xA;&lt;p&gt;Stay updated with the latest security news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markets News &amp; Analysis</title>
+      <link>http://localhost:1318/categories/markets/</link>
+      <pubDate>Fri, 05 Sep 2025 19:51:44 -0500</pubDate>
+      <guid>http://localhost:1318/categories/markets/</guid>
+      <description>&lt;h1 id=&#34;markets-news--analysis&#34;&gt;Markets News &amp;amp; Analysis&lt;/h1&gt;&#xA;&lt;p&gt;Stay updated with the latest markets news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exchanges News &amp; Analysis</title>
+      <link>http://localhost:1318/categories/exchanges/</link>
+      <pubDate>Sun, 05 Jan 2025 10:00:00 -0500</pubDate>
+      <guid>http://localhost:1318/categories/exchanges/</guid>
+      <description>&lt;h1 id=&#34;exchanges-news--analysis&#34;&gt;Exchanges News &amp;amp; Analysis&lt;/h1&gt;&#xA;&lt;p&gt;Stay updated with the latest exchanges news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trading News &amp; Analysis</title>
+      <link>http://localhost:1318/categories/trading/</link>
+      <pubDate>Sun, 05 Jan 2025 10:00:00 -0500</pubDate>
+      <guid>http://localhost:1318/categories/trading/</guid>
+      <description>&lt;h1 id=&#34;trading-news--analysis&#34;&gt;Trading News &amp;amp; Analysis&lt;/h1&gt;&#xA;&lt;p&gt;Stay updated with the latest trading news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Finance News &amp; Analysis</title>
+      <link>http://localhost:1318/categories/finance/</link>
+      <pubDate>Sat, 04 Jan 2025 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1318/categories/finance/</guid>
+      <description>&lt;h1 id=&#34;finance-news--analysis&#34;&gt;Finance News &amp;amp; Analysis&lt;/h1&gt;&#xA;&lt;p&gt;Stay updated with the latest finance news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tax News &amp; Analysis</title>
+      <link>http://localhost:1318/categories/tax/</link>
+      <pubDate>Sat, 04 Jan 2025 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1318/categories/tax/</guid>
+      <description>&lt;h1 id=&#34;tax-news--analysis&#34;&gt;Tax News &amp;amp; Analysis&lt;/h1&gt;&#xA;&lt;p&gt;Stay updated with the latest tax news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Defi News &amp; Analysis</title>
+      <link>http://localhost:1318/categories/defi/</link>
+      <pubDate>Sat, 04 Jan 2025 14:00:00 -0500</pubDate>
+      <guid>http://localhost:1318/categories/defi/</guid>
+      <description>&lt;h1 id=&#34;defi-news--analysis&#34;&gt;Defi News &amp;amp; Analysis&lt;/h1&gt;&#xA;&lt;p&gt;Stay updated with the latest defi news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ethereum News &amp; Analysis</title>
+      <link>http://localhost:1318/categories/ethereum/</link>
+      <pubDate>Sat, 04 Jan 2025 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1318/categories/ethereum/</guid>
+      <description>&lt;h1 id=&#34;ethereum-news--analysis&#34;&gt;Ethereum News &amp;amp; Analysis&lt;/h1&gt;&#xA;&lt;p&gt;Stay updated with the latest ethereum news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Technology News &amp; Analysis</title>
+      <link>http://localhost:1318/categories/technology/</link>
+      <pubDate>Sat, 04 Jan 2025 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1318/categories/technology/</guid>
+      <description>&lt;h1 id=&#34;technology-news--analysis&#34;&gt;Technology News &amp;amp; Analysis&lt;/h1&gt;&#xA;&lt;p&gt;Stay updated with the latest technology news, expert analysis, and market insights from Hash &amp;amp; Hedge.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

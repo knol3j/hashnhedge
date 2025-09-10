@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Security News &amp; Analysis on Hash &amp; Hedge - Smart Financial Insights</title><link>https://hashnhedge.com/categories/security/</link><description>Recent content in Security News &amp; Analysis on Hash &amp; Hedge - Smart Financial Insights</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 08 Sep 2025 17:40:24 +0000</lastBuildDate><atom:link href="https://hashnhedge.com/categories/security/index.xml" rel="self" type="application/rss+xml"/><item><title>Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys</title><link>https://hashnhedge.com/2025/09/malicious-npm-packages-impersonate-flashbots-steal-ethereum-wallet-keys/</link><pubDate>Mon, 08 Sep 2025 17:40:24 +0000</pubDate><guid>https://hashnhedge.com/2025/09/malicious-npm-packages-impersonate-flashbots-steal-ethereum-wallet-keys/</guid><description>A new set of four malicious packages have been discovered in the npm package registry with capabilities to steal cryptocurrency wallet credentials from Ethereum</description></item><item><title>Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys</title><link>https://hashnhedge.com/2025/09/malicious-npm-packages-impersonate-flashbots-steal-ethereum-wallet-keys/</link><pubDate>Sun, 07 Sep 2025 17:17:44 +0000</pubDate><guid>https://hashnhedge.com/2025/09/malicious-npm-packages-impersonate-flashbots-steal-ethereum-wallet-keys/</guid><description>A new set of four malicious packages have been discovered in the npm package registry with capabilities to steal cryptocurrency wallet credentials from Ethereum</description></item><item><title>Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys</title><link>https://hashnhedge.com/2025/09/malicious-npm-packages-impersonate-flashbots-steal-ethereum-wallet-keys/</link><pubDate>Sat, 06 Sep 2025 23:42:17 +0000</pubDate><guid>https://hashnhedge.com/2025/09/malicious-npm-packages-impersonate-flashbots-steal-ethereum-wallet-keys/</guid><description>A new set of four malicious packages have been discovered in the npm package registry with capabilities to steal cryptocurrency wallet credentials from Ethereum</description></item><item><title>CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation</title><link>https://hashnhedge.com/2025/09/cisa-orders-immediate-patch-of-critical-sitecore-vulnerability-under-active-exploitation/</link><pubDate>Sat, 06 Sep 2025 05:08:17 +0000</pubDate><guid>https://hashnhedge.com/2025/09/cisa-orders-immediate-patch-of-critical-sitecore-vulnerability-under-active-exploitation/</guid><description>Federal Civilian Executive Branch (FCEB) agencies are being advised to update their Sitecore instances by September 25, 2025, following the discovery of a secur</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security News &amp; Analysis on Hash &amp; Hedge - Smart Financial Insights</title>
+    <link>http://localhost:1318/categories/security/</link>
+    <description>Recent content in Security News &amp; Analysis on Hash &amp; Hedge - Smart Financial Insights</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Sep 2025 17:40:24 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1318/categories/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys</title>
+      <link>http://localhost:1318/2025/09/malicious-npm-packages-impersonate-flashbots-steal-ethereum-wallet-keys/</link>
+      <pubDate>Mon, 08 Sep 2025 17:40:24 +0000</pubDate>
+      <guid>http://localhost:1318/2025/09/malicious-npm-packages-impersonate-flashbots-steal-ethereum-wallet-keys/</guid>
+      <description>A new set of four malicious packages have been discovered in the npm package registry with capabilities to steal cryptocurrency wallet credentials from Ethereum</description>
+    </item>
+    <item>
+      <title>Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys</title>
+      <link>http://localhost:1318/2025/09/malicious-npm-packages-impersonate-flashbots-steal-ethereum-wallet-keys/</link>
+      <pubDate>Sun, 07 Sep 2025 17:17:44 +0000</pubDate>
+      <guid>http://localhost:1318/2025/09/malicious-npm-packages-impersonate-flashbots-steal-ethereum-wallet-keys/</guid>
+      <description>A new set of four malicious packages have been discovered in the npm package registry with capabilities to steal cryptocurrency wallet credentials from Ethereum</description>
+    </item>
+    <item>
+      <title>Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys</title>
+      <link>http://localhost:1318/2025/09/malicious-npm-packages-impersonate-flashbots-steal-ethereum-wallet-keys/</link>
+      <pubDate>Sat, 06 Sep 2025 23:42:17 +0000</pubDate>
+      <guid>http://localhost:1318/2025/09/malicious-npm-packages-impersonate-flashbots-steal-ethereum-wallet-keys/</guid>
+      <description>A new set of four malicious packages have been discovered in the npm package registry with capabilities to steal cryptocurrency wallet credentials from Ethereum</description>
+    </item>
+    <item>
+      <title>CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation</title>
+      <link>http://localhost:1318/2025/09/cisa-orders-immediate-patch-of-critical-sitecore-vulnerability-under-active-exploitation/</link>
+      <pubDate>Sat, 06 Sep 2025 05:08:17 +0000</pubDate>
+      <guid>http://localhost:1318/2025/09/cisa-orders-immediate-patch-of-critical-sitecore-vulnerability-under-active-exploitation/</guid>
+      <description>Federal Civilian Executive Branch (FCEB) agencies are being advised to update their Sitecore instances by September 25, 2025, following the discovery of a secur</description>
+    </item>
+  </channel>
+</rss>

@@ -29,13 +29,22 @@
                  data-total-pages="{{ .Paginator.TotalPages }}"
                  data-has-next="{{ .Paginator.HasNext }}">
                 
-                {{ range $index, $post := .Paginator.Pages }}
+                {{/* Show mix of detailed and recent posts */}}
+                {{ $posts := where .Site.RegularPages "Section" "posts" }}
+                {{ $allDisplayPosts := first 20 $posts }}
+                {{ range $index, $post := $allDisplayPosts }}
                 <article class="post-item loaded">
                     <div class="post-card">
                         {{ if $post.Params.image }}
                         <div class="post-image">
                             <img src="{{ $post.Params.image }}" alt="{{ $post.Title }}" loading="lazy">
-                            <div class="post-category">{{ $post.Params.category | default "News" }}</div>
+                            <div class="post-category">
+                                {{ if ge $post.ReadingTime 3 }}
+                                    <span class="detailed-article">📰 Analysis</span>
+                                {{ else }}
+                                    <span class="news-brief">⚡ News</span>
+                                {{ end }}
+                            </div>
                         </div>
                         {{ end }}
                         
@@ -88,20 +97,20 @@
 
 <!-- Include Infinite Scroll Script -->
 <script>
-// Configure infinite scroll with posts data
+// Configure infinite scroll with posts data (starting from post 21)
 window.hashHedgeInfiniteScroll = {
-  currentPage: 1,
-  postsPerPage: 12,
+  currentPage: 1, // This will be incremented when loading more posts
+  postsPerPage: 20,
   totalPosts: {{ len .Site.RegularPages }},
   allPostsData: [
-    {{- range $index, $post := .Site.RegularPages }}
+    {{- range $index, $post := after 20 .Site.RegularPages }}
     {
       title: {{ $post.Title | jsonify }},
       permalink: {{ $post.Permalink | jsonify }},
       summary: {{ $post.Summary | jsonify }},
       date: {{ $post.Date.Format "Jan 2, 2006" | jsonify }},
       image: {{ ($post.Params.image | default "/images/default-cover.svg") | jsonify }}
-    }{{ if ne $index (sub (len $.Site.RegularPages) 1) }},{{ end }}
+    }{{ if ne $index (sub (len (after 20 $.Site.RegularPages)) 1) }},{{ end }}
     {{- end }}
   ]
 };
@@ -229,12 +238,32 @@ window.hashHedgeInfiniteScroll = {
     position: absolute;
     top: 15px;
     left: 15px;
-    background: rgba(0, 0, 0, 0.7);
-    color: white;
     padding: 5px 12px;
     border-radius: 15px;
     font-size: 0.8rem;
     font-weight: 600;
+}
+
+.detailed-article {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-weight: 700;
+    box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+}
+
+.news-brief {
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 5px 12px;
+    border-radius: 15px;
+}
+
+/* Make detailed articles slightly larger */
+.post-item:has(.detailed-article) .post-card {
+    transform: scale(1.02);
+    border: 2px solid #667eea20;
 }
 
 .post-content {
