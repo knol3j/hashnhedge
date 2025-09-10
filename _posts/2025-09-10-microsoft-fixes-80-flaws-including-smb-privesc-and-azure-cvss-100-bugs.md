@@ -1,7 +1,7 @@
 ---
 categories:
 - security
-date: 2025-09-10 12:20:45 +0000
+date: 2025-09-10 17:19:55 +0000
 image: /images/posts/microsoft-fixes-80-flaws-including-smb-privesc-and-azure-cvs-1781c559.jpg
 layout: post
 source_url: https://thehackernews.com/2025/09/microsoft-fixes-80-flaws-including-smb.html
