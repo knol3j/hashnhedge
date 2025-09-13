@@ -31,7 +31,8 @@
                 
                 {{/* Show mix of detailed and recent posts */}}
                 {{ $posts := where .Site.RegularPages "Section" "posts" }}
-                {{ $allDisplayPosts := first 20 $posts }}
+                {{ $sortedPosts := sort $posts "Date" "desc" }}
+                {{ $allDisplayPosts := first 20 $sortedPosts }}
                 {{ range $index, $post := $allDisplayPosts }}
                 <article class="post-item loaded">
                     <div class="post-card">

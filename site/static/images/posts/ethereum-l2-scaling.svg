@@ -1,0 +1,56 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ethGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#627EEA;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4F5B93;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="l2Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00D4AA;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00A67C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="300" fill="url(#ethGradient)"/>
+  
+  <!-- Ethereum Main Chain -->
+  <rect x="50" y="120" width="300" height="60" fill="rgba(255, 255, 255, 0.1)" stroke="#FFF" stroke-width="2" rx="30"/>
+  <text x="200" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFF">Ethereum Mainnet</text>
+  
+  <!-- Layer 2 Solutions -->
+  <g>
+    <!-- Arbitrum -->
+    <circle cx="120" cy="70" r="25" fill="url(#l2Gradient)" stroke="#FFF" stroke-width="2"/>
+    <text x="120" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#FFF">ARB</text>
+    
+    <!-- Optimism -->
+    <circle cx="200" cy="50" r="25" fill="#FF0420" stroke="#FFF" stroke-width="2"/>
+    <text x="200" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#FFF">OP</text>
+    
+    <!-- Polygon -->
+    <circle cx="280" cy="70" r="25" fill="#8247E5" stroke="#FFF" stroke-width="2"/>
+    <text x="280" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#FFF">MATIC</text>
+  </g>
+  
+  <!-- Connection Lines -->
+  <line x1="120" y1="95" x2="150" y2="120" stroke="#00D4AA" stroke-width="2"/>
+  <line x1="200" y1="75" x2="200" y2="120" stroke="#FF0420" stroke-width="2"/>
+  <line x1="280" y1="95" x2="250" y2="120" stroke="#8247E5" stroke-width="2"/>
+  
+  <!-- Speed indicators -->
+  <g transform="translate(320, 220)">
+    <circle cx="0" cy="0" r="30" fill="rgba(0, 212, 170, 0.2)" stroke="#00D4AA" stroke-width="2"/>
+    <text x="0" y="-8" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#00D4AA">10,000</text>
+    <text x="0" y="8" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#00D4AA">TPS</text>
+  </g>
+  
+  <!-- Gas Fee indicator -->
+  <g transform="translate(80, 220)">
+    <circle cx="0" cy="0" r="30" fill="rgba(255, 215, 0, 0.2)" stroke="#FFD700" stroke-width="2"/>
+    <text x="0" y="-8" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFD700">$0.01</text>
+    <text x="0" y="8" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#FFD700">Gas</text>
+  </g>
+  
+  <!-- Title -->
+  <text x="200" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFF">Ethereum L2 Scaling Solutions</text>
+</svg>
