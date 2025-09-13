@@ -1,0 +1,29 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bitcoinGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFA500;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="chartGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00FF80;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00B359;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="300" fill="url(#chartGradient)"/>
+  
+  <!-- Bitcoin Symbol -->
+  <circle cx="90" cy="80" r="40" fill="url(#bitcoinGradient)" stroke="#FFF" stroke-width="3"/>
+  <text x="90" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#FFF">₿</text>
+  
+  <!-- Price Arrow and Text -->
+  <polyline points="180,120 280,50 270,60 280,50 270,40" fill="none" stroke="#FFD700" stroke-width="4"/>
+  <text x="220" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FFF">$100K</text>
+  
+  <!-- Chart Line -->
+  <polyline points="50,250 100,220 150,200 200,160 250,120 300,80 350,50" fill="none" stroke="#FFD700" stroke-width="3"/>
+  
+  <!-- Supporting Text -->
+  <text x="200" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFF">Bitcoin Breaks Historic Barrier</text>
+</svg>
