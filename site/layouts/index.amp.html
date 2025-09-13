@@ -1,0 +1,49 @@
+{{ define "main" }}
+<div class="homepage">
+    <div class="intro">
+        <h1>{{ .Site.Params.homeIntroTitle }}</h1>
+        <p>{{ .Site.Params.homeIntroContent }}</p>
+    </div>
+    
+    <h2>Latest Posts</h2>
+    
+    <div class="posts-list">
+        {{ range first 10 (where .Site.RegularPages "Type" "posts") }}
+        <article class="post-summary">
+            <h3><a href="{{ .Permalink }}amp/">{{ .Title }}</a></h3>
+            
+            <div class="post-meta">
+                <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                    {{ .Date.Format "January 2, 2006" }}
+                </time>
+                {{ if .Params.categories }}
+                | 
+                {{ range $i, $cat := .Params.categories }}
+                    {{- if $i }}, {{ end -}}
+                    <a href="{{ $.Site.BaseURL }}categories/{{ $cat | urlize }}/amp/">{{ $cat }}</a>
+                {{- end }}
+                {{ end }}
+            </div>
+            
+            {{ if .Params.image }}
+            <amp-img 
+                src="{{ .Site.BaseURL }}{{ .Params.image }}" 
+                width="800" 
+                height="400" 
+                layout="responsive"
+                alt="{{ .Title }}">
+            </amp-img>
+            {{ end }}
+            
+            <p>{{ .Summary }}</p>
+            
+            <a href="{{ .Permalink }}amp/">Read more →</a>
+        </article>
+        {{ end }}
+    </div>
+    
+    <div class="view-all">
+        <a href="{{ .Site.BaseURL }}posts/amp/">View All Posts →</a>
+    </div>
+</div>
+{{ end }}

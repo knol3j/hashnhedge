@@ -155,4 +155,9 @@
     <!-- Defer non-critical CSS -->
     <link rel="preload" href="/css/components.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="/css/components.css"></noscript>
+    
+    <!-- AMP Version Link -->
+    {{ if ne .Kind "404" }}
+    <link rel="amphtml" href="{{ .Permalink }}amp/">
+    {{ end }}
 </head>

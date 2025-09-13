@@ -12,9 +12,17 @@ relativeURLs = false
 
 # Enable RSS and JSON feeds - Add JSON for infinite scroll API
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
-  page = ["HTML", "JSON"]
-  section = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "AMP"]
+  page = ["HTML", "JSON", "AMP"]
+  section = ["HTML", "RSS", "JSON", "AMP"]
+
+# AMP Output Format Configuration
+[outputFormats.AMP]
+  mediaType = "text/html"
+  path = "amp"
+  isPlainText = false
+  permalinkable = true
+  noUgly = true
 
 # Google Analytics and AdSense
 [params]

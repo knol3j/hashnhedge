@@ -3,11 +3,9 @@
 <html lang="{{ .Lang }}" {{ if $mode }} data-mode="{{ $mode }}"{{ end }}>
   {{ partial "head" . }}
   <body>
-    <!-- AMP Auto Ads - Must be placed immediately after <body> tag -->
+    <!-- AdSense - Load after body -->
     {{ if site.Params.enableAdsense }}
-    <amp-auto-ads type="adsense"
-            data-ad-client="{{ site.Params.googleAdsenseID }}">
-    </amp-auto-ads>
+    {{ partial "adsense" . }}
     {{ end }}
     
     {{ partialCached "nav" . }}

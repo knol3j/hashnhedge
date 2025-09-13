@@ -4,9 +4,12 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}"
      crossorigin="anonymous"></script>
 
-<!-- AMP Auto Ads Script -->
-<script async custom-element="amp-auto-ads"
-        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+<!-- Enable Auto Ads -->
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "{{ . }}",
+          enable_page_level_ads: true
+     });
 </script>
 {{- end -}}
 {{- end -}}

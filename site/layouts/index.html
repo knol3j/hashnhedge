@@ -104,7 +104,8 @@ window.hashHedgeInfiniteScroll = {
   postsPerPage: 20,
   totalPosts: {{ len .Site.RegularPages }},
   allPostsData: [
-    {{- range $index, $post := after 20 .Site.RegularPages }}
+    {{- $sortedAllPosts := sort .Site.RegularPages "Date" "desc" }}
+    {{- range $index, $post := after 20 $sortedAllPosts }}
     {
       title: {{ $post.Title | jsonify }},
       permalink: {{ $post.Permalink | jsonify }},
