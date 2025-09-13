@@ -1,0 +1,270 @@
+<!-- Crypto Donation Widget -->
+<div class="crypto-donation-widget">
+    <h3>☕ Support Our Work</h3>
+    <p>If our content helps you profit, consider buying us a coffee with crypto!</p>
+    
+    <div class="donation-options">
+        <button class="donation-tab active" data-crypto="btc">Bitcoin</button>
+        <button class="donation-tab" data-crypto="eth">Ethereum</button>
+        <button class="donation-tab" data-crypto="usdt">USDT</button>
+        <button class="donation-tab" data-crypto="sol">Solana</button>
+    </div>
+    
+    <div class="donation-addresses">
+        <div class="address-container active" data-crypto="btc">
+            <div class="qr-code">
+                <img src="/images/qr/btc-qr.png" alt="Bitcoin QR Code">
+            </div>
+            <div class="address-info">
+                <label>Bitcoin (BTC)</label>
+                <div class="address-field">
+                    <input type="text" readonly value="bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh" id="btc-address">
+                    <button onclick="copyAddress('btc-address')">📋</button>
+                </div>
+                <small>Network: Bitcoin</small>
+            </div>
+        </div>
+        
+        <div class="address-container" data-crypto="eth">
+            <div class="qr-code">
+                <img src="/images/qr/eth-qr.png" alt="Ethereum QR Code">
+            </div>
+            <div class="address-info">
+                <label>Ethereum (ETH)</label>
+                <div class="address-field">
+                    <input type="text" readonly value="0x742d35Cc6634C0532925a3b844Bc9e7595f8b2dC" id="eth-address">
+                    <button onclick="copyAddress('eth-address')">📋</button>
+                </div>
+                <small>Network: Ethereum / ERC-20</small>
+            </div>
+        </div>
+        
+        <div class="address-container" data-crypto="usdt">
+            <div class="qr-code">
+                <img src="/images/qr/usdt-qr.png" alt="USDT QR Code">
+            </div>
+            <div class="address-info">
+                <label>Tether (USDT)</label>
+                <div class="address-field">
+                    <input type="text" readonly value="0x742d35Cc6634C0532925a3b844Bc9e7595f8b2dC" id="usdt-address">
+                    <button onclick="copyAddress('usdt-address')">📋</button>
+                </div>
+                <small>Network: Ethereum (ERC-20) / BSC (BEP-20)</small>
+            </div>
+        </div>
+        
+        <div class="address-container" data-crypto="sol">
+            <div class="qr-code">
+                <img src="/images/qr/sol-qr.png" alt="Solana QR Code">
+            </div>
+            <div class="address-info">
+                <label>Solana (SOL)</label>
+                <div class="address-field">
+                    <input type="text" readonly value="7EcDhSYGxXyscszYEp35KHN8vvw3svAuLKTzXwCFLtV" id="sol-address">
+                    <button onclick="copyAddress('sol-address')">📋</button>
+                </div>
+                <small>Network: Solana</small>
+            </div>
+        </div>
+    </div>
+    
+    <div class="donation-message">
+        <p>💚 Every donation helps us create better content!</p>
+    </div>
+</div>
+
+<style>
+.crypto-donation-widget {
+    background: #f7fafc;
+    border: 2px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+}
+
+.crypto-donation-widget h3 {
+    margin: 0 0 0.5rem 0;
+    color: #1a202c;
+}
+
+.crypto-donation-widget > p {
+    color: #4a5568;
+    margin-bottom: 1rem;
+}
+
+.donation-options {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.donation-tab {
+    flex: 1;
+    padding: 0.5rem;
+    background: white;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-weight: 500;
+}
+
+.donation-tab:hover {
+    border-color: #4299e1;
+}
+
+.donation-tab.active {
+    background: #4299e1;
+    color: white;
+    border-color: #4299e1;
+}
+
+.address-container {
+    display: none;
+    background: white;
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+.address-container.active {
+    display: block;
+}
+
+.qr-code {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.qr-code img {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+}
+
+.address-info label {
+    font-weight: 600;
+    color: #2d3748;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.address-field {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.address-field input {
+    flex: 1;
+    padding: 0.5rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 4px;
+    font-family: monospace;
+    font-size: 0.875rem;
+    background: #f7fafc;
+}
+
+.address-field button {
+    padding: 0.5rem;
+    background: #4299e1;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.address-field button:hover {
+    background: #3182ce;
+}
+
+.address-info small {
+    color: #718096;
+    font-size: 0.875rem;
+}
+
+.donation-message {
+    text-align: center;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e2e8f0;
+}
+
+.donation-message p {
+    margin: 0;
+    color: #48bb78;
+    font-weight: 500;
+}
+
+/* Copy notification */
+.copy-notification {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #48bb78;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    display: none;
+    z-index: 1000;
+}
+
+.copy-notification.show {
+    display: block;
+    animation: fadeInOut 2s ease-in-out;
+}
+
+@keyframes fadeInOut {
+    0%, 100% { opacity: 0; }
+    20%, 80% { opacity: 1; }
+}
+</style>
+
+<script>
+// Donation widget functionality
+document.addEventListener('DOMContentLoaded', function() {
+    // Tab switching
+    document.querySelectorAll('.donation-tab').forEach(tab => {
+        tab.addEventListener('click', function() {
+            const crypto = this.dataset.crypto;
+            
+            // Update active tab
+            document.querySelectorAll('.donation-tab').forEach(t => t.classList.remove('active'));
+            this.classList.add('active');
+            
+            // Update active address container
+            document.querySelectorAll('.address-container').forEach(c => c.classList.remove('active'));
+            document.querySelector(`.address-container[data-crypto="${crypto}"]`).classList.add('active');
+        });
+    });
+});
+
+// Copy address function
+function copyAddress(inputId) {
+    const input = document.getElementById(inputId);
+    input.select();
+    input.setSelectionRange(0, 99999); // For mobile
+    
+    document.execCommand('copy');
+    
+    // Show notification
+    let notification = document.querySelector('.copy-notification');
+    if (!notification) {
+        notification = document.createElement('div');
+        notification.className = 'copy-notification';
+        notification.textContent = '✅ Address copied to clipboard!';
+        document.body.appendChild(notification);
+    }
+    
+    notification.classList.add('show');
+    setTimeout(() => notification.classList.remove('show'), 2000);
+    
+    // Track donation intent
+    if (typeof gtag !== 'undefined') {
+        gtag('event', 'donation_copy', {
+            'currency': inputId.replace('-address', '').toUpperCase()
+        });
+    }
+}
+</script>

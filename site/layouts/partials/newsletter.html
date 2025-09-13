@@ -1,0 +1,100 @@
+{{ define "newsletter-signup" }}
+<div class="newsletter-signup">
+    <div class="newsletter-box">
+        <h3>🚀 Get Crypto Alpha Delivered Daily</h3>
+        <p>Join 50,000+ smart investors getting our free newsletter:</p>
+        <ul>
+            <li>✓ Early alerts on 100x opportunities</li>
+            <li>✓ DeFi yield farming strategies</li>
+            <li>✓ Market analysis & trading signals</li>
+            <li>✓ Exclusive airdrops & giveaways</li>
+        </ul>
+        
+        <!-- ConvertKit Form -->
+        <script async data-uid="hashnhedge001" src="https://tremendous-crafter-4441.ck.page/hashnhedge001/index.js"></script>
+        
+        <!-- Backup form for email collection -->
+        <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" class="newsletter-form">
+            <input type="email" name="email" placeholder="Enter your email" required>
+            <input type="hidden" name="_subject" value="New Hash & Hedge Newsletter Signup">
+            <input type="hidden" name="_next" value="https://hashnhedge.com/thank-you">
+            <button type="submit">Get Free Crypto Alpha</button>
+        </form>
+        
+        <p class="newsletter-privacy">We respect your privacy. Unsubscribe anytime.</p>
+    </div>
+</div>
+
+<style>
+.newsletter-signup {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 2rem;
+    border-radius: 10px;
+    margin: 2rem 0;
+    color: white;
+}
+
+.newsletter-box h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.newsletter-box ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+.newsletter-box li {
+    padding: 0.5rem 0;
+    color: rgba(255,255,255,0.9);
+}
+
+.newsletter-form {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
+.newsletter-form input[type="email"] {
+    flex: 1;
+    padding: 1rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.newsletter-form button {
+    padding: 1rem 2rem;
+    background: #f59e0b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.newsletter-form button:hover {
+    background: #d97706;
+}
+
+.newsletter-privacy {
+    font-size: 0.875rem;
+    color: rgba(255,255,255,0.8);
+    margin-top: 1rem;
+}
+
+/* Mobile responsive */
+@media (max-width: 640px) {
+    .newsletter-form {
+        flex-direction: column;
+    }
+    
+    .newsletter-form button {
+        width: 100%;
+    }
+}
+</style>
+{{ end }}

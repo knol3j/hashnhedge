@@ -1,7 +1,174 @@
-<footer class="footer wrap pale">
-  <p>&copy;&nbsp;<span class="year"></span>&nbsp;{{ site.Title }}</p>
-  <p class="attribution upcase">{{ safeHTML (T "designed_by" site.Data.designer) }}</p>
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <!-- Newsletter Section -->
+      <div class="footer-section">
+        {{ partial "newsletter-widget.html" . }}
+      </div>
+      
+      <!-- Quick Links -->
+      <div class="footer-section">
+        <h4>Quick Links</h4>
+        <ul>
+          <li><a href="/about/">About Us</a></li>
+          <li><a href="/affiliates/">Partner Exchanges</a></li>
+          <li><a href="/newsletter/">Newsletter</a></li>
+          <li><a href="/advertise/">Advertise</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </div>
+      
+      <!-- Categories -->
+      <div class="footer-section">
+        <h4>Categories</h4>
+        <ul>
+          <li><a href="/categories/crypto/">Crypto</a></li>
+          <li><a href="/categories/defi/">DeFi</a></li>
+          <li><a href="/categories/trading/">Trading</a></li>
+          <li><a href="/categories/markets/">Markets</a></li>
+          <li><a href="/categories/technology/">Technology</a></li>
+        </ul>
+      </div>
+      
+      <!-- Support Us -->
+      <div class="footer-section">
+        {{ partial "crypto-donation.html" . }}
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <p>&copy;&nbsp;<span class="year"></span>&nbsp;{{ site.Title }} | All rights reserved</p>
+      <p class="footer-links">
+        <a href="/privacy/">Privacy Policy</a> |
+        <a href="/terms/">Terms of Service</a> |
+        <a href="/disclaimer/">Disclaimer</a>
+      </p>
+    </div>
+  </div>
 </footer>
+
+<!-- Monetization Scripts -->
+<link rel="stylesheet" href="/css/monetization.css">
+
+<!-- ConvertKit -->
+<script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+
+<!-- Analytics Events -->
+<script>
+// Track affiliate clicks
+document.querySelectorAll('a[href*="binance.com"], a[href*="coinbase.com"], a[href*="kraken.com"]').forEach(link => {
+  link.addEventListener('click', function() {
+    if (typeof gtag !== 'undefined') {
+      gtag('event', 'click', {
+        'event_category': 'affiliate',
+        'event_label': this.hostname
+      });
+    }
+  });
+});
+</script>
+
+<style>
+.footer {
+  background: #1a202c;
+  color: #e2e8f0;
+  padding: 3rem 0 1rem;
+  margin-top: 4rem;
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.footer-section h4 {
+  color: white;
+  margin: 0 0 1rem 0;
+  font-size: 1.1rem;
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 0.5rem;
+}
+
+.footer-section a {
+  color: #cbd5e0;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-section a:hover {
+  color: #4299e1;
+}
+
+.footer-bottom {
+  text-align: center;
+  padding-top: 2rem;
+  border-top: 1px solid #2d3748;
+  color: #a0aec0;
+}
+
+.footer-bottom p {
+  margin: 0.5rem 0;
+}
+
+.footer-links a {
+  color: #cbd5e0;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+
+.footer-links a:hover {
+  color: #4299e1;
+}
+
+/* Newsletter widget in footer */
+.footer .newsletter-widget {
+  background: #2d3748;
+  border: 1px solid #4a5568;
+}
+
+/* Crypto donation in footer */
+.footer .crypto-donation-widget {
+  background: #2d3748;
+  border: 1px solid #4a5568;
+}
+
+.footer .crypto-donation-widget h3,
+.footer .crypto-donation-widget p {
+  color: #e2e8f0;
+}
+
+.footer .donation-tab {
+  background: #1a202c;
+  border-color: #4a5568;
+  color: #e2e8f0;
+}
+
+.footer .donation-tab.active {
+  background: #4299e1;
+  color: white;
+}
+
+.footer .address-container {
+  background: #1a202c;
+}
+
+@media (max-width: 768px) {
+  .footer-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
 {{ $scriptPath := "js/index.js" }}
 {{ $scripts := resources.Get $scriptPath | resources.ExecuteAsTemplate $scriptPath . | resources.Minify | resources.Fingerprint "sha512" }}
 <script src="{{ $scripts.Permalink }}"></script>

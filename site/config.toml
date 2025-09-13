@@ -83,6 +83,26 @@ relativeURLs = false
   url = "/tags/defi/"
   weight = 4
 
+[[menu.main]]
+  name = "Premium"
+  url = "/premium/"
+  weight = 5
+
+[[menu.main]]
+  name = "Start Trading"
+  url = "/start-with-10-dollars/"
+  weight = 6
+
+[[menu.main]]
+  name = "Newsletter"
+  url = "/newsletter/"
+  weight = 5
+
+[[menu.main]]
+  name = "Partners"
+  url = "/affiliates/"
+  weight = 6
+
 # Footer menu for secondary pages
 [[menu.footer]]
   name = "About"
@@ -108,6 +128,16 @@ relativeURLs = false
   name = "Privacy Policy"
   url = "/privacy/"
   weight = 5
+
+[[menu.footer]]
+  name = "Affiliate Disclosure"
+  url = "/disclosure/"
+  weight = 6
+
+[[menu.footer]]
+  name = "Recommended Exchanges"
+  url = "/affiliates/"
+  weight = 7
 
 # Taxonomies
 [taxonomies]

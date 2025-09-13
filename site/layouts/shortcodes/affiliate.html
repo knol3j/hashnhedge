@@ -1,0 +1,48 @@
+{{/* Affiliate Link Shortcode */}}
+{{/* Usage: {{< affiliate exchange="binance" text="Sign up for Binance" bonus="20% discount" >}} */}}
+{{ $exchange := .Get "exchange" }}
+{{ $text := .Get "text" | default "Sign up now" }}
+{{ $bonus := .Get "bonus" }}
+
+{{ $links := dict "binance" "https://accounts.binance.com/register?ref=HASHNHEDGE" "coinbase" "https://coinbase.com/join/HASHNHEDGE" "kraken" "https://kraken.com/sign-up?ref=HASHNHEDGE" "kucoin" "https://www.kucoin.com/r/HASHNHEDGE" "ledger" "https://shop.ledger.com?r=hashnhedge" "tradingview" "https://www.tradingview.com/gopro/?offer_id=10&aff_id=HASHNHEDGE" }}
+
+{{ $url := index $links $exchange }}
+
+<span class="affiliate-inline">
+    <a href="{{ $url }}" target="_blank" rel="nofollow" class="affiliate-link" data-exchange="{{ $exchange }}">
+        {{ $text }}
+        {{ if $bonus }}
+        <span class="bonus-tag">{{ $bonus }}</span>
+        {{ end }}
+    </a>
+</span>
+
+<style>
+.affiliate-inline {
+    display: inline-block;
+}
+
+.affiliate-link {
+    color: #4299e1;
+    text-decoration: none;
+    border-bottom: 2px dotted #4299e1;
+    padding-bottom: 2px;
+    transition: all 0.3s;
+}
+
+.affiliate-link:hover {
+    color: #3182ce;
+    border-bottom-style: solid;
+}
+
+.bonus-tag {
+    background: #48bb78;
+    color: white;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    margin-left: 4px;
+    vertical-align: super;
+    font-weight: 600;
+}
+</style>

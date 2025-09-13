@@ -1,0 +1,189 @@
+<!-- Newsletter Signup Widget -->
+<div class="newsletter-widget">
+    <h3>🚀 Get Free Crypto Insights</h3>
+    <p>Join 10,000+ smart investors. Weekly market analysis delivered to your inbox.</p>
+    
+    <form class="newsletter-mini-form" action="https://app.convertkit.com/forms/YOUR_FORM_ID/subscriptions" method="post">
+        <input type="email" name="email_address" placeholder="Enter your email" required>
+        <button type="submit">Subscribe Free</button>
+    </form>
+    
+    <small>No spam. Unsubscribe anytime.</small>
+</div>
+
+<style>
+.newsletter-widget {
+    background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%);
+    color: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.newsletter-widget h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.25rem;
+}
+
+.newsletter-widget p {
+    margin: 0 0 1rem 0;
+    opacity: 0.95;
+}
+
+.newsletter-mini-form {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.newsletter-mini-form input {
+    flex: 1;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+}
+
+.newsletter-mini-form button {
+    padding: 0.75rem 1.5rem;
+    background: #48bb78;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: background 0.3s;
+}
+
+.newsletter-mini-form button:hover {
+    background: #38a169;
+}
+
+.newsletter-widget small {
+    opacity: 0.8;
+    font-size: 0.875rem;
+}
+
+/* Popup Newsletter Form */
+.newsletter-popup {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    padding: 2rem;
+    max-width: 400px;
+    z-index: 1000;
+    display: none;
+}
+
+.newsletter-popup.show {
+    display: block;
+    animation: slideUp 0.5s ease-out;
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.newsletter-popup-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #718096;
+}
+
+.newsletter-popup h3 {
+    margin: 0 0 1rem 0;
+    color: #1a202c;
+}
+
+.newsletter-popup p {
+    color: #4a5568;
+    margin-bottom: 1rem;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .newsletter-mini-form {
+        flex-direction: column;
+    }
+    
+    .newsletter-popup {
+        left: 20px;
+        right: 20px;
+        max-width: none;
+    }
+}
+</style>
+
+<script>
+// Newsletter popup logic
+document.addEventListener('DOMContentLoaded', function() {
+    // Show popup after 30 seconds or 50% scroll
+    let popupShown = localStorage.getItem('newsletterPopupShown');
+    
+    if (!popupShown) {
+        setTimeout(showNewsletterPopup, 30000);
+        
+        window.addEventListener('scroll', function() {
+            if (window.scrollY > document.body.scrollHeight * 0.5) {
+                showNewsletterPopup();
+            }
+        });
+    }
+    
+    function showNewsletterPopup() {
+        const popup = document.querySelector('.newsletter-popup');
+        if (popup && !localStorage.getItem('newsletterPopupShown')) {
+            popup.classList.add('show');
+            localStorage.setItem('newsletterPopupShown', 'true');
+        }
+    }
+    
+    // Handle form submissions
+    document.querySelectorAll('.newsletter-mini-form, .newsletter-popup form').forEach(form => {
+        form.addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            // Submit to ConvertKit or your backend
+            const email = this.querySelector('input[type="email"]').value;
+            
+            // Show success message
+            this.innerHTML = '<p style="margin:0;color:#48bb78;">✅ Success! Check your email.</p>';
+            
+            // Track conversion
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'sign_up', {
+                    'method': 'newsletter-widget'
+                });
+            }
+        });
+    });
+});
+</script>
+
+<!-- Exit Intent Popup -->
+<div class="newsletter-popup">
+    <button class="newsletter-popup-close" onclick="this.parentElement.remove()">×</button>
+    <h3>Wait! Don't miss out 📈</h3>
+    <p>Get our weekly crypto insights before you go. It's free!</p>
+    <form class="newsletter-mini-form">
+        <input type="email" name="email_address" placeholder="Your email" required>
+        <button type="submit">Get Insights</button>
+    </form>
+</div>

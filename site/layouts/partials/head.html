@@ -156,8 +156,14 @@
     <link rel="preload" href="/css/components.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="/css/components.css"></noscript>
     
+    <!-- Monetization CSS -->
+    <link rel="stylesheet" href="/css/monetization.css">
+    
     <!-- AMP Version Link -->
     {{ if ne .Kind "404" }}
     <link rel="amphtml" href="{{ .Permalink }}amp/">
     {{ end }}
+    
+    <!-- Monetization Scripts -->
+    <script async src="/js/monetization.js"></script>
 </head>

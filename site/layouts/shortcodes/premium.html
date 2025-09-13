@@ -1,0 +1,266 @@
+{{/* Premium Content Gate */}}
+{{/* Usage: {{< premium title="Advanced Trading Strategy" price="29.99" >}} */}}
+{{ $title := .Get "title" | default "Premium Content" }}
+{{ $price := .Get "price" | default "19.99" }}
+
+<div class="premium-content-gate">
+    <div class="premium-lock">
+        <div class="lock-icon">🔒</div>
+        <h3>{{ $title }}</h3>
+        <p>This premium content is available to subscribers only.</p>
+        
+        <div class="premium-features">
+            <div class="feature">✅ Detailed analysis</div>
+            <div class="feature">✅ Step-by-step guide</div>
+            <div class="feature">✅ Exclusive insights</div>
+            <div class="feature">✅ Lifetime access</div>
+        </div>
+        
+        <div class="premium-pricing">
+            <span class="price">${{ $price }}</span>
+            <span class="period">one-time</span>
+        </div>
+        
+        <button class="unlock-button" onclick="showPremiumOptions()">
+            Unlock Premium Content
+        </button>
+        
+        <p class="premium-note">
+            Or <a href="/newsletter/">subscribe to our newsletter</a> for free weekly insights
+        </p>
+    </div>
+</div>
+
+<div id="premium-modal" class="premium-modal">
+    <div class="modal-content">
+        <span class="close" onclick="closePremiumModal()">&times;</span>
+        <h2>Choose Your Access Method</h2>
+        
+        <div class="access-options">
+            <div class="option">
+                <h3>💳 One-Time Purchase</h3>
+                <p>Get lifetime access to this content</p>
+                <button class="stripe-button" data-price="{{ $price }}">
+                    Pay ${{ $price }} with Card
+                </button>
+            </div>
+            
+            <div class="option">
+                <h3>🪙 Pay with Crypto</h3>
+                <p>Get 20% discount when paying with crypto</p>
+                <button class="crypto-button" onclick="showCryptoPayment()">
+                    Pay ${{ mul $price 0.8 | printf "%.2f" }} with Crypto
+                </button>
+            </div>
+            
+            <div class="option">
+                <h3>📧 Monthly Subscription</h3>
+                <p>Access all premium content</p>
+                <button class="subscribe-button">
+                    Subscribe for $9.99/month
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+.premium-content-gate {
+    background: linear-gradient(135deg, #f7fafc 0%, #e2e8f0 100%);
+    border: 2px solid #cbd5e0;
+    border-radius: 12px;
+    padding: 3rem;
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.lock-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.premium-content-gate h3 {
+    margin: 0 0 1rem 0;
+    font-size: 1.5rem;
+    color: #1a202c;
+}
+
+.premium-features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+}
+
+.feature {
+    color: #2d3748;
+    font-weight: 500;
+}
+
+.premium-pricing {
+    margin: 1.5rem 0;
+}
+
+.price {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #1a202c;
+}
+
+.period {
+    color: #718096;
+    margin-left: 0.5rem;
+}
+
+.unlock-button {
+    padding: 1rem 2rem;
+    background: linear-gradient(135deg, #805ad5 0%, #553c9a 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.unlock-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 30px rgba(128, 90, 213, 0.3);
+}
+
+.premium-note {
+    margin-top: 1rem;
+    color: #718096;
+    font-size: 0.875rem;
+}
+
+.premium-note a {
+    color: #4299e1;
+}
+
+/* Modal Styles */
+.premium-modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.modal-content {
+    background-color: white;
+    margin: 5% auto;
+    padding: 2rem;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 600px;
+    position: relative;
+}
+
+.close {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    font-size: 2rem;
+    cursor: pointer;
+    color: #718096;
+}
+
+.close:hover {
+    color: #1a202c;
+}
+
+.access-options {
+    display: grid;
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.option {
+    background: #f7fafc;
+    padding: 1.5rem;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+}
+
+.option h3 {
+    margin: 0 0 0.5rem 0;
+    color: #1a202c;
+}
+
+.option p {
+    color: #4a5568;
+    margin: 0 0 1rem 0;
+}
+
+.stripe-button, .crypto-button, .subscribe-button {
+    width: 100%;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.stripe-button {
+    background: #635bff;
+    color: white;
+}
+
+.crypto-button {
+    background: #f7931a;
+    color: white;
+}
+
+.subscribe-button {
+    background: #48bb78;
+    color: white;
+}
+
+.stripe-button:hover,
+.crypto-button:hover,
+.subscribe-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+</style>
+
+<script>
+function showPremiumOptions() {
+    document.getElementById('premium-modal').style.display = 'block';
+    
+    // Track premium content interest
+    if (typeof gtag !== 'undefined') {
+        gtag('event', 'view_item', {
+            'currency': 'USD',
+            'value': {{ $price }},
+            'items': [{
+                'item_name': '{{ $title }}',
+                'price': {{ $price }}
+            }]
+        });
+    }
+}
+
+function closePremiumModal() {
+    document.getElementById('premium-modal').style.display = 'none';
+}
+
+function showCryptoPayment() {
+    // Redirect to crypto payment page or show crypto addresses
+    window.location.href = '/premium/crypto-payment/?item={{ $title }}&price={{ mul $price 0.8 }}';
+}
+
+// Close modal when clicking outside
+window.onclick = function(event) {
+    const modal = document.getElementById('premium-modal');
+    if (event.target == modal) {
+        modal.style.display = 'none';
+    }
+}
+</script>

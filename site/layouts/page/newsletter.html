@@ -1,0 +1,232 @@
+{{- $title := "Newsletter Signup | Hash & Hedge" -}}
+{{- $description := "Get weekly crypto insights, market analysis, and exclusive trading strategies delivered to your inbox." -}}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ $title }}</title>
+    <meta name="description" content="{{ $description }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+    
+    <!-- Include main site styles -->
+    {{ partial "head.html" . }}
+    
+    <style>
+        .newsletter-hero {
+            background: linear-gradient(135deg, #1a202c 0%, #2d3748 100%);
+            color: white;
+            padding: 4rem 0;
+            text-align: center;
+        }
+        .newsletter-hero h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        .newsletter-benefits {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin: 3rem 0;
+        }
+        .benefit-card {
+            background: #f7fafc;
+            border-radius: 8px;
+            padding: 2rem;
+            text-align: center;
+        }
+        .benefit-card .icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        .newsletter-form {
+            max-width: 500px;
+            margin: 3rem auto;
+            padding: 2rem;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+        }
+        .form-group input {
+            width: 100%;
+            padding: 0.75rem;
+            border: 2px solid #e2e8f0;
+            border-radius: 6px;
+            font-size: 1rem;
+        }
+        .form-group input:focus {
+            outline: none;
+            border-color: #4299e1;
+        }
+        .submit-button {
+            width: 100%;
+            padding: 1rem;
+            background: #48bb78;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .submit-button:hover {
+            background: #38a169;
+            transform: translateY(-2px);
+        }
+        .privacy-note {
+            font-size: 0.875rem;
+            color: #718096;
+            margin-top: 1rem;
+            text-align: center;
+        }
+        .social-proof {
+            text-align: center;
+            margin: 2rem 0;
+            color: #4a5568;
+        }
+        .testimonial {
+            background: #f7fafc;
+            padding: 2rem;
+            border-radius: 8px;
+            margin: 2rem auto;
+            max-width: 600px;
+        }
+        .success-message {
+            display: none;
+            background: #c6f6d5;
+            color: #22543d;
+            padding: 1rem;
+            border-radius: 6px;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    {{ partial "header.html" . }}
+    
+    <div class="newsletter-hero">
+        <div class="container">
+            <h1>📈 Level Up Your Crypto Game</h1>
+            <p>Join 10,000+ smart investors getting weekly insights</p>
+        </div>
+    </div>
+    
+    <main class="container">
+        <div class="newsletter-benefits">
+            <div class="benefit-card">
+                <div class="icon">💡</div>
+                <h3>Market Analysis</h3>
+                <p>Weekly breakdown of crypto trends and what they mean for your portfolio</p>
+            </div>
+            <div class="benefit-card">
+                <div class="icon">🎯</div>
+                <h3>Trading Strategies</h3>
+                <p>Proven techniques from professional traders delivered to your inbox</p>
+            </div>
+            <div class="benefit-card">
+                <div class="icon">🚨</div>
+                <h3>Early Alerts</h3>
+                <p>Get notified about opportunities before they hit mainstream</p>
+            </div>
+            <div class="benefit-card">
+                <div class="icon">🎁</div>
+                <h3>Exclusive Bonuses</h3>
+                <p>Special offers and discounts only for subscribers</p>
+            </div>
+        </div>
+        
+        <div class="newsletter-form">
+            <h2>Start Your Free Subscription</h2>
+            <div id="success-message" class="success-message">
+                🎉 Welcome! Check your email to confirm your subscription.
+            </div>
+            
+            <!-- ConvertKit Form - Replace with your form ID -->
+            <form id="newsletter-form" action="https://app.convertkit.com/forms/YOUR_FORM_ID/subscriptions" method="post" data-sv-form="YOUR_FORM_ID">
+                <div class="form-group">
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" name="email_address" placeholder="you@example.com" required>
+                </div>
+                <div class="form-group">
+                    <label for="first_name">First Name</label>
+                    <input type="text" id="first_name" name="fields[first_name]" placeholder="John" required>
+                </div>
+                <button type="submit" class="submit-button">Get Free Crypto Insights →</button>
+            </form>
+            
+            <p class="privacy-note">
+                We respect your privacy. Unsubscribe anytime.<br>
+                <a href="/privacy/">Privacy Policy</a>
+            </p>
+        </div>
+        
+        <div class="social-proof">
+            <p><strong>10,287 subscribers</strong> and growing!</p>
+        </div>
+        
+        <div class="testimonial">
+            <p>"Hash & Hedge newsletter helped me turn $1,000 into $8,500 in just 6 months. The market insights are pure gold!"</p>
+            <p><strong>- Sarah K., Subscriber since 2024</strong></p>
+        </div>
+        
+        <div class="testimonial">
+            <p>"Finally, crypto analysis that makes sense. No hype, just data-driven insights."</p>
+            <p><strong>- Mike T., Professional Trader</strong></p>
+        </div>
+    </main>
+    
+    {{ partial "footer.html" . }}
+    
+    <script>
+    // Newsletter form handling
+    document.getElementById('newsletter-form').addEventListener('submit', function(e) {
+        e.preventDefault();
+        
+        // Show success message
+        document.getElementById('success-message').style.display = 'block';
+        
+        // Submit form data (replace with your actual endpoint)
+        const formData = new FormData(this);
+        
+        // Option 1: ConvertKit
+        // fetch('https://app.convertkit.com/forms/YOUR_FORM_ID/subscriptions', {
+        //     method: 'POST',
+        //     body: formData
+        // });
+        
+        // Option 2: Custom endpoint
+        fetch('/api/newsletter-signup', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                email: formData.get('email_address'),
+                firstName: formData.get('fields[first_name]'),
+                source: 'newsletter-page'
+            })
+        });
+        
+        // Clear form
+        this.reset();
+        
+        // Track conversion
+        if (typeof gtag !== 'undefined') {
+            gtag('event', 'sign_up', {
+                'method': 'newsletter'
+            });
+        }
+    });
+    </script>
+</body>
+</html>

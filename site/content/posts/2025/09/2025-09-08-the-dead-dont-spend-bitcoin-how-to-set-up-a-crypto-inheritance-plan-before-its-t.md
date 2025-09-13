@@ -3,7 +3,7 @@ categories:
 - crypto
 date: 2025-09-08 09:22:37 +0000
 draft: false
-image: /images/default-hero.svg
+image: /images/posts/the-dead-dont-spend-bitcoin-how-to-set-up-a-crypto-inheritance-plan-before-its-t.jpg
 seo:
   canonical: https://hashnhedge.com/2025/09/the-dead-dont-spend-bitcoin-how-to-set-up-a-crypto-inheritance-plan-before-its-t/
   description: It is essential to secure your BTC, altcoins and NFTs with a crypto
@@ -17,8 +17,8 @@ seo:
   - bitcoin
   og_image: /images/default-hero.svg
   og_type: article
-  title: 'The dead don’t spend Bitcoin: How to set up a crypto inheritance plan (before
-    it’s too late) | Hash & Hedge'
+  title: "The dead don\u2019t spend Bitcoin: How to set up a crypto inheritance plan\
+    \ (before it\u2019s too late) | Hash & Hedge"
   twitter_card: summary_large_image
   twitter_image: /images/default-hero.svg
 summary: It is essential to secure your BTC, altcoins and NFTs with a crypto inheritance
@@ -26,9 +26,10 @@ summary: It is essential to secure your BTC, altcoins and NFTs with a crypto inh
 tags:
 - crypto
 - bitcoin
-title: 'The dead don’t spend Bitcoin: How to set up a crypto inheritance plan (before
-  it’s too late)'
+title: "The dead don\u2019t spend Bitcoin: How to set up a crypto inheritance plan\
+  \ (before it\u2019s too late)"
 ---
+
 
 ## Summary
 
