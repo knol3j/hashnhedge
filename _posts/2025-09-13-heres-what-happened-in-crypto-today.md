@@ -1,7 +1,7 @@
 ---
 categories:
 - crypto
-date: 2025-09-13 09:17:29 +0000
+date: 2025-09-13 12:18:43 +0000
 image: /images/default-hero.svg
 layout: post
 source_url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
